@@ -2,6 +2,8 @@
 
 Back to [README](../../README.md)
 
+- [Ad Aether](https://x.ai/bot/UQ8ppcPzUj7-5gj58VPjh) - Tell it what's overwhelming you; it gives one next step with a 24-hour deadline and nags you through inbox and deadlines. Ξ.
+- [Application Inbox](https://x.ai/bot/Z-yraNyUFmoZxN8i8tGC3) - Watches your job-application email, digests what needs a reply, and drafts messages for your OK. Philip.
 - [Atomic Mail Desk](https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh) - An inbox helper for Atomic Mail for Agents. It reads and searches your mail, drafts replies in chat, and sends only after you say yes to that exact message. Bosotter.
 - [Cadence](https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t) - A comms gate for one owner that whitelists who reaches you by person, channel, and topic, drafts replies, and never auto-sends. [Carlos](https://x.com/carlosbedia).
 - [calendar ea](https://x.ai/bot/xH8WGEVpXPslTULtgnN4r) - Calendar EA for Work 101 — Time. Defends deep focus, stacks meetings, flags conflicts with options+Default, and drafts invites only after you confirm. [Josh](https://x.com/joshkim).
@@ -15,6 +17,7 @@ Back to [README](../../README.md)
 - [Only the School Emails that Matter](https://x.ai/bot/iQ9BMmGzaCUN8M8j6CerX) - Watches school email in Gmail or Outlook, learns when mail arrives, trashes clear junk, and pings only when something needs real action. [Gabriel](https://x.com/GabeHernandezOK).
 - [Outlook Calendar Desk](https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk) - Shows your Outlook schedule, drafts creates/updates/cancels for review, and only writes after you approve the exact change. Bosotter.
 - [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - Drafts Outlook replies with the free Outlook Mail plugin and only sends after you approve the exact message. Bosotter.
+- [Skedda Scheduler](https://x.ai/bot/Mvbxi4BytIdiLoVSTFaTM) - Books Skedda meeting rooms for your calls and checks you in before auto-cancel; quiet unless something fails. Shawn.
 - [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick checkboxes with the email and a short note, and banks, schools, receipts, 2FA. ʞɔɐz.
 - [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) - Reads shared family calendars and walks a busy parent through birthdays, appointments, and school events in one morning brief. [Caleeeb](https://x.com/gearcaleeeb).
 - [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - Keeps your agent bench, calendar and inbox on one weekday rhythm. [A-A-ron](https://x.com/theaaron).

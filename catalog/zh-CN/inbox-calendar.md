@@ -2,6 +2,8 @@
 
 返回 [README](../../README.zh-CN.md)
 
+- [Ad Aether](https://x.ai/bot/UQ8ppcPzUj7-5gj58VPjh) - 说出压力来源，它给一个 24 小时内的下一步，帮你清收件箱、催截止. Ξ.
+- [Application Inbox](https://x.ai/bot/Z-yraNyUFmoZxN8i8tGC3) - 盯求职邮箱，汇总需要回复的邮件并起草，等你确认. Philip.
 - [Atomic Mail Desk](https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh) - Atomic Mail for Agents 的收件箱助手：读和搜邮件，在聊天里起草回复，你确认具体内容后才发. Bosotter.
 - [Cadence](https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t) - 替一个人把守消息入口，按人、渠道和话题设白名单，回复只起草不自动发送. [Carlos](https://x.com/carlosbedia).
 - [calendar ea](https://x.ai/bot/xH8WGEVpXPslTULtgnN4r) - 日历助理：守住深度专注时间，把会议排在一起，冲突时给出选项和默认方案，确认后才发邀请. [Josh](https://x.com/joshkim).
@@ -15,6 +17,7 @@
 - [Only the School Emails that Matter](https://x.ai/bot/iQ9BMmGzaCUN8M8j6CerX) - 盯着 Gmail 或 Outlook 里的学校邮件，摸清来信时段，清掉明显的垃圾，只在需要处理时提醒你. [Gabriel](https://x.com/GabeHernandezOK).
 - [Outlook Calendar Desk](https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk) - 查看 Outlook 日程，起草新建、修改或取消供你审核，批准具体改动后才写入. Bosotter.
 - [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - 用免费的 Outlook Mail 插件起草回复，你批准具体内容后才发送. Bosotter.
+- [Skedda Scheduler](https://x.ai/bot/Mvbxi4BytIdiLoVSTFaTM) - 为你的会议预订 Skedda 会议室并在自动取消前签到，出错才提醒. Shawn.
 - [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - 清理 Gmail 里的营销邮件：新发件人以可勾选列表出现，银行、学校、收据和验证码不动. ʞɔɐz.
 - [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) - 读取家里共享的日历，把生日、预约和学校活动整理成一份早间简报给忙碌的家长. [Caleeeb](https://x.com/gearcaleeeb).
 - [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) - 把你的 Bot 席位、日历和收件箱，收进同一套工作日节奏。 [A-A-ron](https://x.com/theaaron).

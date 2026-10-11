@@ -5,20 +5,33 @@
 - [Bootstrap Bill](https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y) - 帮早期创始人把公司看板保持真实和最新，用一张大白话卡片列出眼下最重要的赌注、过往尝试和下一步谁做什么. [Ivelin](https://x.com/ivelini).
 - [Bot Advisor](https://x.ai/bot/R7WxDKqH_FC6554JJXBhm) - 先采访你想自动化什么，再起草其他 bot 的指令、日程和连接. Sultanov.
 - [Bot Boss](https://x.ai/bot/i336HYHYVhW2aMQjXhbxF) - 你 bot 团队的统一出口：专员汇报给它，它负责分派、把关和汇总，免得你被三重提醒. [Josh](https://x.com/joshkim).
+- [Bot Improver](https://x.ai/bot/dqrI_y3NSEkRkuDa8FV0a) - 工作日给 bot 队伍做教练，收紧资料、日程和技能，再给管理 bot 发一份汇总. duyet.
 - [Build Lead](https://x.ai/bot/fGdpITFBNM0hisTPaN_Le) - 给机器人团队当建设负责人，把批准的目标拆成计划分派下去，确认线上结果无误才算完成. [Marco](https://x.com/MHW42).
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - 带你自建 Buzz 并用 Tailscale 接入队友，搭好第一个 Grok Build 智能体，把机器人变成频道里的队友. [Justin](https://x.com/jschnett).
 - [Chief Administrative Officer](https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k) - 管家里的日历和待办跑腿，工作日早上发一条概要，把出行、邮箱和简报的活转给你别的 bot 并追到办完. [Hank](https://x.com/hjackson2).
 - [Chief of Staff](https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK) - 统筹你的一队 Grok Bot：分派工作、共享规则和信任等级、抽查结果，只有需要你点头时才打扰你. [Hank](https://x.com/hjackson2).
+- [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) - 一个总协调带六个助手，分管项目、人际、健康、抗衰、社交日程和知识库，每早汇成一份简报，未经确认不发出任何东西. [sravanjay](https://x.com/sravanjay).
+- [Close Loop](https://x.ai/bot/ZHSf2xajDZF6vZGyRC8eP) - 记下每个 bot 的承诺和悬而未决的问题，找出卡点，推动逐项关闭. Kris.
+- [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - 把已批准的需求发现转成策略、路线图和可设计条目，含假设跟踪和风险扫描. Ash.
+- [Discovery PM](https://x.ai/bot/ht_c0Ev0JRc1O1FAwjsVV) - 把会议记录变成 GitHub 或 Jira 的待办草稿，冲突交给人处理. Ash.
 - [Dot bot](https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE) - 轻量代理，把每个请求转给你网页版的 ChatGPT 智能体，再把回答和追问传回来，对外内容在你说发送之前只起草. [William](https://x.com/wiiiimm).
+- [Eunomia](https://x.ai/bot/eP_KIwssFWdxmGLhrttKZ) - 帮你省 Grok Bot 额度：简单任务交给 Grok 助手，提醒挪进日历，减少唤醒. Lance.
 - [Fault Log](https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y) - 用大白话记录设备故障的修复方法，存成可搜索的日志，只根据日志回答这个故障以前遇到过没有. [Charles](https://x.com/Ryokushen).
 - [Fleet Review Desk](https://x.ai/bot/KT8Px1yf07UDJOmHESqog) - 每月检查一次你选定的机器人，给出按优先级排好的改进建议，不改动其他机器人也不对外发送. [weboperater](https://x.com/weboperater).
 - [foreman](https://x.ai/bot/cArvDM6FaDzcOxPn6BLfS) - Matt Whitney 的建筑运营入门包，唯一任务是让成长中的建筑公司一次推进两三步. lauren.
+- [FTC Robotics Coach](https://x.ai/bot/VmDWjRQam_YHnmwvQ9iuY) - 管理 FTC 机器人技能项目：培训指南、知识测验、导师实操和 Drive 整理. Nick.
 - [Gnosys](https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li) - 给整个机器人团队用的持久便携记忆，包装一个本地 SQLite 大脑供所有机器人共享，也可以通过 MCP 接到 IDE. [Edward](https://x.com/edtadros).
 - [Job Application Team Setup](https://x.ai/bot/ADOWgqq4qhTAvUrns_8AW) - 带你导入一支五个机器人的求职团队，包括总管、写手、文档把关、岗位搜寻和收件箱，并逐个配置. [Philip](https://x.com/spakoozy).
 - [Kevin](https://x.ai/bot/rZs29r38Oeor_7Ndp2coe) - 你唯一需要对话的机器人，在后台指挥一群小黄人机器人，Dr. Nefario 每周复盘它们，基于 Firstmate 改造. [Jared](https://x.com/Jaredtherich).
+- [Lead Dispatch](https://x.ai/bot/nUofhKp_Ij7xXIjnznIoJ) - 总调度 bot：分派给专职席位、组织圆桌，不可逆操作需人工批准. Mado.
+- [Nemi-TROO](https://x.ai/bot/_fIQxxNowoMaubTPzBnrf) - 计划变了，就找出还按旧计划跑的 bot 并逐条引用过时内容；也能从新想法起草单一职责团队. [GreenTechWizard](https://x.com/GreenTechWizard).
+- [Night Shift](https://x.ai/bot/SLLBNwseegBForG62KVRC) - 夜班管家：每晚督促其他 bot 省用量、清理标签页和临时文件，有问题才开口. [MorriganCora](https://x.com/MorriganCora).
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - 为同时经营几家公司的老板准备的总管机器人，源自酒店和度假屋，每个工作日汇总所有公司的简报，邮件先经你批准再发. [Rob](https://x.com/xdeanozoff).
+- [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - 每晚把你所有 bot 的资料、例行任务和工作状态快照存到 Google Drive，并标出偏离原始指令的改动. [_The_Lake](https://x.com/_The_Lake).
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - 用 Notion 管团队项目：一个项目一行、一个项目一个频道，任务由专门的 bot 认领. community.
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - 盯着 Slack，有意思的话题给你建议评论，并把其他机器人发来的简短进度改写成 times 频道的随意口吻发出去. [Kento](https://x.com/AoToLog_).
+- [Spar Crew Lead](https://x.ai/bot/KeKKabNV-HE-iYv8u7JDZ) - 给创业者的副驾，带专职 bot 小队走调研、收窄范围、上线. Jonathan.
+- [TestChimp QA Bot](https://x.ai/bot/jYqZ5GfGQhddkJmErACwe) - 给 AI 编程 agent 配的 QA bot：盯推送和测试结果，你批准后执行下一步 QA. Nuwan.
 - [赛博小晚](https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S) - 赛博小晚的公开 Skill 化身，用她公开提炼的思考方式帮你做 IP 打造与运营，不冒充本人. 铁柱AGI.
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - 访谈式引导，帮你组出第一支 Bot 花名册。 [A-A-ron](https://x.com/theaaron).
 - [2nd Brain](https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO) - 维护一份短的共享工作正典，让其它机器人从同一套角色、目标、关键人、系统和定论起步. [scottxmetcalf](https://x.com/scottxmetcalf).

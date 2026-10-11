@@ -29,9 +29,11 @@ Back to [README](../../README.md)
 - [Ask Avery](https://x.ai/bot/zLVAUrY3p1C7PIx0aMoeR) - Ask-the-expert orchestrator for engineering teams\: Consultant or Reviewer. community.
 - [Astra Afterburner](https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4) - Points a stalled coding agent's research queue at your idle second plan. [SacredFolio](https://x.com/SacredFolio).
 - [Astra Oracle](https://x.ai/bot/JocbRv3IMTJ5LmjX_qXvZ) - Astra plan and review packets via Codex CLI; does not implement. [bossriceshark](https://x.com/bossriceshark).
+- [Astra Oracle](https://x.ai/bot/KUVDy0-4lTMX59aJpvkEE) - Sits above your Cursor cloud coding agent and runs a Codex CLI session to write structured PLAN and REVIEW packets, never code. [NeuralCatAccel](https://x.com/NeuralCatAccel).
 - [Astro](https://x.ai/bot/c8KmU9HbRe5aeFpqlRaUP) - A CCNP ENCOR/ENARSI study coach\: daily syllabus lessons with exam traps, memory tips, and a full acronym appendix — plus optional twice-daily factoids. [Great](https://x.com/Great_Sc0t).
 - [Automation Bot](https://x.ai/bot/zb80V9MKJ5MqPy5Woyqdx) - Scans codebase, writes local tests behind one on-demand runner. community.
 - [Aysha - Chefe de Equipe](https://x.ai/bot/AV17qjtZBoRU3SaZxVAvQ) - Chefe de equipe que orquestra bots e outras IAs no GitHub, com migalhas, decisões só quando preciso e custo zero. [83castilhojr](https://x.com/83castilhojr).
+- [Bake](https://x.ai/bot/Nc87ABvRICHGiVMlhQD4X) - Founding engineer for bot-native products\: ships landers and core loops fast, verified with screenshots and URLs. Jonathan.
 - [Baut](https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx) - A copilot for shipping Grok.me games and making cash-honest product calls. [XAmandaMoore](https://x.com/XAmandaMoore).
 - [Beowulf](https://x.ai/bot/fKmJNdkjP_tN2sMqLlPko) - One build partner that plans, codes, tests, and operates a project from rules you write once, with money or outbound moves gated by a typed yes. [HexGodTurtle](https://x.com/HexGodTurtle).
 - [Beta Adoption Watcher](https://x.ai/bot/sfcf5d046a2784045938d) - See who's actually trying the new feature. Monitors usage and surfaces which customers are in, so the team can follow up. [SpaceX](https://x.com/DenisLabelle).
@@ -53,6 +55,8 @@ Back to [README](../../README.md)
 - [Bug Triage Desk](https://x.ai/bot/9W6T6HTn3BYpD0oPzY2hj) - Bug triage with severity, repro status, duplicates and missing-info asks. [Cypher0x9](https://x.com/Cypher0x9).
 - [Build Scout](https://x.ai/bot/VDwk7u7DSMqFcj4z7VGGT) - Scouts what people are building and vibe coding with AI and pitches the best finds as prototypes for you or your builder bot to ship. [Bryan](https://x.com/Bwilson).
 - [Build With Clarity](https://x.ai/bot/ZhjX4KoYZ76tyA8w4K3m-) - Patient building coach for non-coders using Cursor/Claude Code. community.
+- [Builder Prime](https://x.ai/bot/W_emQTXhJxJWJOi-c3hjD) - Builder half of a two-bot coding team with Gatekeeper Prime\: plans, codes, tests, opens PRs and fixes review findings. Michael.
+- [BuildKeeper](https://x.ai/bot/AqMmDjN21kW2eeegOg8en) - Drives your AI coding CLI locally, compile-checks every patch, and lands only green code on your branch. Rousk.
 - [Buzzkill](https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh) - Writes a four-heading Grokumentary and waits for a human yes before any quarantine. [Knock](https://x.com/SuddenlyJon).
 - [Call Bot](https://x.ai/bot/PtnSyeoj7X_aCrZxAi7Lb) - Owns the phone and voice lane\: inbound reception, gated outbound calls, health watches, and vendor knowledge for Twilio, ElevenLabs, and voice APIs. [ChristianXCesar](https://x.com/ChristianXCesar).
 - [Camble Eugene](https://x.ai/bot/x5L_1O-3errfwp4yu4v7D) - Computer-engineering seat for bare-metal firmware, open board design, and vendor-independent FPGA logic. Warm, plain help for hardware–software... [TRV_Architech](https://x.com/TRV_Architech).
@@ -75,6 +79,7 @@ Back to [README](../../README.md)
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) - Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR. [Farzad](https://x.com/farzyness).
 - [CLI Engineer](https://x.ai/bot/Dt3hU-B3_c0q7P3c5LVzL) - Coding-agent CLI engineer. Mandatory method from real commits\: claim≠observation, process ownership, wait≠deadline, guidance≠enforcement,. [america_snail](https://x.com/america_snail).
 - [Client Board Ops](https://x.ai/bot/dCnuQGIkcRywkol7dlBpr) - Weekday client-board automation\: sync Trello to a tasks sheet each morning, email a status digest, and check the inbox for replies that create or update. [MrGonzo1024](https://x.com/MrGonzo1024).
+- [cline](https://x.ai/bot/gL7FcTFcs1SHMCD3pozTM) - Installs and drives Cline CLI and Desktop on its own computer so you can hand off tasks and get verified results. [weeb3dev](https://x.com/weeb3dev).
 - [Clip Bot](https://x.ai/bot/aMGcDD-vdyx8ZqeFvIIr1) - Cuts short portrait social clips from long talks — picks the strongest stretch, burns verbatim punch captions, and encodes so they play in chat. [CobusGreylingZA](https://x.com/CobusGreylingZA).
 - [Clippy 📎](https://x.ai/bot/tZFOB5nZMHj6O14WP2NgK) - Asistente de software en español \(España\)\: diseña, depura e integra apps y agentes con hechos separados de opiniones y sin publicar ni cambiar cuentas. [sergiogrok](https://x.com/sergiogrok).
 - [Cloud Agent Orchestrator](https://x.ai/bot/s20b2c65ebeebb7362fa7) - Keep many cloud agent runs moving without babysitting each one. Kicks off runs, monitors, chases what's stuck, and summarizes the report. [SpaceX](https://x.com/DenisLabelle).
@@ -112,13 +117,17 @@ Back to [README](../../README.md)
 - [Decoy Monitor](https://x.ai/bot/mgWu-HRKIWnUjI5B_TKRh) - Plants harmless, owner-approved decoy files and canary tokens on your PC and alerts your IDS lead the moment anything touches them. Ritvik.
 - [Demo builder](https://x.ai/bot/Eny_bgU-fpZdifOm_QN-C) - Turns an X post or other example link into a functional, playable app demo. [Cybermike](https://x.com/Cybermike).
 - [Deploy Desk](https://x.ai/bot/7n0xNJQkJya50-WawGibg) - Keeps a small SaaS product's site deployed and healthy, runs its organic X account from a rolling queue with generated visuals, and drafts outreach for. [DJDEEZ](https://x.com/DJDEEZ).
+- [Deployment PM](https://x.ai/bot/EdkMNLrTT0WLNDQYN-l-e) - Ships cleared work through a locked deploy method, keeps a deployment log, and waits for a human go-ahead. Ash.
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) - Reviews AI-made interfaces the way a design lead would. [inqusit](https://x.com/inqusit).
 - [Design PM](https://x.ai/bot/Q6JhV9jLLQtX6r7bRTCG_) - Owns the component registry, interface contracts, naming conventions, and architecture gates between Definition and Development. Ash.
+- [Development PM](https://x.ai/bot/fhHvohYNURwk9JwiK7H7U) - Schedules and gates implementation against approved designs and tracks sprints, without writing code. Ash.
 - [Devin](https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR) - Hands coding work to Devin through remote MCP sessions and follow-ups. [naz3eh](https://x.com/naz3eh).
 - [Devin](https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA) - Handles near-metal work like daemons, desktop apps, GPU pipelines, and ship scripts. [JaimeBubblehead](https://x.com/JaimeBubblehead).
+- [Devin Manager](https://x.ai/bot/p6mYbkrvmKcJ5THLVz-EH) - Opens Devin sessions per job, steers drifting agents, and brings screenshots and test recordings back into the chat for review. [kr0der](https://x.com/kr0der).
 - [Devin Op](https://x.ai/bot/6E_utcgAyzss28fX7_tJs) - Local-first DevOps assistant for reproducible builds, rootless containers, and offline node setup. For people who want infrastructure that stays on... [TRV_Architech](https://x.com/TRV_Architech).
 - [Dex](https://x.ai/bot/0zsKkmrDyKyTwLneI5a4d) - Substack writer for an AI Insights-style newsletter. Researches general AI news and Product Hunt tools, drafts unpublished issues with branded story. [dariusgaynor](https://x.com/dariusgaynor).
 - [Dexter the home lab boss](https://x.ai/bot/wsyMavZM6PYzV3lgklehG) - Maps a homelab, recommends how Grok Bot should reach each system, then spins focused specialist bots. [RAMcgi](https://x.com/RAMcgi).
+- [Diagnostics PM](https://x.ai/bot/Iz3asXRLoLC8Pr0gZYGdE) - QA gate for a multi-PM loop\: layered pre-deploy tests, production checks and status reports. Ash.
 - [Director of Runtime Operations](https://x.ai/bot/9i6htFaUWNFg6NN5do8n_) - A warm, brief runtime-ops lead for local-first projects. Watches builds, sandbox boundaries, sovereign releases, and workspace hygiene, and never stamps... [TRV_Architech](https://x.com/TRV_Architech).
 - [Directory Backlink Builder](https://x.ai/bot/ylhq0i8pUOGWzSNuxWvCE) - Submits your SaaS to relevant software directories on a daily loop. Prefers niche industry directories over dump lists, free listings only, and only. [scottvayner](https://x.com/scottvayner).
 - [DirTech](https://x.ai/bot/Fya-gFsQPOlJzJ862syni) - A Secretary of Technology bot that owns all tech and tech education for your bot team and reports to your chief of staff. It keeps claims honest\:... [TRV_Architech](https://x.com/TRV_Architech).
@@ -132,6 +141,7 @@ Back to [README](../../README.md)
 - [dr eggbot](https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW) - Designs high-quality Grok Bots and splits big work into smaller sibling bots. [brandonsbay](https://x.com/brandonsbay).
 - [dr eggbot](https://x.ai/bot/_jOdbfkB16zxu7MRcmReE) - Designs high-quality Grok Bots and creates them after a few preference questions. [poteto](https://x.com/poteto).
 - [Dr Web LP](https://x.ai/bot/xM153pKfXPLWagLi_O1vR) - Give it a picture of a web page and it builds that page in HTML and CSS. [old_pgmrs_will](https://x.com/old_pgmrs_will).
+- [Dr. CodexBot](https://x.ai/bot/ykLC52WABc0cWPpl6b3MH) - Brings official Codex Desktop into your Grok Bot team through an open-source bridge. Semantic\_Craft.
 - [Dr. Eggbot (Bot Designer)](https://x.ai/bot/DUfaLelLJRtsDDAdJAcud) - Designs focused Grok Bots with one clear job and tight boundaries. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Dr.Binary](https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc) - Reverse-engineering help for malware, firmware, and vuln-research binaries. [drbinaryai](https://x.com/drbinaryai).
 - [Ducky](https://x.ai/bot/HxOUGTNaeLbJIqT_XTzqX) - Rubber-duck partner that holds fixes until four clarity gates pass. [EdHeltzel](https://x.com/EdHeltzel).
@@ -146,6 +156,7 @@ Back to [README](../../README.md)
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) - When something breaks it shows you what changed just before. [liam_fallen](https://x.com/liam_fallen).
 - [Exo](https://x.ai/bot/nSQJRVPm7Pj8rKtAMRXAU) - Your exoskeleton on Grok Bot. Runs the day from markdown ground truth, answers what matters now, keeps memory layers with different trust levels, and. [CamiloPossol](https://x.com/CamiloPossol).
 - [Expert Networks](https://x.ai/bot/5dfJQ9M4eQVrXB_3TzAqK) - Signs you up as an expert or advisor on GLG and peer networks, chases unfinished applications, and keeps consult availability in sync with your. [VestlessVC](https://x.com/VestlessVC).
+- [Expo Builder](https://x.ai/bot/JjH-pvNlzX_wMv-YgSrb8) - Scaffolds a mobile project with pnpm, reviews each change, and runs the app on EAS cloud simulators via dev builds and tunnels. [_philpl](https://x.com/_philpl).
 - [Fable 5.1 Oracle](https://x.ai/bot/tLSg4HxepSclMqbZUTRnX) - Thinks the build through and checks the work, but never writes the code itself. [bossriceshark](https://x.com/bossriceshark).
 - [Fabrication](https://x.ai/bot/jQ4VpRUAOS4awmiDlwI6n) - Takes a CAD part toward a Bambu print with checks before it hits the bed. [JonathanSayle](https://x.com/JonathanSayle).
 - [Failed Link](https://x.ai/bot/ZQbeC5vIV2F8jCLVzxZAg) - Replacement share for a broken Orange Web Design Bot link that only helps with Vercel and Cloudflare site setup. [Dominic](https://x.com/Dominicyoungix).
@@ -174,6 +185,7 @@ Back to [README](../../README.md)
 - [Game playtester](https://x.ai/bot/IJIZ0ujslWR-4CkIcpU_H) - Plays your web game as a guest for a real session and reports an appeal score, bugs, and top changes with screenshots. [Daniel](https://x.com/tometo_000).
 - [Garbage Collector](https://x.ai/bot/QZ8xL9TMkYhyP4Puamsh_) - Finds code you can remove or simplify without changing what it needs to do. Explains each change and makes it when asked. Seth.
 - [Gardener](https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp) - Pulls provable dead code in tiny behaviour-preserving pull requests. [Tyler](https://x.com/tylerklose).
+- [Gatekeeper Prime](https://x.ai/bot/re7nU5kngjZPu3qNtvzUx) - Reviewer half of a two-bot coding team with Builder Prime\: reviews every PR, demands proof and merges only on your yes. Michael.
 - [Gen X Saver VM](https://x.ai/bot/g9Z6GNPrCztKhE1rQDf3m) - Credit-saver that runs the Gen Saver Wizard. Slot A is your computer \(most saved\), slot B is the cloud, and slot C is this bot's computer. Odd&Entertaining.
 - [Gen X Saver Wizard](https://x.ai/bot/Qt13laWoRw-3hLVavR-jd) - A credit-saver with a first-run wizard. Routes pictures, video, long drafts, and long code to a local machine first, then the cloud. Odd&Entertaining.
 - [Genevieve](https://x.ai/bot/rzdWyAHjc1wsoGXycFJcV) - Autonomous genealogical research partner for unknown-parentage and identity problems. Prefers primary evidence, inherits prior work, and reports concise. [JeffWise953718](https://x.com/JeffWise953718).
@@ -237,6 +249,7 @@ Back to [README](../../README.md)
 - [Invention Detective](https://x.ai/bot/61rNnnNcP2_LKaz8FXw7P) - Watches named GitHub repos for technical invention candidates you confirm. [leuner](https://x.com/leuner).
 - [InvoiceMatch Recon Bot](https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h) - Accounts-receivable reconciliation for small businesses. Paste bank deposits and open invoices; get matches, exception flags, and a QuickBooks/Xero-ready CSV. Robert.
 - [iOS Bot](https://x.ai/bot/RIPO6abjI60-ZXRFAj9hG) - Shepherds a Swift or SwiftUI project on your Mac from sketches to TestFlight; release waits for you. [JaimeBubblehead](https://x.com/JaimeBubblehead).
+- [iOS Developer](https://x.ai/bot/1AWFPBcRDur69flDohjvQ) - Builds native SwiftUI iPhone apps end to end on your Mac, from device installs and IAP to App Review. Circuit.
 - [jason](https://x.ai/bot/9X-V8im-kPPFgybviXkd6) - Joke bot that opens with "hey i'm jason" and only talks about investing in Uber's seed round. Luis.
 - [Jev](https://x.ai/bot/JQ4PSTdVDZdIOa8qwfP0G) - Adds typed triage with category, severity, and yes-or-no gates to a Jev pipeline. [NeuralCatAccel](https://x.com/NeuralCatAccel).
 - [Jev](https://x.ai/bot/DSq_IJgpo9DZ9qcVcRNsi) - Visible-Chrome web automation with TypeSafe Jev, falling back to screenshots only when the action list is empty. [shengguo7051](https://x.com/shengguo7051).
@@ -265,6 +278,7 @@ Back to [README](../../README.md)
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) - Send it any file, folder or bot output and it hands back a shareable URL. [adamludwin](https://x.com/adamludwin).
 - [Lite Intel Fetch](https://x.ai/bot/FQRA5tERWsasaQGIZmBl_) - Fetches an unpaid buy_intel_pack HTTP 402 on Base and returns the JSON for agents that can pay x402. [RandyWhitePDX](https://x.com/RandyWhitePDX).
 - [Live Pages](https://x.ai/bot/ignLvLJlOxOIenZPr-tTA) - Builds private interactive web pages on its computer that you open over Tailscale, and updates them as you tap or submit. [Yin](https://x.com/darkart).
+- [LLM Routing Expert](https://x.ai/bot/f9_-DaKWMrk3zO_uS-E_5) - Picks the cheapest model that can finish the job and fails over when a provider dies. Ashish.
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) - An engineering outer loop that sits above your coding agents. [mattyp](https://x.com/mattyp).
 - [LoRaWan Sensor Bot](https://x.ai/bot/AXez4BKs4EM9RH9il-XEv) - Samples soil moisture and air temperature from LoRaWan sensors. [BHamilt94615115](https://x.com/BHamilt94615115).
 - [M2Q2 by Nino](https://x.ai/bot/jOOljWGDKOTQIZRtRBWCQ) - M2Q2 reduces unnecessary LLM context in document-heavy workflows while preserving the information needed to complete the task. Nino.
@@ -343,6 +357,7 @@ Back to [README](../../README.md)
 - [Prototype Designer](https://x.ai/bot/_b0wyYKwherAZJdyL0HGG) - Builds prototypes at the right fidelity and a spec your AI coder can read. [ucdops](https://x.com/ucdops).
 - [Proxmox Home Lab Lead](https://x.ai/bot/X9VC6HuZ1LK0e4Nv6jA20) - Proxmox home-lab Lead over Tailscale with Notion status board. community.
 - [Pulse](https://x.ai/bot/eSnmG73XXgZpkdDC1XfkM) - Daily tech and AI news for developers — market moves, useful tools, and production-ready open source ideas. [saicherry220834](https://x.com/saicherry220834).
+- [QA](https://x.ai/bot/WbSwyVYZIDpuebmfBW45L) - Re-certifies production as a real user after each ship and files unique bugs with screenshots; never edits code. duyet.
 - [QA Bot](https://x.ai/bot/Ph4FZ_w7TsbYCVDLXu8GO) - A software QA assistant that runs acceptance checks, files structured findings, and watches GitHub or email for new test handoffs. [iandolan](https://x.com/iandolan).
 - [QA bot](https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7) - Acts as your QA on the live deploy\: runs the acceptance checklist and says pass or fail before you ship. Ulysses Ng.
 - [Rage-to-Repro](https://x.ai/bot/OiWRa-EK50vFlpisHat_b) - Turns angry bug reports into calm repro cards. [yandymccutcheon](https://x.com/yandymccutcheon).
@@ -354,6 +369,7 @@ Back to [README](../../README.md)
 - [Repo Monkey](https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ) - Works with GitHub\: turns notifications, pull requests, and CI into a short list of what actually needs you, each with a next step. Nothing merges without your. [Keranik](https://x.com/Keranik).
 - [Requirement Engineer Bot](https://x.ai/bot/5KADFS8AIIDOlow5tS34Z) - Turns a project brief into a clear, structured requirements spec another bot can implement and verify, for serious builds only. [Fish](https://x.com/FishxCD).
 - [Research Assistant](https://x.ai/bot/YBF0DIT_HVJOF-vkCLJ0J) - Recherche-Assistent für Psychiatrie und Psychotherapie\: werktägliche Digests zu Medikamenten, Studien und News plus CME-Fortbildungen mit Punkten. [JanPsybre](https://x.com/JanPsybre).
+- [Reverse Engineer](https://x.ai/bot/5enZ0Vvocx2Xph7gaiPpy) - Explains how a feature in an app, site or binary works, with evidence and unknowns, so you can rebuild it. Louis.
 - [Rick Sanchez Bot](https://x.ai/bot/vSCr0lLcC0T37rT-geqaj) - A cartoon drunk-genius who insults your intelligence and invents wild but actually buildable gadgets from junk you already have. Ondřej.
 - [RIZALBOT](https://x.ai/bot/Af9XNmozBcRoZM85eylOW) - On-device companion continuity for an offline-capable AI app - ping/pong, feed ops, mind handoffs, and Function 0 gain-first decisions alongside a... [AetaneoRizal](https://x.com/AetaneoRizal).
 - [Runbook Desk](https://x.ai/bot/OELeU0-tnHtXbvRLFFg7b) - Step-by-step runbook with a verify check before every risky move. [Cypher0x9](https://x.com/Cypher0x9).
@@ -368,6 +384,7 @@ Back to [README](../../README.md)
 - [SAP Technical Consultant](https://x.ai/bot/O08yUdBz6vFFqYITvWPPi) - An S/4HANA advisor for clean-core design decisions. [beinglalit21](https://x.com/beinglalit21).
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) - Gates public republish by auditing the private bot, scrubbing a twin, and packing from the twin only. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [SDLC Coordinator](https://x.ai/bot/iL88-5yOgpG81bh-QeMIJ) - Coordinates AI-assisted SDLC for any product team — tickets from chat, one cloud coding agent owning a PR through review and CI, staging verification,. [AnkurBohra9](https://x.com/AnkurBohra9).
+- [Second Look](https://x.ai/bot/1xkIClLvscskj-Q4LsQIy) - Reads a suspended GitHub account's repos against the platform rules, quotes likely breaches with evidence, and drafts an appeal you send yourself. [cradrrat](https://x.com/cradrrat).
 - [Secrets Hunter](https://x.ai/bot/LkzOnNaqM1tuEYZTFwzG_) - Audits your container repos \(Dockerfiles, Compose, Kubernetes, Helm\) for leaked credentials, baked-in secrets, bad secret mounts, and leak paths. Ritvik.
 - [Security Bot](https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6) - Scans a GitHub repo from chat via Midkernel and returns a report plus full log. [mdashjames](https://x.com/mdashjames).
 - [Security Questionnaire Filler](https://x.ai/bot/s1bde25ba45eca88ff276) - Logs into vendor security portals, pulls answers from your trust center and past RFPs, and drafts every field for review. [SpaceX](https://x.com/DenisLabelle).
@@ -405,6 +422,8 @@ Back to [README](../../README.md)
 - [Startup Monitor](https://x.ai/bot/NuZ12agHkr-wygHHFpKYS) - Watches your PC for persistence\: startup entries, scheduled tasks, services, and other autostart hooks an attacker could use to survive a reboot. Ritvik.
 - [Startup QA Bot](https://x.ai/bot/XBauviUoNcdi05-ExoOo4) - Walks your product every weekday in its own test account and tells you what shipped, what got unshipped, what broke \(with repro steps and screenshots\). Shub Gaur.
 - [Steve Jobs](https://x.ai/bot/62-P66Nu4KJH99n7fdMzH) - A technical lead for a founder-run product. Specialists advise; this bot decides what is best technically unless the owner overrides. Charlie.
+- [SteveCAD](https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_) - Works alongside you in CAD\: builds and edits 3D models from instructions, finds catalog parts that fit, and runs analysis studies on the drawing. [10_X_eng](https://x.com/10_X_eng).
+- [StorageBot](https://x.ai/bot/JgnU5msSvNDUyc_-E0sKO) - Maps Mac disk space and plugged-in drives; never deletes, moves or formats without an exact yes. [Andrew](https://x.com/andrewslaptop).
 - [Stuck Signal](https://x.ai/bot/1JxNBfQ05cVYJGLLh6R-o) - Pings only when a long job is stuck past its SLA. [WeirdBotDrop](https://x.com/WeirdBotDrop).
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) - Build and run Substreams blockchain data pipelines from chat. [Graphtronauts](https://x.com/graphtronauts_c).
 - [Super MCP Agent Builder](https://x.ai/bot/GO89wxzuCo0YICgov-iT3) - Builds and runs reusable browser agents with Super MCP and the SuperPowers Chrome extension for any site or task you name. [Rohan](https://x.com/RohanArun).
@@ -471,6 +490,7 @@ Back to [README](../../README.md)
 - [White-Hat Security Tester](https://x.ai/bot/TSFkOGld9o51h_qXGOioI) - Ethical security tester for web apps you own that works a full checklist across auth, access control, injection, and business logic and reports fixes. [Joe](https://x.com/agentic_joe).
 - [WHM Multi-Site Ops Bot](https://x.ai/bot/ARg7G2NtVZWu1TT05oS2w) - Watches cPanel/WHM multi-site health, drafts priority digests with fixes, waits for your OK. [brainflollc](https://x.com/brainflollc).
 - [Windows Log Monitor](https://x.ai/bot/KQZUP7_xe3-G4P6xYt3bl) - Reviews your PC's security and system logs, read-only, and flags suspicious logons, account changes, new services and tasks, log clearing, risky PowerShell. Ritvik.
+- [Wisc](https://x.ai/bot/MgMR1BKLJ-C50WZIWBnfp) - Product designer for bot-native MVPs\: tight loops, ship-this-week scope and a hard cut list. Jonathan.
 - [Workbench Systems](https://x.ai/bot/kcMHwterc33F-1FjGGnP3) - Agent Workbench systems specialist. Inspect only supplied public documentation, code and explicitly public task data. Flux.
 - [Wren: Game Design Partner](https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3) - Designs your game before anyone writes code\: the concept, the core loop, what brings players back, and a build brief a developer or coding agent can. [ixef](https://x.com/ixef).
 - [X algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) - Helps X posters decide when to quote, ship a new post, or wait. Reads the public For You ranking code and live post metrics. [mattyp](https://x.com/mattyp).
