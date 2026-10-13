@@ -60,6 +60,7 @@
 - [Clip Bot X Saver](https://x.ai/bot/8-gwIOWrsPEjOvqZsT2PX) - 从 YouTube 播客里剪出适合社交平台的 16\:9 高光片段，带卡拉 OK 字幕和来源卡，存到你的电脑. [Odd&Entertaining](https://x.com/oddreport).
 - [Clipdesk](https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw) - 创作者的剪辑与工作室助手，直接接你现有工具和流程。 [CannaMuffinMan](https://x.com/CannaMuffinMan).
 - [Clipper](https://x.ai/bot/ljqYGS3VUhvAf3WQbrgVZ) - 短视频创作者的切片助手：每周找出可导入你切片工具的片段。 [techgent6](https://x.com/techgent6).
+- [Content Planner](https://x.ai/bot/65wGaCazNY1t1K3I4oFy0) - 根据你自己的 Search Console 数据规划写什么、更新什么，并为每篇写好提纲. [SEOmatic](https://x.com/seomatic_ai).
 - [Copy](https://x.ai/bot/tFwQlKDGzy2rXcUaGyKjg) - 给营销人和创始人写转化文案，覆盖落地页、邮件、社媒、短信和广告创意. Pranav.
 - [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) - 贴上社交帖子链接，下载成文件传到你指定的 Drive 文件夹，再嵌进你选的演示文稿页. Mike.
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) - 内容工作室的运营台：用已批准的帖子排每周日历，打包每个素材和来源说明给客户. ZEU$.
@@ -88,6 +89,7 @@
 - [Producer](https://x.ai/bot/eNCu6dmGVCAR-DSYWT57j) - 短竖屏创意总监：选题、写带停滑钩子的脚本，并指导动效。 [KhoaHun68916646](https://x.com/KhoaHun68916646).
 - [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - 给你的 X 账号打健康分：风险提示、安全与限流检查、信息流调优和清理垃圾关注. community.
 - [PROMPT EDITOR](https://x.ai/bot/3SExQeiS4pwalaUG-7YM1) - 长篇 agent 提示词的安全沙盒：拼写检查、排版、消除歧义、精简 token. Chad.
+- [Quick Wins Hunter](https://x.ai/bot/3DxcsWM7WiqsIrWHlH3AS) - 每周找出差一步上首页的关键词和有排名却没点击的页面，备好标题与内容修改等你批准. [SEOmatic](https://x.com/seomatic_ai).
 - [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) - 给手里有一份弱职位描述、要招资深岗位的招聘经理和创始人. Sol.
 - [SEO & Answer Engine Writer](https://x.ai/bot/a4rAhiw-JWvkyoonJicw5) - 找出你的网站该在谷歌和 AI 问答引擎里争取的词，对照当前排名靠前的内容写文章，每周跟踪效果，发布前要你批准. [Charles](https://x.com/ASaltyVet).
 - [Shortform Scaler](https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT) - 把长播客素材变成每天的短视频发布包：提四个片段，发两个. [Eric](https://x.com/ericosiu).

@@ -20,6 +20,7 @@ Back to [README](../../README.md)
 - [AI Radar](https://x.ai/bot/i1xwguSTrplEdPvx96MYh) - Watches official X accounts and primary sources for AI releases and sends only what matters, in your language, as breaking alerts and short digests. [Gota](https://x.com/gota_bara).
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) - Sweeps papers, code, lectures and forums into one reading stack. [Alen](https://x.com/beamnxw).
 - [AI Search Visibility](https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X) - Checks whether AI assistants and Google recommend you, and who they name instead. Starts from a handful of questions your buyers actually ask. [Adam Tanguay](https://x.com/adamta).
+- [AI Visibility Watch](https://x.ai/bot/yWUO_uI9JSZEXgYPsIzXx) - Tracks how ChatGPT, Claude, Perplexity and Google AI Overviews describe your brand, which AI bots crawl you, and what changed. [SEOmatic](https://x.com/seomatic_ai).
 - [AI Visibility | GEO Operator](https://x.ai/bot/beh0HMIMPwr5cenZVVAT-) - An autonomous world-class GEO operator for your brand. It monitors how your brand appears in answers across major AI models, uncovers where competitors... [Miguel](https://x.com/seoforgpt).
 - [AI 官号雷达](https://x.ai/bot/sGX1MPOtVLAMzSUScPaxi) - Monitors AI company and coding-agent X accounts for launches, credits and pricing changes, with twice-daily Chinese digests. [Chaosai0](https://x.com/Chaosai0).
 - [AI 资讯精选](https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs) - Weekday Chinese AI product and tools digest in short human notes; stays quiet when sources are thin. [MaiYangAI](https://x.com/MaiYangAI).
@@ -381,6 +382,7 @@ Back to [README](../../README.md)
 - [Segundo Cérebro](https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J) - An Obsidian second brain with a morning brief and a nightly check-in. [liderzio](https://x.com/liderzio).
 - [SEO & AEO Desk](https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL) - Turns your keywords into content ideas and writer-ready briefs for search and AI answers. Works from a pasted keyword list or your Search Console. [Adam Tanguay](https://x.com/adamta).
 - [SEO Monitor](https://x.ai/bot/A-7zh29HHhMMULylwqTm4) - Watches your website every week for downtime, slow pages, broken links. community.
+- [SEO Teammate](https://x.ai/bot/TAd_1q_rpYCcb94h8PXDG) - All-round SEO bot on your Google Search Console data\: Monday review, daily drop watch, Thursday quick wins; fixes go live only after you approve. [SEOmatic](https://x.com/seomatic_ai).
 - [SEO/GEO Specialist](https://x.ai/bot/pImOOCvE7uB1SXENOI9Ng) - SEO and GEO operator for people who want measurable rankings and AI citations. Uses Rankdelta.ai for research, rank tracking, technical audits, and AI... [angelosorbello1](https://x.com/angelosorbello1).
 - [Shawn](https://x.ai/bot/gEEv8k6WgJyU8es3eaXi7) - Paper-first sports wager research\: closing-line moves and post-juice value. [BadgersBet](https://x.com/BadgersBet).
 - [Shelf Scout](https://x.ai/bot/TaRhODlVo4N5mKKH6gTW6) - Curates a weekly reading list \(books + articles\) from what you have actually been working on — real signals, not generic founder lists. [XyberRun](https://x.com/XyberRun).
@@ -421,6 +423,7 @@ Back to [README](../../README.md)
 - [Synthesizer by Ben](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) - Turns complex material into clear maps and how-you-serve articulations for invitations. [Ben Link](https://x.com/BinLeenk).
 - [TARS](https://x.ai/bot/fyuSERJF73FI7wFYm7cJF) - Adversarial second opinion that argues with the framing of your plan and leaves the final choice to you. [Jono](https://x.com/ibuildthings).
 - [TCG Pokemon Drop Hunter](https://x.ai/bot/sCXEBqZKI2vTbe4ZZ0117) - Watches Pokemon TCG drops, restocks, and hype across X, retailers, and news, then ranks what is worth flipping or holding, recommend-only. [Tyler](https://x.com/tech_swindler).
+- [Technical SEO Monitor](https://x.ai/bot/OnUJbQKiams1O9GcQR1BN) - Weekly check of indexing, sitemaps, broken links and noindex leaks on your important pages, with fixes staged for your approval. [SEOmatic](https://x.com/seomatic_ai).
 - [Template Scanner](https://x.ai/bot/qDTnW6hhv_Pfr4EO1Ty1D) - Paste a Grok Bot share link to see its persona, skills, routines, memories, and plugins before you add it. Shai.
 - [Terra](https://x.ai/bot/WvmoUWAeEGQg8awYhvRel) - Terra teaches natural resources and environmental science — land, water, climate, and ecosystems — from public government sources. Warm and brief, for... [TRV_Architech](https://x.com/TRV_Architech).
 - [Tesla Fleet Oracle](https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw) - Read-only Tesla Trek and XYO quest briefs that block lock, unlock, and honk commands. [OmgawdMadeit](https://x.com/OmgawdMadeit).
@@ -440,6 +443,7 @@ Back to [README](../../README.md)
 - [Tory](https://x.ai/bot/ezSufiHYGe7cQo6e8OvSq) - A history specialist that looks up history topics, primary documents, and college courses from official .gov and archival sources, and never invents... [TRV_Architech](https://x.com/TRV_Architech).
 - [ToS Hazard Card](https://x.ai/bot/rISQRoNz_jHHmenyrNfF0) - Top ToS hazards with clause citations. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Track parents](https://x.ai/bot/518qV18_NL99vPVeqNTEL) - Watches a family member’s Google Maps Location share and alerts an orchestrator on real movement, stale share, or sign-in failure — stays quiet when. [Barclay53012457](https://x.com/Barclay53012457).
+- [Traffic Drop Watch](https://x.ai/bot/9pxPIxJf0M10hPq1e4Jt4) - Checks your Search Console every morning and only speaks when clicks fall, with the likely cause and what to check first. [SEOmatic](https://x.com/seomatic_ai).
 - [Travel Agent](https://x.ai/bot/_yHS4eeajJMAXY1EHAdoO) - Keeps a Notion travel log and answers questions from your own trips. [jjeremycai](https://x.com/jjeremycai).
 - [Travel Agent](https://x.ai/bot/cr8KAg2sp0Nyam7-QF-jh) - Plan vacations, compare flights and stays, watch prices. community.
 - [Travel Delay Copilot](https://x.ai/bot/HUyK_n0GZRm8NXq_Sgw5I) - When a flight is delayed, canceled, or you misconnect, pulls live airline policy + passenger-rights rules, cites sources with dates, and drafts a calm... [Fernand](https://x.com/Fernand).
@@ -464,6 +468,7 @@ Back to [README](../../README.md)
 - [Weather Scout](https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc) - Scores next-72h launch-commit weather for Vandenberg, Cape, and Starbase as GO/MARGINAL/NO-GO. [Javier](https://x.com/AdeptusMec71933).
 - [Web3 Crypto](https://x.ai/bot/F6GRww2AYVsAT2HajH5CK) - A friendly guide to play-to-earn gaming and DeFi. It sends a weekly news briefing with a beginner lesson plan, writes game guides, and suggests content. [Raester41](https://x.com/Raester41).
 - [Webinar Desk](https://x.ai/bot/n0v3TatpnoYff_4ybSWmK) - Finds webinars in your lanes, attends with approval, and emails a brief. [Ispider](https://x.com/Ispider).
+- [Weekly SEO Brief](https://x.ai/bot/EkSJB1aArC2kU3odN1Z5W) - Every Monday, a five-line brief of what changed in your Google Search Console and what to do this week. [SEOmatic](https://x.com/seomatic_ai).
 - [What's Up Tonight Bot](https://x.ai/bot/5vI-rX7fZpwF0hP5GI2VE) - Nightly stargazing brief\: go/no-go, clouds, Moon, planets, ISS. community.
 - [WhatsApp Grok Bot Companion](https://x.ai/bot/_9qWVpQ2IkmogpleJaIWm) - A WhatsApp companion that monitors chats you choose and replies with voice notes on your behalf. Link WhatsApp via QR, set reply rules, use Grok voice. [dorofino](https://x.com/dorofino).
 - [WhatsApp Inbox Desk](https://x.ai/bot/S07oX1xZqDW7OScY9hEN5) - Turns WhatsApp Web into an actionable morning and ops brief\: unread triage, reply-needed flags, and decision watch-lists — without sending unless you ask. [CobusGreylingZA](https://x.com/CobusGreylingZA).

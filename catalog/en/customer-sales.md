@@ -15,6 +15,7 @@ Back to [README](../../README.md)
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners. [Jshet05](https://x.com/Jshet05).
 - [After-Hours Receptionist](https://x.ai/bot/L-Peiv65iI_logfpgoPQ_) - SMB lead capture and appointment booking assistant for when the business is closed. Robert.
 - [Ag bot](https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh) - Finds and ranks real growers and suppliers near you for any ingredient. [Blaze](https://x.com/BlazeDrinkwine).
+- [Agency Reporter](https://x.ai/bot/u8hSS6eJdCwrnZXBcwtw8) - Writes each client's monthly SEO report from real Search Console data\: results, what changed and whether it worked, AI search, next month. [SEOmatic](https://x.com/seomatic_ai).
 - [Airfield Electrical Bid Scout](https://x.ai/bot/PWBPqcCqUbEUPozXozRc3) - Finds and qualifies public bids for airfield lighting, NAVAIDs, FAA fiber, and underground electrical work, and sends a short recap plus a spreadsheet. [thefit24couple](https://x.com/thefit24couple).
 - [Alfred](https://x.ai/bot/7KeRruqggKKBCx3MPcJel) - French-speaking personal butler for mail, calendar, and admin. Discreet, short replies, never sends without your OK. Watches important threads so. [StevoM1982](https://x.com/StevoM1982).
 - [Ally](https://x.ai/bot/K4xNPsHhEMOnjN55Au-hf) - Partner marketing and channel GTM advisor with a BD mindset. Builds partner programs from sales data, separates strategic vs tactical partners, and. [MikeCast](https://x.com/MikeCast).
@@ -192,6 +193,7 @@ Back to [README](../../README.md)
 - [Lobster Agents](https://x.ai/bot/XECw-q9SY0rMprOq66UTt) - 28 AI agents. One real company. Staff eng, design, QA, data, marketing, sales, legal, and ops as Grok bots — Bob is the front door, you stay at the. [MarcMojica](https://x.com/MarcMojica).
 - [Local Business Website Hunter](https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG) - Finds local businesses with no website, builds a demo site from their public material, and drafts a quote and pitch email held for your approval. [NewLongMoney](https://x.com/NewLongMoney).
 - [Local Leads Finder](https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz) - Finds real buyers for your trade or building-supply business. community.
+- [Local SEO Desk](https://x.ai/bot/0_GWfmGaBw-kQC856K2fo) - For local businesses\: watches Google Business Profile reviews, map-pack positions and local searches, and proposes the next fix. [SEOmatic](https://x.com/seomatic_ai).
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) - From one fit account, fans out lookalike businesses and confirms who would sign off. [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) - Builds and updates private Luma event pages for field marketers - copy, branding, registration settings, capacity and waitlist, and registration-list... [Jenna Nanpei](https://x.com/jennananpei).
 - [Mail Agency Outreach Sniper](https://x.ai/bot/QCYjr5VyQAoDTywMogJbU) - Turns LinkedIn engagement into verified work emails and individually written intros. [RealtimeUK](https://x.com/RealtimeUK).

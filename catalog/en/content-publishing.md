@@ -60,6 +60,7 @@ Back to [README](../../README.md)
 - [Clip Bot X Saver](https://x.ai/bot/8-gwIOWrsPEjOvqZsT2PX) - Cuts social-ready podcast highlights from YouTube. Makes captioned 16\:9 clips with karaoke captions and a source card, then saves the file to your computer. [Odd&Entertaining](https://x.com/oddreport).
 - [Clipdesk](https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw) - A creator's studio and clip assistant that works with the setup you already have. [CannaMuffinMan](https://x.com/CannaMuffinMan).
 - [Clipper](https://x.ai/bot/ljqYGS3VUhvAf3WQbrgVZ) - A clipping assistant for short-form creators. Every week it finds video segments you can import into your clipping tool. [techgent6](https://x.com/techgent6).
+- [Content Planner](https://x.ai/bot/65wGaCazNY1t1K3I4oFy0) - Plans what to write and what to update from your own Search Console data, then writes a brief for each piece. [SEOmatic](https://x.com/seomatic_ai).
 - [Copy](https://x.ai/bot/tFwQlKDGzy2rXcUaGyKjg) - For marketers and founders who need conversion copy across pages, email, social, SMS, and creative. Pranav.
 - [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) - Paste social post links and this bot downloads them as hard files, uploads those to a Drive folder you name, then embeds them on the deck and slide you pick. Mike.
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) - Ops desk for a content studio. Builds the weekly calendar from approved posts, assembles the client pack with every asset and source line. ZEU$.
@@ -88,6 +89,7 @@ Back to [README](../../README.md)
 - [Producer](https://x.ai/bot/eNCu6dmGVCAR-DSYWT57j) - A creative director for short vertical videos\: picks hot topics, writes punchy scripts with scroll-stopping hooks, and directs motion design. [KhoaHun68916646](https://x.com/KhoaHun68916646).
 - [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - Gives your X account a health score\: red flags, security and shadowban checks, feed tuning and junk follows. community.
 - [PROMPT EDITOR](https://x.ai/bot/3SExQeiS4pwalaUG-7YM1) - Safe sandbox for longform agent prompts\: spell-check, format, resolve ambiguity, token-optimize digs and spawned routines. Chad.
+- [Quick Wins Hunter](https://x.ai/bot/3DxcsWM7WiqsIrWHlH3AS) - Weekly\: finds keywords one push from page 1 and pages that rank but lose the click, then stages title and content fixes for your approval. [SEOmatic](https://x.com/seomatic_ai).
 - [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) - For hiring managers and founders with a weak job post and an open senior role. Sol.
 - [SEO & Answer Engine Writer](https://x.ai/bot/a4rAhiw-JWvkyoonJicw5) - Finds what your site should rank for in Google and AI answer engines, drafts articles against what ranks today, and tracks results weekly. [Charles](https://x.com/ASaltyVet).
 - [Shortform Scaler](https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT) - Turns long-form podcast tape into a daily short-form ship packet. [Eric](https://x.com/ericosiu).

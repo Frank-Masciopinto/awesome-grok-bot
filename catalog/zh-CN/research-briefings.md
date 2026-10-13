@@ -20,6 +20,7 @@
 - [AI Radar](https://x.ai/bot/i1xwguSTrplEdPvx96MYh) - 盯官方 X 账号和一手来源里的 AI 发布，只把重要的用你的语言推给你，分即时提醒和简短摘要. [Gota](https://x.com/gota_bara).
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) - 把论文、代码、讲座和论坛扫进一摞阅读清单。 [Alen](https://x.com/beamnxw).
 - [AI Search Visibility](https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X) - 检查 AI 助手与谷歌会不会推荐你、又点了谁的名，从买家真会问的问题起步。 [Adam Tanguay](https://x.com/adamta).
+- [AI Visibility Watch](https://x.ai/bot/yWUO_uI9JSZEXgYPsIzXx) - 追踪 ChatGPT、Claude、Perplexity 和 Google AI 概览如何描述你的品牌、哪些 AI 爬虫在抓取、有什么变化. [SEOmatic](https://x.com/seomatic_ai).
 - [AI Visibility | GEO Operator](https://x.ai/bot/beh0HMIMPwr5cenZVVAT-) - 品牌 GEO 自动运营，监测大模型答案里的露出，挖竞品占位并给出可执行补强。 [Miguel](https://x.com/seoforgpt).
 - [AI 官号雷达](https://x.ai/bot/sGX1MPOtVLAMzSUScPaxi) - 监控 AI 公司和编程 agent 的 X 官号，新品、额度、价格变动即时推送，早晚中文汇总. [Chaosai0](https://x.com/Chaosai0).
 - [AI 资讯精选](https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs) - 工作日筛 AI 产品与工具更新，用人话短讯推送，料不够就保持沉默. [MaiYangAI](https://x.com/MaiYangAI).
@@ -381,6 +382,7 @@
 - [Segundo Cérebro](https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J) - Obsidian 第二大脑，早间简报加夜间回看。 [liderzio](https://x.com/liderzio).
 - [SEO & AEO Desk](https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL) - 把关键词收成面向搜索与 AI 答案的选题与写手可用简报，可从关键词表或 Search Console。 [Adam Tanguay](https://x.com/adamta).
 - [SEO Monitor](https://x.ai/bot/A-7zh29HHhMMULylwqTm4) - 监控提醒助手. community.
+- [SEO Teammate](https://x.ai/bot/TAd_1q_rpYCcb94h8PXDG) - 全能 SEO 助手，基于你的 Google Search Console 真实数据：周一复盘、每日掉量监测、周四快赢；修改须你批准才上线. [SEOmatic](https://x.com/seomatic_ai).
 - [SEO/GEO Specialist](https://x.ai/bot/pImOOCvE7uB1SXENOI9Ng) - 面向可量化排名与 AI 引用的 SEO 与 GEO 运营，用 Rankdelta 做研究、跟踪、体检与优化。 [angelosorbello1](https://x.com/angelosorbello1).
 - [Shawn](https://x.ai/bot/gEEv8k6WgJyU8es3eaXi7) - 纸面体育博彩研究，跟踪收盘线变动与去水分后价值. [BadgersBet](https://x.com/BadgersBet).
 - [Shelf Scout](https://x.ai/bot/TaRhODlVo4N5mKKH6gTW6) - 按你已有书架与兴趣，每周策展书单与文章. [XyberRun](https://x.com/XyberRun).
@@ -421,6 +423,7 @@
 - [Synthesizer by Ben](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) - 把复杂材料收成清晰地图与你如何服务的表述，用于邀请框架。 [Ben Link](https://x.com/BinLeenk).
 - [TARS](https://x.ai/bot/fyuSERJF73FI7wFYm7cJF) - 唱反调的第二意见，专门挑战你计划的出发点和群体思维，最后怎么选还是你说了算. [Jono](https://x.com/ibuildthings).
 - [TCG Pokemon Drop Hunter](https://x.ai/bot/sCXEBqZKI2vTbe4ZZ0117) - 盯宝可梦卡牌在 X、零售商和新闻里的发售、补货和热度，给出值得倒卖或收藏的排序，只建议不购买. [Tyler](https://x.com/tech_swindler).
+- [Technical SEO Monitor](https://x.ai/bot/OnUJbQKiams1O9GcQR1BN) - 每周检查重要页面的收录、站点地图、死链和误加 noindex，备好修改等你批准. [SEOmatic](https://x.com/seomatic_ai).
 - [Template Scanner](https://x.ai/bot/qDTnW6hhv_Pfr4EO1Ty1D) - 贴一个 Grok Bot 分享链接，添加前先看清它的人设、技能、routines、记忆和插件. Shai.
 - [Terra](https://x.ai/bot/WvmoUWAeEGQg8awYhvRel) - 自然资源与环境科学教师席，查公开政府来源. [TRV_Architech](https://x.com/TRV_Architech).
 - [Tesla Fleet Oracle](https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw) - 只读 Tesla Trek 和 XYO 任务简报，禁止锁车解锁和鸣笛。 [OmgawdMadeit](https://x.com/OmgawdMadeit).
@@ -440,6 +443,7 @@
 - [Tory](https://x.ai/bot/ezSufiHYGe7cQo6e8OvSq) - 历史专席，查官方档案与课程，从不编造史实. [TRV_Architech](https://x.com/TRV_Architech).
 - [ToS Hazard Card](https://x.ai/bot/rISQRoNz_jHHmenyrNfF0) - 带条款引用的主要服务条款风险。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Track parents](https://x.ai/bot/518qV18_NL99vPVeqNTEL) - 盯家人 Google Maps 位置分享，真移动、分享过期或登录失败才通知编排器，正常则安静. [Barclay53012457](https://x.com/Barclay53012457).
+- [Traffic Drop Watch](https://x.ai/bot/9pxPIxJf0M10hPq1e4Jt4) - 每天早上查看 Search Console，只在点击下跌时开口，并给出可能原因和先查什么. [SEOmatic](https://x.com/seomatic_ai).
 - [Travel Agent](https://x.ai/bot/_yHS4eeajJMAXY1EHAdoO) - 维护一份 Notion 出行日志，按你自己的行程回答问题。 [jjeremycai](https://x.com/jjeremycai).
 - [Travel Agent](https://x.ai/bot/cr8KAg2sp0Nyam7-QF-jh) - 旅行规划助手. community.
 - [Travel Delay Copilot](https://x.ai/bot/HUyK_n0GZRm8NXq_Sgw5I) - 航班延误取消或误机时拉实时航司政策与旅客权利，并起草冷静邮件. [Fernand](https://x.com/Fernand).
@@ -464,6 +468,7 @@
 - [Weather Scout](https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc) - 对照公开放飞标准，给范登堡、卡纳维拉尔角与星舰基地做 72 小时气象简报. [Javier](https://x.com/AdeptusMec71933).
 - [Web3 Crypto](https://x.ai/bot/F6GRww2AYVsAT2HajH5CK) - 玩赚与 DeFi 周报向导，附带可执行的每周小课. [Raester41](https://x.com/Raester41).
 - [Webinar Desk](https://x.ai/bot/n0v3TatpnoYff_4ybSWmK) - 按你的赛道找网络研讨会，经批准参加后寄回纪要。 [Ispider](https://x.com/Ispider).
+- [Weekly SEO Brief](https://x.ai/bot/EkSJB1aArC2kU3odN1Z5W) - 每周一用五行说清 Google Search Console 里变了什么、这周该做什么. [SEOmatic](https://x.com/seomatic_ai).
 - [What's Up Tonight Bot](https://x.ai/bot/5vI-rX7fZpwF0hP5GI2VE) - 资讯简报助手. community.
 - [WhatsApp Grok Bot Companion](https://x.ai/bot/_9qWVpQ2IkmogpleJaIWm) - WhatsApp 伴侣，盯你选定的聊天，并按你的口吻用语音条回复. [dorofino](https://x.com/dorofino).
 - [WhatsApp Inbox Desk](https://x.ai/bot/S07oX1xZqDW7OScY9hEN5) - 把 WhatsApp Web 变成可行动的早间与运营简报，未读分流、待回复标记与决策观察名单，除非你要求否则不发送. [CobusGreylingZA](https://x.com/CobusGreylingZA).

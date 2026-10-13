@@ -85929,6 +85929,249 @@
       "verified": false,
       "updated": "2026-10-13",
       "shelf": "raw"
+    },
+    {
+      "slug": "seo-teammate",
+      "name": "SEO Teammate",
+      "author": {
+        "name": "SEOmatic",
+        "url": "https://x.com/seomatic_ai"
+      },
+      "summary": "All-round SEO bot on your Google Search Console data: Monday review, daily drop watch, Thursday quick wins; fixes go live only after you approve",
+      "summary_zh": "全能 SEO 助手，基于你的 Google Search Console 真实数据：周一复盘、每日掉量监测、周四快赢；修改须你批准才上线",
+      "import": "https://x.ai/bot/TAd_1q_rpYCcb94h8PXDG",
+      "source": "https://github.com/Minh42/seomatic-mcp/blob/main/grok-bot/templates/seo-teammate.md",
+      "related": "https://seomatic.ai/skills/grok-bot-templates#seo-teammate",
+      "category": "research-briefings",
+      "tags": [
+        "seo",
+        "search-console",
+        "monitoring"
+      ],
+      "license": "MIT",
+      "mcp_custom": true,
+      "connectors": [
+        "SEOmatic MCP (https://app.seomatic.ai/api/mcp, OAuth)"
+      ],
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "weekly-seo-brief",
+      "name": "Weekly SEO Brief",
+      "author": {
+        "name": "SEOmatic",
+        "url": "https://x.com/seomatic_ai"
+      },
+      "summary": "Every Monday, a five-line brief of what changed in your Google Search Console and what to do this week",
+      "summary_zh": "每周一用五行说清 Google Search Console 里变了什么、这周该做什么",
+      "import": "https://x.ai/bot/EkSJB1aArC2kU3odN1Z5W",
+      "source": "https://github.com/Minh42/seomatic-mcp/blob/main/grok-bot/templates/weekly-seo-brief.md",
+      "related": "https://seomatic.ai/skills/grok-bot-templates#weekly-seo-brief",
+      "category": "research-briefings",
+      "tags": [
+        "seo",
+        "search-console",
+        "briefing"
+      ],
+      "license": "MIT",
+      "mcp_custom": true,
+      "connectors": [
+        "SEOmatic MCP (https://app.seomatic.ai/api/mcp, OAuth)"
+      ],
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "traffic-drop-watch",
+      "name": "Traffic Drop Watch",
+      "author": {
+        "name": "SEOmatic",
+        "url": "https://x.com/seomatic_ai"
+      },
+      "summary": "Checks your Search Console every morning and only speaks when clicks fall, with the likely cause and what to check first",
+      "summary_zh": "每天早上查看 Search Console，只在点击下跌时开口，并给出可能原因和先查什么",
+      "import": "https://x.ai/bot/9pxPIxJf0M10hPq1e4Jt4",
+      "source": "https://github.com/Minh42/seomatic-mcp/blob/main/grok-bot/templates/traffic-drop-watch.md",
+      "related": "https://seomatic.ai/skills/grok-bot-templates#traffic-drop-watch",
+      "category": "research-briefings",
+      "tags": [
+        "seo",
+        "search-console",
+        "alerts"
+      ],
+      "license": "MIT",
+      "mcp_custom": true,
+      "connectors": [
+        "SEOmatic MCP (https://app.seomatic.ai/api/mcp, OAuth)"
+      ],
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "quick-wins-hunter",
+      "name": "Quick Wins Hunter",
+      "author": {
+        "name": "SEOmatic",
+        "url": "https://x.com/seomatic_ai"
+      },
+      "summary": "Weekly: finds keywords one push from page 1 and pages that rank but lose the click, then stages title and content fixes for your approval",
+      "summary_zh": "每周找出差一步上首页的关键词和有排名却没点击的页面，备好标题与内容修改等你批准",
+      "import": "https://x.ai/bot/3DxcsWM7WiqsIrWHlH3AS",
+      "source": "https://github.com/Minh42/seomatic-mcp/blob/main/grok-bot/templates/quick-wins-hunter.md",
+      "related": "https://seomatic.ai/skills/grok-bot-templates#quick-wins-hunter",
+      "category": "content-publishing",
+      "tags": [
+        "seo",
+        "search-console",
+        "ctr"
+      ],
+      "license": "MIT",
+      "mcp_custom": true,
+      "connectors": [
+        "SEOmatic MCP (https://app.seomatic.ai/api/mcp, OAuth)"
+      ],
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ai-visibility-watch",
+      "name": "AI Visibility Watch",
+      "author": {
+        "name": "SEOmatic",
+        "url": "https://x.com/seomatic_ai"
+      },
+      "summary": "Tracks how ChatGPT, Claude, Perplexity and Google AI Overviews describe your brand, which AI bots crawl you, and what changed",
+      "summary_zh": "追踪 ChatGPT、Claude、Perplexity 和 Google AI 概览如何描述你的品牌、哪些 AI 爬虫在抓取、有什么变化",
+      "import": "https://x.ai/bot/yWUO_uI9JSZEXgYPsIzXx",
+      "source": "https://github.com/Minh42/seomatic-mcp/blob/main/grok-bot/templates/ai-visibility-watch.md",
+      "related": "https://seomatic.ai/skills/grok-bot-templates#ai-visibility-watch",
+      "category": "research-briefings",
+      "tags": [
+        "geo",
+        "aeo",
+        "ai-visibility"
+      ],
+      "license": "MIT",
+      "mcp_custom": true,
+      "connectors": [
+        "SEOmatic MCP (https://app.seomatic.ai/api/mcp, OAuth)"
+      ],
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "local-seo-desk",
+      "name": "Local SEO Desk",
+      "author": {
+        "name": "SEOmatic",
+        "url": "https://x.com/seomatic_ai"
+      },
+      "summary": "For local businesses: watches Google Business Profile reviews, map-pack positions and local searches, and proposes the next fix",
+      "summary_zh": "面向本地商家：盯 Google 商家资料评价、地图包排名和本地搜索，并提出下一步修改",
+      "import": "https://x.ai/bot/0_GWfmGaBw-kQC856K2fo",
+      "source": "https://github.com/Minh42/seomatic-mcp/blob/main/grok-bot/templates/local-seo-desk.md",
+      "related": "https://seomatic.ai/skills/grok-bot-templates#local-seo-desk",
+      "category": "customer-sales",
+      "tags": [
+        "local-seo",
+        "google-business-profile",
+        "reviews"
+      ],
+      "license": "MIT",
+      "mcp_custom": true,
+      "connectors": [
+        "SEOmatic MCP (https://app.seomatic.ai/api/mcp, OAuth)"
+      ],
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "agency-reporter",
+      "name": "Agency Reporter",
+      "author": {
+        "name": "SEOmatic",
+        "url": "https://x.com/seomatic_ai"
+      },
+      "summary": "Writes each client's monthly SEO report from real Search Console data: results, what changed and whether it worked, AI search, next month",
+      "summary_zh": "用 Search Console 真实数据为每个客户写月度 SEO 报告：成果、改了什么是否有效、AI 搜索、下月计划",
+      "import": "https://x.ai/bot/u8hSS6eJdCwrnZXBcwtw8",
+      "source": "https://github.com/Minh42/seomatic-mcp/blob/main/grok-bot/templates/agency-reporter.md",
+      "related": "https://seomatic.ai/skills/grok-bot-templates#agency-reporter",
+      "category": "customer-sales",
+      "tags": [
+        "seo",
+        "agency",
+        "reporting"
+      ],
+      "license": "MIT",
+      "mcp_custom": true,
+      "connectors": [
+        "SEOmatic MCP (https://app.seomatic.ai/api/mcp, OAuth)"
+      ],
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "content-planner",
+      "name": "Content Planner",
+      "author": {
+        "name": "SEOmatic",
+        "url": "https://x.com/seomatic_ai"
+      },
+      "summary": "Plans what to write and what to update from your own Search Console data, then writes a brief for each piece",
+      "summary_zh": "根据你自己的 Search Console 数据规划写什么、更新什么，并为每篇写好提纲",
+      "import": "https://x.ai/bot/65wGaCazNY1t1K3I4oFy0",
+      "source": "https://github.com/Minh42/seomatic-mcp/blob/main/grok-bot/templates/content-planner.md",
+      "related": "https://seomatic.ai/skills/grok-bot-templates#content-planner",
+      "category": "content-publishing",
+      "tags": [
+        "seo",
+        "content",
+        "search-console"
+      ],
+      "license": "MIT",
+      "mcp_custom": true,
+      "connectors": [
+        "SEOmatic MCP (https://app.seomatic.ai/api/mcp, OAuth)"
+      ],
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
+    },
+    {
+      "slug": "technical-seo-monitor",
+      "name": "Technical SEO Monitor",
+      "author": {
+        "name": "SEOmatic",
+        "url": "https://x.com/seomatic_ai"
+      },
+      "summary": "Weekly check of indexing, sitemaps, broken links and noindex leaks on your important pages, with fixes staged for your approval",
+      "summary_zh": "每周检查重要页面的收录、站点地图、死链和误加 noindex，备好修改等你批准",
+      "import": "https://x.ai/bot/OnUJbQKiams1O9GcQR1BN",
+      "source": "https://github.com/Minh42/seomatic-mcp/blob/main/grok-bot/templates/technical-seo-monitor.md",
+      "related": "https://seomatic.ai/skills/grok-bot-templates#technical-seo-monitor",
+      "category": "research-briefings",
+      "tags": [
+        "seo",
+        "technical-seo",
+        "indexing"
+      ],
+      "license": "MIT",
+      "mcp_custom": true,
+      "connectors": [
+        "SEOmatic MCP (https://app.seomatic.ai/api/mcp, OAuth)"
+      ],
+      "verified": false,
+      "updated": "2026-10-13",
+      "shelf": "raw"
     }
   ]
 }
