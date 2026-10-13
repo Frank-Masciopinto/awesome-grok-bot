@@ -17,6 +17,10 @@ function fixture(t) {
   return {
     read: (name) => readFileSync(join(dir, name), "utf8"),
     write: (name, text) => writeFileSync(join(dir, name), text),
+    runAt(date, ...args) {
+      const preload = `const RealDate = Date; globalThis.Date = class extends RealDate { constructor(...args) { super(...(args.length ? args : [${JSON.stringify(date)}])); } };`;
+      return spawnSync(process.execPath, ["--import", `data:text/javascript,${encodeURIComponent(preload)}`, join(dir, "scripts/build-pages-index.mjs"), ...args], { encoding: "utf8" });
+    },
     run: (...args) => spawnSync(process.execPath, [join(dir, "scripts/build-pages-index.mjs"), ...args], { encoding: "utf8" }),
   };
 }
@@ -82,5 +86,68 @@ test("a missing llms count line fails before writing any generated output", (t) 
   const result = f.run();
   assert.equal(result.status, 1);
   assert.match(result.stderr, /llms.txt: missing generated count line/);
+  assert.deepEqual(outputs.map(f.read), before);
+});
+
+
+test("missing, renamed, duplicate, and reversed HTML markers fail without writes", (t) => {
+  const f = fixture(t);
+  const original = f.read("docs/index.html");
+  for (const region of ["catalog", "featured", "doors"]) {
+    const start = `<!-- generated:${region}-start -->`;
+    const end = `<!-- generated:${region}-end -->`;
+    const mutations = [
+      original.replace(start, ""),
+      original.replace(end, ""),
+      original.replace(start, `<!-- renamed:${region}-start -->`),
+      original.replace(new RegExp(`${start}[\\s\\S]*?${end}`), ""),
+      original.replace(start, start + start),
+      original.replace(end, end + end),
+      original.replace(start, "SWAP_MARKER").replace(end, start).replace("SWAP_MARKER", end),
+    ];
+    for (const changed of mutations) {
+      f.write("docs/index.html", changed);
+      const before = outputs.map(f.read);
+      for (const args of [["--check"], []]) {
+        const result = f.run(...args);
+        assert.equal(result.status, 1, `${region}: ${result.stdout}`);
+        assert.match(result.stderr, /docs\/index.html: expected exactly one/);
+        assert.deepEqual(outputs.map(f.read), before);
+      }
+    }
+  }
+});
+
+test("missing or duplicate HTML count and section anchors fail without writes", (t) => {
+  const f = fixture(t);
+  const original = f.read("docs/index.html");
+  for (const pattern of [/<strong id="count">[^<]*<\/strong>/,
+    /<section class="block" id="featuredBlock"(?: hidden)?>/,
+    /<section class="block" id="doorsBlock"(?: hidden)?>/]) {
+    for (const replacement of ["", "$&$&"]) {
+      f.write("docs/index.html", original.replace(pattern, replacement));
+      const before = outputs.map(f.read);
+      for (const args of [["--check"], []]) {
+        const result = f.run(...args);
+        assert.equal(result.status, 1);
+        assert.match(result.stderr, /docs\/index.html: expected exactly one/);
+        assert.deepEqual(outputs.map(f.read), before);
+      }
+    }
+  }
+});
+
+test("an omitted catalog date builds and checks identically across UTC days", (t) => {
+  const f = fixture(t);
+  const catalog = JSON.parse(f.read("catalog.json"));
+  delete catalog.generated;
+  f.write("catalog.json", JSON.stringify(catalog));
+  assert.equal(f.runAt("2026-01-01T12:00:00Z").status, 0);
+  const before = outputs.map(f.read);
+  const checked = f.runAt("2026-01-02T12:00:00Z", "--check");
+  assert.equal(checked.status, 0, checked.stderr);
+  assert.equal(JSON.parse(f.read("docs/catalog-index.json")).generated, "");
+  assert.deepEqual(outputs.map(f.read), before);
+  assert.equal(f.runAt("2026-01-03T12:00:00Z").status, 0);
   assert.deepEqual(outputs.map(f.read), before);
 });

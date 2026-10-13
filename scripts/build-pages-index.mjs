@@ -43,7 +43,8 @@ const entries = catalog.entries.map((e) => {
 });
 
 const index = {
-  generated: catalog.generated || new Date().toISOString().slice(0, 10),
+  // No wall-clock fallback: an omitted date must produce identical bytes tomorrow.
+  generated: catalog.generated || "",
   source: catalog.source || "https://github.com/majiayu000/awesome-grok-bot",
   count: entries.length,
   verified,
@@ -78,13 +79,31 @@ const highlightCard = (entry) => `<article class="card ${entry.shelf}">
 const featured = entries.filter(entry => entry.shelf === "featured");
 const doors = entries.filter(entry => entry.shelf === "studio-door").slice(0, 8);
 const pagePath = join(root, "docs", "index.html");
-let page = readFileSync(pagePath, "utf8").replace(
-  /<!-- generated:catalog-start -->[\s\S]*?<!-- generated:catalog-end -->/,
-  `<!-- generated:catalog-start -->\n${cards}\n<!-- generated:catalog-end -->`,
-).replace(/(<strong id="count">)[^<]*(<\/strong>)/, `$1${entries.length}$2`);
+function replaceRequired(text, pattern, replacement, label) {
+  const matches = [...text.matchAll(new RegExp(pattern.source, "g"))];
+  if (matches.length !== 1) {
+    throw new Error(`docs/index.html: expected exactly one ${label}, found ${matches.length}`);
+  }
+  return text.replace(pattern, replacement);
+}
+function replaceRegion(text, region, content) {
+  const start = `<!-- generated:${region}-start -->`;
+  const end = `<!-- generated:${region}-end -->`;
+  for (const marker of [start, end]) {
+    if (text.split(marker).length !== 2) {
+      throw new Error(`docs/index.html: expected exactly one ${marker}`);
+    }
+  }
+  return replaceRequired(text, new RegExp(`${start}[\\s\\S]*?${end}`),
+    () => `${start}\n${content}\n${end}`, `${region} marker pair in order`);
+}
+let page = replaceRegion(readFileSync(pagePath, "utf8"), "catalog", cards);
+page = replaceRequired(page, /(<strong id="count">)[^<]*(<\/strong>)/,
+  (_, start, end) => `${start}${entries.length}${end}`, "count anchor");
 for (const [region, section, list] of [["featured", "featuredBlock", featured], ["doors", "doorsBlock", doors]]) {
-  page = page.replace(new RegExp(`<!-- generated:${region}-start -->[\\s\\S]*?<!-- generated:${region}-end -->`), `<!-- generated:${region}-start -->\n${list.map(highlightCard).join("\n")}\n<!-- generated:${region}-end -->`);
-  page = page.replace(new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`), `$1${list.length ? "" : " hidden"}$2`);
+  page = replaceRegion(page, region, list.map(highlightCard).join("\n"));
+  page = replaceRequired(page, new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`),
+    (_, start, end) => `${start}${list.length ? "" : " hidden"}${end}`, `${section} section anchor`);
 }
 emit(pagePath, page);
 emit(join(root, "docs", "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>

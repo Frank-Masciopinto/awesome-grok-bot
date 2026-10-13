@@ -71,7 +71,10 @@ After catalog changes, run `node scripts/build-pages-index.mjs` and commit the
 generated search index, static homepage catalog, sitemap, robots.txt, and llms.txt
 together. Run `npm test` before opening the PR; it checks that all these generated
 outputs are current. `node scripts/build-pages-index.mjs --check` checks them
-without writing files.
+without writing files. The generator requires each HTML generation marker and
+anchor exactly once; restore missing markers rather than accepting an incomplete
+page. If `catalog.generated` is omitted, the index uses an empty date instead of
+the current day so builds stay deterministic.
 
 ## Packs and official starters
 
