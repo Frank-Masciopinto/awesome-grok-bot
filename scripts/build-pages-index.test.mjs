@@ -170,3 +170,71 @@ test("duplicates hidden inside an earlier generated region are rejected before w
     }
   }
 });
+
+test("nested and crossing generated regions fail before writing outputs", (t) => {
+  const f = fixture(t);
+  const original = f.read("docs/index.html");
+  for (const inner of ["catalog", "featured", "doors"]) {
+    for (const outer of ["catalog", "featured", "doors"].filter((region) => region !== inner)) {
+      const start = `<!-- generated:${inner}-start -->`;
+      const end = `<!-- generated:${inner}-end -->`;
+      const outerStart = `<!-- generated:${outer}-start -->`;
+      const outerEnd = `<!-- generated:${outer}-end -->`;
+      const withoutInner = original.replace(start, "").replace(end, "");
+      for (const changed of [
+        withoutInner.replace(outerStart, outerStart + start + end),
+        withoutInner.replace(outerStart, outerStart + start).replace(outerEnd, outerEnd + end),
+      ]) {
+        f.write("docs/index.html", changed);
+        const before = outputs.map(f.read);
+        for (const args of [[], ["--check"]]) {
+          const result = f.run(...args);
+          assert.equal(result.status, 1, `${inner} / ${outer}: ${result.stdout}`);
+          assert.match(result.stderr, /generated regions overlap/);
+          assert.deepEqual(outputs.map(f.read), before);
+        }
+      }
+    }
+  }
+});
+
+test("unique anchors inside generated regions fail before writing outputs", (t) => {
+  const f = fixture(t);
+  const original = f.read("docs/index.html");
+  for (const pattern of [/<strong id="count">[^<]*<\/strong>/,
+    /<section class="block" id="featuredBlock"(?: hidden)?>/,
+    /<section class="block" id="doorsBlock"(?: hidden)?>/]) {
+    const [anchor] = original.match(pattern);
+    for (const region of ["catalog", "featured", "doors"]) {
+      const marker = `<!-- generated:${region}-start -->`;
+      f.write("docs/index.html", original.replace(pattern, "").replace(marker, marker + anchor));
+      const before = outputs.map(f.read);
+      for (const args of [[], ["--check"]]) {
+        const result = f.run(...args);
+        assert.equal(result.status, 1);
+        assert.match(result.stderr, /anchor overlaps a generated region/);
+        assert.deepEqual(outputs.map(f.read), before);
+      }
+    }
+  }
+});
+
+test("duplicate llms count lines fail even when one or both counts are current", (t) => {
+  const f = fixture(t);
+  const original = f.read("llms.txt");
+  for (const pattern of [/^> \d+ live x\.ai\/bot shares.*$/m,
+    /^\d+ live shares in catalog\.json:.*$/m, /^Shelf \(editorial\):.*$/m]) {
+    const [line] = original.match(pattern);
+    const stale = line.replace(/\d+/, "999999");
+    for (const replacement of [`${line}\n${stale}`, `${stale}\n${line}`, `${line}\n${line}`]) {
+      f.write("llms.txt", original.replace(pattern, () => replacement));
+      const before = outputs.map(f.read);
+      for (const args of [[], ["--check"]]) {
+        const result = f.run(...args);
+        assert.equal(result.status, 1, result.stdout);
+        assert.match(result.stderr, /llms.txt: expected exactly one generated count line/);
+        assert.deepEqual(outputs.map(f.read), before);
+      }
+    }
+  }
+});

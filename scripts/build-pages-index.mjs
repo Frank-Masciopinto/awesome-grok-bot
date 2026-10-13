@@ -100,11 +100,28 @@ function replaceRegion(text, region, content) {
 // Validate the original template before any replacement can erase malformed
 // markers or anchors nested inside another generated region.
 const originalPage = readFileSync(pagePath, "utf8");
-for (const region of ["catalog", "featured", "doors"]) replaceRegion(originalPage, region, "");
-replaceRequired(originalPage, /(<strong id="count">)[^<]*(<\/strong>)/, "", "count anchor");
+const regions = ["catalog", "featured", "doors"].map((region) => {
+  replaceRegion(originalPage, region, "");
+  const start = `<!-- generated:${region}-start -->`;
+  const end = `<!-- generated:${region}-end -->`;
+  return { region, start: originalPage.indexOf(start), end: originalPage.indexOf(end) + end.length };
+}).sort((a, b) => a.start - b.start);
+for (let i = 1; i < regions.length; i++) {
+  if (regions[i].start < regions[i - 1].end) {
+    throw new Error(`docs/index.html: generated regions overlap (${regions[i - 1].region}, ${regions[i].region})`);
+  }
+}
+function validateAnchor(pattern, label) {
+  replaceRequired(originalPage, pattern, "", label);
+  const match = originalPage.match(pattern);
+  if (regions.some(({ start, end }) => match.index < end && match.index + match[0].length > start)) {
+    throw new Error(`docs/index.html: ${label} overlaps a generated region`);
+  }
+}
+validateAnchor(/(<strong id="count">)[^<]*(<\/strong>)/, "count anchor");
 for (const section of ["featuredBlock", "doorsBlock"]) {
-  replaceRequired(originalPage, new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`),
-    "", `${section} section anchor`);
+  validateAnchor(new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`),
+    `${section} section anchor`);
 }
 let page = replaceRegion(originalPage, "catalog", cards);
 page = replaceRequired(page, /(<strong id="count">)[^<]*(<\/strong>)/,
@@ -134,7 +151,9 @@ for (const [pattern, replacement] of [
   [/^Shelf \(editorial\): .*? — see docs\/studio-doors\.md$/m,
     `Shelf (editorial): featured ${shelves.featured}, ${shelves.solid ? `solid ${shelves.solid}, ` : ""}studio-door ${shelves["studio-door"]}, aka ${shelves.aka}, raw ${shelves.raw} — see docs/studio-doors.md`],
 ]) {
-  if (!pattern.test(llms)) throw new Error(`llms.txt: missing generated count line (${pattern})`);
+  const matches = [...llms.matchAll(new RegExp(pattern.source, "gm"))];
+  if (matches.length === 0) throw new Error(`llms.txt: missing generated count line (${pattern})`);
+  if (matches.length !== 1) throw new Error(`llms.txt: expected exactly one generated count line (${pattern}), found ${matches.length}`);
   llms = llms.replace(pattern, () => replacement);
 }
 emit(llmsPath, llms);
