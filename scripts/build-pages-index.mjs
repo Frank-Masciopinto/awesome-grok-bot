@@ -97,7 +97,16 @@ function replaceRegion(text, region, content) {
   return replaceRequired(text, new RegExp(`${start}[\\s\\S]*?${end}`),
     () => `${start}\n${content}\n${end}`, `${region} marker pair in order`);
 }
-let page = replaceRegion(readFileSync(pagePath, "utf8"), "catalog", cards);
+// Validate the original template before any replacement can erase malformed
+// markers or anchors nested inside another generated region.
+const originalPage = readFileSync(pagePath, "utf8");
+for (const region of ["catalog", "featured", "doors"]) replaceRegion(originalPage, region, "");
+replaceRequired(originalPage, /(<strong id="count">)[^<]*(<\/strong>)/, "", "count anchor");
+for (const section of ["featuredBlock", "doorsBlock"]) {
+  replaceRequired(originalPage, new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`),
+    "", `${section} section anchor`);
+}
+let page = replaceRegion(originalPage, "catalog", cards);
 page = replaceRequired(page, /(<strong id="count">)[^<]*(<\/strong>)/,
   (_, start, end) => `${start}${entries.length}${end}`, "count anchor");
 for (const [region, section, list] of [["featured", "featuredBlock", featured], ["doors", "doorsBlock", doors]]) {

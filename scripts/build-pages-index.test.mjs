@@ -151,3 +151,22 @@ test("an omitted catalog date builds and checks identically across UTC days", (t
   assert.equal(f.runAt("2026-01-03T12:00:00Z").status, 0);
   assert.deepEqual(outputs.map(f.read), before);
 });
+
+
+test("duplicates hidden inside an earlier generated region are rejected before writes", (t) => {
+  const f = fixture(t);
+  const original = f.read("docs/index.html");
+  for (const duplicate of ["<!-- generated:featured-start -->", "<!-- generated:doors-end -->",
+    '<strong id="count">0</strong>', '<section class="block" id="featuredBlock">',
+    '<section class="block" id="doorsBlock">']) {
+    f.write("docs/index.html", original.replace("<!-- generated:catalog-start -->",
+      `<!-- generated:catalog-start -->${duplicate}`));
+    const before = outputs.map(f.read);
+    for (const args of [["--check"], []]) {
+      const result = f.run(...args);
+      assert.equal(result.status, 1);
+      assert.match(result.stderr, /docs\/index.html: expected exactly one/);
+      assert.deepEqual(outputs.map(f.read), before);
+    }
+  }
+});
