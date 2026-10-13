@@ -85677,6 +85677,26 @@
       "verified": false,
       "updated": "2026-10-13",
       "shelf": "raw"
+    },
+    {
+      "slug": "ballot-buddy",
+      "name": "Ballot Buddy",
+      "author": {
+        "name": "ʞɔɐz"
+      },
+      "summary": "26 quick questions map your real views, then ballot prep from official sources and side-by-side candidate comparisons. Never tells you how to vote",
+      "summary_zh": "26 个简短问题梳理你的真实立场，再用官方来源准备选票并并排比较候选人，从不告诉你该投谁",
+      "import": "https://x.ai/bot/qb7YO_rkA0Rx9Mzhtmf2e",
+      "category": "personal-admin",
+      "tags": [
+        "voting",
+        "elections",
+        "civics"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-12",
+      "shelf": "raw"
     }
   ]
 }
