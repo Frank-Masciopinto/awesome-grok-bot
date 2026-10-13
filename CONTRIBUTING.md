@@ -68,7 +68,10 @@ Use one of: coding-shipping, inbox-calendar, research-briefings, customer-sales,
 The lint command is: `node scripts/lint.mjs`
 
 After catalog changes, run `node scripts/build-pages-index.mjs` and commit the
-generated search index, static homepage catalog, and sitemap together.
+generated search index, static homepage catalog, sitemap, robots.txt, and llms.txt
+together. Run `npm test` before opening the PR; it checks that all these generated
+outputs are current. `node scripts/build-pages-index.mjs --check` checks them
+without writing files.
 
 ## Packs and official starters
 

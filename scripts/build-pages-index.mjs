@@ -7,6 +7,12 @@ import { readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
+const check = process.argv.includes("--check");
+const outputs = new Map();
+function emit(path, content) {
+  outputs.set(path, content);
+}
+
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const catalog = JSON.parse(readFileSync(join(root, "catalog.json"), "utf8"));
 if (!Array.isArray(catalog.entries)) {
@@ -47,10 +53,7 @@ const index = {
 };
 
 const out = join(root, "docs", "catalog-index.json");
-writeFileSync(out, JSON.stringify(index));
-console.log(
-  `Wrote docs/catalog-index.json (${entries.length} entries, ${Buffer.byteLength(JSON.stringify(index))} bytes)`
-);
+emit(out, JSON.stringify(index));
 
 // Publish the same catalog as HTML so it remains readable before JavaScript loads.
 const escapeHtml = (value) => String(value ?? "").replace(/[&<>"']/g, (character) => ({
@@ -83,14 +86,43 @@ for (const [region, section, list] of [["featured", "featuredBlock", featured], 
   page = page.replace(new RegExp(`<!-- generated:${region}-start -->[\\s\\S]*?<!-- generated:${region}-end -->`), `<!-- generated:${region}-start -->\n${list.map(highlightCard).join("\n")}\n<!-- generated:${region}-end -->`);
   page = page.replace(new RegExp(`(<section class="block" id="${section}")(?: hidden)?(>)`), `$1${list.length ? "" : " hidden"}$2`);
 }
-writeFileSync(pagePath, page);
-writeFileSync(join(root, "docs", "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
+emit(pagePath, page);
+emit(join(root, "docs", "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://majiayu000.github.io/awesome-grok-bot/</loc></url>
 </urlset>
 `);
-writeFileSync(
+emit(
   join(root, "docs", "robots.txt"),
   "User-agent: *\nAllow: /\n\nSitemap: https://majiayu000.github.io/awesome-grok-bot/sitemap.xml\n",
 );
-console.log(`Wrote static catalog HTML (${entries.length} shares), sitemap, and robots.txt`);
+
+// Keep discovery metadata in sync without changing its hand-written links/prose.
+const llmsPath = join(root, "llms.txt");
+let llms = readFileSync(llmsPath, "utf8");
+for (const [pattern, replacement] of [
+  [/^> \d+ live x\.ai\/bot shares/m, `> ${entries.length} live x.ai/bot shares`],
+  [/^\d+ live shares in catalog\.json:/m, `${entries.length} live shares in catalog.json:`],
+  [/^Shelf \(editorial\): .*? — see docs\/studio-doors\.md$/m,
+    `Shelf (editorial): featured ${shelves.featured}, ${shelves.solid ? `solid ${shelves.solid}, ` : ""}studio-door ${shelves["studio-door"]}, aka ${shelves.aka}, raw ${shelves.raw} — see docs/studio-doors.md`],
+]) {
+  if (!pattern.test(llms)) throw new Error(`llms.txt: missing generated count line (${pattern})`);
+  llms = llms.replace(pattern, () => replacement);
+}
+emit(llmsPath, llms);
+
+let stale = false;
+for (const [path, content] of outputs) {
+  if (check) {
+    let current;
+    try { current = readFileSync(path, "utf8"); } catch { /* missing output is stale */ }
+    if (current !== content) {
+      console.error(`${path.slice(root.length + 1)}: missing or stale generated output; run npm run build:pages`);
+      stale = true;
+    }
+  } else {
+    writeFileSync(path, content);
+  }
+}
+if (stale) process.exitCode = 1;
+if (!stale) console.log(`${check ? "Checked" : "Wrote"} generated catalog outputs (${entries.length} entries)`);
