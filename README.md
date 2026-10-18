@@ -427,6 +427,7 @@ Community walkthroughs.
 - [How to Use Grok Bot](https://www.aibuilderclub.com/blog/grok-bot-guide) - Distills real rosters. On-disk board, interview once, state file, send nothing.
 
 See also [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book) under Skill packs.
+- [Grok Bot setup guide for small business](https://whatshouldmybotdo.com/guides/grok-bot-setup-guide) - WhatShouldMyBotDo. First Bot, connector permissions, a drafts-you-approve rule, then the first routine.
 
 ## Reviews
 

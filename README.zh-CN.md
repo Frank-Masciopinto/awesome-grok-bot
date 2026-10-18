@@ -427,6 +427,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [How to Use Grok Bot](https://www.aibuilderclub.com/blog/grok-bot-guide) - 从真实名单里抽出磁盘看板一次访谈和没事不发这三条。
 
 橙皮书见上面的 [Grok Bot 橙皮书](https://github.com/KinGao294/grok-bot-orange-book)。
+- [面向小企业的 Grok Bot 设置指南](https://whatshouldmybotdo.com/guides/grok-bot-setup-guide) - WhatShouldMyBotDo。首个 Bot、连接器权限、“草稿需你批准”规则，然后是第一个例行任务。
 
 ## 评测
 
