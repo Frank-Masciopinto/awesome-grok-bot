@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 4814 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 4815 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -112,10 +112,10 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 | [Finance & ops](#finance--ops) | 571 |
 | [Content & publishing](#content--publishing) | 565 |
 | [Personal admin](#personal-admin) | 1332 |
-| [Teams & handoffs](#teams--handoffs) | 498 |
-| **Total** | **4814** |
+| [Teams & handoffs](#teams--handoffs) | 499 |
+| **Total** | **4815** |
 
-On 15 Oct 2026, 4797 of 4814 share pages returned HTTP 200 (17 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 4814 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 15 Oct 2026, 4797 of 4814 share pages returned HTTP 200 (17 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 4815 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -281,7 +281,7 @@ Full list (1332 shares): [catalog/en/personal-admin.md](catalog/en/personal-admi
 
 ## Teams & handoffs
 
-Full list (498 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (499 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 

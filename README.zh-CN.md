@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 4814 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 4815 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -112,10 +112,10 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | [Finance & ops](#finance--ops) | 571 |
 | [Content & publishing](#content--publishing) | 565 |
 | [Personal admin](#personal-admin) | 1332 |
-| [Teams & handoffs](#teams--handoffs) | 498 |
-| **合计** | **4814** |
+| [Teams & handoffs](#teams--handoffs) | 499 |
+| **合计** | **4815** |
 
-2026 年 10 月 15 日检查时，4814 个分享页中 4797 个返回 HTTP 200（17 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 4814 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 15 日检查时，4814 个分享页中 4797 个返回 HTTP 200（17 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 4815 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -281,7 +281,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Teams & handoffs
 
-完整列表（498 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（499 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 

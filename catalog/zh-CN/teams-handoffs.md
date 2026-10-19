@@ -104,6 +104,7 @@
 - [Use-Case Coach](https://x.ai/bot/j6NKC6auUgL_xXwQsOHVg) - 有了 Grok Bot 但不知道用来干嘛？两分钟访谈、三个贴合你生活的点子，当场把你的第一个机器人建好跑起来. [Coffee](https://x.com/CoffeeNGrit).
 - [Watchdog](https://x.ai/bot/1PResTuB3hQnPAosO065p) - 每晚检查你其他所有 bot，只提醒需要你处理的事：卡住的任务、缺失的例程和未回答的问题. [Dan](https://x.com/DanNinetySeven).
 - [Watchtower (beta)](https://x.ai/bot/wJTXth8eiaaJpayeryWEd) - Grok Bot 团队的安全官：看护共用的云端电脑，并在安装前审查模板和技能. [Ken](https://x.com/Ken_LinkWell).
+- [What Should My Bot Do?](https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ) - 先问 5 个关于你业务的问题，再推荐你的第一个 Agent 和接下来的 3 项工作，每项附一篇免费指南。只写草稿。 [Roshel](https://x.com/RoshelPere15695).
 - [What Would Elon Do?](https://x.ai/bot/J2UPsryIUiwJ3YYeI4Gla) - 面向独立创始人和小企业的直率第一性原理战略伙伴. [WorldWideVibes](https://x.com/W0rldwid3vib3s).
 - [薬剤師ニュースチーム立ち上げbot](https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV) - 为日本药剂师搭建 6 个 Bot 的团队，每天核实行业新闻并以文章和 MP3 送达. [tadayaku_Pha](https://x.com/tadayaku_Pha).
 - [赛博小晚](https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S) - 赛博小晚的公开 Skill 化身，用她公开提炼的思考方式帮你做 IP 打造与运营，不冒充本人. 铁柱AGI.

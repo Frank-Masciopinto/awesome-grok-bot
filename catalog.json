@@ -102663,6 +102663,26 @@
       "verified": false,
       "updated": "2026-10-16",
       "shelf": "raw"
+    },
+    {
+      "slug": "what-should-my-bot-do",
+      "name": "What Should My Bot Do?",
+      "author": {
+        "name": "Roshel",
+        "url": "https://x.com/RoshelPere15695"
+      },
+      "summary": "Asks 5 questions about your business, then picks your first agent and 3 next jobs, with a free guide for each. Drafts only.",
+      "summary_zh": "先问 5 个关于你业务的问题，再推荐你的第一个 Agent 和接下来的 3 项工作，每项附一篇免费指南。只写草稿。",
+      "import": "https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ",
+      "category": "teams-handoffs",
+      "tags": [
+        "small-business",
+        "onboarding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-19",
+      "shelf": "raw"
     }
   ]
 }
