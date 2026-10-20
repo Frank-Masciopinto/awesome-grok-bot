@@ -250,6 +250,7 @@
 - [Commitments](https://x.ai/bot/rFShmowW_3x_qeXQQB-sn) - 抓住你在 Slack、Notion 和邮件里随口答应的事，并在 Notion 里盯到真正做完。 [Sam Lambert](https://x.com/samlambert).
 - [Community Builder](https://x.ai/bot/Vurjod8hm5tZJxGgov6uR) - 帮你找到同好：了解你感兴趣的社群和活动，每周给你一次具体的出行安排，外加一个工作日选项. [anthony_y_chan](https://x.com/anthony_y_chan).
 - [Company Sprint](https://x.ai/bot/taGsdcCU_BnB0tqUyOwGu) - Grok Bot 的三天公司操作系统，选定切入点、交付 MVP、上线并跑轻量创始运营. [FreedomtoLive59](https://x.com/FreedomtoLive59).
+- [Compass](https://x.ai/bot/NOT4hZdEJ7AxiVekyjBOY) - 旅行伴侣：从想法到回程全程规划、预订（需你点头）和指引，涵盖行程、住宿和航班、入境规定与值机提醒. [Austin](https://x.com/ahoop).
 - [Competition Winna](https://x.ai/bot/eu2mn4fOfpI1KXvmySdQg) - 在你的赛道找开放竞赛、核规则、做作品并尽量一站式提交. [Ben](https://x.com/open_brady).
 - [Competitor Complaints](https://x.ai/bot/Drkj_nrZJES2BKVsa0DAb) - 在 X 上找抱怨你竞品或求替代的人，并把他们变成客户. [Luis](https://x.com/luismbat).
 - [Compliance](https://x.ai/bot/sokXJWiBsUbTtQCAJ1EsY) - 纽约州经纪合规桌，扫 DOS 广告与公平住房相关社交与网站. [Ryan](https://x.com/Ryangpgllc).
@@ -287,6 +288,7 @@
 - [Crux](https://x.ai/bot/pmaYkbv50yT2tHFrU5o7h) - 室内到户外攀岩教练，拍岩壁照就给你练室外线路的墙练方案. [Brbaumhoff](https://x.com/Brbaumhoff).
 - [Crypto Scam Shield](https://x.ai/bot/yu5DTLbi2VHKOSGJdZ6zk) - 免费友好的教练，教普通人识别和避开加密货币骗局，有技巧、小测、案例和链接或消息检查. [James](https://x.com/allthemoney).
 - [Crypto Wallet Safety Checker](https://x.ai/bot/NK4EVTst02_7nIl2Ka4CO) - 在你转账或签名前检查钱包地址、链接、代币和空投有没有诈骗或安全隐患. [allthemoney](https://x.com/allthemoney).
+- [Curby](https://x.ai/bot/RtvSftL8HsYHe-po82Aw2) - 打电话给餐厅订位或问营业时间；连上你自己的特斯拉后，把地址发到车机，并控制车锁、空调和充电. [Dusty](https://x.com/TheDustyCash).
 - [Curious Kids Science Desk](https://x.ai/bot/UD5hm1-w70PMPjr-e83r0) - 按孩子水平回答为什么，并附一个安全的家庭小实验. [Cypher0x9](https://x.com/Cypher0x9).
 - [Cybertruck Grok Saved Conversations](https://x.ai/bot/Ipok84Tggdhsk2E8sGdrA) - 保存你在赛博卡车或车载Grok里的对话笔记，之后还能接着问. [RICOSAIZ1](https://x.com/RICOSAIZ1).
 - [d2fl template](https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC) - 来自 d2fl 的可导入分享模板。 [d2fl](https://x.com/d2fl).
@@ -401,6 +403,7 @@
 - [Event Planner Desk](https://x.ai/bot/hGAgxNFJOIGL1zgJMcojw) - 从活动简报到供应商选项、流程表、预算与嘉宾名单. [Cypher0x9](https://x.com/Cypher0x9).
 - [Event Producer](https://x.ai/bot/5gyGG-rnVsQVTLWAfki1u) - 线下和 VIP 活动制作伙伴，负责全流程：流程单、场地、餐饮、音视频、标识和人员. Jenna.
 - [Event Request Desk](https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA) - 给每个活动、赞助与演讲邀请打分并起草是否答应，可从 Slack 或粘贴来，代发前问你。 Emma Weyrauch.
+- [Events Bot](https://x.ai/bot/qtGY_DC6wQXMFM1VRdO6y) - 找你所在城市可去的活动，追踪你关心的大赛和直播，每周发一份核实过的汇总. [Mike](https://x.com/eichner3mike).
 - [Everyone](https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu) - 私人关系记忆，记清是谁、怎么认识、下次该跟进什么. [liam_fallen](https://x.com/liam_fallen).
 - [Evie the San Francisco Events Finder](https://x.ai/bot/8_jxHdRiFMSC-Jqh66I2Q) - 从你的日历、Luma、Eventbrite、Partiful 和 Meetup 找适合你的旧金山活动. [Veena](https://x.com/veenapanicker).
 - [Exam Coach](https://x.ai/bot/VHerNPFs8KalH1G_u94zx) - 适用于任何考试的备考教练，制定学习计划、每天出题测验，并在考前提醒你. [Arunas](https://x.com/ArunasZidonis).

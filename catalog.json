@@ -111317,6 +111317,182 @@
       "verified": false,
       "updated": "2026-10-20",
       "shelf": "raw"
+    },
+    {
+      "slug": "slopcore",
+      "name": "SlopCore",
+      "author": {
+        "name": "grokshroom",
+        "url": "https://x.com/grokshroom"
+      },
+      "summary": "Turns your character or mascot into AI videos and full music videos, remaking viral clips and cutting scenes on the beat to your own Suno song.",
+      "summary_zh": "把你的角色或吉祥物做成 AI 视频和完整 MV，翻拍爆款片段，并按你自己的 Suno 歌曲卡点剪辑",
+      "import": "https://x.ai/bot/RGfGcIGUIJbJSRL0yzilC",
+      "category": "content-publishing",
+      "tags": [
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-20",
+      "shelf": "raw"
+    },
+    {
+      "slug": "curby",
+      "name": "Curby",
+      "author": {
+        "name": "Dusty",
+        "url": "https://x.com/TheDustyCash"
+      },
+      "summary": "Calls restaurants to book tables or check hours, and with your own Tesla connected sends addresses to the car and runs locks, climate and charging.",
+      "summary_zh": "打电话给餐厅订位或问营业时间；连上你自己的特斯拉后，把地址发到车机，并控制车锁、空调和充电",
+      "import": "https://x.ai/bot/RtvSftL8HsYHe-po82Aw2",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-20",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fillupbot",
+      "name": "FillUpBot",
+      "author": {
+        "name": "MythIII",
+        "url": "https://x.com/iii_myth"
+      },
+      "summary": "Scans your bot team, studies trending templates, and proposes tested, security-screened skill upgrades per seat, installed only on your yes with one-tap undo.",
+      "summary_zh": "扫描你的机器人团队，参考热门模板，为每个席位提出经过试跑和安全筛查的技能升级，你同意才安装，可一键撤销",
+      "import": "https://x.ai/bot/p5r-JzMfgQflcZsRk80gC",
+      "category": "teams-handoffs",
+      "tags": [
+        "security",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-20",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-purge",
+      "name": "Bot Purge",
+      "author": {
+        "name": "Crippled",
+        "url": "https://x.com/TheCrippldNinja"
+      },
+      "summary": "Cleans obvious bots, scammers, and thirst-trap accounts out of your X followers, then checks new followers weekly and reports how many it removed.",
+      "summary_zh": "清掉你 X 粉丝里明显的机器人、骗子和引流号，之后每周检查新粉丝并告诉你清掉了多少",
+      "import": "https://x.ai/bot/fqvXG0FbSG32Y6A0cvGQP",
+      "category": "content-publishing",
+      "tags": [
+        "security",
+        "bots",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-20",
+      "shelf": "raw"
+    },
+    {
+      "slug": "affiliate-link-helper",
+      "name": "Affiliate Link Helper",
+      "author": {
+        "name": "josephscottelli",
+        "url": "https://x.com/josephscottelli"
+      },
+      "summary": "Helps you run your own Amazon Associates, Influencer, or Seller Central account: affiliate links, earnings, listings, and orders.",
+      "summary_zh": "帮你打理自己的亚马逊联盟、网红计划或卖家中心账号：推广链接、收益、商品和订单",
+      "import": "https://x.ai/bot/-Qca0p-n_E3U7pySRq54H",
+      "category": "finance-ops",
+      "tags": [
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-20",
+      "shelf": "raw"
+    },
+    {
+      "slug": "compass",
+      "name": "Compass",
+      "author": {
+        "name": "Austin",
+        "url": "https://x.com/ahoop"
+      },
+      "summary": "A travel companion that plans, books (only with your yes), and guides trips end to end: itineraries, lodging and flights, entry rules, check-in reminders.",
+      "summary_zh": "旅行伴侣：从想法到回程全程规划、预订（需你点头）和指引，涵盖行程、住宿和航班、入境规定与值机提醒",
+      "import": "https://x.ai/bot/NOT4hZdEJ7AxiVekyjBOY",
+      "category": "personal-admin",
+      "tags": [
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-20",
+      "shelf": "raw"
+    },
+    {
+      "slug": "events-bot",
+      "name": "Events Bot",
+      "author": {
+        "name": "Mike",
+        "url": "https://x.com/eichner3mike"
+      },
+      "summary": "Finds things to do in your town and tracks the big games and broadcasts you care about, with a verified weekly roundup.",
+      "summary_zh": "找你所在城市可去的活动，追踪你关心的大赛和直播，每周发一份核实过的汇总",
+      "import": "https://x.ai/bot/qtGY_DC6wQXMFM1VRdO6y",
+      "category": "personal-admin",
+      "tags": [
+        "events"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-20",
+      "shelf": "raw"
+    },
+    {
+      "slug": "dartzdabz-crew-builder",
+      "name": "DartzDabz Crew Builder",
+      "author": {
+        "name": "truepathventures"
+      },
+      "summary": "A CEO bot that asks about your online business, then builds a crew of up to 8 worker bots (site, SEO, research, social, clips) that act only with your OK.",
+      "summary_zh": "CEO 机器人先问几个关于你线上生意的问题，再搭一支最多 8 个的员工机器人团队（网站、SEO、调研、社媒、简报、剪辑），发送、发帖、花钱都要你同意",
+      "import": "https://x.ai/bot/6WerbputYt61R-bzRXzYX",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "video",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-20",
+      "shelf": "raw"
+    },
+    {
+      "slug": "watchtower",
+      "name": "Watchtower",
+      "author": {
+        "name": "Jesse",
+        "url": "https://x.com/jessenowlin"
+      },
+      "summary": "Watches releases, changelogs, programs, and announcements you ask about and pings you only when something new shows up; ships with a Grok Bot changelog watch.",
+      "summary_zh": "盯着你指定的发布、更新日志、项目和公告，只在有新内容时提醒你；自带 Grok Bot 更新日志监控",
+      "import": "https://x.ai/bot/0Amg3917cH06sUZ3awwRu",
+      "category": "research-briefings",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-20",
+      "shelf": "raw"
     }
   ]
 }

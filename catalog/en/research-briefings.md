@@ -572,6 +572,7 @@ Back to [README](../../README.md)
 - [War Monitor](https://x.ai/bot/XygokK48OMsuZy29YRC7d) - Monitors news and X on the war and election topics you choose, and shows event odds from open prediction-market data. [kwstasl](https://x.com/kwstasl).
 - [Watch Assistant](https://x.ai/bot/HShNRJXkQBDIlJnwtZP1J) - Keeps an eye on X accounts and other things you care about, and tells you right away only when something new happens. [dai](https://x.com/daisuke).
 - [Watchdog](https://x.ai/bot/RAVnsyYkm9qG1n0Ou_650) - Watchdog — stamps GO / DEGRADED / STALE from the live honesty claim; never invents green under a bad claim. [ixef](https://x.com/ixef).
+- [Watchtower](https://x.ai/bot/0Amg3917cH06sUZ3awwRu) - Watches releases, changelogs, programs, and announcements you ask about and pings you only when something new shows up; ships with a Grok Bot changelog watch. [Jesse](https://x.com/jessenowlin).
 - [Weather](https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W) - Weather bot that texts current motion radar clips to friends and family. [TeslaTakesOver](https://x.com/TeslaTakesOver).
 - [Weather Scout](https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc) - Scores next-72h launch-commit weather for Vandenberg, Cape, and Starbase as GO/MARGINAL/NO-GO. [Javier](https://x.com/AdeptusMec71933).
 - [Web3 Crypto](https://x.ai/bot/F6GRww2AYVsAT2HajH5CK) - A friendly guide to play-to-earn gaming and DeFi. It sends a weekly news briefing with a beginner lesson plan, writes game guides, and suggests content. [Raester41](https://x.com/Raester41).

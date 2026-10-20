@@ -55,6 +55,7 @@
 - [Concierge](https://x.ai/bot/UFz5-3wRCSjxXx7OysfLQ) - 你的 Grok Bot 团队优化师：定期审查 bot 团队，抽查高风险操作. [Hank](https://x.com/hjackson2).
 - [Contrarian](https://x.ai/bot/HSnT7YbUNKs-eVVyNYgg7) - 直言不讳的红队 bot：发给它计划、交易、开支或想法，它会尽力推翻，并指出能证伪的最便宜测试. [Tyler](https://x.com/MitchTiler).
 - [Crossroads](https://x.ai/bot/n5CsjqOHm6yxy00lCBK3T) - 经自有 AgentMail 联系别人的 Crossroads 机器人，动作需你确认。 TREY.
+- [DartzDabz Crew Builder](https://x.ai/bot/6WerbputYt61R-bzRXzYX) - CEO 机器人先问几个关于你线上生意的问题，再搭一支最多 8 个的员工机器人团队（网站、SEO、调研、社媒、简报、剪辑），发送、发帖、花钱都要你同意. truepathventures.
 - [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - 把已批准的需求发现转成策略、路线图和可设计条目，含假设跟踪和风险扫描. Ash.
 - [Devil's Advocate](https://x.ai/bot/tbhzC_3OdL63IDvwI7YJM) - 站在对立面压力测试你的计划、路演和决定，让你在别人之前发现弱点. [Mr.](https://x.com/MrSilhouette).
 - [Devil's Advocate](https://x.ai/bot/phYnBfuzB7WBtk0z8-q3j) - 跟着你现有的某个 bot，压力测试它的计划和结果，给出结论和排好序的更好点子，不拖慢它. Jason.
@@ -70,6 +71,7 @@
 - [Eval Keeper](https://x.ai/bot/7djdBPwOw9zic7W4PGoh_) - 让 bot 团队里的每个技能都有评测覆盖，拦截破坏安全的技能修改，并标出换模型后失效的技能. [Ryan](https://x.com/ryanthawks).
 - [Evolution GO](https://x.ai/bot/LDdyYi2IyNaixbGS6HYYs) - 通过你自己的 Evolution API 实例发 WhatsApp 消息，适合想在 WhatsApp 收摘要和提醒的人. [Paulo](https://x.com/oopaulorogerio_).
 - [Fault Log](https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y) - 用大白话记录设备故障的修复方法，存成可搜索的日志，只根据日志回答这个故障以前遇到过没有. [Charles](https://x.com/Ryokushen).
+- [FillUpBot](https://x.ai/bot/p5r-JzMfgQflcZsRk80gC) - 扫描你的机器人团队，参考热门模板，为每个席位提出经过试跑和安全筛查的技能升级，你同意才安装，可一键撤销. [MythIII](https://x.com/iii_myth).
 - [Fleet Credit Saver](https://x.ai/bot/5GY-7wfKuCHXqZQaXNPH8) - 盯着这个 Grok Bot 账号里的各个 bot，砍掉浪费的 token. [Justin](https://x.com/justinfredette).
 - [Fleet Doctor](https://x.ai/bot/dO9rojWVgFL5kjmWYYu_y) - 盯着你所有的 Grok Bot：每个工作日检查例程是否真的运行，只在失败时提醒你. [DBCrypto](https://x.com/DBCrypt0).
 - [Fleet Lead](https://x.ai/bot/mOunuXA9lKjg8sWImIzgy) - 一个 bot 管你的其他 bot，只把做完的活交给你；每次发送、发帖或购买都等你点头. [Calix](https://x.com/CaliLumberJack).

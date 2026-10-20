@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 5257 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 5266 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -107,15 +107,15 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 | --- | ---: |
 | [Coding & shipping](#coding--shipping) | 710 |
 | [Inbox & calendar](#inbox--calendar) | 213 |
-| [Research & briefings](#research--briefings) | 628 |
+| [Research & briefings](#research--briefings) | 629 |
 | [Customer & sales](#customer--sales) | 434 |
-| [Finance & ops](#finance--ops) | 609 |
-| [Content & publishing](#content--publishing) | 620 |
-| [Personal admin](#personal-admin) | 1493 |
-| [Teams & handoffs](#teams--handoffs) | 550 |
-| **合计** | **5257** |
+| [Finance & ops](#finance--ops) | 610 |
+| [Content & publishing](#content--publishing) | 622 |
+| [Personal admin](#personal-admin) | 1496 |
+| [Teams & handoffs](#teams--handoffs) | 552 |
+| **合计** | **5266** |
 
-2026 年 10 月 20 日检查时，5257 个分享页中 5232 个返回 HTTP 200（25 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 5257 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 20 日检查时，5266 个分享页中 5240 个返回 HTTP 200（26 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 5266 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -261,7 +261,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Research & briefings
 
-完整列表（628 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
+完整列表（629 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
 
 ## Customer & sales
 
@@ -269,19 +269,19 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Finance & ops
 
-完整列表（609 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
+完整列表（610 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
 
 ## Content & publishing
 
-完整列表（620 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
+完整列表（622 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
 
 ## Personal admin
 
-完整列表（1493 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)
+完整列表（1496 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)
 
 ## Teams & handoffs
 
-完整列表（550 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（552 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 

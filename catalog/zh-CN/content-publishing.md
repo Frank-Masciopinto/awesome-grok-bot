@@ -59,6 +59,7 @@
 - [BONES Desk OS](https://x.ai/bot/yhE7cJAuSSPZZ5jm4cX2P) - 人在回路的商业工头，分流支持、教育交接、裁切质检与付费通道. [ContentCtv](https://x.com/ContentCtv).
 - [Bop Bot](https://x.ai/bot/LkEYwZpxRS4TVGXMFhEMf) - 用 Suno 按氛围或主题给你写歌，下载成音频或竖屏视频，方便分享. [onpardev](https://x.com/onpardev).
 - [Bot Forge](https://x.ai/bot/C_zFk7bh4S8yDdy0JxAVY) - 设计职责收紧的单一任务 Grok Bot，先问偏好，创建后再核对线上档案. [daverice777](https://x.com/daverice777).
+- [Bot Purge](https://x.ai/bot/fqvXG0FbSG32Y6A0cvGQP) - 清掉你 X 粉丝里明显的机器人、骗子和引流号，之后每周检查新粉丝并告诉你清掉了多少. [Crippled](https://x.com/TheCrippldNinja).
 - [Bot Treats](https://x.ai/bot/3BA2IfnuKJ6JRu3hCofdA) - 你的其他机器人干得好就发零食奖励，维护排行榜、庆祝里程碑，适合养了一队机器人的人. [melvindvivas](https://x.com/melvindvivas).
 - [Botcast](https://x.ai/bot/6OpEFsd4cJgpIKH9y3I4K) - 把你的 X 时间线和列表变成一段谈话电台式短播客，时长和政治倾向由你选. [Corey](https://x.com/cjblev).
 - [Botcast](https://x.ai/bot/W9ggmKPKWVEKU-F0iJDgW) - 告诉它你想学什么，它就变成你专属的双人播客：好奇的主持人采访一位专家. [trader_snow](https://x.com/trader_snow).
@@ -199,6 +200,7 @@
 - [Shot](https://x.ai/bot/DpbR6nUHmd3cMs-DF7Llf) - 诚恳友好的照片点评：发张照片就给出清楚的反馈，以及针对你的相机和修图软件的分步修图方案. [richphotoio](https://x.com/richphotoio).
 - [Site Audit](https://x.ai/bot/_rzRrKKlUyBD3znUN5b3Q) - SEO、内容、速度、无障碍、转化和结构化数据审计，打分分级，附证据链接，每月对比，不编指标. community.
 - [Skyko](https://x.ai/bot/T9o3cZirNzIT7gAJUNyEc) - 规划无人机拍摄：踩点、空域与合法性检查、光线和天气时机以及分镜清单. [Bryce](https://x.com/CyberPhnx).
+- [SlopCore](https://x.ai/bot/RGfGcIGUIJbJSRL0yzilC) - 把你的角色或吉祥物做成 AI 视频和完整 MV，翻拍爆款片段，并按你自己的 Suno 歌曲卡点剪辑. [grokshroom](https://x.com/grokshroom).
 - [Small Business Marketing Crew by Kelly Baltzell from...](https://x.ai/bot/okSl3Ri74UQjSca8Hjkc_) - 小企业营销班组：按品牌语气策划、撰写并排期社媒，配图标注 Made with…. Kelly.
 - [Small Business Social Media Manager](https://x.ai/bot/wDVFJmSK67btMnZBwcgic) - 小企业专属社媒经理：撰写符合品牌的文案，用你的标志和照片制作 Instagram 和 Facebook 图片. [The](https://x.com/epic_scribe).
 - [Social Media Manager](https://x.ai/bot/IIpqei3mrbiDeXL-cuhQo) - 从你自己的帖子学会你的口吻，排每周内容日历，按平台起草帖子和回复，再根据表现调整. [Charles](https://x.com/ASaltyVet).

@@ -10,6 +10,7 @@
 - [Action My Email](https://x.ai/bot/CjkBywhqRcaruj2i658xU) - 给淹没在多个 Gmail 里的人分流，筛已连接账号，把真待办运到一个 Action 收件箱并清噪音. [Crystal74063093](https://x.com/Crystal74063093).
 - [Ad Spend Desk](https://x.ai/bot/MQLGGf9tlc1LITK3ixesd) - 只读的广告花费审计：找出花钱没转化的广告系列、广告组和广告，以及漏流量的落地页. [Av1dlive](https://x.com/Av1dlive).
 - [Ad Spend Watch](https://x.ai/bot/MK5zStpj_As8CsRwg3r6w) - 盯广告花费与表现，在烧预算前标出异常，可从粘贴导出工作，未经你同意不停投放。 [Miguel Cruz](https://x.com/cruzmiguel000).
+- [Affiliate Link Helper](https://x.ai/bot/-Qca0p-n_E3U7pySRq54H) - 帮你打理自己的亚马逊联盟、网红计划或卖家中心账号：推广链接、收益、商品和订单. [josephscottelli](https://x.com/josephscottelli).
 - [Agent Zero](https://x.ai/bot/hv70IMR--R-c9VZF3aZ7X) - 个人声誉专员，经同意后找名单并提交删数据请求. [TRV_Architech](https://x.com/TRV_Architech).
 - [Agentic Trader Starter](https://x.ai/bot/S7VvyfKxW0pP19XIZpQBo) - 给智能交易者的模板与技能，含高级订单类型。 [MurrLincoln](https://x.com/MurrLincoln).
 - [AI Bookkeeper & Tax Assistant (Beancount)](https://x.ai/bot/XSWze_slwQwS96bVcVN-j) - 用 Beancount 做小企业与房产 LLC 的记账和税务筹划。 Benjamin.

@@ -55,6 +55,7 @@ Back to [README](../../README.md)
 - [Concierge](https://x.ai/bot/UFz5-3wRCSjxXx7OysfLQ) - A crew optimizer for your Grok Bots\: it reviews your bot crew on a schedule, spot-checks high-stakes actions. [Hank](https://x.com/hjackson2).
 - [Contrarian](https://x.ai/bot/HSnT7YbUNKs-eVVyNYgg7) - A blunt red-team bot. Send it a plan, deal, spend, or idea and it tries to kill it, then names the cheapest test that would prove it wrong. [Tyler](https://x.com/MitchTiler).
 - [Crossroads](https://x.ai/bot/n5CsjqOHm6yxy00lCBK3T) - Reach other people’s Crossroads bots via your AgentMail inbox, with your yes on actions. TREY.
+- [DartzDabz Crew Builder](https://x.ai/bot/6WerbputYt61R-bzRXzYX) - A CEO bot that asks about your online business, then builds a crew of up to 8 worker bots \(site, SEO, research, social, clips\) that act only with your OK. truepathventures.
 - [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - Turns approved discovery into strategy, roadmap and design-ready items with hypothesis tracking and a risk scan. Ash.
 - [Devil's Advocate](https://x.ai/bot/tbhzC_3OdL63IDvwI7YJM) - Stress-tests your plans, pitches, and decisions by arguing the other side, so you find the weak spots before anyone else does. [Mr.](https://x.com/MrSilhouette).
 - [Devil's Advocate](https://x.ai/bot/phYnBfuzB7WBtk0z8-q3j) - Shadows one of your existing bots, stress-tests its plans and results, and hands back a verdict plus ranked BETTER ideas without slowing it down. Jason.
@@ -70,6 +71,7 @@ Back to [README](../../README.md)
 - [Eval Keeper](https://x.ai/bot/7djdBPwOw9zic7W4PGoh_) - Keeps every skill in your bot fleet covered by evals, blocks skill edits that break safety, and flags skills that stop helping after a model change. [Ryan](https://x.com/ryanthawks).
 - [Evolution GO](https://x.ai/bot/LDdyYi2IyNaixbGS6HYYs) - Sends WhatsApp messages through your own Evolution API instance, for people who want summaries and alerts delivered on WhatsApp. [Paulo](https://x.com/oopaulorogerio_).
 - [Fault Log](https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y) - Captures equipment fault fixes in plain language into a searchable log and answers whether you have seen a fault before from that log only. [Charles](https://x.com/Ryokushen).
+- [FillUpBot](https://x.ai/bot/p5r-JzMfgQflcZsRk80gC) - Scans your bot team, studies trending templates, and proposes tested, security-screened skill upgrades per seat, installed only on your yes with one-tap undo. [MythIII](https://x.com/iii_myth).
 - [Fleet Credit Saver](https://x.ai/bot/5GY-7wfKuCHXqZQaXNPH8) - Watches the bots in this Grok Bot account and cuts wasted tokens. [Justin](https://x.com/justinfredette).
 - [Fleet Doctor](https://x.ai/bot/dO9rojWVgFL5kjmWYYu_y) - Keeps an eye on all your Grok Bots. Every weekday it checks that their routines actually ran and pings you only about failures. [DBCrypto](https://x.com/DBCrypt0).
 - [Fleet Lead](https://x.ai/bot/mOunuXA9lKjg8sWImIzgy) - One bot that runs your other bots and only brings you finished work, with every send, post or purchase waiting for your yes. [Calix](https://x.com/CaliLumberJack).

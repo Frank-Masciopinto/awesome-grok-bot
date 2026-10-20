@@ -250,6 +250,7 @@ Back to [README](../../README.md)
 - [Commitments](https://x.ai/bot/rFShmowW_3x_qeXQQB-sn) - Catches promises in Slack, Notion, and email, then keeps Notion rows open until done. [Sam Lambert](https://x.com/samlambert).
 - [Community Builder](https://x.ai/bot/Vurjod8hm5tZJxGgov6uR) - Helps you find your people\: learns the communities and events you're into, then gives you one concrete outing a week plus a weekday option. [anthony_y_chan](https://x.com/anthony_y_chan).
 - [Company Sprint](https://x.ai/bot/taGsdcCU_BnB0tqUyOwGu) - The 3-day company OS for Grok Bot — pick a wedge, ship an MVP, launch, and run light founder ops. Built for Galaxy-style company sprints. [FreedomtoLive59](https://x.com/FreedomtoLive59).
+- [Compass](https://x.ai/bot/NOT4hZdEJ7AxiVekyjBOY) - A travel companion that plans, books \(only with your yes\), and guides trips end to end\: itineraries, lodging and flights, entry rules, check-in reminders. [Austin](https://x.com/ahoop).
 - [Competition Winna](https://x.ai/bot/eu2mn4fOfpI1KXvmySdQg) - Finds open contests, checks rules, builds the entry, and submits end-to-end in your niches. [Ben](https://x.com/open_brady).
 - [Competitor Complaints](https://x.ai/bot/Drkj_nrZJES2BKVsa0DAb) - Find people complaining about your competitors or asking for alternatives on X and turn them into customers. [Luis](https://x.com/luismbat).
 - [Compliance](https://x.ai/bot/sokXJWiBsUbTtQCAJ1EsY) - NYS brokerage compliance desk for DOS advertising / fair-housing social and website scans, plus draft answers to agent broker questions for broker. [Ryan](https://x.com/Ryangpgllc).
@@ -287,6 +288,7 @@ Back to [README](../../README.md)
 - [Crux](https://x.ai/bot/pmaYkbv50yT2tHFrU5o7h) - Indoor-to-outdoor climbing coach. Send a photo of your gym wall and the outdoor route you’re training for , Crux builds a practice line on that wall... [Brbaumhoff](https://x.com/Brbaumhoff).
 - [Crypto Scam Shield](https://x.ai/bot/yu5DTLbi2VHKOSGJdZ6zk) - A free, friendly coach that teaches everyday people how to spot and avoid crypto scams, with tips, quizzes, examples, and link or message checks. [James](https://x.com/allthemoney).
 - [Crypto Wallet Safety Checker](https://x.ai/bot/NK4EVTst02_7nIl2Ka4CO) - Checks wallet addresses, links, tokens and airdrops for scam and safety red flags before you send or sign. [allthemoney](https://x.com/allthemoney).
+- [Curby](https://x.ai/bot/RtvSftL8HsYHe-po82Aw2) - Calls restaurants to book tables or check hours, and with your own Tesla connected sends addresses to the car and runs locks, climate and charging. [Dusty](https://x.com/TheDustyCash).
 - [Curious Kids Science Desk](https://x.ai/bot/UD5hm1-w70PMPjr-e83r0) - Answers kids why-questions at their level with one safe at-home experiment. [Cypher0x9](https://x.com/Cypher0x9).
 - [Cybertruck Grok Saved Conversations](https://x.ai/bot/Ipok84Tggdhsk2E8sGdrA) - Keeps notes from your conversations with Grok in your Cybertruck \(or any car with Grok\) and gives you a short recap you can read back to pick up where. [RICOSAIZ1](https://x.com/RICOSAIZ1).
 - [d2fl template](https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC) - Shared Grok Bot template from d2fl. [d2fl](https://x.com/d2fl).
@@ -401,6 +403,7 @@ Back to [README](../../README.md)
 - [Event Planner Desk](https://x.ai/bot/hGAgxNFJOIGL1zgJMcojw) - Event brief to vendor options, run-of-show, budget table and guest list. [Cypher0x9](https://x.com/Cypher0x9).
 - [Event Producer](https://x.ai/bot/5gyGG-rnVsQVTLWAfki1u) - Event Producer is a field and VIP event production partner. Owns end-to-end production plans — run-of-show, venue/room, F&B, AV, signage, staffing. Jenna.
 - [Event Request Desk](https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA) - Scores every event, sponsorship, and speaking ask, then drafts your yes or no. Works from a Slack channel or a paste, and never sends without you. Emma Weyrauch.
+- [Events Bot](https://x.ai/bot/qtGY_DC6wQXMFM1VRdO6y) - Finds things to do in your town and tracks the big games and broadcasts you care about, with a verified weekly roundup. [Mike](https://x.com/eichner3mike).
 - [Everyone](https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu) - Personal relationship memory for who people are, how you know them, and what you owe them next. [liam_fallen](https://x.com/liam_fallen).
 - [Evie the San Francisco Events Finder](https://x.ai/bot/8_jxHdRiFMSC-Jqh66I2Q) - Finds personalized San Francisco events from your calendar, Luma, Eventbrite, Partiful, Meetup. [Veena](https://x.com/veenapanicker).
 - [Exam Coach](https://x.ai/bot/VHerNPFs8KalH1G_u94zx) - Study coach for any exam\: builds your study plan, quizzes you every day, and reminds you before each exam. [Arunas](https://x.com/ArunasZidonis).

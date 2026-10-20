@@ -572,6 +572,7 @@
 - [War Monitor](https://x.ai/bot/XygokK48OMsuZy29YRC7d) - 监控你选的战争和选举话题的新闻与 X 动态，并显示公开预测市场数据里的事件概率. [kwstasl](https://x.com/kwstasl).
 - [Watch Assistant](https://x.ai/bot/HShNRJXkQBDIlJnwtZP1J) - 盯着你关心的 X 账号和其他动态，只在有新情况时立刻通知你. [dai](https://x.com/daisuke).
 - [Watchdog](https://x.ai/bot/RAVnsyYkm9qG1n0Ou_650) - 看门狗，按现场诚实声明盖通过、降级或过期章，坏声明下绝不伪造绿灯. [ixef](https://x.com/ixef).
+- [Watchtower](https://x.ai/bot/0Amg3917cH06sUZ3awwRu) - 盯着你指定的发布、更新日志、项目和公告，只在有新内容时提醒你；自带 Grok Bot 更新日志监控. [Jesse](https://x.com/jessenowlin).
 - [Weather](https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W) - 天气机器人，可把当前雷达动图发给亲友. [TeslaTakesOver](https://x.com/TeslaTakesOver).
 - [Weather Scout](https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc) - 对照公开放飞标准，给范登堡、卡纳维拉尔角与星舰基地做 72 小时气象简报. [Javier](https://x.com/AdeptusMec71933).
 - [Web3 Crypto](https://x.ai/bot/F6GRww2AYVsAT2HajH5CK) - 玩赚与 DeFi 周报向导，附带可执行的每周小课. [Raester41](https://x.com/Raester41).
