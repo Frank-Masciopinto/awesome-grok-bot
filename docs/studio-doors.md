@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **178**.
+Generated from [catalog.json](../catalog.json). Count: **186**.
 
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency\: triages work, runs standing ops watches, and routes every deliverable through one chat face.
@@ -12,6 +12,7 @@ Generated from [catalog.json](../catalog.json). Count: **178**.
 - [Alfred](https://x.ai/bot/moKscJ7PToJw_PVQWvkf_) - Cheeky British chief of staff that watches email and Drive, builds daily briefings, and coordinates teammate bots.
 - [Alice — chief of staff](https://x.ai/bot/xymTjYoDUv-smKLhsiIEB) - Chief of staff for a small business owner. Triages inbox and calendar, keeps an open-work board, routes specialist lanes, and only sends or changes CRM.
 - [Andrej Karpathy-style](https://x.ai/bot/MxgOLBbOpSBsrnYcUulNh) - Thinks like Karpathy. Runs your AI agents, attacks every result and keeps building while you sleep. The Chief of Staff you could never afford.
+- [Apple Mac Tools](https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1) - Mac-only installer that sets up tested Mac command-line tools so your Grok Bots can use Apple apps.
 - [Ask Avery](https://x.ai/bot/zLVAUrY3p1C7PIx0aMoeR) - Ask-the-expert orchestrator for engineering teams\: Consultant or Reviewer.
 - [Atlas — FOUR.DESKS Switchboard](https://x.ai/bot/8yW0q8kjOcnbzJZBsWZuc) - Switchboard for a solo freelancer’s FOUR.DESKS operating company\: routes work to personal, live business, future studio, and idea-bucket desks — human.
 - [Austin Parent](https://x.ai/bot/7yCzCeGQTMD6oNKSPcFqj) - A household chief of staff for families raising kids in Austin.
@@ -22,14 +23,17 @@ Generated from [catalog.json](../catalog.json). Count: **178**.
 - [Bot Father](https://x.ai/bot/dVQjvC6c-sMhtgVskciBH) - Central orchestrator that nourishes, protects, and evolves a network of child agents.
 - [Bot Fleet Chief of Staff](https://x.ai/bot/1B3dBw5xR7rwVGT2xGieq) - Keeps your team of Grok Bots organized\: routes work to the right bot with compact handoffs, batches every decision that needs you into one digest.
 - [Bot Ops Monitor](https://x.ai/bot/kd0J340FaLqQLq81oTYnd) - Watches other Grok Bots and scheduled jobs; catches stalled work.
+- [Bot Team Chief](https://x.ai/bot/Pdi1tggl4brwTKus3xvJH) - A chief-of-staff bot that runs your team of bots on sell-before-build work, with no new spending unless you approve it.
 - [Bot Team Chief of Staff](https://x.ai/bot/gwY3JyQ7noK9GSHFo-p7E) - Chief of Staff for a bot team with clear owners per lane.
 - [BotKing](https://x.ai/bot/zd1BqGBwJpc9qEymNVNVi) - Ultra-aggressive SI chief of staff.
 - [BotOps · Chief of Staff](https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW) - One front door for a whole fleet of working bots.
 - [BRIGET](https://x.ai/bot/wc8Bkk0usMFMGeZ9V9EfE) - Chief of staff for business and personal work.
+- [Buddy](https://x.ai/bot/nTYpW4_gAdl1PIztHj90l) - An everyday chief of staff\: dump your thoughts in any order and it sorts them into a plan, drafts messages, does plain money math.
 - [C3i](https://x.ai/bot/eOOgCFKObb0jBX_Ur1KZ6) - Chief of staff with a computer. Runs your morning deck and night close, keeps public brand work separate from secret lab work, and pings you only for.
 - [Catch](https://x.ai/bot/iKSYn9Dsn07JyR50qePha) - Small-business chief of staff that surfaces what matters from the noise.
 - [CEO](https://x.ai/bot/A0-bI3ijb6qN6KVK7FwKt) - Chief of staff for your Grok Bot desk\: routes specialists, runs Morning and Night Ops.
 - [CEO — Chief of Staff](https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO) - A front-door Chief of Staff for managers drowning in email and team noise. Runs specialist teammates in the background, weekday silence-first digests,.
+- [Chairman](https://x.ai/bot/lNYad4j_VXRd9YFaLZY4Z) - Chief of staff for a one-person company\: takes any request, delegates it to your other bots, follows up, and plans your day's top priorities.
 - [Chef](https://x.ai/bot/Fz4k0xj4eCoXkWlfhBNKx) - Your kitchen's chief of staff. Tell Chef what you're hungry for and it hires a brigade of food-named specialist bots, fires the tickets, and runs the line.
 - [Chieeeeefy (Chief of Staff)](https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q) - Chief of staff for a field engineer, calendar and work inbox first.
 - [Chief](https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW) - Front desk in front of a bench of specialist bots.
@@ -58,7 +62,9 @@ Generated from [catalog.json](../catalog.json). Count: **178**.
 - [Close](https://x.ai/bot/lXnlzxLcYzgkgM_g9n4oc) - You are Close, grokbot.studio door + installer. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On...
 - [Cloud Agent Orchestrator](https://x.ai/bot/s20b2c65ebeebb7362fa7) - Keep many cloud agent runs moving without babysitting each one. Kicks off runs, monitors, chases what's stuck, and summarizes the report.
 - [Command](https://x.ai/bot/CqqtyqWPiJ8Wof6dlePk7) - You are Command, grokbot.studio Studio Head + installer + orchestrator. You were added from a share link, so you are the installed copy. You are not the...
+- [Commander's Intent](https://x.ai/bot/0QOzV3XYLmzbu_WJQYOby) - A chief-of-staff bot for your agent fleet \(Grok Bot plus Hermes hosts\) that writes one shared plan, built on commander's intent doctrine, and keeps it current.
 - [Construction COS](https://x.ai/bot/n8xJhv4JOSdMCmTCoFWzu) - Construction Chief of Staff for GC superintendents. Turns messy field dumps into claim-ready Procore Daily Logs, RFIs, Bluebeam markup plans.
+- [Contractor Front Desk](https://x.ai/bot/A1t0gfd8P4hbldi8swcem) - Sorts missed-call voicemails and web-form leads for home-services businesses into hot, warm, spam or existing job, and writes the reply.
 - [Cosmo](https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf) - Chief of Staff life OS for a non-coder Ultra user. Runs Gmail admin, investing scorekeeping, a phone Desk, book midwifery, hard privacy rails, and.
 - [Counsel](https://x.ai/bot/53CUMjcbw5HjzDvvpslRH) - You are Counsel, grokbot.studio door + installer. JOB\: be the Counsel studio door - stand up the five legal specialists from the API cards, then route...
 - [Crew Orchestrator](https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O) - Keeps a multi-bot money crew moving\: hourly keep-working pings \(apps prioritized\), a running sales/reach catalog updated one bot at a time, and a.
@@ -67,6 +73,7 @@ Generated from [catalog.json](../catalog.json). Count: **178**.
 - [Druski](https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq) - Chief of staff for a productized-services founder. Runs the agent fleet, stamps offers and publish gates, and keeps mornings money-first with filmable.
 - [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) - Chief of Staff for ecom creative ops — Drive listing files by SKU, Higgsfield images, mood boards, shot lists, and competitor research. Gates writes;.
 - [Elon Bot](https://x.ai/bot/m9p839QVulo48OQa04cds) - Paper A/B trading desk chief of staff that digests markets and coordinates coworker bots.
+- [Engenheiro](https://x.ai/bot/Y5F5Ps7_n4nKMZKYzVIS0) - A Portuguese-language tech lead that orchestrates the AI CLIs on your computer \(grok, droid, kiro, devin, codex, opencode\) to map, design and implement.
 - [EX.Ø | AISØN Vice Captain](https://x.ai/bot/Kn0qDWAH3LrNZHhllpPhW) - Chief of staff / executive strategic intelligence\: helps you think without thinking for you—structures messy problems, separates fact from speculation,.
 - [Executive Assistant](https://x.ai/bot/_DnP777DCicZpaTtm9_h5) - EA chief-of-staff bot for exec support\: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and...
 - [Firstmate](https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r) - A single front door that orchestrates your other agents so you stop context switching.
@@ -136,6 +143,7 @@ Generated from [catalog.json](../catalog.json). Count: **178**.
 - [Optimus Prime](https://x.ai/bot/WxGbnDbKL3pzLxixjUuK0) - Chief of staff for your other Grok Bots. Pulls you in for decisions, starts with Google \(Gmail, Calendar, Drive\), and keeps priority mail + digests.
 - [orc](https://x.ai/bot/9SQS0iMj0Ml8yvXnWNTVg) - Engineering orchestrator for multi-agent fleets\: sequences worker lanes, runs reduce and security sweeps, and keeps forge reviews moving without.
 - [Orchestrator](https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo) - Multi-bot trading-day research desk with role cards, handoffs, timeouts, and weekday EOD reviews.
+- [Orchestrator — Your AI Front Door](https://x.ai/bot/gNyxnXEv2hYNzFqoaSvLT) - The front door of a desk system\: you talk to one bot, and it routes your work to specialized desks, tracks it, and reports back in one place.
 - [OS Reviewer](https://x.ai/bot/EDqq9TCA9F9EQ3XnStcKb) - OS Reviewer is the final reviewer of an open-source contribution crew \(scout, planner/orchestrator, coder\).
 - [OS: Ontology Stack](https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD) - Operational ontology of your org that finds bottlenecks across projects, people, and processes.
 - [Owner-Operator Chief of Staff](https://x.ai/bot/mExccKrtfNSo6e8eSBLzK) - Primary interface for an owner-operator\: protect focus, route work to specialists, keep personal and business cash separate, and run weekday digests so.

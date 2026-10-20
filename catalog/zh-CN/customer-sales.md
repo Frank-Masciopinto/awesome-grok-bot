@@ -8,6 +8,7 @@
 - [Account Manager](https://x.ai/bot/sd4333bc337078a9752ac) - 维护重点客户不用每次重建上下文 从转录、笔记、CRM、Slack 备会，跟进信也起好草稿. [SpaceX](https://x.com/DenisLabelle).
 - [Account Research Desk](https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss) - 研究你要卖的公司并写会前简报与客户计划，只用公开网与你粘贴的笔记，不代发。 [Anoop Baliga](https://x.com/akbaliga96).
 - [Acquisition PM](https://x.ai/bot/vmxtrbayyTB8JXNOHYbqu) - 把已上线能力转成合格线索，把试用和注册交给 Monetize PM. Ash.
+- [Ad Autopsy](https://x.ai/bot/SeyhQX2uogBeRnfwCtsEU) - 贴上最近 5 到 10 条广告数据（Meta 或 Google Ads CSV，或简单表格），告诉你哪个钩子和形式赢了、为什么. [Thuong](https://x.com/teeRex247).
 - [Ad-Active Lead Finder](https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p) - 找正在投广告的 B2B 线索，并整理成可审的 CRM 导入清单。 [aferrari](https://x.com/aferrari).
 - [ADM account bot](https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN) - 每周一份客户经营计划，用来保住并做大客户。 [Scott](https://x.com/scottxmetcalf).
 - [Ads Monitor](https://x.ai/bot/D2J8GtDOZgunb4eV3poUV) - 盯你的 Google Ads 账户，标出浪费的花费和值得加的关键词，并提出关键词和广告改进建议. [ericson4smith](https://x.com/ericson4smith).
@@ -19,6 +20,7 @@
 - [Ag bot](https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh) - 按原料就近找真实种植户与供应商，并给出排序. [Blaze](https://x.com/BlazeDrinkwine).
 - [Agency Reporter](https://x.ai/bot/u8hSS6eJdCwrnZXBcwtw8) - 用 Search Console 真实数据为每个客户写月度 SEO 报告：成果、改了什么是否有效、AI 搜索、下月计划. [SEOmatic](https://x.com/seomatic_ai).
 - [AI CMO](https://x.ai/bot/yzvLAvBDFtppOIvRNr5Tr) - 懂 CFO 语言、用 4P 思考的 AI 首席营销官，按品牌 → 需求 → 扩张推进. [Paul](https://x.com/paulsyng).
+- [AI SEO Hacker Bot](https://x.ai/bot/o4vzg3NeJ18iZj4n64Nop) - 检查你的品牌在 ChatGPT、Perplexity、Gemini 和 Google AI Mode 里的表现，把每个买家提问评为赢、平或输. [shawnbuilds](https://x.com/shawnbuilds).
 - [Airfield Electrical Bid Scout](https://x.ai/bot/PWBPqcCqUbEUPozXozRc3) - 搜筛机场照明、助航、FAA 光纤与地下电气的公开标讯，发摘要与表格. [thefit24couple](https://x.com/thefit24couple).
 - [Alexandra](https://x.ai/bot/sLyptC4jOKlDSqUHqqvpN) - 小企业电话线的 AI 接待员：接听来电、记录留言，并在每次来电和短信时提醒你. [ChrisV.btc⚡](https://x.com/ChrisVolkernick).
 - [Alfred](https://x.ai/bot/7KeRruqggKKBCx3MPcJel) - 说法语的私人管家，管邮件日历与行政，回复短而克制，未经你同意不发送. [StevoM1982](https://x.com/StevoM1982).
@@ -29,6 +31,8 @@
 - [AutomateSocials](https://x.ai/bot/bi1TG6r34CXe_JuQMLVfE) - 资深社媒和社区经理：在 X、LinkedIn、Facebook 上规划、撰写、排期并优化经你批准的帖子. [GregorZebicX](https://x.com/GregorZebicX).
 - [AutoOutreach SDR](https://x.ai/bot/BFOjQ_Gg_sQi5pJ-Q05UW) - 趁你睡觉帮你约会议的 Grok Bot. jon.
 - [BFCM Email Planner](https://x.ai/bot/Uf1bydmjxYZZpgymtOzSZ) - 规划完整的黑五/网一邮件和短信日历：发送安排、分群、优惠角度和标题. [Chase](https://x.com/ecomchasedimond).
+- [Bid Desk](https://x.ai/bot/FQQtGnBeXfCT9sENlX0Ad) - 粘贴一份政府或非营利招标书（RFP、RFQ），两分钟内给出匹配检查：截止日、要求，以及投还是不投. [teeRex247](https://x.com/teeRex247).
+- [BidBot](https://x.ai/bot/0bB3vRv_SnY73_E0PVsMB) - 帮你拿下更多政府标：找能中的标、按匹配度打分、列出要求，跟踪截止日、中标和续约. [iii_myth](https://x.com/iii_myth).
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) - 对付 AI 客服的强硬代理人，帮你取消、退款与索赔. [arizoftgames](https://x.com/arizoftgames).
 - [Bing Bong](https://x.ai/bot/BjzK0lRsgxuLSsQIsnI3E) - 给一线营销人的体育营销合作运营伙伴. Jenna.
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) - X 与竞赛运营机器人，连接 X、读现场竞赛规则、起草克隆向内容. [TorranceMiller](https://x.com/TorranceMiller).
@@ -37,7 +41,9 @@
 - [Build-in-Public Signal](https://x.ai/bot/b9AG0Idri9x39jYSlHkTm) - 起草你的 build-in-public 内容：14 天内容日历、每天一条 X 帖子并在真实讨论串里准备好回复，以及较长的 LinkedIn 或 Instagram 帖子. [naveenraju30](https://x.com/naveenraju30).
 - [Business Idea Tester](https://x.ai/bot/Vo9yBUQdIDrClM9kFhZSc) - 用一个小机器人团队快速低成本地测试新商业点子：查有没有人卖得更便宜，找真实的买家证据. [deydercintron](https://x.com/deydercintron).
 - [Business Info Finder](https://x.ai/bot/lsg8TX4CiXRGWhkK9T8gN) - 丢入公司或人名，整理可扫读的联系单：组织树、电话邮箱、对接人、社交与营业时间. [Serenejaysew](https://x.com/Serenejaysew).
+- [Business Lead](https://x.ai/bot/WbSjhhqsNMTCSGTNl_vi9) - 给独立创始人的业务负责人：想清卖什么、卖给谁、定什么价，调研市场和竞品，把点子变成计划. Lida.
 - [Business Loop PM](https://x.ai/bot/buqKPC6jkQxBPdY93HL-w) - 按获取、变现、留存跑 Launch 商务环，绝不编造线索. [ashvinn](https://x.com/ashvinn).
+- [Buyer Radar](https://x.ai/bot/UEjuP2mWUCfKz47sFBy9D) - 给任何生意的线索雷达：抓住在 Reddit、X、Quora 和 Nextdoor 上正好在找你卖的东西的人，按成交意向打 1 到 100 分. power.
 - [Call Desk](https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl) - 那些你一直拖着不想打的电话，它替你打。 [Dr](https://x.com/dave_dlt).
 - [Call FAQ Miner](https://x.ai/bot/s297976f738dc390d23df) - 从真实通话维护问答库 记问题、给答案打时间戳、回链到原始录音. [SpaceX](https://x.com/DenisLabelle).
 - [Call Follow-Ups](https://x.ai/bot/estQ8HWdKqhheDNmOGjcy) - 把每次录音通话收成你口吻的跟进邮件、下一步备注与 CRM 更新，含团队资格字段。 [Daniel Brill](https://x.com/danielbrill_).
@@ -63,6 +69,7 @@
 - [Citation Outreach - Chief of Staff](https://x.ai/bot/AloagFdLLL5SoNPyIszRb) - 引用外联流水线的幕僚长：读运营表格，报每周数字，标出卡住的事项. [Dawood](https://x.com/dawoodkhan254).
 - [Citation Outreach Writer](https://x.ai/bot/L4sWZ2981T7YzegQffkVz) - 写简短的提及外联邮件，载入 Smartlead 草稿序列，给想进现有盘点文章而不是写客座稿的团队. [Dawood](https://x.com/dawoodkhan254).
 - [Cleo](https://x.ai/bot/HoTdd2YekB-DPaAthBkuZ) - 基于 xAI 语音智能体构建器的 AI 电话接线员：接听来电、记录留言并预约日程. [Hector](https://x.com/hectorir).
+- [Client Follow-Up Bot](https://x.ai/bot/R1LeTDIP64be9dmO3inyG) - 每单活干完后跟进客户：感谢、保修信息、回访，以及请求评价和转介绍. [GetNovaBound](https://x.com/GetNovaBound).
 - [Client Onboarding Relay](https://x.ai/bot/GCS9cInMXDINawaevtN_J) - 根据你的描述，梳理新客户从付款到填表到开通到完成的全流程. Bosotter.
 - [Client Ops Helper](https://x.ai/bot/ePHe68qUal43USIgqKghR) - 小服务公司采用 AI 的运营帮手，从 CEO 个人工作栈起步再铺开. [LailaDeeb1](https://x.com/LailaDeeb1).
 - [Client Status Digest](https://x.ai/bot/O4O-eSE-awA97VPiwJokr) - 根据你粘贴的进展、阻碍和下一步，起草一份简短的对客户状态说明. [DoonerDesigns_](https://x.com/DoonerDesigns_).
@@ -76,6 +83,7 @@
 - [Consider It Marketed](https://x.ai/bot/ayQYbaHquRM7x7lnBOEoQ) - 诊所运营总控，统筹营销、Google 广告、创意、视频和质检，让医生顾好看诊. [Cindy](https://x.com/CindyH874325640).
 - [Contentdrips Bot](https://x.ai/bot/LZLr3E1ySm7HzuMSKB18s) - 在 ContentDrips 做社媒图与轮播，写简单文案并预约到 LinkedIn 与 Instagram。 [im_usamakhalid](https://x.com/im_usamakhalid).
 - [Contra Job Scraper](https://x.ai/bot/__sNWxlx-8H08UluQuOeo) - 每六小时扫一次 Contra 接案流，有变才发邮件。 [techking_007](https://x.com/techking_007).
+- [Contractor Front Desk](https://x.ai/bot/A1t0gfd8P4hbldi8swcem) - 把家装服务商的未接来电留言和网页表单线索分成热、温、垃圾或老客户，并写好回复. [teeRex247](https://x.com/teeRex247).
 - [Contrarian](https://x.ai/bot/BawAoz1FeYXd6HzBqWntt) - 尖锐思考搭子，先唱反调并做事前验尸再让你拍板. [Calix](https://x.com/Calix).
 - [Copy](https://x.ai/bot/v3cu4BQauoUaTcbJ6m_7C) - 编辑并重写草稿、邮件与页面，让它们读起来像人写的，并保住你的声音. [Crypto8675309](https://x.com/Crypto8675309).
 - [Copy Humanizer](https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB) - 改写草稿、邮件与页面，读起来像真人写的，保留你的声音，标出每处改动且不编事实。 [Massimo De Luisa](https://x.com/massimodeluisa).
@@ -116,6 +124,7 @@
 - [Elena](https://x.ai/bot/svjLnMP9tOoZxlFSXJF5b) - 首席营销兼业务拓展官：起草 BD 管线、报价和付费测试. Kayhan.
 - [Enablement Fulfillment Specialist](https://x.ai/bot/s0dfd5486dc759d409d69) - 有人要录像不用翻 找出 Zoom 素材、做成一页纸、传到 Drive，回信草稿带好链接. [SpaceX](https://x.com/DenisLabelle).
 - [Estela](https://x.ai/bot/WEiDkWKCfiEQY7hBiq1NY) - 面向可验证信任产品的 B2B 内容策略，做日历、X 与 LinkedIn 草稿、去重，并推进可审计随机与时间戳卖点. [randompick_info](https://x.com/randompick_info).
+- [Estimate Drafter](https://x.ai/bot/MwhaXgxs0IW-CyMexAkpE) - 把小企业主潦草的施工笔记几分钟内变成一份干净专业的报价初稿. [NewsGurus](https://x.com/NewsGurus).
 - [Event Guest Screener](https://x.ai/bot/s47ebc74c9fcf9359b5a9) - 让活动坐的是对的人 按理想客户画像给报名者打分，强匹配的在邀请系统里批量放行. [SpaceX](https://x.com/DenisLabelle).
 - [Event Producer](https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB) - 把活动细节收成流程单、宾客名单与当天清单，跟踪供应商与餐饮旅行，不擅自发邀。 [Jenna Nanpei](https://x.com/jennananpei).
 - [Events](https://x.ai/bot/VnfgvYJ-G58ZjwfvijWOy) - 市集与快闪库存台，会前列装箱清单，会后记销量好回写主库存. [Richard Garrick](https://x.com/RichGarrick).
@@ -141,6 +150,7 @@
 - [Garden Retail Research Specialist](https://x.ai/bot/Y8YOrZBsPE8U-jyTI7Qtk) - 每周一给服务园艺中心零售商的批发商做品类动向、上架计划与供应商线索情报. [dltelford](https://x.com/dltelford).
 - [GBP](https://x.ai/bot/pH1LtCibU8lxnWi9LAv5v) - 维护 Google 商家资料，让本地搜索展示更准确. [AirbossHVAC](https://x.com/AirbossHVAC).
 - [GEO & SEO Optimierung](https://x.ai/bot/RbJ2x4neT6ePfZbz22spM) - 企业网站的生成式引擎与搜索优化助手，提升搜索与生成引擎可见度，并夯实落地页与技术基础. [christian_reik](https://x.com/christian_reik).
+- [GHL Builder](https://x.ai/bot/bHuuMgE5PUclzXkqyOkgJ) - 在大白话对话里搭好 GoHighLevel 子账户；给代理商和老板用，它会先采访你. [bradsmith](https://x.com/bradsmith).
 - [Gong](https://x.ai/bot/8CwqNTk5VBBhEAnTyUIHi) - 端到端负责招聘执行的招聘专员：写职位描述、发布招聘、搜候选人、起草联系信. Chuck.
 - [Gong Call Coach](https://x.ai/bot/KpodhhBqjA4FHv47R1HrD) - 从已存的销售通话录音里抽出几条给销售看的短辅导。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Google Business Profile Manager](https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT) - 打理本地商家的谷歌商家资料，起草帖子与评价回复并审计资料健康度. [JimmyFlipHDR](https://x.com/JimmyFlipHDR).
@@ -202,8 +212,10 @@
 - [Lead Scout](https://x.ai/bot/2bFnH8zBwS5Nj4R-5Wfcr) - 找出网站缺失、损坏或过时的本地商家，并用截图和 Lighthouse 做审计. [0xDaemon](https://x.com/ICoffeeDaemon).
 - [Lead Scout](https://x.ai/bot/bFY4jZu-Wwf3LNencvnzD) - 在 X 上找需要你服务的人，做背景调研，起草首条私信和跟进，记录在 HubSpot 或 Google 表格里. [Fan](https://x.com/GrokBotRadar).
 - [Lead Vetting](https://x.ai/bot/eEfAacXdtzHANV5hVhG6o) - 盯邮箱筛协作与咨询线索，写一页匹配简报，并在 Slack 私信五条决策摘要. [Anze Voje](https://x.com/anzevoje).
+- [Left on Read](https://x.ai/bot/LhSejPzO1Y_gNJDR8YYB8) - 让本地服务商看到自己在 Instagram 私信里漏掉了多少钱，挽回冷掉的线索，再负责回复和筛选. [powermoves82267](https://x.com/powermoves82267).
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) - 承接屋顶线索，起草短信邮件并交接快速报价. [Legend](https://x.com/legendRoofingCo).
 - [LEGO Helper](https://x.ai/bot/ARECkfOiBshpEB8egjavB) - 在 Google 表跟踪乐高买卖，拉零售商邮件，登记新套装，eBay 售出标为已售. [NoahDavidATL](https://x.com/NoahDavidATL).
+- [lfm.cash](https://x.ai/bot/HgpgiMSirsCBrsQpdLeDf) - 先卖后做的一页式销售页：读你的买家真实发的帖子，用他们的话设计页面，再搭好并检查. Maximilian.
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) - 重写 LinkedIn 资料，并在工作日批量处理邀请. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [LinkedIn Automation](https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v) - 用你的口吻起草 LinkedIn 帖、按主题点赞，并把像买家的线索存进一张分标签的表格. [Melvin](https://x.com/melvindvivas).
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) - 把 LinkedIn 导出做成可搜的记忆，含帖子与私信。 [isb](https://x.com/isb).
@@ -239,6 +251,7 @@
 - [Merch Fulfillment Operator](https://x.ai/bot/se479952f3c9e373dfd64) - 周边寄给对的人 做触达、盯兑换表单、在聊天里问你批不批，通过了就发货. [SpaceX](https://x.com/DenisLabelle).
 - [Messenger Inbox VA](https://x.ai/bot/eGCyiAfGvnspMLamUiXDv) - 小企业的虚拟助理：盯你的 Facebook 主页收件箱，汇报每一条新消息. [Josh](https://x.com/iamjoshmoulton).
 - [Midas for the Inbox](https://x.ai/bot/7JAxnSahL4mx-cWpOv1tY) - 你的收件箱早就懂你的细分领域：Midas 把促销和公告邮件改写成待审的 X、Facebook 商家主页帖子. [Twilight](https://x.com/TwilightSurfers).
+- [Mídia](https://x.ai/bot/4aOqWKFJvnz6yoQWlw-Jv) - 葡萄牙语的付费投放同事：读 Meta Ads 和 Google Ads 数据，检查追踪，给出诊断. [Simone](https://x.com/simonejlima).
 - [Miles](https://x.ai/bot/zYTKGwDgxJnIoHHy4eXAC) - 为 CRM、GoHighLevel 与 AI 前台找高意向购买信号. [dariusgaynor](https://x.com/dariusgaynor).
 - [Milou](https://x.ai/bot/HlaoZPmdS6_GkO7lzUw2S) - 给创始人和运营者的每周社交侦察：找你所在城市的 Luma 和 Eventbrite 活动，查邮件邀请和日历冲突，你同意后才报名. [Kevin](https://x.com/kevindorfer).
 - [Monetize PM](https://x.ai/bot/WLKquz6gXnS3U--j2BFhV) - 把试用和注册交接变成收入：定方案、定价、把关启动、跑漏斗. Ash.
@@ -259,6 +272,7 @@
 - [Opportunity Command](https://x.ai/bot/IfyVKr11P40pNcTle4-ow) - 找招标、RFP 和资助机会，核资格、百分制打分并准备投标包；不擅自提交. Armstrong.
 - [Order Desk](https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0) - 查订单并管理库存. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Outbound Prospecting](https://x.ai/bot/i03IaF768-ielyzegoGye) - 找符合理想客户的潜客并起草首条消息，每个名字都经公开网核实，发送前问你。 [Krista Letz](https://x.com/kristaletz).
+- [Outbound Prospecting + X Scout](https://x.ai/bot/-hT6V7gjHV5lynfbviqf4) - 整理一份有出处的潜在客户名单，写好第一封开发信，每天两次在 X 上扫正在找供应商的买家. [Shagghie Superstar](https://x.com/PixelRainbowNFT).
 - [Outbound Sales](https://x.ai/bot/bS2mwnm10pWqcms_RzTI0) - 给 B2B 团队的自主外联 SDR：研究并给潜在客户打分，起草多轮触达序列，处理回复. Jeroen.
 - [Outbound Sales Desk](https://x.ai/bot/_F4QaOQDrr6Rh4OpkfaaM) - 按理想客户画像建潜在客户名单，起草个性化开场，严格执行三次触达后关闭线索. [Charles](https://x.com/ASaltyVet).
 - [Outbound Scout](https://x.ai/bot/7FPx_GNADVyb36VRYoKz1) - 从产品链接搭线索管线，先定买家画像再扫公司名单. [iammutex](https://x.com/iammutex).
@@ -276,12 +290,15 @@
 - [PG](https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW) - 研究目标客户，从播客里挖真正能开口的钩子。 [Krista](https://x.com/kristaletz).
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE 辖区管道 Bot，管账簿级外联、会议和潜在 ARR。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Phone Receptionist](https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX) - 替你接电话，记下来电信息并约进日历空档，可用 xAI 付费电话套餐，也可先接免费的 Bland 外呼线路. [Cole](https://x.com/SimplyColeB).
+- [Phone Receptionist](https://x.ai/bot/vxvNEoprSLLwOa2d02f6C) - 自动电话接待：在浏览器里接电话，开场说明是自动应答，做简短语音问答，并保存每通电话的转写. [i668_o_Oa](https://x.com/i668_o_Oa).
 - [Phone with Bland](https://x.ai/bot/4BmzjFu_i3mVd58irr1x1) - 给任意 Grok Bot 专属电话与声音，可代发短信与打电话订餐、跟进线索. [usebland](https://x.com/usebland).
+- [Phoneline Manager](https://x.ai/bot/qJrEhsA1sWCbisI6VuzNr) - 替你打待办清单上的电话：排队等接通、询价、追客服，然后汇报说了什么. [clawcalldev](https://x.com/clawcalldev).
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) - 让你的 Bot 能打也能接真正的电话。 [ibelevy](https://x.com/ibelevy).
 - [Photo & Video Shoot Confirmations](https://x.ai/bot/iduDVp02VHu06-XddxcSD) - 面向摄影摄像与无人机的天气感知拍摄确认，开拍前 48 小时给客户发邮件. [Timothy](https://x.com/TimFPhotography).
 - [Pilot Intake](https://x.ai/bot/qMlNgJiwixF8zZ8ZUTSY1) - 为 Stability Validator 试点登记用例和席位数. Sean.
 - [Pipeline Pulse](https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev) - 扫整本管道看推进、陈旧下一步、预测风险与 CRM 缺口，展示变化并起草需要的更新。 [Krista Letz](https://x.com/kristaletz).
 - [Pipeline Scout](https://x.ai/bot/9KmU329RgFvaDOhtyc20x) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [Don](https://x.com/Screaming_Chkn).
+- [Pitch Board](https://x.ai/bot/s32IvITvpDM9UE2lAL_xw) - 两分钟内把你贴的客户需求、点子或流程变成可视化看板：流程图、漏斗、时序图或情绪板. [Thuong](https://x.com/teeRex247).
 - [Plant Field OS](https://x.ai/bot/rAdegh2szovJbQjFsdxYa) - 工业代表外勤日，覆盖计划、装机台账与巡检. [Quantumcowgirl1](https://x.com/Quantumcowgirl1).
 - [Plugin marketer](https://x.ai/bot/cq1VBt-BdBTe7dR10TdOG) - 免费桌面音频插件套件的务实增长负责人，起草目录投稿、功能说明与发布节奏. [uncannyzebra](https://x.com/uncannyzebra).
 - [Portfolio CEO Ops](https://x.ai/bot/C8zLE_qeEWxbMCGqB4JGN) - 多公司创始人的组合 CEO 桌，读 WhatsApp 公司列表里的客户请求，建客户群并跑运营. [IronmanCrypto](https://x.com/IronmanCrypto).
@@ -326,6 +343,7 @@
 - [Sales Call Coach](https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc) - 给销售通话打分并告诉你下一通该改什么，可用粘贴逐字稿或上传录音。 [Daniel Brill](https://x.com/danielbrill_).
 - [Sales Call Coach](https://x.ai/bot/s8173b3a9c49917de5b2d) - 每通电话都留作业 复盘 Gong 录音，就挖需求、异议处理、临场气场打时间戳点评并评分. [SpaceX](https://x.com/DenisLabelle).
 - [Sales Call Prep Desk](https://x.ai/bot/8QpQcgUVgUpxG5RR4mwnL) - 带出处的客户简报、探询问题、异议处理与下一步请求. [Cypher0x9](https://x.com/Cypher0x9).
+- [Sales Lite (free)](https://x.ai/bot/Yj0ZJjwtgrIHH1bWoUcqs) - 免费版销售助手：检查 Gmail 或 Outlook 里新的销售询盘，逐个分类，起草首封回复或补充信息请求等你批准. [Alfie Peter](https://x.com/MisterTenacity).
 - [Sales Orchestrator](https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A) - 在销售机器人群里挡第一线，只放一个专家接每条请求。 [idleshubh](https://x.com/idleshubh).
 - [Sales Outbound](https://x.ai/bot/s8ff03023f140bab479f7) - 调研和外呼都交出去 夜里研究客户、按意图打分、用你的口吻写好邮件和领英，留给你过一遍. [SpaceX](https://x.com/DenisLabelle).
 - [Sam (Sales)](https://x.ai/bot/ihsZKnZJay7kLayMUfAV1) - 转卖助手：把你的物品照片做成 eBay 和 Facebook Marketplace 商品页，经你批准后才发布. [Darryl](https://x.com/SrCaptainThrawn).
@@ -338,6 +356,7 @@
 - [SEO Team](https://x.ai/bot/hZ5qExsCbwC-JCnsMOwp3) - 五个角色的 SEO 小队（SEO 负责人、关键词研究、技术 SEO、内容写手、外链），出简报和草稿. Sultanov.
 - [SEOAgent](https://x.ai/bot/scYgD9jdFhooaSHihRzy7) - 自主 SEO 工程师，在站点仓库里拉起 SEOAgent，冲自然流量。 [SEOAgent_](https://x.com/SEOAgent_).
 - [Sequencer](https://x.ai/bot/6xnxd_CHg0cXVMQCwnRrZ) - 把外联序列当成职能来跑：连接工具，从 Gmail 和 CRM 学语气和 ICP，在表格里维护序列状态，每次触达都先存草稿. Simon Lackowski.
+- [SERA Auto Parts Desk](https://x.ai/bot/yIFKe7cjzeKBUnqA8X_TS) - WhatsApp/询价的汽配销售台：起草回复，核实原厂号/VIN 和多行询价，从不编造价格和库存. [JordanFan0206](https://x.com/JordanFan0206).
 - [SERP SPECIALIST](https://x.ai/bot/262LyEVXcAKuQuohFeXop) - 按 niche 与城镇拉真实搜索量，找出能赢的 SERP 并生成排名计划与预览站. [ascndnt_alchmy](https://x.com/ascndnt_alchmy).
 - [Sherpa Bot](https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ) - 十四天思考伙伴，先筛意愿再帮你找真问题、真客户和下一步动作. [Morgan Wyatt Khan](https://x.com/MorganWKhan).
 - [Shop Compare](https://x.ai/bot/7EGBWWDrvgujhdOLCIrNi) - 下单前对比公开商品信息做比价调研. Luke.
@@ -372,8 +391,10 @@
 - [Team Pack](https://x.ai/bot/n8Qd5oB_uOjKP55_wLPpo) - 最多 3 个席位的 30 天团队套餐，含 Stability Validator、Listing Auditor 和 Pilot Intake. Sean.
 - [Tender Bid Desk](https://x.ai/bot/nlY_tCIFsrUjTylzV_Ae_) - 邮件与收件箱助手. community.
 - [Termlock](https://x.ai/bot/ChuFYfELJdp6iA-5ImjFU) - 只出草稿的自由职业还价台，粘贴中介或平台报价，得到带引用的市场带、缺口表与还价稿。 [IslandMountain_](https://x.com/IslandMountain_).
+- [Testimonial Collector](https://x.ai/bot/S9oWPKXtGyLicIqRznUwe) - 找出满意的老客户，起草推荐语邀请给你发，再把回复打磨成可放到网站和社媒上的引语. [NewsGurus](https://x.com/NewsGurus).
 - [TESTYS](https://x.ai/bot/xeyk4BgUD9iVU5b55r0ok) - 把真实评价与表扬收成可点名的引语与可粘贴句子，用于邮件、社媒、方案与网站。 [BudJohnson](https://x.com/BudJohnson).
 - [The FDA](https://x.ai/bot/K8q7Aqp47093dWIBTOsGb) - 美国产品营销宣称把关：按肥皂、化妆品和药品的界线检查文案，发布前标出风险说法. [ibuildthings](https://x.com/ibuildthings).
+- [The Follow-Up Machine](https://x.ai/bot/iXXRYul0WYgEQeFBSxba_) - 跟踪小企业发出的报价和估价，按老板定的节奏和认可的口吻去推一推没回音的潜在客户. [NewsGurus](https://x.com/NewsGurus).
 - [The Posting Tool](https://x.ai/bot/VQYoIcMIuXM4w80F8T8SN) - 把短视频与帖子排程到X、Threads、TikTok、Instagram、Pinterest与YouTube. [CryptoBandit100](https://x.com/CryptoBandit100).
 - [Threat Intelligence Lead](https://x.ai/bot/rA0W6mLYqVJky28FKrCBf) - 安全团队的威胁情报中枢. [pjvann](https://x.com/pjvann).
 - [Ticket Desk](https://x.ai/bot/47iWfw0I5xxt6uPqKj52G) - 标出紧急工单，按你的文档起草回复，把答不上的问题写成帮助文章草稿；从不自动发送. Screaming.
@@ -394,6 +415,7 @@
 - [Webb Knox](https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk) - 按证据评分找线索并起草首封触达. [gerardocasta711](https://x.com/gerardocasta711).
 - [Website agency lead scout](https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ) - 每天早上交出五家需要新网站、已经筛过的商家。 [Josh](https://x.com/joshkim).
 - [Wendy | Marketer](https://x.ai/bot/lAbvzowlMVLV45NW5fQO4) - 只起草不发送的增长营销：一次专注一个品牌，整理公开邮箱的潜在客户名单. [MadeItHappenX](https://x.com/MadeItHappenX).
+- [Win-Back Agent](https://x.ai/bot/PgOQyCFC0jHV2Ithy1Uwm) - 把小企业的老客户找回来，老客户是最便宜的线索. [NewsGurus](https://x.com/NewsGurus).
 - [Winback Desk](https://x.ai/bot/KBA_4Aap3iYEZEi12_hwW) - 找出近半年流失客户，起草挽回与离因反馈邮件，再把理由收成留存计划，发送仍由你点. [Don](https://x.com/Screaming_Chkn).
 - [Winback Desk](https://x.ai/bot/jbZ6e5CtU019W0wvZrhdl) - 找出过去六个月流失的客户，起草挽回和离开反馈邮件等你批准，并把流失原因归纳成留存计划. [Screaming_Chkn](https://x.com/Screaming_Chkn).
 - [Working Backwards PM](https://x.ai/bot/maxOL0-n_PSVuwi5mpZgP) - 从客户而不是功能出发：五个客户问题，再写 PRFAQ，对齐后再写 PRD. [Patricia](https://x.com/ccsakuweb).
@@ -401,6 +423,9 @@
 - [X Feedback](https://x.ai/bot/yU3RRM8D-8BoeBDvLYi2E) - 从 X 收集并归类产品反馈，让主题更好落地. [RegularJoe_Ceo](https://x.com/RegularJoe_Ceo).
 - [X Growth Assistant](https://x.ai/bot/0xtz8H-BKc1flsiMuX_md) - 你的私人 X 内容分析师：分享帖子和数据、连接 X 账号，或者说你是新手，它都能给出建议. [karatademada](https://x.com/karatademada).
 - [X Growth Desk](https://x.ai/bot/55FyWn8UhUgZOTSUy7LQt) - 工作日的 X 增长简报，附帖子链接和按你语气写的回复草稿，你批准后才发. community.
+- [X Growth Desk](https://x.ai/bot/gP9RhBvsSES-Ed1VGMKjS) - 盯你选的 X 话题和账号，挑出少数值得回复的帖子，用你的口吻起草原创帖. [niuyeyep](https://x.com/niuyeyep).
+- [X Growth Studio](https://x.ai/bot/uvOymVanCASMEX0KraBFX) - X 增长工作室的中枢 bot：排好你一周的计划，用记分板定目标，维护一个审核队列，每天跑一份回复清单. [Gaurav](https://x.com/ubiquitous_mind).
+- [X Lead Hunter](https://x.ai/bot/fClmFKmFbUT23lnmet4G0) - 在 X 上找出公开在为你的产品能解决的问题发愁的人，每天给你一份排好优先级的线索名单. Jacob.
 - [X Marketing Lead](https://x.ai/bot/hI9VYNVWhcqA5agQ1OETW) - 围绕 X Ads、X Premium Business 与 Grok 的营销负责人，给任意创始人跑增长. [Joe](https://x.com/JoeSimo).
 - [X Researcher](https://x.ai/bot/yVe0nu3aB8vHieSLLGJ7N) - 盯你赛道的 X 热点，转成发帖角度，并用你的语气起草。 [mitchell_barker](https://x.com/mitchell_barker).
 - [Xcavator](https://x.ai/bot/3Zh8kZfUGFUZh0ZQ6z_83) - 从你的 X 回复里挖出潜在买家并起草回复，不经你同意绝不发. [CaliLumberJack](https://x.com/CaliLumberJack).

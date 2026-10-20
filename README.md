@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 4815 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 5257 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -97,7 +97,7 @@ These are `shelf=featured` in [catalog.json](catalog.json). Start with one share
 
 `shelf` in [catalog.json](catalog.json) is editorial navigation (featured, solid, studio-door, aka, raw). Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Studio doors (orchestrators, installers, front desks): **178** listed in [docs/studio-doors.md](docs/studio-doors.md).
+Studio doors (orchestrators, installers, front desks): **186** listed in [docs/studio-doors.md](docs/studio-doors.md).
 
 The full list is below, grouped by job. Field cases and gotchas sit above the wall of links.
 
@@ -105,17 +105,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 655 |
-| [Inbox & calendar](#inbox--calendar) | 194 |
-| [Research & briefings](#research--briefings) | 590 |
-| [Customer & sales](#customer--sales) | 409 |
-| [Finance & ops](#finance--ops) | 571 |
-| [Content & publishing](#content--publishing) | 565 |
-| [Personal admin](#personal-admin) | 1332 |
-| [Teams & handoffs](#teams--handoffs) | 499 |
-| **Total** | **4815** |
+| [Coding & shipping](#coding--shipping) | 710 |
+| [Inbox & calendar](#inbox--calendar) | 213 |
+| [Research & briefings](#research--briefings) | 628 |
+| [Customer & sales](#customer--sales) | 434 |
+| [Finance & ops](#finance--ops) | 609 |
+| [Content & publishing](#content--publishing) | 620 |
+| [Personal admin](#personal-admin) | 1493 |
+| [Teams & handoffs](#teams--handoffs) | 550 |
+| **Total** | **5257** |
 
-On 15 Oct 2026, 4797 of 4814 share pages returned HTTP 200 (17 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 4815 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 20 Oct 2026, 5232 of 5257 share pages returned HTTP 200 (25 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 5257 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -253,35 +253,35 @@ One share is one bot. Assemble the roster yourself.
 
 ## Coding & shipping
 
-Full list (655 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
+Full list (710 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
 
 ## Inbox & calendar
 
-Full list (194 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
+Full list (213 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
 
 ## Research & briefings
 
-Full list (590 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
+Full list (628 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
 
 ## Customer & sales
 
-Full list (409 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (434 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
-Full list (571 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
+Full list (609 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (565 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (620 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (1332 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
+Full list (1493 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
 
 ## Teams & handoffs
 
-Full list (499 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (550 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 
