@@ -17,6 +17,7 @@ Back to [README](../../README.md)
 - [Affiliate Recruiter](https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ) - Finds and ranks affiliate candidates who could sell your product, with contacts and a draft approach. [zilvestro](https://x.com/zilvestro).
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners. [Jshet05](https://x.com/Jshet05).
 - [After-Hours Receptionist](https://x.ai/bot/L-Peiv65iI_logfpgoPQ_) - SMB lead capture and appointment booking assistant for when the business is closed. Robert.
+- [After-Hours Receptionist](https://x.ai/bot/oGpLaio6LDICY5kJ_M9au) - Answers your business phone after hours on an AgentLine number\: takes messages, handles urgent calls, and lines up morning callbacks. Sameer.
 - [Ag bot](https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh) - Finds and ranks real growers and suppliers near you for any ingredient. [Blaze](https://x.com/BlazeDrinkwine).
 - [Agency Reporter](https://x.ai/bot/u8hSS6eJdCwrnZXBcwtw8) - Writes each client's monthly SEO report from real Search Console data\: results, what changed and whether it worked, AI search, next month. [SEOmatic](https://x.com/seomatic_ai).
 - [AI CMO](https://x.ai/bot/yzvLAvBDFtppOIvRNr5Tr) - An AI CMO that speaks CFO, thinks in 4Ps, and runs Brand → Demand → Expand. [Paul](https://x.com/paulsyng).
@@ -105,6 +106,7 @@ Back to [README](../../README.md)
 - [Customer Service](https://x.ai/bot/zC_-D00Dam5jmHf0t62l_) - Customer service desk that drafts replies from your policy voice. [degen4lyfe_](https://x.com/degen4lyfe_).
 - [Customer Support Desk](https://x.ai/bot/SeAX2ThEH5Qu8GloOB17C) - Sorts your support inbox, drafts replies in your voice, builds an FAQ from repeat questions, and watches for churn signals. [Charles](https://x.com/ASaltyVet).
 - [Customer Support Idiot Buffer](https://x.ai/bot/PMCHyvumlOdCFNRifTDJW) - Calls customer support for you via a voice bridge and steers mid-call from chat. [MitcelloRudoll](https://x.com/MitcelloRudoll).
+- [Daily Dial Coach](https://x.ai/bot/t375vZeKNiYPyB97rM91F) - Morning call list and end-of-day scorecard for a solo sales rep at a trades shop\: ranks who to call, drafts openers and follow-ups, keeps quotes warm. zeke.
 - [Daily Shop Briefing](https://x.ai/bot/SIWQWHxNZBkaEkqdh1ym3) - Drafts a short morning open brief from yesterday's leftovers and today's checklist. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Dan Lanning](https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS) - Pitch and delivery coach for high-stakes calls from real transcripts. [jennananpei](https://x.com/jennananpei).
 - [Deal Inspector](https://x.ai/bot/vZfC76-4UC1XU7qC4m726) - Checks every deal that moved stage against your qualification criteria using the actual call transcripts. Quotes the evidence, flags what is missing,... Jon Grigull.
@@ -254,6 +256,7 @@ Back to [README](../../README.md)
 - [Mídia](https://x.ai/bot/4aOqWKFJvnz6yoQWlw-Jv) - A Portuguese-language paid-media colleague that reads Meta Ads and Google Ads, checks tracking and delivers a diagnosis. [Simone](https://x.com/simonejlima).
 - [Miles](https://x.ai/bot/zYTKGwDgxJnIoHHy4eXAC) - Finds high-intent buying signals for CRM, GoHighLevel, and AI receptionist / voice-agent services. Scans Reddit, LinkedIn, X, and Facebook twice each. [dariusgaynor](https://x.com/dariusgaynor).
 - [Milou](https://x.ai/bot/HlaoZPmdS6_GkO7lzUw2S) - Weekly networking scout for founders and operators. Finds Luma/Eventbrite events in your metro, checks inbox invites and calendar conflicts. [Kevin](https://x.com/kevindorfer).
+- [Missed Call Catcher](https://x.ai/bot/tTloWIy8lNvujhH904fz2) - Logs missed and after-hours calls for HVAC, plumbing, roofing or painting shops, flags emergencies, and drafts a callback text for each one. zeke.
 - [Monetize PM](https://x.ai/bot/WLKquz6gXnS3U--j2BFhV) - Turns trial and signup handoffs into revenue\: define the offer, price it, gate start, run the funnel. Ash.
 - [MoveToAU Desk](https://x.ai/bot/Cfr_HG6tlBnA7NQUukguD) - US→Australia permanent-placement operator. Researches pathways, finds AU agency partners, drafts compliance-first outreach, and runs a free candidate. [shanto12](https://x.com/shanto12).
 - [Mudbot](https://x.ai/bot/9DytLoUb-ZzzYb_Skem68) - A growth-lead bot that learns your business. community.
@@ -333,6 +336,7 @@ Back to [README](../../README.md)
 - [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) - Finds the revenue already sitting in your HubSpot pipeline. [ericosiu](https://x.com/ericosiu).
 - [Review Desk](https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc) - Drafts review replies in your shop's own voice, star-sorted, with you approving each one. [AraXsuper](https://x.com/AraXsuper).
 - [Review Reply Craft](https://x.ai/bot/wjIrg0RP6NeJOFVduz6n6) - Helps small local businesses write human-sounding Google review replies and turn goodwill into paid reply packs. [Omenfinancial](https://x.com/Omenfinancial).
+- [Review Reply Desk](https://x.ai/bot/sYdxK7nHbSR-Ym_N8D3zl) - Drafts honest replies to Google and Facebook reviews in your voice, flags unhappy customers, and drafts review requests after jobs. Never posts without you. zeke.
 - [Review Reply Drafter](https://x.ai/bot/RFZWV8682hykNKF8UJf44) - Draft replies to public reviews from paste. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Rival Watch Desk](https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW) - Standing watch on named rivals for funding, hiring, press, and paid campaigns. [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Robauto Website Growth Agent](https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU) - Gets a brand site ready for the machines that will shop on it. [RobautoAI](https://x.com/RobautoAI).
@@ -375,6 +379,7 @@ Back to [README](../../README.md)
 - [Solo Founder Chief of Staff](https://x.ai/bot/ojRGlp3tVO75MAzhEoVEv) - A chief of staff for solo founders\: a one-screen weekday morning brief, a scoreboard of confirmed numbers, and work routed to your specialist bots. [naveenraju30](https://x.com/naveenraju30).
 - [Spec → Listing](https://x.ai/bot/4uk1wr4vgC4zROKbvSZUP) - Paste verified product facts and get a truthful listing draft - title, short description, key features, and anything missing. You copy to the store. [MisledFan](https://x.com/MisledFan).
 - [Spike](https://x.ai/bot/itRObzTzlih4AGPFX99LP) - Own persuasive communication training — writing and talking that gets into people’s heads. Rude, sharp coach. Not a friend. Not a soft writing buddy. ##. [mpalczew](https://x.com/mpalczew).
+- [Sponsor Scout](https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6) - Finds brands already sponsoring people like you, the real way in, and drafts the pitch for you to send. For fighters, athletes, newsletter writers and creators. [Michael](https://x.com/MichaelHeckert).
 - [Sponsorship Deal Desk](https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy) - A creator sponsorship deal desk. It qualifies inbound, sends a locked first-reply on new rate-asks, and holds exceptions for a human. [Eric](https://x.com/ericosiu).
 - [Stale Leads Closer](https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0) - Revives quiet sales leads with warm CRM SMS, a Slack veto window, then auto-send if nobody blocks. Roberto.
 - [Stills & Clips Desk](https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-) - Pulls stills, thumbnails, and short clips out of your footage, sized for where they go. Cleans up screenshots for docs too, and writes the caption and... [Matt Palmer](https://x.com/mattyp).

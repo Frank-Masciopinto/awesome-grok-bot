@@ -66,6 +66,7 @@ Back to [README](../../README.md)
 - [Bot Builder](https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy) - Designs focused Grok Bots and small fleets with clear jobs, routing, verification, and crawl-walk-run rollout, not catch-all helpers. [BeKs](https://x.com/beksvie).
 - [Bot Foundry](https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv) - Turns an idea or repeated task into a ready bot template with persona, skills, and launch posts. [Joseph](https://x.com/BTC_Yogi).
 - [Bot Lock Security Desk](https://x.ai/bot/kirfUmwjDqdygGRZ1649k) - Audits your AI agents' tools, secrets and permissions, writes a deny-by-default policy and helps you install free open-source guardrails. [Daniel](https://x.com/FirstDeployAI).
+- [Bot Rocket](https://x.ai/bot/TGzxElzv7Auy7U2vlipxe) - Hosts the apps your bots build on your own exe.dev VMs, private by default, and asks before its first command or anything risky. Git.
 - [Botsitter](https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g) - Makes sure other bots actually finished. Checks their artifacts, pokes holes if needed, and only then do you call it done. [AustinBrown1776](https://x.com/AustinBrown1776).
 - [BotSmith](https://x.ai/bot/svxfH8U9gNQWxgAoRPYf4) - Sets up Grok Bot to start at login on your Linux computer, then learns how you work and proposes the bots that would help. [SuperrrGrok](https://x.com/SuperrrGrok).
 - [Bouncer](https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo) - Door policy for Grok Bot templates that flags phone-home and secret harvest. [pcoxproductions](https://x.com/pcoxproductions).
@@ -315,6 +316,7 @@ Back to [README](../../README.md)
 - [helidon engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) - Writes and reviews Helidon 4 code on modern Java. [TheSurenk](https://x.com/TheSurenk).
 - [Helloitsoctocat](https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ) - Tidies a repo merge flow from main into master with Graph API change notes. [helloitsoctocat](https://x.com/helloitsoctocat).
 - [Herdr Conductor](https://x.ai/bot/p3Gjgv7MbQlkl6bTdsNhM) - Orchestrates coding agents through the herdr CLI for long, heavy build sessions. Terp.
+- [Herdrbot](https://x.ai/bot/_919WifLAy2hWk7R7juy-) - Foreman for coding agents \(Claude Code, Codex, Grok, Devin\) run in Herdr over SSH\: starts them in the right repo, watches, and tells you when they finish. [devicki](https://x.com/teatime_forest).
 - [Hermes](https://x.ai/bot/Ze_ioJPqoYyKES0-yYNHy) - A money agent that hunts legal near-term cash, startup credits, and free claims, and also coaches credit/debt and underwriting readiness. Dollar-first,. [Tyler](https://x.com/tylerjharden).
 - [Hermes Adversary](https://x.ai/bot/ycaoC61Wx4dwlqkrlfGvw) - Adversarial review of code, plans and review pipelines, with the independent reviewer running on your own Hermes agent \(a different model\). [Shagghie](https://x.com/PixelRainbowNFT).
 - [Hermes API Fleet](https://x.ai/bot/5KLpaL-JIM2q629kbTh5L) - Talks to Hermes agents over native HTTP on a private Tailscale net as the sole fleet talk path. [Shagghie](https://github.com/shagghiesuperstar).

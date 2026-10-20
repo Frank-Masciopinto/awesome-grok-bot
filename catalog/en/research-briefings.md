@@ -508,6 +508,7 @@ Back to [README](../../README.md)
 - [Stock Market Manager](https://x.ai/bot/GeY2fjGe-eWx7UAwp6vr3) - A personal market assistant that watches your portfolio, sends market briefs, and helps you research stocks and long-term allocation. Scott.
 - [Stonkie](https://x.ai/bot/wwl0H_pZIaZOinxuT7VcR) - Long-only equity research PM for individual investors and small desks. Send a ticker and get one plain-English Buy / Hold / Sell memo—valuation,... [thoughtsofdax](https://x.com/thoughtsofdax).
 - [StoriesBot](https://x.ai/bot/cV7nGFO88pb2WXNN56h8A) - Searches 17 years of MacStories, filterable by time and author. [viticci](https://x.com/viticci).
+- [Straight Answers](https://x.ai/bot/SohmeMorJ8-g1lkWL_nZ1) - Checks before it answers, or says when it is going off memory and offers to look it up, and can teach your other bots to do the same. Matt.
 - [Strategy Lead](https://x.ai/bot/5enFHSkSHV9UpbFX8Ky6a) - Turns trend, pain-point, and competitor research into ranked product ideas with Blue Ocean, JTBD, and 7 Powers, plus a kill list. [Avid](https://x.com/twinedon0).
 - [Struggle Gate](https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV) - Withholds the answer for ten minutes so you have to attempt it first. [Sultanov](https://x.com/thekuchh).
 - [Stuck Cycle](https://x.ai/bot/fihe4nAy0jFWoygo4JCAW) - Runs one skill through repeated laps of attempt, snag, and targeted study. [Sultanov](https://x.com/thekuchh).

@@ -3,8 +3,9 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **186**.
+Generated from [catalog.json](../catalog.json). Count: **187**.
 
+- [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
 - [Agency Chief of Staff](https://x.ai/bot/_yXnxJ4kArm8W64FsQIvL) - Chief of staff for a founder-led AI agency\: triages work, runs standing ops watches, and routes every deliverable through one chat face.
 - [Agent Manage Bot](https://x.ai/bot/XMYbnGwxPJUePeRWYOduO) - Chief of staff for a dual-layer team of Grok bots and Mac CLIs that routes research and coding work.

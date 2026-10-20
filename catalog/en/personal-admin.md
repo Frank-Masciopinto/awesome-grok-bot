@@ -362,6 +362,7 @@ Back to [README](../../README.md)
 - [Dr Grok](https://x.ai/bot/5ugiIXTxpQY7tr5j9tt6r) - A friendly health assistant that explains symptoms, medications, conditions, and test results in plain language and helps you prepare for doctor visits. [RIAAN](https://x.com/RIAANVANDERME14).
 - [Dr. Crusher](https://x.ai/bot/ox4qgFnskp1Fm9D8f0SCq) - A calm, plain-spoken helper that walks you or a family member through health coverage enrollment\: Medicare, Marketplace, TRICARE or employer plans. [SideShopAi](https://x.com/SideShopAi).
 - [Dr. Sweet](https://x.ai/bot/ZCrfVPExFK2JbazyGXL3L) - Kidney-aware strength and wellness coach\: daily training plans, meal logging, blood-pressure habits, and weekly check-ins that protect kidney integrity... [Michael](https://x.com/Michael).
+- [Drivr](https://x.ai/bot/TDbL2EAyGVmW2isqGPRwx) - Voice capture for Tesla drivers\: ramble in the car, say "done", and your notes, to-dos and ideas get filed and remembered between drives. Bill.
 - [Drug Savings](https://x.ai/bot/c9zxS3sqkF5h7vXvs6NVn) - Finds the cheapest way to fill your household's prescriptions across insurance, Amazon RxPass, Cost Plus Drugs, and discount cards, helps you move them,... Scott.
 - [Dubai](https://x.ai/bot/pNVDukpGRUUOx_wtyRhiV) - Dubai guide for visitors, residents, investors and newcomers\: things to do, hotels, visas, business setup and local news. community.
 - [Dump](https://x.ai/bot/3_STyUFj2hVSyC5R-cQGi) - A catch-all inbox for your brain. Throw it half-formed ideas, links, screenshots, and to-dos, and it keeps them safe and sorts them for later. [Devin](https://x.com/ItsMeTrueG).
@@ -370,6 +371,7 @@ Back to [README](../../README.md)
 - [Duplicate Photo Finder](https://x.ai/bot/GZeqDkOuBOEzGMrNH3Jhf) - Finds duplicate and near-duplicate photos in OneDrive, Google Drive, or uploads; moves nothing until you approve. [SamE](https://x.com/SamE1311025).
 - [DWTS Ezra Votes](https://x.ai/bot/FudoGp1ChuiSXr3TMVZGG) - Maximizes votes for Ezra Frech & Daniella Karagach on Dancing with the Stars\: up to 20 per live Eastern/Central window — 10 SMS \(EZRA → 21523 from Mac. Scott.
 - [Dyslexia Tutor](https://x.ai/bot/0yRl8b9gk0AYDPhTyJVKN) - A parent-facing dyslexia tutor for a child who guesses while reading. [AmericanSxool](https://x.com/AmericanSxool).
+- [E-commerce Order Desk](https://x.ai/bot/dkCeq3jQk8cnpKUFQZxFe) - Shopping bot that finds and compares products across stores, fills in the checkout, and only pays after you say yes. [Rhaaghav](https://x.com/kRaaghav).
 - [Easy Apply Queue](https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp) - Sits down for one focused hour of LinkedIn applications and never repeats a listing. [HaseebMir91](https://x.com/HaseebMir91).
 - [Easy Jog Check-in](https://x.ai/bot/tQBhNcc6YIsCkfMx-BDV4) - Gentle slow-jog check-in buddy—not a doctor or coach. Helps you note if you ran and about how long. [cckmosi](https://x.com/cckmosi).
 - [EasyGroupFlights Concierge](https://x.ai/bot/3K2ptLhCQa540gab4M_YX) - Public traveler concierge for group flight quotes and trip help on easygroupflights.com. Crypto2Hodl.
@@ -546,6 +548,7 @@ Back to [README](../../README.md)
 - [Golfy](https://x.ai/bot/dnEcfPzFgLLb5FnXSnpJN) - A golf coach that builds practice plans and timed sessions, reviews your rounds with quick multiple-choice questions. [Santiago](https://x.com/SDAI_7).
 - [GoodNews](https://x.ai/bot/0l58XqOBeJ7h7QUiEQ54x) - Warm morning and evening digest of real good news on science, kindness, recoveries, and communities. [Joey](https://x.com/aijoey).
 - [Goonie](https://x.ai/bot/RTQ5cLf2WeWJPyjD8YSWr) - Witty sarcastic companion that remembers you, with holiday modes and park-only Tesla fun extras. [goonieai](https://x.com/goonieai).
+- [Gork](https://x.ai/bot/hungj297bsOudMqA6LpPX) - Deadpan, sarcastic parody assistant\: one-line low-effort answers and gentle roasts, with real help when it actually matters. Tom.
 - [Governator](https://x.ai/bot/LoPqRp44sI8sHRpNN9Kq-) - Governator Grok Bot share template. community.
 - [Grant Manager](https://x.ai/bot/Tzx-9PGZAxepQQU0ybNfZ) - Finds grants your small business can actually win, screens them for fit, and drafts applications for your approval. Sends a short weekday board digest... [Kirill](https://x.com/Kirill).
 - [Gravy](https://x.ai/bot/r1NaMrcq8hCJmCrX3M9dN) - Abandoned-project resurrection assistant. [osyzov](https://x.com/osyzov).
@@ -839,6 +842,7 @@ Back to [README](../../README.md)
 - [matters global](https://x.ai/bot/zMaSb6XeERHgyCNQXPxeS) - A calm planning coach that turns your goals into a small graph of what has to happen first, then tells you the one thing you can act on today. Built on. [matthiasroder](https://x.com/matthiasroder).
 - [McCringleberry](https://x.ai/bot/Tz70Wc2RsqdDLex6VbxaY) - Fantasy football ninja for Yahoo, ESPN, Sleeper, and similar leagues. [nowteslafy](https://x.com/nowteslafy).
 - [McKondo](https://x.ai/bot/Kki8WwXYkmKYfr1IY2ABA) - Marie Kondo for a Mac\: screenshots into month folders, Downloads sorted, Gmail noise archived. vandy.
+- [Meal & Savings Planner](https://x.ai/bot/CiREEoV-9rjUaatxtiXFf) - Meal and grocery helper for busy parents\: weekly plans around tastes, allergies and budget, aisle-sorted lists, coupons, spend tracking; asks before buying. [Mister](https://x.com/Mrxmalcolm).
 - [Meal Planner](https://x.ai/bot/zNCuJ-OgH_dAGuatUJM49) - Every weekend you get a week of dinners that fit your household, budget and tastes, plus one grocery list sorted by store aisle. [McLeodAgency](https://x.com/McLeodAgency).
 - [Meal Planner and Grocery List](https://x.ai/bot/rkC1p5Dq8GvCNBnbZDdXu) - Plans a week of dinners that fit your diet, budget and time, then turns them into a grocery list grouped by store section, ready to paste. [James](https://x.com/allthemoney).
 - [Meal Planner Pro](https://x.ai/bot/-p27Q3hffcw92siKdddfK) - Plans weekly meals that hit your calorie and protein goals, fit your budget and schedule, and keep you safe from allergens and gluten. [Jeremy](https://x.com/Biggs237).
@@ -1099,6 +1103,7 @@ Back to [README](../../README.md)
 - [Redact](https://x.ai/bot/lTECTKtNLwK_xZhTaq_d_) - Removes your info from people-search and data-broker sites with consent intake, automated opt-outs, one digest for blocked sites, and weekday rechecks. [Tag](https://x.com/tag111111111).
 - [Redzone](https://x.ai/bot/FwN-1CgFBmhXi6ZWqqt3J) - Redzone fantasy helper for late-week lineup pressure. Ben.
 - [Relic](https://x.ai/bot/uvCpZyoKJR_P7b9FI0b0h) - A local picker that hunts estate sales, auctions, and classifieds near you for misidentified or underpriced antiques and collectibles. [GenXer](https://x.com/LatchKeyLegend).
+- [Remembered](https://x.ai/bot/v8VS1FsB0TRj9vuXcOx25) - Finds and remembers birthdays, prepares personalised cards, and helps order physical cards or draft email greetings in time, with a weekly check. Liam.
 - [Remote Job Hunter](https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS) - Finds remote openings on company career sites, applies on the employer's ATS, keeps an application log, and watches your inbox for interview invites. [TKR](https://x.com/IRENCIFR).
 - [Remote Scout](https://x.ai/bot/js1pBP-lLlivKHY8Q_d4v) - Finds verified, currently open remote jobs that need no degree, filters out scams, logs them in a CSV tracker and hands them to your applying bot. [Frog](https://x.com/matthew1).
 - [ReMynd Assistant](https://x.ai/bot/HaldfdTeppaCiTJyKC_D5) - A read-only assistant for your ReMynd screen and call history on your Mac. [bfrench](https://x.com/bfrench).

@@ -457,6 +457,7 @@
 - [Slab & Stream](https://x.ai/bot/YghnYWX5ULMyJY6D1sMlm) - 把你的卡牌照片或手打的一张卡变成已定价、可直接上架的 Whatnot 库存，支持宝可梦、体育卡和 One Piece. [KendraBoswell7](https://x.com/KendraBoswell7).
 - [SlowBooks Cutover](https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh) - 把一家 QuickBooks Desktop 公司迁到 SlowBooks 并核对数字. [jschnett](https://x.com/jschnett).
 - [Small Biz Control Orchestrator](https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7) - 用一队专家 Grok Bot 跑小型产品生意，协调市场、采购、社交、公关、周边与合规，你仍是最终拍板. [texastoylab](https://x.com/texastoylab).
+- [Small Business Bookkeeper, meet Peg](https://x.ai/bot/GsgpmqqJ4aUMtHBYZlDgJ) - 在你自己的工具里给小企业记账：录收据、对银行和信用卡流水、找出用个人钱垫付的开支，并准备税表和月结。 Mars.
 - [Smooth Brains Bot](https://x.ai/bot/FwtiQchlHexgCdlDo5WkL) - 非托管比特币系统交易向导，带你在 Hyperliquid 完成连接充值与费用路径. [smoothbrainsai](https://x.com/smoothbrainsai).
 - [Sniper](https://x.ai/bot/EgPGxirvQCSHoxbnw6Ym0) - 盯 DGX Spark、M5 Ultra、RTX 显卡等任何硬件在美国、欧洲或其他地区的价格、库存和优惠. [MiaAI_lab](https://x.com/MiaAI_lab).
 - [Sourcing Bot (Products)](https://x.ai/bot/TdOInzxatbnQSv0Ifh686) - 从阿里巴巴供应商采购商品：寻找卖家、友好议价、比较完整到岸成本并留意回复. [WearingARolex](https://x.com/WearingARolex).

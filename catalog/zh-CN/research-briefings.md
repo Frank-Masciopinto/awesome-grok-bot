@@ -508,6 +508,7 @@
 - [Stock Market Manager](https://x.ai/bot/GeY2fjGe-eWx7UAwp6vr3) - 私人股市助手：盯你的持仓、发市场简报，并帮你研究个股和长期资产配置. Scott.
 - [Stonkie](https://x.ai/bot/wwl0H_pZIaZOinxuT7VcR) - 个人投资者的多头股票研究，给白话买卖持有备忘. [thoughtsofdax](https://x.com/thoughtsofdax).
 - [StoriesBot](https://x.ai/bot/cV7nGFO88pb2WXNN56h8A) - 搜十七年的 MacStories，可按时间和作者筛。 [viticci](https://x.com/viticci).
+- [Straight Answers](https://x.ai/bot/SohmeMorJ8-g1lkWL_nZ1) - 回答前先核实，凭记忆回答时会说明并主动提出去查，还能教你的其他 bot 这样做。 Matt.
 - [Strategy Lead](https://x.ai/bot/5enFHSkSHV9UpbFX8Ky6a) - 把趋势、痛点和竞品研究用蓝海、JTBD、7 Powers 等框架变成排序后的产品点子，并附淘汰清单。 [Avid](https://x.com/twinedon0).
 - [Struggle Gate](https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV) - 把答案压十分钟，逼你自己先试一遍。 [Sultanov](https://x.com/thekuchh).
 - [Stuck Cycle](https://x.ai/bot/fihe4nAy0jFWoygo4JCAW) - 让一项技能反复跑「尝试 → 卡壳 → 针对性补课」的循环。 [Sultanov](https://x.com/thekuchh).

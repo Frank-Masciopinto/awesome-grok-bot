@@ -132,6 +132,7 @@
 - [Highlight Reel](https://x.ai/bot/Aq0hS2Z-fEtENFItAZeRI) - 体育健身短视频自动化：丢进原始训练素材，产出抓眼的循环 9\:16 燃剪. [MichaelHeckert](https://x.com/MichaelHeckert).
 - [huashu-motion launch film bot](https://x.ai/bot/YfOjKXck76ElsMKhAMfHR) - 用 huashu-motion（HTML + GSAP、om CLI）做 15 到 30 秒的商业产品发布片：干净、现代、用数字说话. [ny](https://x.com/liushiyumath).
 - [Human Copywriter](https://x.ai/bot/vgiYk0mJeijE4YXmfmQld) - 改写邮件、帖子、私信、博客和落地页文案，读起来像人写的. Sultanov.
+- [IdeaWatch](https://x.ai/bot/vgK95Y83dYJo4-bWAYJ_e) - 盯着有没有人照搬、改编或未署名商用你在 X 上发的点子，跟踪这些帖子的互动，并记录模仿者。 Georg.
 - [Imagine Visual Designer](https://x.ai/bot/L6lMvKDc8cRqrJM_JkcCl) - 把视觉想法变成可直接粘贴的 Grok Imagine 提示词包，附真实可用的变体. [AutomateDavid](https://x.com/AutomateDavid).
 - [instagram connector liker follower commenter](https://x.ai/bot/m6f6B1hONvrzPrvFEIw7y) - 在已登录的浏览器里做 Instagram 外联：搜帖子、找公开互动者，再限速点赞、关注或评论并留日志. Jeroen.
 - [Jolie](https://x.ai/bot/jDAOcACdnrCtgz2Vb3h1m) - 润色你给的 HTML：按需翻成自然泰语，语气更温暖，排版更干净，不改意思. toradoon.
@@ -257,6 +258,7 @@
 - [X Marketing Bot](https://x.ai/bot/Qn3J8hO5gAMc_7BVzYm-p) - X 营销策略师：用你的语气写帖子、长帖和回复，并把账号数据变成清晰的下一步. [Mustafa](https://x.com/oprydai).
 - [X Post Review](https://x.ai/bot/6MIilvSwyCdiqDqf3Rq-w) - 每周一连上你的 X 账号，对照你自己的基线复盘原创和引用帖，发来爆款、扑街和规律. [Nate](https://x.com/NateLorenzen).
 - [X Post Scorer](https://x.ai/bot/Onn5fkAfkSacQgleFIIK-) - 给 X 草稿或已发帖按开头、回复、转发打 10 分制分数，并附可直接用的改写. Thomas.
+- [X Post Tracker](https://x.ai/bot/LrOzcsX5ITCY0SfXLmhJn) - 跟踪你 X 帖子的浏览和互动，帖子突然走热或达到里程碑时提醒，每天发一份下一步该发什么的总结。不会替你发帖。 Karol.
 - [X Posting Curator](https://x.ai/bot/fJoloWNDTl7ee9VwxNJxH) - 每条 X 帖子都走找来源、写你口吻的开头、事实核查和 X 排序权重检查. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
 - [X Reply Radar](https://x.ai/bot/KUxvnYtq7rPe_XuQUHv2n) - 在你的领域里找刚发出不久、高曝光、值得回复的 X 帖子，每条回复都由你自己写. [Darragh](https://x.com/darrxgh).
 - [X Reply Tier List](https://x.ai/bot/Itc30W9SgrxqEL1WTb3pl) - 把你最近的 X 回复做成 poteto 风格的“我在 X 上回复谁”分级图并起草配文，由你发布，它从不代发. [Tu](https://x.com/JiangLiuer222).

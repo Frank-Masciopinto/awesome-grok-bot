@@ -54,6 +54,7 @@ Back to [README](../../README.md)
 - [Ledger](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) - Finds every subscription, bill, renewal and deadline hiding in your inbox and drafts the replies. Michael.
 - [Mail Junkie](https://x.ai/bot/K880JZuPGIGoVv0uCU8ki) - Archives unflagged newsletters, promotions, statement notices, and other junk across every connected mail account by removing them from the inbox only. [samkettleson](https://x.com/samkettleson).
 - [Mail Monitor](https://x.ai/bot/h5PEXsBYJ_BOguMXVvjU7) - Watches Gmail \(or any account via Spark\) and sends a short digest a few times a day only when something needs you; never sends mail without your yes. Pierce.
+- [Mailroom bot](https://x.ai/bot/QQked4g7ftLHHCv8cKDCT) - Photograph incoming paper mail and it is read, named and filed into a Mailroom folder in Google Drive, so invoices stop getting lost. PAUL.
 - [Margin](https://x.ai/bot/GqStm_9by2_ffroZOIC3V) - A calendar, rest and recovery scheduler. It sweeps your calendars every hour for conflicts, bunch-ups and missing rest, fixes what you allow. [Zack](https://x.com/zackproser).
 - [Meeting Brief](https://x.ai/bot/JN9e1WggIKVWhCEZrySlj) - Walk into every call prepared — source-linked attendees, agenda, and open loops in under 90 seconds. [Komil](https://x.com/Limok_igit).
 - [Meeting Prep & Follow-up](https://x.ai/bot/Of0WZSYyqWtQXV9Z52pqv) - Sends you a short brief before your upcoming meetings so you walk in prepared. [Jared](https://x.com/dcostaverage).

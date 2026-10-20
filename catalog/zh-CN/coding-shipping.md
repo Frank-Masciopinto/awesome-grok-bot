@@ -66,6 +66,7 @@
 - [Bot Builder](https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy) - 按清晰职责、路由与核验设计专项 Grok Bot 与小舰队，用爬走跑推进，不做万能助手. [BeKs](https://x.com/beksvie).
 - [Bot Foundry](https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv) - 把想法或重复任务做成可发布的 Bot 模板，含人设、技能与发布文案. [Joseph](https://x.com/BTC_Yogi).
 - [Bot Lock Security Desk](https://x.ai/bot/kirfUmwjDqdygGRZ1649k) - 审计你的 AI 智能体的工具、密钥和权限，写出默认拒绝策略，并帮你装上免费开源护栏. [Daniel](https://x.com/FirstDeployAI).
+- [Bot Rocket](https://x.ai/bot/TGzxElzv7Auy7U2vlipxe) - 把你的 bot 做出来的应用部署到你自己的 exe.dev 虚拟机上，默认私有，第一次执行命令和有风险的操作前会先问你。 Git.
 - [Botsitter](https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g) - 确认其他机器人真做完，查产物、挑漏洞，只有过关才报完成. [AustinBrown1776](https://x.com/AustinBrown1776).
 - [BotSmith](https://x.ai/bot/svxfH8U9gNQWxgAoRPYf4) - 在你的 Linux 上设成开机自启 Grok Bot，再观察你怎么干活并提议该上哪些机器人。 [SuperrrGrok](https://x.com/SuperrrGrok).
 - [Bouncer](https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo) - 给 Grok Bot 模板做门禁审计，标出偷连与偷密风险。 [pcoxproductions](https://x.com/pcoxproductions).
@@ -315,6 +316,7 @@
 - [helidon engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) - 用现代 Java 写和审 Helidon 4 代码。 [TheSurenk](https://x.com/TheSurenk).
 - [Helloitsoctocat](https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ) - 把 main 合进 master 的仓库整理顺，并记下 Graph API 变更。 [helloitsoctocat](https://x.com/helloitsoctocat).
 - [Herdr Conductor](https://x.ai/bot/p3Gjgv7MbQlkl6bTdsNhM) - 用 herdr CLI 编排编程 agent，扛长而重的构建会话。 Terp.
+- [Herdrbot](https://x.ai/bot/_919WifLAy2hWk7R7juy-) - 管理你通过 SSH 在 Herdr 里跑的编码 agent（Claude Code、Codex、Grok、Devin）：在对应仓库启动并派活、盯进度，完成或卡住时通知你。 [devicki](https://x.com/teatime_forest).
 - [Hermes](https://x.ai/bot/Ze_ioJPqoYyKES0-yYNHy) - 猎合法短期现金、创业额度与免费领取的金钱代理，也盯账单泄漏. [Tyler](https://x.com/tylerjharden).
 - [Hermes Adversary](https://x.ai/bot/ycaoC61Wx4dwlqkrlfGvw) - 对代码、计划和审查流程做对抗式审查，独立审查员跑在你自己的 Hermes agent 上（另一个模型）. [Shagghie](https://x.com/PixelRainbowNFT).
 - [Hermes API Fleet](https://x.ai/bot/5KLpaL-JIM2q629kbTh5L) - 在私有 Tailscale 网上用原生 HTTP 与 Hermes 智能体对话，作为舰队唯一通信路径. [Shagghie](https://github.com/shagghiesuperstar).

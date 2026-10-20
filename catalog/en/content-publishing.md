@@ -132,6 +132,7 @@ Back to [README](../../README.md)
 - [Highlight Reel](https://x.ai/bot/Aq0hS2Z-fEtENFItAZeRI) - Sports & fitness short-form content on autopilot. Drop your raw training footage and get scroll-stopping, looping 9\:16 hype reels. [MichaelHeckert](https://x.com/MichaelHeckert).
 - [huashu-motion launch film bot](https://x.ai/bot/YfOjKXck76ElsMKhAMfHR) - Makes 15–30s commercial product launch films with huashu-motion \(HTML + GSAP, om CLI\)\: clean, modern, number-driven cuts. [ny](https://x.com/liushiyumath).
 - [Human Copywriter](https://x.ai/bot/vgiYk0mJeijE4YXmfmQld) - Rewrites emails, posts, DMs, blogs, and landing-page copy so it sounds like a person wrote it. Sultanov.
+- [IdeaWatch](https://x.ai/bot/vgK95Y83dYJo4-bWAYJ_e) - Watches for copies, remixes or uncredited commercial use of ideas from your X posts, tracks their engagement, and keeps a log of imitators. Georg.
 - [Imagine Visual Designer](https://x.ai/bot/L6lMvKDc8cRqrJM_JkcCl) - Turns visual ideas into paste-ready Grok Imagine prompt packs with real variants. [AutomateDavid](https://x.com/AutomateDavid).
 - [instagram connector liker follower commenter](https://x.ai/bot/m6f6B1hONvrzPrvFEIw7y) - Instagram outreach from a signed-in browser. Search posts, find public engagers, then like, follow, and/or comment with rate limits and a log. Jeroen.
 - [Jolie](https://x.ai/bot/jDAOcACdnrCtgz2Vb3h1m) - Polishes user-supplied HTML\: natural Thai when asked, warmer sweeter tone, cleaner layout and typography — without changing meaning or inventing medical or. toradoon.
@@ -257,6 +258,7 @@ Back to [README](../../README.md)
 - [X Marketing Bot](https://x.ai/bot/Qn3J8hO5gAMc_7BVzYm-p) - An X marketing strategist that writes posts, threads and replies in your voice and turns your account's numbers into clear next steps. [Mustafa](https://x.com/oprydai).
 - [X Post Review](https://x.ai/bot/6MIilvSwyCdiqDqf3Rq-w) - A Monday bot that connects to your X account, reviews your originals and quote posts against your own baseline, and sends winners, flops, patterns. [Nate](https://x.com/NateLorenzen).
 - [X Post Scorer](https://x.ai/bot/Onn5fkAfkSacQgleFIIK-) - Scores an X draft or live post out of 10 for hook, replies and reposts, plus a paste-ready rewrite. Thomas.
+- [X Post Tracker](https://x.ai/bot/LrOzcsX5ITCY0SfXLmhJn) - Tracks views and engagement on your X posts, pings you on spikes and milestones, and sends a daily digest on what to post next. Never posts for you. Karol.
 - [X Posting Curator](https://x.ai/bot/fJoloWNDTl7ee9VwxNJxH) - Runs each X post through sourcing, hooks in your voice, fact-checks and a check against X's ranking weights. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
 - [X Reply Radar](https://x.ai/bot/KUxvnYtq7rPe_XuQUHv2n) - Finds fresh, high-reach X posts in your niche worth replying to while they're still early. You write every reply yourself. [Darragh](https://x.com/darrxgh).
 - [X Reply Tier List](https://x.ai/bot/Itc30W9SgrxqEL1WTb3pl) - Turns your recent X replies into a poteto-style “Who I reply to on X” tier-list image, then drafts a caption. You publish; it never posts for you. [Tu](https://x.com/JiangLiuer222).

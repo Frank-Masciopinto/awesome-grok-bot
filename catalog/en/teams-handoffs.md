@@ -3,6 +3,7 @@
 Back to [README](../../README.md)
 
 - [Active Focus](https://x.ai/bot/UkyzuXGe_REqS-sc59W3Y) - Keeps long tasks on target\: helps you pin down what you actually want, picks each next step by what moves it forward, adjusts on evidence. [Schien](https://x.com/schienwang).
+- [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught. Greg.
 - [Agent Access Check](https://x.ai/bot/0Jj522lXbQFslsfYvArdi) - List the sites you want an AI agent to use; in under 2 minutes it tells you which block AI agents and the best allowed way to get each job done. [Thuong](https://x.com/teeRex247).
 - [Agent HR](https://x.ai/bot/xs51FyyCpIt5tgmsEULqq) - Settles disputes between your AI agents with an evidence-based ruling, then recommends a fair disciplinary step for you to approve. [Nomis](https://x.com/cradrrat).
 - [Agent School Student](https://x.ai/bot/4Qct5sAIwdM0FBvFldC20) - Enrolls your bot in Agent School, studies a class, and earns a signed diploma anyone can verify. With the diploma it can claim jobs that require one. [Contravious](https://x.com/ConWanZo).
@@ -44,6 +45,7 @@ Back to [README](../../README.md)
 - [Chief](https://x.ai/bot/cidS9JLYj_tbCX5wu9J80) - A business chief of staff and commercial strategist that turns meeting transcripts, email threads, and updates into clear decisions, commitments. [Myron](https://x.com/CyberAmped).
 - [Chief Administrative Officer](https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k) - Runs the household calendar and errand list, posts a weekday-morning summary, and routes travel, inbox and briefing jobs to your other bots. [Hank](https://x.com/hjackson2).
 - [Chief of Legal Staff](https://x.ai/bot/J_fIC4VKMLmT6inJRIO4e) - For litigation firms\: a Chief of Legal Staff that supervises the firm's other bots, routes handoffs. [suyashverma](https://x.com/suyashverma).
+- [Chief of Operations (Bot Team Governance)](https://x.ai/bot/HQh9l4duDHNmhCuSW_pn-) - Governs your bot team\: shared rules, a register of every bot and routine, a weekly security audit, and incident handling, with your approval on changes. Alan.
 - [Chief of Staff](https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK) - Coordinates your crew of Grok Bots with routing, shared rules, and a trust ladder, checks results, and only interrupts you when something needs your OK. [Hank](https://x.com/hjackson2).
 - [Chief of Staff](https://x.ai/bot/fdmLOOrmXV6cyEhmiVrBd) - Your single front door\: receives any request, routes it to the right manager bot with SendToAgent, and tracks what is in flight. [HamzaDincer](https://x.com/HamzaDincer).
 - [Chief of Staff](https://x.ai/bot/rkFvRR2Gj3mC4AAcMQBWU) - A chief of staff that oversees your team of specialist bots\: routes requests, relays your approvals, keeps a shared handoff log. [Mike](https://x.com/Windrunner_24).
@@ -115,6 +117,7 @@ Back to [README](../../README.md)
 - [Opti](https://x.ai/bot/Bbicf1cUXx_eWVuiBw0KM) - Watches how your bots and AI tools use your shared usage limit and sends a short weekly report recommending what to keep, trim, or cut. [Kenneth](https://x.com/KGitpro).
 - [Orchestrator — Your AI Front Door](https://x.ai/bot/gNyxnXEv2hYNzFqoaSvLT) - The front door of a desk system\: you talk to one bot, and it routes your work to specialized desks, tracks it, and reports back in one place. [NewsGurus](https://x.com/NewsGurus).
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - Boss bot for owners of several businesses, built in hotels and holiday lets, with one weekday briefing across every company and email drafts you approve. [Rob](https://x.com/xdeanozoff).
+- [Owl Post](https://x.ai/bot/gWdJNp-mXfCjaafn1N7ss) - A mailbox for one-off notes between your bot and the bots of people you trust, over native webhooks, without granting extra permissions. Rodrigo.
 - [Penny](https://x.ai/bot/chrV7zwXApa1KFBckHSXh) - Keeps your Grok Bot usage low while still getting good results\: reviews planned tasks and routines before they run and sends a weekly savings list. [Raymond](https://x.com/JustMani).
 - [Persistent memory](https://x.ai/bot/rp0gErUTW6Vth7cdtwPS_) - Gives all your bots one durable memory\: each bot writes a daily log of decisions, shipped work, and standing preferences to a private GitHub repo you own. [Andre](https://x.com/andrerocha).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - Nightly snapshots every bot you run \(profile, routines, working state\) to Google Drive and flags instructions drifting from what you wrote. [_The_Lake](https://x.com/_The_Lake).
@@ -132,6 +135,7 @@ Back to [README](../../README.md)
 - [Scribot](https://x.ai/bot/TRPaZaxuJ2lz60P7SbQfc) - A secretary for your WhatsApp group. Scribot sends meeting reminders, posts announcements, writes minutes, and tracks dues for associations. [ISSAH](https://x.com/the_real_issah).
 - [Second Opinion Council](https://x.ai/bot/S-spqOuA8DK-H0ACtXiay) - Bring a decision\: an Advocate, a Red Team and a Skeptic argue it. One verdict, how strongly they agree, and the tradeoff. [Dallin](https://x.com/DallinWatts).
 - [Security](https://x.ai/bot/DWcrUM2ZY3g7lhp0pPA5l) - A security gatekeeper for your other bots and assistants. They pass it incoming emails and outside data first. [Johnson20062123](https://x.com/Johnson20062123).
+- [Security & Risk](https://x.ai/bot/QhVx4lNFem_qNLBuPEMLm) - Security officer for your bot fleet\: scans for leaked keys and stray sensitive data, audits connector access, and watches Auto-review rules for drift. Scott.
 - [Security Bot](https://x.ai/bot/oQxAmMC8N8HCKqP2Tz85n) - Audits every bot in your Grok Bot setup against the OWASP GenAI Top 10s and teaches safe use. [Jeremy](https://x.com/paradoxological).
 - [Shawty](https://x.ai/bot/UGpYK57Qm6BSIK8ejoiar) - Your bot squad's no-nonsense boss. Shawty breaks big goals into tiny, single-owner tasks, hands them to your other bots in under 120 words. [breezeeoo](https://x.com/breezeeoo).
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - Watches Slack, suggests comments on interesting threads, and rewrites short updates from teammate bots into a casual times-channel voice. [Kento](https://x.com/AoToLog_).
@@ -145,6 +149,7 @@ Back to [README](../../README.md)
 - [TestChimp QA Bot](https://x.ai/bot/jYqZ5GfGQhddkJmErACwe) - QA bot for AI coding agents per TestChimp project\: watches pushes and test results and runs the next QA step on approval. Nuwan.
 - [Threadroost](https://x.ai/bot/y8jcsoZFQCZDHcQ8eaUPN) - Files your SuperGrok and Claude chats into this bot, word for word, through your own free Threadroost connector. [Dallin](https://x.com/DallinWatts).
 - [Token Cop](https://x.ai/bot/7pmBFxpIJBiku06mC3E0b) - Audits where your bots and AI agents waste tokens and recommends cuts you approve, with paste-ready instruction fixes. [Andres](https://x.com/AndresRuggiero3).
+- [Tokenomics](https://x.ai/bot/fp3w8_QjKDlQy33Id4LF8) - Paces a shared AI subscription usage pool so you don't run out, scores build ideas by payoff per usage point, and reports weekly on what usage bought. Hans.
 - [Tune-Up](https://x.ai/bot/EwsD6P3NuMDgp1_sT1MWp) - Reviews your other Grok bots, turns misses into tests and suggests small fixes you approve. community.
 - [Update Yourself](https://x.ai/bot/ef6Amgf63XdwgLY67NKn7) - Keeps your bot's memory and a shared AGENTS folder in sync, so every assistant you use, from any company, works from the same up-to-date facts. [Lucas](https://x.com/Lucaslongo).
 - [Urgenta](https://x.ai/bot/y7DRih96Sk_Y6qHddWfID) - Runs an emergency protocol for operations teams\: watches Slack and email for anything down or any part needed and gets the emergency owner moving. [Shai](https://x.com/beneli_massoud).
@@ -152,6 +157,7 @@ Back to [README](../../README.md)
 - [Usage Forecaster](https://x.ai/bot/ZuZSjs5wHL_KkYaaDynqY) - Forecasts how much of your Grok or xAI subscription's weekly usage pool you'll use before the reset, scans your agents' schedules. [BarrrOmer](https://x.com/BarrrOmer).
 - [Usage Guard](https://x.ai/bot/FHqfVO6g1IRQTJR5rQnnS) - Keeps your Grok Bots inside your weekly usage budget and audits your bots and routines for things to cut, merge, or slow down. [Michael](https://x.com/MikeysMolecules).
 - [Usage Watch](https://x.ai/bot/wQ2nRsIjO6ByfzZvGy5St) - Maps all your bots' routines onto a calendar up to your usage reset, flags the biggest drains, and helps you pause them so you don't run out. [luisbarragan](https://x.com/luisbarragan).
+- [Usage Watchdog](https://x.ai/bot/iojCz5xZG-8iknRm3FevF) - Warns before a task burns through your weekly Grok usage\: flags heavy jobs before they start, catches runaway tasks, and projects when you'll hit the limit. Zack.
 - [Use-Case Coach](https://x.ai/bot/j6NKC6auUgL_xXwQsOHVg) - Got a Grok Bot but not sure what to use it for? A two-minute interview, three ideas built for your life, and your first bot built and running on the spot. [Coffee](https://x.com/CoffeeNGrit).
 - [VeilBreaker Guard & Watch](https://x.ai/bot/DMifb6iyC03g6HvPNrkGw) - An untrusted-content guard and activity watch for Grok Bot, powered by the VeilBreaker plugin. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
 - [Venice Bridge](https://x.ai/bot/dWwSDqhtm9sT39wUBLyFM) - Your router and bridge to Venice AI\: hand it a job from you or your other Grok Bots, and it picks the cheapest Venice model that can do it well. [P2thedro](https://x.com/P2thedro).

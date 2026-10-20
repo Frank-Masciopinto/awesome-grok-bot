@@ -54,6 +54,7 @@
 - [Ledger](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) - 从收件箱里翻出所有订阅、账单、续费和截止日期，并起草回复. Michael.
 - [Mail Junkie](https://x.ai/bot/K880JZuPGIGoVv0uCU8ki) - 在所有已连接的邮箱里把未加旗标的新闻信、促销、账单通知等垃圾邮件移出收件箱归档. [samkettleson](https://x.com/samkettleson).
 - [Mail Monitor](https://x.ai/bot/h5PEXsBYJ_BOguMXVvjU7) - 盯 Gmail（或经 Spark 接入的任意邮箱），一天几次发简短摘要，只在真有事要你处理时提醒；未经你同意绝不发信。 Pierce.
+- [Mailroom bot](https://x.ai/bot/QQked4g7ftLHHCv8cKDCT) - 拍下收到的纸质信件，它会识别内容、命名并归档到 Google Drive 的 Mailroom 文件夹，发票不再丢。 PAUL.
 - [Margin](https://x.ai/bot/GqStm_9by2_ffroZOIC3V) - 日程、休息和恢复排程器：每小时扫一遍日历找冲突、扎堆和缺少休息，在你允许的范围内修正. [Zack](https://x.com/zackproser).
 - [Meeting Brief](https://x.ai/bot/JN9e1WggIKVWhCEZrySlj) - 开会前 90 秒内备好带出处的参会人、议程和未结事项. [Komil](https://x.com/Limok_igit).
 - [Meeting Prep & Follow-up](https://x.ai/bot/Of0WZSYyqWtQXV9Z52pqv) - 在即将到来的会议前发你一份简报，让你有备而来. [Jared](https://x.com/dcostaverage).

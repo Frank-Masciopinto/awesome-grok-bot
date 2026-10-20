@@ -17,6 +17,7 @@
 - [Affiliate Recruiter](https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ) - 按主题和竞品推广人找联盟候选人，排出短名单并附联系方式和初稿话术。 [zilvestro](https://x.com/zilvestro).
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - 小服务商下班后前台：搬家、暖通、水管、园艺、保洁的来电与网站聊天。 [Jshet05](https://x.com/Jshet05).
 - [After-Hours Receptionist](https://x.ai/bot/L-Peiv65iI_logfpgoPQ_) - 小商家下班后的线索收集和预约助手. Robert.
+- [After-Hours Receptionist](https://x.ai/bot/oGpLaio6LDICY5kJ_M9au) - 用 AgentLine 号码在下班后接听店里的电话：记留言、处理紧急来电，并排好第二天早上的回电。 Sameer.
 - [Ag bot](https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh) - 按原料就近找真实种植户与供应商，并给出排序. [Blaze](https://x.com/BlazeDrinkwine).
 - [Agency Reporter](https://x.ai/bot/u8hSS6eJdCwrnZXBcwtw8) - 用 Search Console 真实数据为每个客户写月度 SEO 报告：成果、改了什么是否有效、AI 搜索、下月计划. [SEOmatic](https://x.com/seomatic_ai).
 - [AI CMO](https://x.ai/bot/yzvLAvBDFtppOIvRNr5Tr) - 懂 CFO 语言、用 4P 思考的 AI 首席营销官，按品牌 → 需求 → 扩张推进. [Paul](https://x.com/paulsyng).
@@ -105,6 +106,7 @@
 - [Customer Service](https://x.ai/bot/zC_-D00Dam5jmHf0t62l_) - 客服桌面，按你的政策语气起草回复. [degen4lyfe_](https://x.com/degen4lyfe_).
 - [Customer Support Desk](https://x.ai/bot/SeAX2ThEH5Qu8GloOB17C) - 整理客服收件箱，用你的口吻起草回复，从重复问题里整理常见问答，留意流失信号并每周出满意度报告. [Charles](https://x.com/ASaltyVet).
 - [Customer Support Idiot Buffer](https://x.ai/bot/PMCHyvumlOdCFNRifTDJW) - 经语音桥替你打客服电话，聊天里实时指挥。 [MitcelloRudoll](https://x.com/MitcelloRudoll).
+- [Daily Dial Coach](https://x.ai/bot/t375vZeKNiYPyB97rM91F) - 给小型工程店独立销售的每日拨号教练：早上排好该打给谁、起草开场白和跟进话术，晚上出成绩单，别让报价放凉。 zeke.
 - [Daily Shop Briefing](https://x.ai/bot/SIWQWHxNZBkaEkqdh1ym3) - 用昨天的遗留事项和今天的检查清单，起草一份简短的早间开店简报. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Dan Lanning](https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS) - 用真实通话稿练伙伴关系与高风险发现通话的表达。 [jennananpei](https://x.com/jennananpei).
 - [Deal Inspector](https://x.ai/bot/vZfC76-4UC1XU7qC4m726) - 对每个晋级的交易，用真实通话逐字稿对照资格标准，引用证据并标出缺口。 Jon Grigull.
@@ -254,6 +256,7 @@
 - [Mídia](https://x.ai/bot/4aOqWKFJvnz6yoQWlw-Jv) - 葡萄牙语的付费投放同事：读 Meta Ads 和 Google Ads 数据，检查追踪，给出诊断. [Simone](https://x.com/simonejlima).
 - [Miles](https://x.ai/bot/zYTKGwDgxJnIoHHy4eXAC) - 为 CRM、GoHighLevel 与 AI 前台找高意向购买信号. [dariusgaynor](https://x.com/dariusgaynor).
 - [Milou](https://x.ai/bot/HlaoZPmdS6_GkO7lzUw2S) - 给创始人和运营者的每周社交侦察：找你所在城市的 Luma 和 Eventbrite 活动，查邮件邀请和日历冲突，你同意后才报名. [Kevin](https://x.com/kevindorfer).
+- [Missed Call Catcher](https://x.ai/bot/tTloWIy8lNvujhH904fz2) - 给暖通、水管、屋顶、油漆等工程店记录漏接和下班后的来电，标出紧急情况，并为每通电话起草回电短信。 zeke.
 - [Monetize PM](https://x.ai/bot/WLKquz6gXnS3U--j2BFhV) - 把试用和注册交接变成收入：定方案、定价、把关启动、跑漏斗. Ash.
 - [MoveToAU Desk](https://x.ai/bot/Cfr_HG6tlBnA7NQUukguD) - 美到澳长期安置运营，研究路径、找澳机构伙伴、起草合规向触达，并跑免费候选人流程. [shanto12](https://x.com/shanto12).
 - [Mudbot](https://x.ai/bot/9DytLoUb-ZzzYb_Skem68) - 销售线索与触达助手. community.
@@ -333,6 +336,7 @@
 - [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) - 找出已经躺在 HubSpot 管道里的收入机会。 [ericosiu](https://x.com/ericosiu).
 - [Review Desk](https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc) - 按你店铺口吻起草评价回复，按星级分类，每条经你批准. [AraXsuper](https://x.com/AraXsuper).
 - [Review Reply Craft](https://x.ai/bot/wjIrg0RP6NeJOFVduz6n6) - 帮本地小生意写听起来像人的谷歌评价回复，并把好感转成付费工作. [Omenfinancial](https://x.com/Omenfinancial).
+- [Review Reply Desk](https://x.ai/bot/sYdxK7nHbSR-Ym_N8D3zl) - 用你的口吻起草 Google 和 Facebook 评价的回复，标出不满意的客户，完工后起草请客户留评的短信。不经你同意不发。 zeke.
 - [Review Reply Drafter](https://x.ai/bot/RFZWV8682hykNKF8UJf44) - 根据你粘贴的公开评价起草回复. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Rival Watch Desk](https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW) - 盯住你点名的对手，汇总融资、招人、报道和投放变化。 [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Robauto Website Growth Agent](https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU) - 按机器可读标准给品牌站打分，并一次只推一小步改法。 [RobautoAI](https://x.com/RobautoAI).
@@ -375,6 +379,7 @@
 - [Solo Founder Chief of Staff](https://x.ai/bot/ojRGlp3tVO75MAzhEoVEv) - 独立创始人的幕僚长：每个工作日早上一屏看完的简报、一张只放已确认数字的计分板，并把工作派给你的专业机器人. [naveenraju30](https://x.com/naveenraju30).
 - [Spec → Listing](https://x.ai/bot/4uk1wr4vgC4zROKbvSZUP) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [MisledFan](https://x.com/MisledFan).
 - [Spike](https://x.ai/bot/itRObzTzlih4AGPFX99LP) - 掌管有说服力的沟通训练，让写作与谈话真正进到人脑子里，粗鲁锋利不当软写作伴. [mpalczew](https://x.com/mpalczew).
+- [Sponsor Scout](https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6) - 找出已经在赞助和你类似的人的品牌，摸清真正的对接渠道并写好提案，由你点发送；适合格斗选手、运动员、newsletter 作者和创作者. [Michael](https://x.com/MichaelHeckert).
 - [Sponsorship Deal Desk](https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy) - 创作者赞助交易台：筛选来询，对新的报价询问发固定首回，例外情况留给人处理. [Eric](https://x.com/ericosiu).
 - [Stale Leads Closer](https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0) - 把沉默线索捞回CRM，先发温和短信，Slack留否决窗，无人拦截再自动发出. Roberto.
 - [Stills & Clips Desk](https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-) - 从素材里抽出静帧、缩略图与短片并按去处裁切，也清理文档截图并写说明文案。 [Matt Palmer](https://x.com/mattyp).

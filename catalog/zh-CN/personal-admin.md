@@ -362,6 +362,7 @@
 - [Dr Grok](https://x.ai/bot/5ugiIXTxpQY7tr5j9tt6r) - 友好的健康助手：用大白话解释症状、药物、病情和化验结果，帮你准备看医生. [RIAAN](https://x.com/RIAANVANDERME14).
 - [Dr. Crusher](https://x.ai/bot/ox4qgFnskp1Fm9D8f0SCq) - 冷静直白的帮手，带你或家人办好医保登记（Medicare、Marketplace、TRICARE、雇主保险）. [SideShopAi](https://x.com/SideShopAi).
 - [Dr. Sweet](https://x.ai/bot/ZCrfVPExFK2JbazyGXL3L) - 护肾向的力量与健康教练，日训、记餐、血压习惯与周检. [Michael](https://x.com/Michael).
+- [Drivr](https://x.ai/bot/TDbL2EAyGVmW2isqGPRwx) - 给 Tesla 车主的语音记录：开车时随便说，说“done”就把笔记、待办和想法归档，下次开车还记得进度。 Bill.
 - [Drug Savings](https://x.ai/bot/c9zxS3sqkF5h7vXvs6NVn) - 在保险、Amazon RxPass、Cost Plus、折扣卡之间找家里处方最便宜的取药方式并帮你迁移。 Scott.
 - [Dubai](https://x.ai/bot/pNVDukpGRUUOx_wtyRhiV) - 面向游客、居民、投资者和新移民的迪拜向导：玩乐、酒店、签证、公司设立和本地新闻. community.
 - [Dump](https://x.ai/bot/3_STyUFj2hVSyC5R-cQGi) - 大脑的收纳箱：把半成形的想法、链接、截图和待办丢给它，它会妥善保存并分类备用. [Devin](https://x.com/ItsMeTrueG).
@@ -370,6 +371,7 @@
 - [Duplicate Photo Finder](https://x.ai/bot/GZeqDkOuBOEzGMrNH3Jhf) - 在 OneDrive、Google Drive 或上传批次里找重复与近似照片，未你批准不移动. [SamE](https://x.com/SamE1311025).
 - [DWTS Ezra Votes](https://x.ai/bot/FudoGp1ChuiSXr3TMVZGG) - 为《与星共舞》里 Ezra Frech 和 Daniella Karagach 拉票，每个直播窗口最多投 20 票. Scott.
 - [Dyslexia Tutor](https://x.ai/bot/0yRl8b9gk0AYDPhTyJVKN) - 面向家长的阅读障碍辅导，帮读书靠猜字的孩子练好阅读. [AmericanSxool](https://x.com/AmericanSxool).
+- [E-commerce Order Desk](https://x.ai/bot/dkCeq3jQk8cnpKUFQZxFe) - 购物 bot：跨商店查找和比较商品，填好结账信息，你点头后才付款. [Rhaaghav](https://x.com/kRaaghav).
 - [Easy Apply Queue](https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp) - 盯着一小时 LinkedIn 投递窗口，同一岗位绝不再抓第二次。 [HaseebMir91](https://x.com/HaseebMir91).
 - [Easy Jog Check-in](https://x.ai/bot/tQBhNcc6YIsCkfMx-BDV4) - 温和的慢跑打卡伙伴，不是医生也不是教练，帮你记下今天跑没跑、大概跑了多久. [cckmosi](https://x.com/cckmosi).
 - [EasyGroupFlights Concierge](https://x.ai/bot/3K2ptLhCQa540gab4M_YX) - 面向公众的旅客礼宾，帮你拿团体机票报价和处理行程. Crypto2Hodl.
@@ -546,6 +548,7 @@
 - [Golfy](https://x.ai/bot/dnEcfPzFgLLb5FnXSnpJN) - 高尔夫教练：排练习计划和计时训练，用快速选择题复盘你的每一轮. [Santiago](https://x.com/SDAI_7).
 - [GoodNews](https://x.ai/bot/0l58XqOBeJ7h7QUiEQ54x) - 早晚一封暖心好消息摘要，覆盖科学、善意、康复与社区正能量. [Joey](https://x.com/aijoey).
 - [Goonie](https://x.ai/bot/RTQ5cLf2WeWJPyjD8YSWr) - 记得你的毒舌陪伴机器人，带节日模式和停车时可用的 Tesla 趣味功能. [goonieai](https://x.com/goonieai).
+- [Gork](https://x.ai/bot/hungj297bsOudMqA6LpPX) - 懒散、面无表情的讽刺型模仿助手：大多一句话敷衍或轻轻吐槽，真有要紧事时才认真帮忙。 Tom.
 - [Governator](https://x.ai/bot/LoPqRp44sI8sHRpNN9Kq-) - Governator 的可导入分享模板，按说明完成首次只读任务后再开写入。 community.
 - [Grant Manager](https://x.ai/bot/Tzx-9PGZAxepQQU0ybNfZ) - 找小生意真能赢的资助，筛匹配并起草申请，工作日送短板报. [Kirill](https://x.com/Kirill).
 - [Gravy](https://x.ai/bot/r1NaMrcq8hCJmCrX3M9dN) - 把半途而废的项目救回来的助手. [osyzov](https://x.com/osyzov).
@@ -839,6 +842,7 @@
 - [matters global](https://x.ai/bot/zMaSb6XeERHgyCNQXPxeS) - 冷静规划教练，把目标收成一小张可执行事项图. [matthiasroder](https://x.com/matthiasroder).
 - [McCringleberry](https://x.ai/bot/Tz70Wc2RsqdDLex6VbxaY) - 梦幻橄榄球高手，支持 Yahoo、ESPN、Sleeper 等联赛. [nowteslafy](https://x.com/nowteslafy).
 - [McKondo](https://x.ai/bot/Kki8WwXYkmKYfr1IY2ABA) - Mac 版断舍离：截图按月归档、整理下载文件夹、归档 Gmail 噪音. vandy.
+- [Meal & Savings Planner](https://x.ai/bot/CiREEoV-9rjUaatxtiXFf) - 给忙碌父母的餐食和采购助手：按家人口味、过敏和预算排每周菜单，生成按货架排序的购物清单，找优惠券和折扣，记录花费，买任何东西前都先问你. [Mister](https://x.com/Mrxmalcolm).
 - [Meal Planner](https://x.ai/bot/zNCuJ-OgH_dAGuatUJM49) - 每个周末给你一周符合家庭、预算和口味的晚餐，加一份按超市货架排好的购物清单. [McLeodAgency](https://x.com/McLeodAgency).
 - [Meal Planner and Grocery List](https://x.ai/bot/rkC1p5Dq8GvCNBnbZDdXu) - 按你的饮食、预算和时间排一周晚餐，再变成按超市区域分好的购物清单，可直接粘贴. [James](https://x.com/allthemoney).
 - [Meal Planner Pro](https://x.ai/bot/-p27Q3hffcw92siKdddfK) - 规划每周饮食，达到热量和蛋白质目标，兼顾预算和日程，并避开过敏原和麸质. [Jeremy](https://x.com/Biggs237).
@@ -1099,6 +1103,7 @@
 - [Redact](https://x.ai/bot/lTECTKtNLwK_xZhTaq_d_) - 帮你从人员搜索和数据经纪网站删除个人信息，先确认授权再自动退出，被拦的网站汇总一份，工作日复查. [Tag](https://x.com/tag111111111).
 - [Redzone](https://x.ai/bot/FwN-1CgFBmhXi6ZWqqt3J) - 红区幻想橄榄球助手，盯周末阵容压力. Ben.
 - [Relic](https://x.ai/bot/uvCpZyoKJR_P7b9FI0b0h) - 本地淘货助手：在附近的遗产拍卖、拍卖会和分类广告中寻找被误认或低估的古董和收藏品. [GenXer](https://x.com/LatchKeyLegend).
+- [Remembered](https://x.ai/bot/v8VS1FsB0TRj9vuXcOx25) - 找出并记住亲友生日，准备个性化贺卡，帮你及时订实体卡或起草祝福邮件，每周检查一次。 Liam.
 - [Remote Job Hunter](https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS) - 在公司招聘官网找远程岗位，用雇主的 ATS 投递，记好投递日志，并盯着邮箱里的面试邀请. [TKR](https://x.com/IRENCIFR).
 - [Remote Scout](https://x.ai/bot/js1pBP-lLlivKHY8Q_d4v) - 找已核实、仍在招的免学历远程工作，过滤骗局，记进 CSV 跟踪表，再交给你的投递机器人. [Frog](https://x.com/matthew1).
 - [ReMynd Assistant](https://x.ai/bot/HaldfdTeppaCiTJyKC_D5) - 只读助手，帮你查 Mac 上 ReMynd 的屏幕和通话记录. [bfrench](https://x.com/bfrench).
