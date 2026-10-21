@@ -643,3 +643,4 @@ Back to [README](../../README.md)
 - [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - Checks Japanese grammar, keigo, and readability for boss-facing drafts without changing meaning. [24K](https://x.com/gold24k9999).
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - Schedules voice demo, PPT, avatar, and 1080p lecture video delivery. [dugujun12](https://x.com/dugujun12).
 - [墨灵 Moling](https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0) - Long-form ghostwriter that learns your voice, writes viral posts without the AI feel, and adapts each one for X, WeChat, Douyin, Xiaohongshu, Zhihu and Weibo. [Alcherex](https://x.com/LZJ5460).
+- [Podcast](https://x.ai/bot/rPdIhRzdXS6hqqMMGoY-R) - Topic in, recorded two-host podcast episode out. Made by the team behind the Sam & Riley Unfiltered podcast. [Leon](https://x.com/GrokBotCEO).

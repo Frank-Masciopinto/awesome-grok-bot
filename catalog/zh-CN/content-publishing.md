@@ -643,3 +643,4 @@
 - [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - 检查呈给上司或决裁者的日语文稿的语法、敬语和可读性，不改原意也不代写代发。 [24K](https://x.com/gold24k9999).
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - 调度语音演示、PPT、虚拟形象和字幕对齐的 1080p 讲解片。 [dugujun12](https://x.com/dugujun12).
 - [墨灵 Moling](https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0) - 长文写手：学你的口吻，写没有 AI 味、值得收藏的爆款长文，一篇改成 X、公众号、抖音、小红书、知乎、微博多个版本。 [Alcherex](https://x.com/LZJ5460).
+- [Podcast](https://x.ai/bot/rPdIhRzdXS6hqqMMGoY-R) - 输入一个话题，产出一集录制好的双主持人播客。出自 Sam & Riley Unfiltered 播客背后的团队。 [Leon](https://x.com/GrokBotCEO).
