@@ -91,6 +91,7 @@ Back to [README](../../README.md)
 - [Course Builder](https://x.ai/bot/L8GuDR4th92W3XWqhKIku) - Builds clean, spacious course materials for any instructor and subject\: syllabi, worksheets, answer keys, study sheets, lesson plans, and lecture decks. [roger](https://x.com/roger_jgs404040).
 - [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) - Paste social post links and this bot downloads them as hard files, uploads those to a Drive folder you name, then embeds them on the deck and slide you pick. Mike.
 - [Creator Growth Desk](https://x.ai/bot/q6brfHnvxZHqKTgLPpcbB) - A growth coach for creators. It finds what's holding your account back, ranks fixes by estimated impact, and suggests next videos with titles and hashtags. [Mr.](https://x.com/MrSilhouette).
+- [CRT Studio](https://x.ai/bot/GEbodkgZdP7Wwp0Z0IZ2E) - Turns your videos into retro CRT TV footage with scanlines, screen curvature, glow and vintage warmth. Four looks, each part tunable. [brflux](https://x.com/brflux).
 - [Cue](https://x.ai/bot/j7ZGmU3FhqpOAj0l2qXaQ) - Cue is an audition coach and scout for voice actors and audiobook narrators. [Adrian_Bisson](https://x.com/Adrian_Bisson).
 - [daily bangers](https://x.ai/bot/182OWDI636IzNxEUUnMsU) - Your daily X coach. It suggests topics from your profile, turns rough thoughts into short posts ready to go. [Leon](https://x.com/NetSeg_io).
 - [Daily Learning Video](https://x.ai/bot/A0CCwxxWkUqt-S-zY9rxb) - Makes your child a short, narrated learning video every morning, pitched at the right level using the Marble open taxonomy as the curriculum. [troysimpson](https://x.com/troysimpson).
@@ -109,6 +110,7 @@ Back to [README](../../README.md)
 - [Editor for EmDash](https://x.ai/bot/4oSBCgjCAqEnfgaAmXy9l) - An editor for your EmDash site\: send it a change in plain words, it drafts it, sends you a preview, and publishes only once you approve. [danielhayesmith](https://x.com/danielhayesmith).
 - [EdiTube](https://x.ai/bot/HS_Tq2uq4RCx1_VpN-LLY) - Video-editing assistant for YouTubers\: transcribes raw footage, summarizes clips with timecodes. [raguichi](https://x.com/raguichi).
 - [Elon](https://x.ai/bot/doPgoyO6qCC58cXU_AEJD) - Strategic mentor in Elon Musk's style, in Portuguese\: challenges assumptions, applies first principles and The Algorithm, and tracks weekly habits. [simonejlima](https://x.com/simonejlima).
+- [Explainer Studio](https://x.ai/bot/vkAjlbGEZ-yJS7hl5HVF1) - Builds narrated, Manim-powered math and science explainer videos with Grok Voice and word-highlighted captions, from a topic, your recording or a PDF. [William](https://x.com/willstarbase).
 - [Explainer Video bot](https://x.ai/bot/OeUdOzZr6WpFItOXlEyIx) - Turns a topic or script into a narrated explainer video or colourful 2D cartoon, with voiceovers, captions, music and sound effects. [Eniola](https://x.com/enisco).
 - [Explainer Video bot](https://x.ai/bot/eTLAqnD45kW3h-THwU8XM) - Makes upload-ready, data-driven explainer videos with verified numbers, AI voice-over, kinetic motion graphics and real footage. [EngMoElgaraihy](https://x.com/EngMoElgaraihy).
 - [Explainer Video bot](https://x.ai/bot/rFn9Q2pLJKFkSF4JN3Spx) - Turns a rough idea into a polished, narrated explainer video with animation, captions and sound. [ChaosLensX](https://x.com/ChaosLensX).
@@ -117,6 +119,7 @@ Back to [README](../../README.md)
 - [Fantasy Desk](https://x.ai/bot/rsi_1F8dmyq4E6C5uazzt) - Fantasy football co-manager for Sleeper and ESPN\: lineup, grades, waiver/trade calls. [WreckItAbel](https://x.com/WreckItAbel).
 - [figma bro](https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_) - Turns a Figma frame into a build spec, and audits your components, tokens, and motion. community.
 - [Find Chords with Leopold VIII](https://x.ai/bot/x5PjpwfJ4NkOq6Mhw4Q2I) - Leopold from @leopold_viii, a friendly music teacher. Name a song or paste chords and get clean chord diagrams for guitar, piano, mandolin. [leopold_viii](https://x.com/leopold_viii).
+- [Finn](https://x.ai/bot/xkua9Miw4q3k2JXMy4pv9) - Operator-voice ghostwriter for a Premium X account\: researches what's moving in Grok Bot, AI agents, GoHighLevel and business automation, then drafts posts. [Darius](https://x.com/dariusgaynor).
 - [Flipbook Music Video Studio](https://x.ai/bot/_YsPzOWgloE5X5Blh5ktB) - Upload a song, describe your music video, and get a hand-drawn flipbook-style animated video synced to the lyrics. [Zerefs](https://x.com/phera46334652).
 - [Folklore Still](https://x.ai/bot/UGcotHqa2ABtMzfcMmR0Q) - Makes faceless illustrated folklore videos\: picks a genre, writes the story, locks one art look, narrates with your SpaceXAI voice key. [xerith_darkmind](https://x.com/xerith_darkmind).
 - [Gallery Builder](https://x.ai/bot/IQhq5x44hzXhcthp-YEhT) - Turns your photos into a public website where they form a shape, like a heart or a state outline. [realjohnnewburg](https://x.com/realjohnnewburg).
@@ -182,6 +185,7 @@ Back to [README](../../README.md)
 - [Producer](https://x.ai/bot/eNCu6dmGVCAR-DSYWT57j) - A creative director for short vertical videos\: picks hot topics, writes punchy scripts with scroll-stopping hooks, and directs motion design. [KhoaHun68916646](https://x.com/KhoaHun68916646).
 - [Product Clip](https://x.ai/bot/RQ68eyPi1KbclOwSAJgoY) - Turns a real product photo into a short selling video for marketplaces and social platforms. [dataespresso](https://x.com/dataespresso).
 - [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - Gives your X account a health score\: red flags, security and shadowban checks, feed tuning and junk follows. community.
+- [Promo Studio](https://x.ai/bot/ybXMrluMLTr7EU0ohttgX) - Short-form video producer that turns any app or website into polished vertical promos for TikTok, Instagram Reels, YouTube Shorts and LinkedIn. [jeevan](https://x.com/iamjeevanvj).
 - [PROMPT EDITOR](https://x.ai/bot/3SExQeiS4pwalaUG-7YM1) - Safe sandbox for longform agent prompts\: spell-check, format, resolve ambiguity, token-optimize digs and spawned routines. Chad.
 - [Prose Guard](https://x.ai/bot/1kk1mjbJ1-jNMpK9aKz0T) - Rewrites and scores your drafts so they read as human-written, modeled on writing you supply. [roger](https://x.com/roger_jgs404040).
 - [QA Reviewer](https://x.ai/bot/PKcdf81kbXjeMUGqOcwJt) - A second set of eyes that checks your posts, videos, articles, decks and other final drafts before they go public, and returns a pass or fix list. [bigkabe_](https://x.com/bigkabe_).
@@ -626,3 +630,4 @@ Back to [README](../../README.md)
 - [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - A daily X posting system for ideas, drafts, timing, and review. [KinGao476942](https://x.com/KinGao476942).
 - [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - Checks Japanese grammar, keigo, and readability for boss-facing drafts without changing meaning. [24K](https://x.com/gold24k9999).
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - Schedules voice demo, PPT, avatar, and 1080p lecture video delivery. [dugujun12](https://x.com/dugujun12).
+- [墨灵 Moling](https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0) - Long-form ghostwriter that learns your voice, writes viral posts without the AI feel, and adapts each one for X, WeChat, Douyin, Xiaohongshu, Zhihu and Weibo. [Alcherex](https://x.com/LZJ5460).

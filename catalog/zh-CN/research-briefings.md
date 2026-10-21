@@ -59,6 +59,7 @@
 - [Bookmark Butler](https://x.ai/bot/hLtN-c5Vw-JWIehFEeoTm) - 处理你每条 X 书签：把技巧用进项目、归档、起草分享或试用工具，再告诉你做了什么. sheran.
 - [Bookmark Digest](https://x.ai/bot/tCPzwGYKCeTKQznAeo-wj) - 每天早上按有用程度给最新 10 条 X 书签排序，发摘要和图解. Koshik.
 - [Bookmark Miner](https://x.ai/bot/1k1nfNzus_-WXY-nOYM2V) - 清理你的 X 书签，每条都给出保留、稍后、收藏或跳过的判断和理由，存过的东西不浪费. [TheBmin](https://x.com/TheBmin).
+- [Bookmark to Output](https://x.ai/bot/ARXeG7AiPt_UyrFGEXJzj) - 把你收藏的 X 帖子和链接每批变成一个能用的成果：候选清单、计划、提示词模板、实验或简报。 [Mustafa](https://x.com/mustafaergisi).
 - [Bookworm](https://x.ai/bot/Yu8p1lw1sJi35Q15kTTtR) - 物理科学教师席，查公开政府来源的物理化学天文与地学. [TRV_Architech](https://x.com/TRV_Architech).
 - [Bot Changelog](https://x.ai/bot/sXcyeWUCMtjMQ2PLqQE5a) - 每天查看 Grok Bot 公开更新日志，只有新版本发布时才发简短摘要，还能提醒协调机器人注意影响运行的改动. [N0v4Ph4n](https://x.com/ChuongPhanVinh).
 - [Bot Portal](https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o) - 持续整理值得关注的 AI 工具和机器人，并记下彼此怎么接。 [JaimeBubblehead](https://x.com/JaimeBubblehead).
@@ -213,6 +214,8 @@
 - [Forecast Scorekeeper](https://x.ai/bot/gbPj0Esi9ci4mEGymwXFK) - 给是非题预测诚实记分：Kalshi、Polymarket、Robinhood/ForecastEx 上的，或任何人、任何 bot 的预测都行. [vinniepinto](https://x.com/vinniepinto).
 - [Founder Mode](https://x.ai/bot/BpLQHWMypQAV3e61cyFb2) - 压力测试创业点子，并拼好起步文书. [shiftynick](https://x.com/shiftynick).
 - [Frankie](https://x.ai/bot/kkzSk0Qr6k5kcIcCGS95R) - 比特币优先的投资研究搭子，只做教育向决策支持，不是持牌顾问. [Michael](https://x.com/Michael).
+- [Fraud Alert Bot](https://x.ai/bot/iVWaw5fzh8ElR2DGQhMn-) - 监控关于政府欺诈、浪费和滥用的公开报道，只呈现有据可查的案例并附来源。规则严格，不做猜测。 [American](https://x.com/1776_13).
+- [Fraud Scout](https://x.ai/bot/JHSAxXQxijbB6PeopDHXh) - 扫描免费的联邦医疗公开数据（OIG 排除名单、CMS 医保账单与所有权、NPI 登记），找临终关怀和居家护理领域的可疑欺诈线索。 [Christopher](https://x.com/EzekielB6516).
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) - 扫你自己的 X 私信，告诉你现在该回哪几条。 [pukerrainbrow](https://x.com/pukerrainbrow).
 - [Frock Bot](https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d) - 经文与历史基督教释义的研经助理，是研究工具不是牧师或最终权威. [Stephen](https://x.com/SM_Schmitt).
 - [Front Desk](https://x.ai/bot/jnIfY8WX6xUVvjs26aDnI) - 笔记与知识库整理助手. community.
@@ -220,7 +223,9 @@
 - [Galaxy Watcher](https://x.ai/bot/2wqxkRfKmZSX1u0FSMA-I) - 9 月 15，17 日直播的 Grok Bot Galaxy 书记。 [prepperevol](https://x.com/prepperevol).
 - [Garbo](https://x.ai/bot/ijWt4lcb_vkZ6IMYnbBNI) - 战争与地缘政治预警监控：扫一组 X 上的 OSINT 账号，只在重大事件时提醒你. [Rogério](https://x.com/rgllm).
 - [Gemini 4 死了没](https://x.ai/bot/KjAL4LmSNZFMSyHAJKXBN) - 定时在 X 上检索官方账号，Gemini 4 系列（也可换成你关心的其他模型）一旦向普通订阅者开放就第一时间邮件通知你. [TAP0APIA](https://x.com/TAP0APIA).
+- [Genealogy](https://x.ai/bot/KBl_QJFaZvuu_EvymAzaF) - 家谱研究助手：用人口普查、出生婚丧、兵役和遗嘱认证等原始记录核对你的家谱，每条结论都注明出处。 [Tyrell](https://x.com/coustain).
 - [Genie](https://x.ai/bot/PwT8RcyRTldWpNW4OAjal) - 家族史研究助手，找档案、代写信、翻译记录并整理线索. [chipshopandy](https://x.com/chipshopandy).
+- [Gig Scout](https://x.ai/bot/5ZuZw6OTVvI6dJ74UVIu1) - 只做调研的机会侦察员：找你所在领域正在招募的付费零活、创作者计划和品牌合作，最多发你 3 个筛过的。 [Yuli](https://x.com/yulikay).
 - [GitHub Trending Scout](https://x.ai/bot/EklFc0zYAqzkxcALynMj2) - 每天读 GitHub 趋势页，只挑真正贴合你工作的少数仓库做成简报并说明理由. [Hussein_M_Ragab](https://x.com/Hussein_M_Ragab).
 - [github 优秀仓库](https://x.ai/bot/D9HYH2jAmGiKw7e499mrE) - 每天早上扫一遍 GitHub 趋势页，把值得看的仓库写成简报。 [umiastuti8329](https://x.com/ios_1261142602).
 - [Glasser](https://x.ai/bot/pYFETnU1TFsADlz0hJD1y) - 通过 Glasser.ai 统一查询公司与联系人 enrichment、SEO、广告、流量和融资等付费数据。 [iammutex](https://x.com/Glasserai).
@@ -230,6 +235,7 @@
 - [Grok Bot Directory](https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8) - 按你想做的事找公开 Grok Bot，也可问别人都拿它们干什么。 [Leechael](https://x.com/Leechael).
 - [Grok Bot News Watch](https://x.ai/bot/BWhVrMsjdHaqXsZa7cIHC) - 关注官方 @bot 账号和官方团队成员的 X 动态，让你跟上最新进展. [gidwell](https://x.com/gidwell).
 - [Grok Bot Radar](https://x.ai/bot/jtNRaumQu9DvvadLlHeiA) - 跟踪做 Grok Bot 的团队，每周找出新功能和早期功能，再告诉你怎么真正用起来. [bossriceshark](https://x.com/bossriceshark).
+- [Grok Bot Updates](https://x.ai/bot/VbuugtxjDt7meMkKNfzkl) - 非官方的 Grok Bot 更新追踪：汇总官方更新日志、应用商店说明、帮助页和官方 X 帖子，最新的在前。 [XPixel](https://x.com/xpixeladventure).
 - [Grok Librarian](https://x.ai/bot/586AkBMvFS1ngOYwaupKC) - 友好的研究馆员：查找、核实并整理公开的书籍、文章和资料来源，链接都是真的，不编造引用. [beardedfreedom2](https://x.com/beardedfreedom2).
 - [Grok Ness](https://x.ai/bot/nuEAmKril8Bohuqt6b7rc) - 证据优先研究机器人，合同账本核验、难找门户搜寻，以及可检查的取证路径. [ALL_Jonah](https://x.com/ALL_Jonah).
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) - 早上一小份值得动手搭的新 Grok Bot 用法。 [Andrej](https://x.com/scheemunai).
@@ -338,6 +344,7 @@
 - [Morning Brief](https://x.ai/bot/UUnYvoOqa9yVwMoWcLhIy) - 两分钟的晨读：天气、今天的日程、你选的新闻话题、你的股票和 X 热议，每天早上送到. [McLeodAgency](https://x.com/McLeodAgency).
 - [Morning Desk](https://x.ai/bot/7_qrgFePoJ6BOCRcdkZOv) - 邮件与收件箱助手. community.
 - [morning digest](https://x.ai/bot/jnUshuwatt-98NA5XEyqz) - 每日新闻摘要，让你浏览代替刷屏：你的 X 圈子和 AI 圈在聊什么、好玩的 Grok Bot 用法、国内外和本地新闻. Silas.
+- [Morning Paper](https://x.ai/bot/JF18sqDFjQbyjdx6KplY5) - 用新闻源和 X 为你做一份每日个人报纸并发布，每天早上更新，只有出问题才通知你。 [Pranav](https://x.com/pranavkarthik__).
 - [Morning Triage Chief](https://x.ai/bot/7-EeGYxDyedmNYELbedW1) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [AngelZhenCPA](https://x.com/AngelZhenCPA).
 - [Motos researcher](https://x.ai/bot/ouabuz1HIoiyDhFZDVuDP) - 在西班牙分类信息站猎划算的经典试验与公路摩托车. [0x_tommy9](https://x.com/0x_tommy9).
 - [movie picker](https://x.ai/bot/2enfujV0827J75BYMrCeI) - 接上 IMDb，按你已有流媒体给没看过的影视短名单. [Zach](https://x.com/Zach).
@@ -407,6 +414,7 @@
 - [Product Performance](https://x.ai/bot/s6d5f1cc3a564c8da972a) - 看清真正要紧的指标 登可观测性平台、翻火焰图，回来给你热点加一段说明. [SpaceX](https://x.com/DenisLabelle).
 - [ProductHunter](https://x.ai/bot/Qsqan7PbltFggoJukvmtT) - 早晚两班扫 Product Hunt 和 HN 新品，并补上访谈拆解. [Davidwuuu92](https://x.com/Davidwuuu92).
 - [Professor G](https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk) - 耐心的家教，一步步教你任何主题：先摸清你会什么，再用日常类比讲解. Mike.
+- [Property Consultant](https://x.ai/bot/4G4ysst8Ao1xn-pvOGPaB) - 英国买房方的房产调研员：给它房源、地址或区域，它会查公开证据——挂牌价与成交价、风险和议价空间，帮你决定出价。 [Andzelika](https://x.com/AKudss).
 - [PROSPECTACLE](https://x.ai/bot/WDgRli6xhX8GDyqkp-a7w) - 找符合画像的潜客，在公开网上研究每人并起草首触消息，先研究、不编造、发送前问你。 [BudJohnson](https://x.com/BudJohnson).
 - [pstack Digest](https://x.ai/bot/04jz-n3trSsg4SXsF14XY) - 每天汇总 pstack 新版本和作者公开的智能体工程建议，并说明每条如何用到你自己的项目. [Josh](https://x.com/friedglue).
 - [Public Threat Desk](https://x.ai/bot/mQslHoIhcjMpzE252Rfpd) - 给运维看的公开来源网络威胁简报：KEV 更新、在野利用提醒，以及对自有系统的务实检查. [Markus](https://x.com/SleepyCovfefe).
@@ -593,12 +601,15 @@
 - [X Analyzer](https://x.ai/bot/mXAP6VMDNxs4uLiv2B2HW) - 盯着 X 上你所在领域刚开始起势的帖子和话题，推送链接让你早点参与，从不替你发帖. [zachery](https://x.com/ZryMiller).
 - [X Articles You Missed](https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV) - 每天早上扫一遍前一天 X 上你关心话题的长文，最多十条摘要合成一条消息发给你. [Brian](https://x.com/BrianRoemmele).
 - [X assistant](https://x.ai/bot/J7OPBxlsIUZB7IoXoB5wE) - 盯你的 X 提及、话题和产品名，工作日早上发一份需要你处理的汇总，默认只读. [dragosroua](https://x.com/dragosroua).
+- [X Bookmark Demos](https://x.ai/bot/0HhqUJQH2FwInXRK5SVZ5) - 每天读你的 X 书签，推荐一两个值得试的工具，你同意后在它自己的电脑上安装并实测。 [Jaime](https://x.com/JaimeBubblehead).
+- [X Bookmark Top10](https://x.ai/bot/kD7dWJasb_V3a49-qI40N) - 每天早上发来你关注话题过去 24 小时被收藏最多的 10 条 X 帖子，每条一句话摘要加链接，并标出骗局。 [Hmountain5](https://x.com/Hmountain5).
 - [X Bookmarks Daily](https://x.ai/bot/wqpbL8VPhO575k2dClEGo) - 每天读你的 X 书签、点赞和推荐流，发一份带图表的主题摘要，并给每个外链打分. [genxtraders](https://x.com/genxtraders).
 - [X Bookmarks Digest](https://x.ai/bot/2vfZfrH5jcIqNFU7BXB7v) - 按你的时间表把 X 书签整理成简短有序的摘要，让收藏的好内容真正被读到. [Moritz](https://x.com/bierlingm).
 - [X Brief](https://x.ai/bot/GkX6X536UK2MlbkfGLQnb) - 从你自己的帖子学你关心什么，再盯那条线。 [Daniel](https://x.com/daniel_mac8).
 - [X Brief](https://x.ai/bot/RO8GwQZFXL9O95i13epqF) - 把你在 X 上选的账号和话题汇成一份简短日报，读你的 X 连接或你贴的账号，从不代你发帖. community.
 - [X Free Credits Finder](https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF) - 在 X 上找回复或关注就送 AI 工具额度的帖子，标出骗局和已截止的活动，可以一天查两次. [Melvin](https://x.com/melvindvivas).
 - [X Livestream Moderator](https://x.ai/bot/m_hJjlgiRa4vpGybtAtzP) - 盯直播回复与提及，立刻标仇恨威胁人肉垃圾与疑似机器人，并留私有证据日志. [MarioYaps](https://x.com/MarioYaps).
+- [X Monitor](https://x.ai/bot/37ckm2zchL3Gr57l8uxNl) - 跟踪谁在回复某个 X 账号：按态度给评论者分组，标出有影响力的敌意账号，列出可能违反 X 规则的帖子。 [Kuangyi](https://x.com/BoKuangyi).
 - [X Radar](https://x.ai/bot/cogaww1OUGu8h-9eETMnQ) - 盯 Grok Bot 与 Cursor 团队 X 账号，在你选的时间发一则早间值得看的摘要带链接。 [bigfarmer666](https://x.com/bigfarmer666).
 - [X Radar](https://x.ai/bot/dF0wbCNEVHlP0n6l9t5-t) - 盯 X 上的提及、关键词和竞品，按你定的时间发汇总，分成点子、抱怨和值得回复的帖子. [itsluneri](https://x.com/itsluneri).
 - [X Reading Assistant](https://x.ai/bot/SnyZeBoBxGzaMJfpKt9R_) - 把你读过的 X 帖子变成 Notion 阅读记录：发个链接，它读完整帖子、写摘要、打主题标签. [0x99Ethan3](https://x.com/0x99Ethan3).

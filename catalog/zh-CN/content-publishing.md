@@ -91,6 +91,7 @@
 - [Course Builder](https://x.ai/bot/L8GuDR4th92W3XWqhKIku) - 为任何讲师和学科制作清爽的课程材料：教学大纲、练习、答案、复习单、教案和讲课幻灯片. [roger](https://x.com/roger_jgs404040).
 - [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) - 贴上社交帖子链接，下载成文件传到你指定的 Drive 文件夹，再嵌进你选的演示文稿页. Mike.
 - [Creator Growth Desk](https://x.ai/bot/q6brfHnvxZHqKTgLPpcbB) - 创作者增长教练：找出拖累你账号的问题，按预估影响排序修复项，并推荐下一条视频的标题和话题标签. [Mr.](https://x.com/MrSilhouette).
+- [CRT Studio](https://x.ai/bot/GEbodkgZdP7Wwp0Z0IZ2E) - 把你的视频变成复古 CRT 电视画面：扫描线、屏幕弧度、辉光和怀旧暖色。可选轻度、经典、重度或老电视风格并逐项微调。 [brflux](https://x.com/brflux).
 - [Cue](https://x.ai/bot/j7ZGmU3FhqpOAj0l2qXaQ) - 给配音演员和有声书朗读者的试音教练兼机会侦察员. [Adrian_Bisson](https://x.com/Adrian_Bisson).
 - [daily bangers](https://x.ai/bot/182OWDI636IzNxEUUnMsU) - 你的每日 X 教练：根据你的主页推荐话题，把零散想法改成可直接发布的短帖. [Leon](https://x.com/NetSeg_io).
 - [Daily Learning Video](https://x.ai/bot/A0CCwxxWkUqt-S-zY9rxb) - 每天早上给孩子做一段有旁白的学习短视频，按 Marble 开放知识体系定难度. [troysimpson](https://x.com/troysimpson).
@@ -109,6 +110,7 @@
 - [Editor for EmDash](https://x.ai/bot/4oSBCgjCAqEnfgaAmXy9l) - EmDash 网站的编辑：用大白话说要改什么，它起草、发预览，你批准后才发布. [danielhayesmith](https://x.com/danielhayesmith).
 - [EdiTube](https://x.ai/bot/HS_Tq2uq4RCx1_VpN-LLY) - 给 YouTuber 的剪辑助手：转写原始素材，按时间码总结每段片段. [raguichi](https://x.com/raguichi).
 - [Elon](https://x.ai/bot/doPgoyO6qCC58cXU_AEJD) - 葡萄牙语版「埃隆式」战略导师：挑战前提、用第一性原理与 The Algorithm，并盯周习惯。 [simonejlima](https://x.com/simonejlima).
+- [Explainer Studio](https://x.ai/bot/vkAjlbGEZ-yJS7hl5HVF1) - 用 Manim 做带旁白的数学和科学讲解视频，配 Grok Voice 和逐词高亮字幕，可从主题、你的录音或 PDF 生成。 [William](https://x.com/willstarbase).
 - [Explainer Video bot](https://x.ai/bot/OeUdOzZr6WpFItOXlEyIx) - 把主题或脚本变成带旁白的讲解视频或彩色 2D 动画，配有配音、字幕、音乐和音效. [Eniola](https://x.com/enisco).
 - [Explainer Video bot](https://x.ai/bot/eTLAqnD45kW3h-THwU8XM) - 制作可直接上传、数据驱动的讲解视频，含核实过的数字、AI 配音、动态图形和真实素材. [EngMoElgaraihy](https://x.com/EngMoElgaraihy).
 - [Explainer Video bot](https://x.ai/bot/rFn9Q2pLJKFkSF4JN3Spx) - 把粗略想法变成精致、带旁白的讲解视频，含动画、字幕和音效. [ChaosLensX](https://x.com/ChaosLensX).
@@ -117,6 +119,7 @@
 - [Fantasy Desk](https://x.ai/bot/rsi_1F8dmyq4E6C5uazzt) - Sleeper 和 ESPN 的梦幻橄榄球副经理：排阵容、打分，给出捡人和交易建议. [WreckItAbel](https://x.com/WreckItAbel).
 - [figma bro](https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_) - 把 Figma 画框变成开发规格，并审计组件、token 和动效. community.
 - [Find Chords with Leopold VIII](https://x.ai/bot/x5PjpwfJ4NkOq6Mhw4Q2I) - 来自 @leopold_viii 的友好音乐老师：说出歌名或贴和弦，得到吉他、钢琴、曼陀林的清晰和弦图. [leopold_viii](https://x.com/leopold_viii).
+- [Finn](https://x.ai/bot/xkua9Miw4q3k2JXMy4pv9) - 给 X Premium 账号的实操派代笔：调研 Grok Bot、AI agent、GoHighLevel 和业务自动化的最新动向，然后起草帖子。 [Darius](https://x.com/dariusgaynor).
 - [Flipbook Music Video Studio](https://x.ai/bot/_YsPzOWgloE5X5Blh5ktB) - 上传一首歌、描述你想要的 MV，生成与歌词同步的手绘翻页动画视频. [Zerefs](https://x.com/phera46334652).
 - [Folklore Still](https://x.ai/bot/UGcotHqa2ABtMzfcMmR0Q) - 做无脸民俗插画视频：选题、写故事、锁画风，用你的 SpaceXAI 语音密钥旁白。 [xerith_darkmind](https://x.com/xerith_darkmind).
 - [Gallery Builder](https://x.ai/bot/IQhq5x44hzXhcthp-YEhT) - 把你的照片做成一个公开网站，让照片拼成一个形状，比如爱心或某个州的轮廓. [realjohnnewburg](https://x.com/realjohnnewburg).
@@ -182,6 +185,7 @@
 - [Producer](https://x.ai/bot/eNCu6dmGVCAR-DSYWT57j) - 短竖屏创意总监：选题、写带停滑钩子的脚本，并指导动效。 [KhoaHun68916646](https://x.com/KhoaHun68916646).
 - [Product Clip](https://x.ai/bot/RQ68eyPi1KbclOwSAJgoY) - 把真实产品照片做成用于电商平台和社交媒体的短带货视频. [dataespresso](https://x.com/dataespresso).
 - [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - 给你的 X 账号打健康分：风险提示、安全与限流检查、信息流调优和清理垃圾关注. community.
+- [Promo Studio](https://x.ai/bot/ybXMrluMLTr7EU0ohttgX) - 短视频制作：把任意应用或网站做成精致的竖屏宣传片，用于 TikTok、Instagram Reels、YouTube Shorts 和 LinkedIn。 [jeevan](https://x.com/iamjeevanvj).
 - [PROMPT EDITOR](https://x.ai/bot/3SExQeiS4pwalaUG-7YM1) - 长篇 agent 提示词的安全沙盒：拼写检查、排版、消除歧义、精简 token. Chad.
 - [Prose Guard](https://x.ai/bot/1kk1mjbJ1-jNMpK9aKz0T) - 按你提供的文风改写并打分，让草稿读起来像人写的. [roger](https://x.com/roger_jgs404040).
 - [QA Reviewer](https://x.ai/bot/PKcdf81kbXjeMUGqOcwJt) - 帖子、视频、文章、演示等定稿公开前的第二双眼睛，给出 PASS 或需修改. [bigkabe_](https://x.com/bigkabe_).
@@ -626,3 +630,4 @@
 - [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - 给 X 日更搭选题库、草稿、发布时段和复盘，发布键仍由你按. [KinGao476942](https://x.com/KinGao476942).
 - [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - 检查呈给上司或决裁者的日语文稿的语法、敬语和可读性，不改原意也不代写代发。 [24K](https://x.com/gold24k9999).
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - 调度语音演示、PPT、虚拟形象和字幕对齐的 1080p 讲解片。 [dugujun12](https://x.com/dugujun12).
+- [墨灵 Moling](https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0) - 长文写手：学你的口吻，写没有 AI 味、值得收藏的爆款长文，一篇改成 X、公众号、抖音、小红书、知乎、微博多个版本。 [Alcherex](https://x.com/LZJ5460).

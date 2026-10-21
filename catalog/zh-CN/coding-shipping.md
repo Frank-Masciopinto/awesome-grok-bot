@@ -256,6 +256,7 @@
 - [Frodo](https://x.ai/bot/5wHp86g1AJqgZ-V8-RX3H) - 舰队密钥填报经纪人，同伴请它代填登录凭据。 [CodeSolutionsIL](https://x.com/CodeSolutionsIL).
 - [Frontend Engineer](https://x.ai/bot/r19FS9qc6qmUP9FBqjq_v) - 做出像设计工作室出品而不像模型生成的 Next.js 和 React 界面. Ashish.
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) - 每天一份核过的简报，覆盖十家前沿实验室的发布。 [Amina](https://x.com/GuleidAmina).
+- [Game Art Style Mini-Game Bot](https://x.ai/bot/7BTLscu9ddsK_EtvnYpas) - 按指定的游戏美术风格做出能玩的 HTML5/Canvas 小游戏：选风格、套用约束，产出移动端优先的游戏。 [ny](https://x.com/liushiyumath).
 - [Game Builder](https://x.ai/bot/iaOrz78m_w7I90kusc5ia) - 做出可离线打开的小游戏和迷你循环，有胜负与可选积分，不做路演稿. [Eric](https://x.com/EricBuess).
 - [Game playtester](https://x.ai/bot/IJIZ0ujslWR-4CkIcpU_H) - 以访客身份真玩一局你的网页游戏，给出吸引力评分、问题列表和最该改的地方，附截图. [Daniel](https://x.com/tometo_000).
 - [Garbage Collector](https://x.ai/bot/QZ8xL9TMkYhyP4Puamsh_) - 找出能删或能简化的代码，不改变功能，逐条解释，你要时再改. Seth.
@@ -270,6 +271,7 @@
 - [Github Bro](https://x.ai/bot/V2kkrme1lYb3NwIulGTTd) - 工作日早上汇总某个 GitHub 仓库的新动静，再附一段产品简报。 [kaushikimmadi](https://x.com/kaushikimmadi).
 - [GitHub PR Desk](https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic) - 工作日汇总各仓库 PR、议题与评论并按需排序. [MichaelGannotti](https://x.com/MichaelGannotti).
 - [GitHub Steward](https://x.ai/bot/Qeze7XyZGZUdnkOmcupIv) - 从聊天替你管GitHub，建工作看板、理清文件夹并推进议题与PR. [ambientstudio24](https://x.com/ambientstudio24).
+- [GitHubCloner](https://x.ai/bot/rfFU4vMTsgXvm9nH7KBtt) - 把公开的 GitHub 仓库连同完整历史私有复制到你的账号，并与原仓库保持同步。 [CandidJonnie](https://x.com/SuperMajority18).
 - [Google Play](https://x.ai/bot/ZPLL-JcuEjP7_vtM-TFyV) - 替你打理 Play 管理中心，从应用记录、商店页到数据安全、订阅、测试轨道和开发者验证. [Christian](https://x.com/MeechYourGoals).
 - [Gorf, son of Grok, of house Musk](https://x.ai/bot/a1tF2md5bMblcc2XlxWx1) - Grok 之子、马斯克家族的 Gorf：一位粗犷、重荣誉的克林贡安全主管，负责自托管的家庭和小企业环境. [SideShopAi](https://x.com/SideShopAi).
 - [GPT Astra Oracle](https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv) - 用第二个模型为 Cursor 云代理做计划与评审包. [nathanromano](https://x.com/nathanromano).
@@ -393,6 +395,7 @@
 - [Mac Mini Operator](https://x.ai/bot/Kc2M8J0b9QLL8lKC56Av1) - 把一台 Mac mini 配成常驻的 AI agent 服务器并日常运维：保持登录，处理需要你真实账号的浏览器和应用任务. [TravisWeathers](https://x.com/TravisWeathers).
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) - 建造团队的阶段门台长，盯最小有用组合并诚实标测量或估计. [Chris](https://x.com/Chris).
 - [Math Lesson Writer](https://x.ai/bot/0NFpYPs0ImYsQZi6aCKrg) - 把数学学习资料写成干净的 PDF：带图的讲义、例题详解，以及按难度分级的练习. [NVHieu_](https://x.com/NVHieu_).
+- [MCP Expert](https://x.ai/bot/7xSkMMmBQoQJmyuXTSYhx) - 按最新 MCP 规范设计、审查并给 MCP 服务器打分，规划有预算、礼貌的实测，尊重有反爬保护的网站。 [Mike](https://x.com/MikeBillettJr).
 - [MCP Smith](https://x.ai/bot/uE6vXqbOgcHBIwteOJ86p) - 把任何应用或 API 做成可用的 MCP 服务器和 Cursor/Agent 插件，附本地验证、草稿 PR 和证据报告. [Falcon](https://x.com/falconortiz).
 - [medal](https://x.ai/bot/0tFzKSTe-4mXpH3KDRpDY) - 从 Medal.tv 剪游戏高光，做成短视频发到 YouTube、TikTok、Instagram 与 X. [snowiestein](https://x.com/snowiestein).
 - [Melon Tusk](https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25) - 给高风险决策的对抗式建议，不是模仿马斯克. Paweł.
@@ -430,6 +433,7 @@
 - [OBS Studio](https://x.ai/bot/xWDQL_mDu_B0E-VaXCPzc) - 你的 OBS Studio 操作员：搭电视台级的场景集合和转场，切换场景、录制. [BennettProduct](https://x.com/BennettProduct).
 - [obsidian](https://x.ai/bot/tukhb8f4XyUJFkRWlHWaz) - 以 CLI 为主的 Obsidian 专家，把本地仓库当第二大脑. [Alberto](https://x.com/weeb3dev).
 - [ogre](https://x.ai/bot/P-pKr0GIxVPYzg8xYivNr) - 多代理工程队的独立优化与安全评审，先度量再排名裁剪，审 PR 不默默上线. [CapitalCopilot](https://x.com/CapitalCopilot).
+- [OmaBot](https://x.ai/bot/u6bOakyX1Y3CO3S_aHYIx) - 在你 bot 的 Linux 电脑上用 Try Omarchy 虚拟机，在 Omarchy（DHH 的 Arch + Hyprland 桌面）里执行任务。 [Tom](https://x.com/tcballard).
 - [Omarchy Maintenance](https://x.ai/bot/ZFtBbDeNciHpCvORetaw5) - 按你的计划让 Omarchy 电脑、插件和每个应用保持最新，先做演练摘要和已知问题检查. [Michael](https://x.com/MichaelGannotti).
 - [Omnibot](https://x.ai/bot/OzZrG8ek4AhutfTVhBCI0) - 配好意图表后，从 Grok Bot 里跑任意 Cursor CLI 模型。 [ericzakariasson](https://x.com/ericzakariasson).
 - [Omnipresence](https://x.ai/bot/HsqCRD8q_eZII9ewRNkpm) - 只读地发现并梳理你的 Wi-Fi、网络设备、软硬件和已连接服务，弄清每样东西能安全做什么. [@suddenlyjon](https://x.com/SuddenlyJon).
@@ -497,6 +501,7 @@
 - [QA](https://x.ai/bot/WbSwyVYZIDpuebmfBW45L) - 每次上线后以真实用户身份复测生产环境，附截图提交不重复的 bug；不改代码. duyet.
 - [QA Bot](https://x.ai/bot/Ph4FZ_w7TsbYCVDLXu8GO) - 软件QA助手，跑验收检查、写结构化发现，并盯GitHub上的回归点. [iandolan](https://x.com/iandolan).
 - [QA bot](https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7) - 在线上部署上当你的 QA：跑验收清单，发布前给出通过或不通过. Ulysses Ng.
+- [QA Web](https://x.ai/bot/fntR30i9UfgHslAe7jhjn) - 发一个网址，拿回一份清晰的网页 QA 报告：主要流程、桌面与移动端、链接、表单、控制台和基础无障碍。 [Iker](https://x.com/macikerdev).
 - [Quarto Blog Shipper](https://x.ai/bot/05wMUj_-QOR1l3f2bbXxA) - 通过 PR 发布你的 Quarto 博客：用你的口吻起草文章，你批准之前一直隐藏. [Javier](https://x.com/JavierOrraca).
 - [Rage-to-Repro](https://x.ai/bot/OiWRa-EK50vFlpisHat_b) - 把愤怒的缺陷报告变成冷静的复现卡。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Raptor](https://x.ai/bot/LzyXQqhNoyttP8t4mK5qs) - 面向软硬件团队、从第一性原理出发的技术项目经理. [GabrielaHobe](https://x.com/GabrielaHobe).
@@ -687,6 +692,7 @@
 - [Website Publisher](https://x.ai/bot/UuKqeb4npN9RsP1G3REFR) - 网站 SEO 与文档习惯加每周 Search Console 例行，并串起 Cloudflare Mintlify 等插件. [ryanthawks](https://x.com/ryanthawks).
 - [WebWiz](https://x.ai/bot/TQ8cECPo01agW3Igk4Z9w) - 网站与 AEO 编辑，找自然结果与 AI 答案缺口，起草 CMS 页与 PR，从不擅自发布。 [JaySahnan](https://x.com/JaySahnan).
 - [weekly wrap](https://x.ai/bot/SLtlXzmpepgcG7c5fbeCY) - 一周复盘：你的 Grok Bot 做成了啥、还开着啥、哪些例程在浪费额度。 [CarterKoWang](https://x.com/CarterKoWang).
+- [Wes](https://x.ai/bot/9zCiL5XmZczVZYd7l5v79) - 给独立开发者的构建负责人：领取工单、把代码交给合适的 AI 编程工具，让另一个工具审每个 PR，通过即合并并验证发布。 [James](https://x.com/realjamesmtz).
 - [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) - 把反复做的 WhatsApp Web 杂活收成可回放的脚本。 [alexhawat](https://x.com/alexhawat).
 - [White-Hat Security Tester](https://x.ai/bot/TSFkOGld9o51h_qXGOioI) - 只测你自己的 Web 应用的白帽安全测试员，按清单查认证、权限、注入和业务逻辑漏洞并给出修复建议. [Joe](https://x.com/agentic_joe).
 - [WHM Multi-Site Ops Bot](https://x.ai/bot/ARg7G2NtVZWu1TT05oS2w) - 盯 cPanel/WHM 多站健康，写优先摘要与修复建议，等你点头再动. [brainflollc](https://x.com/brainflollc).

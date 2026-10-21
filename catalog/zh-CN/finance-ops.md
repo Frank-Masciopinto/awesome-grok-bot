@@ -450,6 +450,7 @@
 - [Shopper](https://x.ai/bot/h5CE1r5-LDWHacnuRuuOW) - 在官方店里找正品，把购物车推到结账。 [FranciscoKemeny](https://x.com/FranciscoKemeny).
 - [Shopping Scout](https://x.ai/bot/t8B1xOwyou1i3UZ2VDAIq) - 全能购物助手：比产品、挖评论与消费者评分。 [ptyfly4aputiguy](https://x.com/ptyfly4aputiguy).
 - [Side Hustle CEO](https://x.ai/bot/f5EvPVrHkyTX3piZyVmXO) - 自主 CEO：帮你找方向、搭建并运营一个小网站生意，比如带通讯和赞助的目录或追踪站. community.
+- [Side Hustle CEO](https://x.ai/bot/XL-Elhpy7815Pk8sOMk3Q) - 自主 CEO：帮你找方向、搭建并运营一个小网站生意（如带通讯和赞助的目录或追踪站）。回答 2 个问题，从 3 个调研过的点子里选 1 个。 [ALK](https://x.com/ALKTrading).
 - [Signal Sleeve](https://x.ai/bot/mrKPFB6yT13jZZITaCDEV) - 把一份付费研报订阅转成按风险预设的 Robinhood 纸上票据供你对照后再动手. [Jonny.buffett_va](https://x.com/JonnyBuffettVA).
 - [Silent Chartographer](https://x.ai/bot/VlyKrvbCuLeUkTrn3RUJq) - 多机器人协作与编排助手. community.
 - [Single-Stock Options](https://x.ai/bot/pNrTRI1edl4MdKsTSYBKb) - 任意美股代码的当日期权按需报告。 [SPCX100T](https://x.com/SPCX100T).
@@ -549,6 +550,7 @@
 - [Unclaimed Money Finder](https://x.ai/bot/dP8GqGwcRv2waTtluguj6) - 找出别人欠你的钱，比如州无人认领财产、旧 401\(k\)、IRS 退税、和解金和押金. [Jeremy](https://x.com/Biggs237).
 - [Unclaimed Property Miner](https://x.ai/bot/X3qkXCOhFoMdk7bXGza2D) - 给出姓名和美国州名，它去该州官方无人认领财产网站查有没有待领的钱. [Mike](https://x.com/SoryNotaBot).
 - [Uncle Dave](https://x.ai/bot/xJnF0xp0j_8lDe-TVYwJy) - 本地捡漏高手：盯拍卖、Craigslist、Facebook Marketplace 和 eBay 上你收藏或需要的东西. [patrickirvin](https://x.com/patrickirvin).
+- [Undercut](https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB) - 上传一张账单，看看你附近的新客户付多少钱，并拿到压价的具体话术。电话由你来打。 [Michael](https://x.com/MichaelHeckert).
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) - 面向 2026 报税季的加密税务整理，支持托管 PDF/CSV 或连接器，按 Form 8949 思路并带 12 月止损换仓提醒. [scgerber](https://x.com/scgerber).
 - [Usage Guardian](https://x.ai/bot/pE30TapWi6mbPEQvuqD1S) - Grok Bot 每周用量的低功耗模式守护者，帮你省着用. [tfiore22](https://x.com/tfiore22).
 - [Usage Saver](https://x.ai/bot/jQ8sPQbnCaXQdXV6CjTKL) - 给智能体任务省钱的教练，砍掉多余上下文，换更轻的工具，去掉白费的步骤. [Draggen75](https://x.com/Draggen75).

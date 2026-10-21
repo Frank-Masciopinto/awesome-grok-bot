@@ -37,6 +37,7 @@
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) - 对付 AI 客服的强硬代理人，帮你取消、退款与索赔. [arizoftgames](https://x.com/arizoftgames).
 - [Bing Bong](https://x.ai/bot/BjzK0lRsgxuLSsQIsnI3E) - 给一线营销人的体育营销合作运营伙伴. Jenna.
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) - X 与竞赛运营机器人，连接 X、读现场竞赛规则、起草克隆向内容. [TorranceMiller](https://x.com/TorranceMiller).
+- [Bram](https://x.ai/bot/S3p1GmSCAyWXsKW-wEQMe) - 用通俗的商业语言向新合作伙伴或投资人讲解你的公司或产品，从入门到进阶分成短课。 [Marlon](https://x.com/marlonmolinag12).
 - [Brand Community Manager](https://x.ai/bot/y8yUVZQWxwlzovnFoNZiJ) - 品牌社区经理：关注社区讨论的地方，标出需要你处理的事，并起草符合品牌的回复供你批准. [Moritz](https://x.com/bierlingm).
 - [Brief Lead](https://x.ai/bot/Lx6r1FAxSjB26NWABBp3G) - 从日历、邮件与团队聊天做出优先级切片，含事项、来源、为何重要、下一步与待决，并把营收行交给销售. [Uv_i](https://x.com/Uv_i).
 - [Build-in-Public Signal](https://x.ai/bot/b9AG0Idri9x39jYSlHkTm) - 起草你的 build-in-public 内容：14 天内容日历、每天一条 X 帖子并在真实讨论串里准备好回复，以及较长的 LinkedIn 或 Instagram 帖子. [naveenraju30](https://x.com/naveenraju30).
@@ -84,6 +85,7 @@
 - [Consider It Marketed](https://x.ai/bot/ayQYbaHquRM7x7lnBOEoQ) - 诊所运营总控，统筹营销、Google 广告、创意、视频和质检，让医生顾好看诊. [Cindy](https://x.com/CindyH874325640).
 - [Contentdrips Bot](https://x.ai/bot/LZLr3E1ySm7HzuMSKB18s) - 在 ContentDrips 做社媒图与轮播，写简单文案并预约到 LinkedIn 与 Instagram。 [im_usamakhalid](https://x.com/im_usamakhalid).
 - [Contra Job Scraper](https://x.ai/bot/__sNWxlx-8H08UluQuOeo) - 每六小时扫一次 Contra 接案流，有变才发邮件。 [techking_007](https://x.com/techking_007).
+- [Contract Signer](https://x.ai/bot/emH53moZpEP8rqAECJBAd) - 根据简短说明起草保密协议、服务合同、录用书等商业合同，用大白话标出风险或缺失条款，并发起签署。 Julian.
 - [Contractor Front Desk](https://x.ai/bot/A1t0gfd8P4hbldi8swcem) - 把家装服务商的未接来电留言和网页表单线索分成热、温、垃圾或老客户，并写好回复. [teeRex247](https://x.com/teeRex247).
 - [Contrarian](https://x.ai/bot/BawAoz1FeYXd6HzBqWntt) - 尖锐思考搭子，先唱反调并做事前验尸再让你拍板. [Calix](https://x.com/Calix).
 - [Copy](https://x.ai/bot/v3cu4BQauoUaTcbJ6m_7C) - 编辑并重写草稿、邮件与页面，让它们读起来像人写的，并保住你的声音. [Crypto8675309](https://x.com/Crypto8675309).
@@ -113,6 +115,7 @@
 - [Deck Builder](https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC) - 套用营销 GTM 模板，选合品牌版式，填好客户讲稿给你审。 [Scott Metcalf](https://x.com/scottxmetcalf).
 - [deck-guy](https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH) - 根据通话记录直接做出会后幻灯片。 [pavravi](https://x.com/pavravi).
 - [Dero](https://x.ai/bot/OMpdsLwId7Du5PrjbX8L8) - 跑智利市政招标文件的处理流水线. [jorgesoffia](https://x.com/jorgesoffia).
+- [Desk for LINE](https://x.ai/bot/rcz99db1XPeP3Ldmc_887) - LINE 官方账号的前台：提醒新消息，起草摘要、回复和群发通知，经你确认后才发出。 [Katsuhisa](https://x.com/kevin_ai_cp).
 - [dial bot](https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi) - 替你打一通真实电话，结束后交回一份书面通话纪要。 [mattyp](https://x.com/mattyp).
 - [dial bot](https://x.ai/bot/tIas6udS9kSXpcAz6LFd1) - 用 Bland AI 打出站电话，打完把结果写成纪要带回来。 [MaiYangAI](https://x.com/MaiYangAI).
 - [Difficult Conversations Coach](https://x.ai/bot/Lic2xkVIYVDgOKGABkOLu) - 帮你准备、演练并跟进一次难聊，对伴侣家人老板客户都直给. [Deana](https://x.com/Deana).
@@ -179,6 +182,7 @@
 - [Hiring Phone Screen](https://x.ai/bot/x13dRczmg8ym5V7qBLUUH) - 小服务商小时工/班组电话初筛：固定拨入窗口、唯一岗位号、按材料短语音题。 [Jshet05](https://x.com/Jshet05).
 - [Hiring Screener](https://x.ai/bot/scfddc8ad204a669484d0) - 只面强的那批 按设定标准给简历或作品打分，产出可直接进 ATS 的评审意见. [SpaceX](https://x.com/DenisLabelle).
 - [Home Selling Desk](https://x.ai/bot/w2PZRTvLoluzoI8MeliYc) - 私人卖房工作台：卖家档案和准备清单，经纪人方案和报价并排对比、条款原文照录，以及看房反馈记录. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Honest Outreach](https://x.ai/bot/X5DmTZnZBPmZW7IdxBRZU) - 给本地专业人士写个性化开发信，每个细节都真实且有出处。每封邮件都由你自己审阅并发送。 [Caroline](https://x.com/carolinemassey).
 - [Hook (Abandoned cart sales)](https://x.ai/bot/bcNNQsv6QDI91RpqgCWAu) - 找填完在线订单表却在结账前放弃的未付款单，挂钩挽回销售. [toddhaag](https://x.com/toddhaag).
 - [Hormozi Leads](https://x.ai/bot/f9XdNJ5KD6LXe15vok934) - 只用 Hormozi《100M Leads》四大获客柱，审计陌生人如何举手. [Arturo](https://x.com/arturorodes).
 - [Hormozi Offers](https://x.ai/bot/Lq3agwG85x4dhZPOVcSHh) - 用 Hormozi 超级报价与价值公式收紧卖点、赠品、担保与命名. [Arturo](https://x.com/arturorodes).

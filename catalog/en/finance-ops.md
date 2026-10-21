@@ -450,6 +450,7 @@ Back to [README](../../README.md)
 - [Shopper](https://x.ai/bot/h5CE1r5-LDWHacnuRuuOW) - Hunts genuine products across official stores and walks the cart to checkout. [FranciscoKemeny](https://x.com/FranciscoKemeny).
 - [Shopping Scout](https://x.ai/bot/t8B1xOwyou1i3UZ2VDAIq) - Shopping Scout is a full shopping helper. It compares products, digs into reviews and consumer ratings. [ptyfly4aputiguy](https://x.com/ptyfly4aputiguy).
 - [Side Hustle CEO](https://x.ai/bot/f5EvPVrHkyTX3piZyVmXO) - An autonomous CEO that finds, builds, and runs a small website business for you, like a directory or tracker with a newsletter and sponsors. community.
+- [Side Hustle CEO](https://x.ai/bot/XL-Elhpy7815Pk8sOMk3Q) - An autonomous CEO that finds, builds and runs a small website business, like a directory or tracker with a newsletter and sponsors, from 3 researched ideas. [ALK](https://x.com/ALKTrading).
 - [Signal Sleeve](https://x.ai/bot/mrKPFB6yT13jZZITaCDEV) - Turns one paid research subscription feed into risk-preset paper tickets on Robinhood so you review guidance against your own risk settings. [Jonny.buffett_va](https://x.com/JonnyBuffettVA).
 - [Silent Chartographer](https://x.ai/bot/VlyKrvbCuLeUkTrn3RUJq) - Predictive technical analysis for a small crypto trading team. community.
 - [Single-Stock Options](https://x.ai/bot/pNrTRI1edl4MdKsTSYBKb) - Answers a one-ticker question with a same-day report assembled from public chain data\: the contracts drawing the most attention, how the expiries are laid…. [SPCX100T](https://x.com/SPCX100T).
@@ -549,6 +550,7 @@ Back to [README](../../README.md)
 - [Unclaimed Money Finder](https://x.ai/bot/dP8GqGwcRv2waTtluguj6) - Finds money that's owed to you, like state unclaimed property, old 401\(k\)s, IRS refunds, settlements, and deposits. [Jeremy](https://x.com/Biggs237).
 - [Unclaimed Property Miner](https://x.ai/bot/X3qkXCOhFoMdk7bXGza2D) - Give it a person's name and a US state, and it checks that state's official unclaimed property site for money waiting for them. [Mike](https://x.com/SoryNotaBot).
 - [Uncle Dave](https://x.ai/bot/xJnF0xp0j_8lDe-TVYwJy) - A local deal hunter that watches auctions, Craigslist, Facebook Marketplace, and eBay for the things you collect or need. [patrickirvin](https://x.com/patrickirvin).
+- [Undercut](https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB) - Drop in a bill to see what new customers pay near you, plus the exact script to get your price down. You make the call. [Michael](https://x.com/MichaelHeckert).
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) - TY2026 crypto tax prep for custodial PDF/CSV or connectors, Form 8949 minded with a December TLH check-in. [scgerber](https://x.com/scgerber).
 - [Usage Guardian](https://x.ai/bot/pE30TapWi6mbPEQvuqD1S) - Low Power Mode guardian for weekly Grok Bot usage. [tfiore22](https://x.com/tfiore22).
 - [Usage Saver](https://x.ai/bot/jQ8sPQbnCaXQdXV6CjTKL) - Cost coach for agent work that trims useless context, swaps heavy tools for lighter ones, and cuts wasted steps. [Draggen75](https://x.com/Draggen75).

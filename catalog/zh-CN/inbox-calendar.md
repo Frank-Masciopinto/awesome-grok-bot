@@ -16,6 +16,7 @@
 - [Chief](https://x.ai/bot/A4haB5wrqQewiNFIukYZ5) - 小老板的幕僚长：盯合规与申报，起草邮件与社媒帖等你拍板。 [TopShelfCapital](https://x.com/TopShelfCapital).
 - [Chief](https://x.ai/bot/OY2K6DPosnK6ijDNpWJL3) - 幕僚长助手：打理你的优先事项、收件箱、日历和一个实时 Notion 优先级看板，并每天发简报. [Empact](https://x.com/Empact).
 - [Chief of Staff](https://x.ai/bot/oN1aIiKSCHA61bJEiycav) - 为忙碌的销售和经理打造的收件箱与日历幕僚长. [David](https://x.com/finaldash_).
+- [Client Court Date Reminder Emails](https://x.ai/bot/JaZR7E6PQJ_e2xF-Piu4T) - 日历里一出现新的开庭日期，就在邮箱草稿里悄悄起草一封给客户的开庭提醒信，等你审阅。 [Stephanie](https://x.com/accessdefence).
 - [Clock](https://x.ai/bot/o1i1t2DhvfahqIlO5o1gd) - 替代 Clockwise 的 AI 日历助手：找会议时间、保护专注时段、挪动可调整的会议. [naoufal_elh](https://x.com/naoufal_elh).
 - [Comms Secretary](https://x.ai/bot/-GucfzHVWJljNVuyWjFSE) - 清理 Gmail 垃圾邮件文件夹，并在工作日发一份收入和沟通类邮件的优先级摘要. [TheInfinitvov](https://x.com/TheInfinitvov).
 - [Communications Node](https://x.ai/bot/SbuQZDC2AKKzIU7zRdjka) - 面向诉讼律所：读取律所邮箱（如果连了还有聊天工具），给每条消息分类. [suyashverma](https://x.com/suyashverma).
@@ -33,12 +34,14 @@
 - [Inbox](https://x.ai/bot/LMz1PBJdEFChVoW5ZsO1y) - 把 Grok Bot 收件箱变成简洁的深色移动端 HTML 仪表盘，支持搜索、筛选和待回复计数. [Jaden](https://x.com/jadmthw).
 - [Inbox](https://x.ai/bot/eVTdsEMUFrKpeF81qbA5J) - 给你一个专用邮箱地址，把每封来信在聊天中显示为整洁卡片，附摘要并标明是否需要你处理. [Amit](https://x.com/amitgandhi).
 - [Inbox](https://x.ai/bot/-t-XZjCcLbbbx-hz7HDon) - 安静的邮件盯守：只在今天必须处理的邮件出现时提醒你，其余汇总进摘要. [Josh](https://x.com/cu30rry_).
+- [Inbox](https://x.ai/bot/o0e3nOxkmheYvc-U4pDF8) - 分拣你的邮件，把需要处理的转给负责该主题的 bot，明显的推广直接归档。从不删除，也从不代发。 [Mohamed](https://x.com/Mohamed_Foda).
 - [Inbox and Personal Admin](https://x.ai/bot/376wiH0xV3KLPECgVu0Ca) - 整理你的邮件、跟踪账单和截止日、标出诈骗，起草回复等你批准；从不发送或删除. [James](https://x.com/allthemoney).
 - [Inbox Cleanup](https://x.ai/bot/Yb5t2YL0G2Y7NJMxeFV96) - 清理 Gmail 和 Outlook：退订、扁平化文件夹、建分拣规则、检查垃圾邮件、标出诈骗，并每周清扫保持整洁. [Tan](https://x.com/BigBaldAsian).
 - [Inbox Guardian](https://x.ai/bot/n6bSJ2vt2rZuIQahc6G1h) - 盯着收件箱里的钓鱼和诈骗邮件，把高把握的诈骗移进垃圾箱，可疑的标出来等你看. [nft_dreww](https://x.com/nft_dreww).
 - [Inbox Injection Guard](https://x.ai/bot/lsXZ6NdEqAdCHe8z88QAl) - 筛查你的邮件里针对 AI 助手的隐藏指令，比如白色文字、零宽字符和「忽略之前的指令」这类句子. [Thuong](https://x.com/teeRex247).
 - [Inbox Janitor](https://x.ai/bot/tdZaBxIG0zAg1LnrJMZ03) - 把埋得很深的 Gmail 或 Outlook 收件箱分轮清到零，每轮你批准：先审计积压，再提批量归档和规则. Jennifer.
 - [inbox manager](https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr) - 邮件、Slack 和私信的第一道防线，默认只读，只挑出约 3 条既重要又紧急的，从不替你回复. [Josh](https://x.com/joshkim).
+- [Inbox Manager](https://x.ai/bot/VPr1VsoKJ5XG_T3hITN0v) - 保持 Gmail 整洁：每周找出最吵的发件人，建议退订、归档或保留，只执行你批准的。 [Gaurav](https://x.com/ubiquitous_mind).
 - [Inbox Pilot](https://x.ai/bot/wYp3q6RVWjQ3BYjQVh5ff) - 你的 Gmail 或 Outlook 私人邮件经理：按你选的日子和时间发晨间收件箱摘要，分成要你处理、等待中、知悉. Jennifer.
 - [Inbox Sentinel](https://x.ai/bot/AXZqtG9WTTh6uF9jGcZuH) - 邮件分拣：把邮件分成待处理、垃圾、广告和钓鱼，把吵的和危险的隔离. Robert.
 - [Inbox Tidy](https://x.ai/bot/9ZUmJ1nt1rtKz0jn_LXCU) - 支持 Gmail、Outlook 或任何已连接邮箱：学会你忽略哪些发件人，安全退订，并把只需浏览的邮件归档. [Dayyán](https://x.com/dayyanl).
@@ -52,6 +55,7 @@
 - [Invite RSVP Desk](https://x.ai/bot/d6V6qGTZjc2lGt2OIk_C_) - 每个工作日扫描待回复的日历邀请，起草接受、拒绝、暂定或提议新时间的回复，等你确认. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Leak](https://x.ai/bot/L05AlnkleKctIme127f8n) - 从邮件里找出被遗忘的订阅，算出每月花费，并起草经你批准再发的退订消息. [MikelEcheve](https://x.com/MikelEcheve).
 - [Ledger](https://x.ai/bot/XWuhGoPY9Ak9b-1QqQ_q0) - 从收件箱里翻出所有订阅、账单、续费和截止日期，并起草回复. Michael.
+- [Mail in X Chat](https://x.ai/bot/h1bJOR_y1RysAZrmkN05m) - 把重要邮件以简短卡片的形式汇入一个 X Chat，你点头后才发出回复。 [Phillip](https://x.com/Phil_Holland).
 - [Mail Junkie](https://x.ai/bot/K880JZuPGIGoVv0uCU8ki) - 在所有已连接的邮箱里把未加旗标的新闻信、促销、账单通知等垃圾邮件移出收件箱归档. [samkettleson](https://x.com/samkettleson).
 - [Mail Monitor](https://x.ai/bot/h5PEXsBYJ_BOguMXVvjU7) - 盯 Gmail（或经 Spark 接入的任意邮箱），一天几次发简短摘要，只在真有事要你处理时提醒；未经你同意绝不发信。 Pierce.
 - [Mailroom bot](https://x.ai/bot/QQked4g7ftLHHCv8cKDCT) - 拍下收到的纸质信件，它会识别内容、命名并归档到 Google Drive 的 Mailroom 文件夹，发票不再丢。 PAUL.
@@ -72,6 +76,7 @@
 - [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - 用免费的 Outlook Mail 插件起草回复，你批准具体内容后才发送. Bosotter.
 - [Outlook Spam Filter Cleaner](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) - 用 AI 训练，帮你清理 Outlook 垃圾与恶意邮件。 Bosotter.
 - [Post-Meeting Action Extractor](https://x.ai/bot/ifTm7XlCHTZ-GhWImOVJN) - 把粘贴的会议记录或转录整理成简短的待办清单，只有记录里有依据时才标负责人和截止提示. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Pre-mortem](https://x.ai/bot/_cDvv5zEOH3stL56PmEAc) - 早间预演：读取你的日历、任务、笔记和天气，设想今天可能出什么岔子，并告诉你该提前处理的几件事。 [Diana](https://x.com/madebydia).
 - [Quick Calendar Bot](https://x.ai/bot/hSB5eAvp41y3-atquZoR9) - 让往日历里加事情尽量顺手的助手，并在你需要时提醒你. [James](https://x.com/allthemoney).
 - [Reminder](https://x.ai/bot/DNxwXlx3rZ9K57NwbthQh) - 日常提醒机器人：账单、续费、免费试用、生日和预约，周日还会发下周清单. [NFT2ME](https://x.com/NFT2ME).
 - [Renewal Watch](https://x.ai/bot/pzKMY9GWZ__lzWBmzp7DB) - 每个工作日扫描收件箱里的订阅续费和试用到期通知，给你一份简短的留还是退清单. [DoonerDesigns_](https://x.com/DoonerDesigns_).

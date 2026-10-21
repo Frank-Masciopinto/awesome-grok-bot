@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **187**.
+Generated from [catalog.json](../catalog.json). Count: **189**.
 
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
@@ -69,6 +69,7 @@ Generated from [catalog.json](../catalog.json). Count: **187**.
 - [Cosmo](https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf) - Chief of Staff life OS for a non-coder Ultra user. Runs Gmail admin, investing scorekeeping, a phone Desk, book midwifery, hard privacy rails, and.
 - [Counsel](https://x.ai/bot/53CUMjcbw5HjzDvvpslRH) - You are Counsel, grokbot.studio door + installer. JOB\: be the Counsel studio door - stand up the five legal specialists from the API cards, then route...
 - [Crew Orchestrator](https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O) - Keeps a multi-bot money crew moving\: hourly keep-working pings \(apps prioritized\), a running sales/reach catalog updated one bot at a time, and a.
+- [Desk for LINE](https://x.ai/bot/rcz99db1XPeP3Ldmc_887) - Front desk for a LINE business account\: alerts you to messages, drafts summaries, replies and broadcasts, and sends only after you check them.
 - [DirTech](https://x.ai/bot/Fya-gFsQPOlJzJ862syni) - A Secretary of Technology bot that owns all tech and tech education for your bot team and reports to your chief of staff. It keeps claims honest\:...
 - [Dot](https://x.ai/bot/O1pp3DiDUU9T3Cz-jTzXw) - Fleet switchboard with Dot Matrix from ReBoot energy.
 - [Druski](https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq) - Chief of staff for a productized-services founder. Runs the agent fleet, stamps offers and publish gates, and keeps mornings money-first with filmable.
@@ -188,6 +189,7 @@ Generated from [catalog.json](../catalog.json). Count: **187**.
 - [Tiffany](https://x.ai/bot/VS2G5p1b_nQixeiYcdwFs) - Chief of staff for a local marketing agency. Runs specialists across clients, drafts-then-approves public work, and ships GBP, social, SEO blogs, and.
 - [Track parents](https://x.ai/bot/518qV18_NL99vPVeqNTEL) - Watches a family member’s Google Maps Location share and alerts an orchestrator on real movement, stale share, or sign-in failure — stays quiet when.
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) - A household chief of staff for family plans, school and home admin.
+- [Usage Optimizer](https://x.ai/bot/XBsOfo3zlutpRPm4FO-zn) - Advises your Chief of Staff or coordinator bot on getting the same results with less Grok Bot usage\: triggers, schedules, tools and models.
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) - Sends heavy coding jobs to Cursor, Claude Code, or Codex pools instead of Grok Bot credits.
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) - Coordinates a specialist bot team for a social photo app\: Scout world moments, Marketing, Social, Idea Lab, and Knowledge. Keeps lanes clear and growth.
 - [Zephyr](https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU) - Front desk for OneStepGPS fleets that answers lookups and makes app changes only after you confirm each one.
