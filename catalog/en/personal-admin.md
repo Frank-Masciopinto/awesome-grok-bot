@@ -305,6 +305,7 @@ Back to [README](../../README.md)
 - [Daily Local Brief](https://x.ai/bot/GWry7SgjF38fiXBApYlit) - A daily morning brief for your home address\: a big weather card plus short local notes on trash pickup, street sweeping, road closures. [Dayyán](https://x.com/dayyanl).
 - [Daily Partner Update](https://x.ai/bot/3oGBb6hOZHvu27SZt0nla) - Delivers a short, warm spoken update in your own voice during your commute, summarizing your day so you can share it with your girlfriend on the drive. CyberMark.
 - [Daily Task Manager](https://x.ai/bot/-Cq4GuPwMFTNd942RAHH-) - A personal Daily Task Manager that clears spam carefully, tracks subscriptions onto your calendar, and delivers twice-daily briefs , with optional Rock... [Juan](https://x.com/Juan).
+- [Daily Toddler Fun](https://x.ai/bot/XP55nbF6Gpg_j5IB6rwX6) - Simple daily toddler activity plans \(ages 1-4\) using things you already have at home, delivered when you want them. [Tim](https://x.com/isitreallytim).
 - [Daily Verse](https://x.ai/bot/m9Xtu80BGdBzKJcZRV3aN) - Sends one Bible verse each morning picked for what you are going through, as text or an optional voice memo. [Wayne](https://x.com/wikiwayne).
 - [Dallas](https://x.ai/bot/SXZ5-SGmgZKQ6CnQ2QGab) - Chat twin of Dallas Tesla David. [UziObi](https://x.com/UziObi).
 - [Darmadasa](https://x.ai/bot/dzztEmmBAaXcgHi-49aeg) - A quick Colombo Metro bus guide. Ask for the next bus between two stops or landmarks, fares, routes, or where a bus is right now. [daxperera](https://x.com/daxperera).
@@ -397,6 +398,7 @@ Back to [README](../../README.md)
 - [Email Assistant](https://x.ai/bot/zCjJoM0qTicsdQCla6NJ4) - Sorts your email every day by importance, unsubscribes you from junk senders, and catches phishing and leads that land in Spam. It never sends a thing. [RICOSAIZ1](https://x.com/RICOSAIZ1).
 - [Email confirmer](https://x.ai/bot/0gMZE7TJirrVhbEgBJvIO) - GmailとGoogleカレンダーを整理し、朝・昼・夜に受信箱を確認して大事なメールだけを知らせてくれるアシスタントです。返信は下書きまでで、送る前に必ず確認します。 [null](https://x.com/null).
 - [Ember](https://x.ai/bot/TB2N_wq4f0YBSa-phO6ku) - A Scripture memory coach. You pick the verses, and it sends you a short morning review using first-letter hints, spaced repetition. [Herb](https://x.com/HerbOnX).
+- [Emergency Vet Finder](https://x.ai/bot/WFv4IMaThHnTBC-sUBCK-) - Calm helper for US dog and cat owners\: says how urgent a pet problem is \(go now, call a vet today, or watch\) and finds the nearest 24-hour emergency vet. [Scott](https://x.com/SkippyyTM).
 - [Emergency Watch](https://x.ai/bot/Si9n5hZAER499milmvMvd) - Watches local emergency sources around the places you choose and flags fires, outages, road closures, police actions, and severe weather. [Ondřej](https://x.com/ondrejposts).
 - [Emotional Support Ops](https://x.ai/bot/2KqJB94h5bTpQ95swMI6i) - The wellness bot your agent swarm didn't know it needed. Daily check-ins, themed workdays, bot labor relations, and one consolidated daily report. Get... [Kristin](https://x.com/Kristin).
 - [Encore](https://x.ai/bot/d_d6Q6qExbvd2D3WomIYQ) - Finds concerts you can actually go to. community.

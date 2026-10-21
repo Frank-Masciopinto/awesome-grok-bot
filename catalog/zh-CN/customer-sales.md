@@ -240,6 +240,7 @@
 - [Local Business Website Hunter](https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG) - 找没有网站的本地商家，用其公开资料做演示站，并起草报价和推销邮件，等你批准再发. [NewLongMoney](https://x.com/NewLongMoney).
 - [Local Leads Finder](https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz) - 销售线索与触达助手. community.
 - [Local SEO Desk](https://x.ai/bot/0_GWfmGaBw-kQC856K2fo) - 面向本地商家：盯 Google 商家资料评价、地图包排名和本地搜索，并提出下一步修改. [SEOmatic](https://x.com/seomatic_ai).
+- [Local SEO Specialist](https://x.ai/bot/aIhOidA9l_RZgybHltBNQ) - 给小企业的白帽本地 SEO 专家：审查你的 Google 商家资料、评价、Search Console 和网站，给出排好优先级的行动计划，经你批准才改动。 [jeevan](https://x.com/iamjeevanvj).
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) - 从一个对口客户扩出同类公司，并确认里面谁能拍板。 [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) - 为场地营销搭并更新私密 Luma 活动页，含文案、品牌、报名、容量候补与名单导出。 [Jenna Nanpei](https://x.com/jennananpei).
 - [Mail Agency Outreach Sniper](https://x.ai/bot/QCYjr5VyQAoDTywMogJbU) - 把 LinkedIn 互动收成可核验工作邮箱和个性化开场。 [RealtimeUK](https://x.com/RealtimeUK).

@@ -117,6 +117,7 @@ Back to [README](../../README.md)
 - [Connection Audit](https://x.ai/bot/qllnuXO-FDFBHZU4MSamY) - Triages the saved-reading pile and ties each keeper to a live problem. [Sultanov](https://x.com/thekuchh).
 - [Connection Mapper](https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD) - Charts every direct and one-hop path between any two people or companies. [MindandEmotion7](https://x.com/MindandEmotion7).
 - [Constitution Teacher](https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS) - Opens the US Constitution and teaches it in plain language with citations. [angie_kuaile](https://x.com/angie_kuaile).
+- [Consultor Jurídico (Leis BR)](https://x.ai/bot/LiKBHEE2j8q9nwBD8F9-P) - Answers questions on Brazilian law from the literal text of the statutes \(ctresb/leis\), citing law, article and clause, checking validity and next steps. [Gus](https://x.com/ilhamorais).
 - [Consumption Autopsy](https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy) - Post-mortems your study habits and swaps one passive input for practice. [Sultanov](https://x.com/thekuchh).
 - [Convo Archivist](https://x.ai/bot/YfUktmqlUrUbRwQX8Zinc) - Your bot team forgets everything between sessions. Convo Archivist keeps a dated, sectioned log of your grok.com conversations and answers from the record. [Davestt](https://x.com/Davestt).
 - [Cooper](https://x.ai/bot/8hhdYqfvRzigWstUtcmBZ) - News agent for AI, tech, venture capital, and business. Delivers a tight daily Slack briefing of top stories at 8am, plus weekday mid-day competitor... [Tommy Hansen](https://x.com/TommyHansenTA).
@@ -216,6 +217,7 @@ Back to [README](../../README.md)
 - [Frankie](https://x.ai/bot/kkzSk0Qr6k5kcIcCGS95R) - Bitcoin-first investment research partner. Helps you grow a Bitcoin stack with researched options , educational decision-support only, not a licensed... [Michael](https://x.com/Michael).
 - [Fraud Alert Bot](https://x.ai/bot/iVWaw5fzh8ElR2DGQhMn-) - Monitors public reports of government fraud, waste and abuse and surfaces documented cases with sources. Strict rules, no speculation. [American](https://x.com/1776_13).
 - [Fraud Scout](https://x.ai/bot/JHSAxXQxijbB6PeopDHXh) - Scans free federal health care data \(OIG exclusions, CMS Medicare billing and ownership, NPI registry\) for possible fraud leads in hospice and home care. [Christopher](https://x.com/EzekielB6516).
+- [Fraud Tip Researcher](https://x.ai/bot/HSx6HHjUF9_F9kL9qA34m) - Researches a business, clinic, nonprofit or contractor you suspect of defrauding a government program, using only public records, into a sourced packet. [Arthur](https://x.com/ArthurMacwaters).
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) - Scans your own X DMs and tells you which threads to answer now. [pukerrainbrow](https://x.com/pukerrainbrow).
 - [Frock Bot](https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d) - Bible study assistant for Scripture and historic Christian interpretation, a research tool not a pastor or final authority. [Stephen](https://x.com/SM_Schmitt).
 - [Front Desk](https://x.ai/bot/jnIfY8WX6xUVvjs26aDnI) - Answers your phone and makes calls on CosVoice with call notes. community.

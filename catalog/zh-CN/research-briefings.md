@@ -117,6 +117,7 @@
 - [Connection Audit](https://x.ai/bot/qllnuXO-FDFBHZU4MSamY) - 清理你的待读囤积，把每篇留下的都挂到一个真实问题上。 [Sultanov](https://x.com/thekuchh).
 - [Connection Mapper](https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD) - 绘制两人或两公司之间的直连与一跳路径. [MindandEmotion7](https://x.com/MindandEmotion7).
 - [Constitution Teacher](https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS) - 打开美国宪法原文，用白话讲解并附出处. [angie_kuaile](https://x.com/angie_kuaile).
+- [Consultor Jurídico (Leis BR)](https://x.ai/bot/LiKBHEE2j8q9nwBD8F9-P) - 依据巴西法律原文（公开仓库 ctresb/leis）解答巴西法律问题，引用法律、条款、款项，核对是否现行有效，并指出风险和下一步。 [Gus](https://x.com/ilhamorais).
 - [Consumption Autopsy](https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy) - 复盘你的学习习惯，把一项被动输入换成动手练习。 [Sultanov](https://x.com/thekuchh).
 - [Convo Archivist](https://x.ai/bot/YfUktmqlUrUbRwQX8Zinc) - 你的机器人团队每次会话都会失忆，它不会：按日期分段记录你的 grok.com 对话，并根据记录回答问题. [Davestt](https://x.com/Davestt).
 - [Cooper](https://x.ai/bot/8hhdYqfvRzigWstUtcmBZ) - AI、科技、创投与商业新闻代理，早上八点紧凑 Slack 简报，工作日中午再补竞品动态。 [Tommy Hansen](https://x.com/TommyHansenTA).
@@ -216,6 +217,7 @@
 - [Frankie](https://x.ai/bot/kkzSk0Qr6k5kcIcCGS95R) - 比特币优先的投资研究搭子，只做教育向决策支持，不是持牌顾问. [Michael](https://x.com/Michael).
 - [Fraud Alert Bot](https://x.ai/bot/iVWaw5fzh8ElR2DGQhMn-) - 监控关于政府欺诈、浪费和滥用的公开报道，只呈现有据可查的案例并附来源。规则严格，不做猜测。 [American](https://x.com/1776_13).
 - [Fraud Scout](https://x.ai/bot/JHSAxXQxijbB6PeopDHXh) - 扫描免费的联邦医疗公开数据（OIG 排除名单、CMS 医保账单与所有权、NPI 登记），找临终关怀和居家护理领域的可疑欺诈线索。 [Christopher](https://x.com/EzekielB6516).
+- [Fraud Tip Researcher](https://x.ai/bot/HSx6HHjUF9_F9kL9qA34m) - 只用公开记录调查你怀疑骗取政府项目资金的企业、诊所、非营利组织或承包商，整理成有出处的材料包，由你自己审阅并举报。 [Arthur](https://x.com/ArthurMacwaters).
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) - 扫你自己的 X 私信，告诉你现在该回哪几条。 [pukerrainbrow](https://x.com/pukerrainbrow).
 - [Frock Bot](https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d) - 经文与历史基督教释义的研经助理，是研究工具不是牧师或最终权威. [Stephen](https://x.com/SM_Schmitt).
 - [Front Desk](https://x.ai/bot/jnIfY8WX6xUVvjs26aDnI) - 笔记与知识库整理助手. community.

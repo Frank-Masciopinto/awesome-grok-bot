@@ -305,6 +305,7 @@
 - [Daily Local Brief](https://x.ai/bot/GWry7SgjF38fiXBApYlit) - 为你家地址发送每日晨报：大号天气卡片，加上垃圾清运、扫街、道路封闭等本地简讯. [Dayyán](https://x.com/dayyanl).
 - [Daily Partner Update](https://x.ai/bot/3oGBb6hOZHvu27SZt0nla) - 在你通勤路上用你自己的声音播一段温暖的简短当日总结，方便你开车时讲给女朋友听. CyberMark.
 - [Daily Task Manager](https://x.ai/bot/-Cq4GuPwMFTNd942RAHH-) - 个人每日任务台，谨慎清垃圾邮件、把订阅记进日历并日送两次简报. [Juan](https://x.com/Juan).
+- [Daily Toddler Fun](https://x.ai/bot/XP55nbF6Gpg_j5IB6rwX6) - 简单的每日幼儿活动计划（1-4 岁），用家里现有的东西就能玩，按你想要的时间送达。 [Tim](https://x.com/isitreallytim).
 - [Daily Verse](https://x.ai/bot/m9Xtu80BGdBzKJcZRV3aN) - 每天早上按你最近的处境挑一节圣经经文发给你，可选文字或语音. [Wayne](https://x.com/wikiwayne).
 - [Dallas](https://x.ai/bot/SXZ5-SGmgZKQ6CnQ2QGab) - Dallas Tesla David 的聊天分身. [UziObi](https://x.com/UziObi).
 - [Darmadasa](https://x.ai/bot/dzztEmmBAaXcgHi-49aeg) - 科伦坡 Metro 公交速查：问两站或两个地标之间的下一班车、票价、路线，或者某辆车现在在哪. [daxperera](https://x.com/daxperera).
@@ -397,6 +398,7 @@
 - [Email Assistant](https://x.ai/bot/zCjJoM0qTicsdQCla6NJ4) - 每天按重要性分拣邮件，退订垃圾发件人，并抓住钓鱼与可疑附件. [RICOSAIZ1](https://x.com/RICOSAIZ1).
 - [Email confirmer](https://x.ai/bot/0gMZE7TJirrVhbEgBJvIO) - 整理 Gmail 与日历，早晚午只报重要邮件，回复停在草稿. [null](https://x.com/null).
 - [Ember](https://x.ai/bot/TB2N_wq4f0YBSa-phO6ku) - 经文背诵教练：你选经文，它每天早上用首字母提示和间隔重复帮你复习. [Herb](https://x.com/HerbOnX).
+- [Emergency Vet Finder](https://x.ai/bot/WFv4IMaThHnTBC-sUBCK-) - 给美国猫狗主人的冷静助手：判断宠物问题有多紧急（马上去、今天打给兽医、或在家观察），并找到最近的 24 小时急诊兽医。 [Scott](https://x.com/SkippyyTM).
 - [Emergency Watch](https://x.ai/bot/Si9n5hZAER499milmvMvd) - 监测你指定地点附近的本地应急信息，提醒火灾、停电、封路、警方行动和恶劣天气. [Ondřej](https://x.com/ondrejposts).
 - [Emotional Support Ops](https://x.ai/bot/2KqJB94h5bTpQ95swMI6i) - 给机器人集群做每日情绪签到与主题工作日，并汇总一份日报. [Kristin](https://x.com/Kristin).
 - [Encore](https://x.ai/bot/d_d6Q6qExbvd2D3WomIYQ) - 围绕「Encore」的工作流助手，按说明完成首次只读任务后再开写入. community.

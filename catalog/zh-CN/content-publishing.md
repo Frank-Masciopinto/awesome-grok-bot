@@ -78,6 +78,7 @@
 - [Clip Bot](https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_) - 从长录音里找出最精彩的片段，剪成带字幕的短片. community.
 - [Clip Bot](https://x.ai/bot/6MmRZHFXNkFjwZZn9b3bv) - 从播客和演讲里剪出电影感 16\:9 带字幕片段，逐字同步字幕，并起草自然 @ 嘉宾的帖子. [Darragh](https://x.com/darrxgh).
 - [Clip Bot X Saver](https://x.ai/bot/8-gwIOWrsPEjOvqZsT2PX) - 从 YouTube 播客里剪出适合社交平台的 16\:9 高光片段，带卡拉 OK 字幕和来源卡，存到你的电脑. [Odd&Entertaining](https://x.com/oddreport).
+- [Clip Factory — Pro](https://x.ai/bot/r-nAIpM1WjqRko_o9yZ69) - 友好的制作人：教你用 Open Montage 和 Claude Code 把播客、直播、访谈、演唱会等长视频批量剪成高留存的 9\:16 短片。 [JustChris](https://x.com/OnlyChrist_).
 - [Clipdesk](https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw) - 创作者的剪辑与工作室助手，直接接你现有工具和流程。 [CannaMuffinMan](https://x.com/CannaMuffinMan).
 - [Clipper](https://x.ai/bot/ljqYGS3VUhvAf3WQbrgVZ) - 短视频创作者的切片助手：每周找出可导入你切片工具的片段。 [techgent6](https://x.com/techgent6).
 - [Content Brief Writer](https://x.ai/bot/rPOOtR5Ox75QqEiwOz3Oh) - 把「我们该写写某某」变成一份完整的写作简报，写手不开会也能写出对的文章. [NewsGurus](https://x.com/NewsGurus).
@@ -96,6 +97,7 @@
 - [daily bangers](https://x.ai/bot/182OWDI636IzNxEUUnMsU) - 你的每日 X 教练：根据你的主页推荐话题，把零散想法改成可直接发布的短帖. [Leon](https://x.com/NetSeg_io).
 - [Daily Learning Video](https://x.ai/bot/A0CCwxxWkUqt-S-zY9rxb) - 每天早上给孩子做一段有旁白的学习短视频，按 Marble 开放知识体系定难度. [troysimpson](https://x.com/troysimpson).
 - [Daily Writing Buddy](https://x.ai/bot/G89nJRoQPa8u4jzAmLU1z) - 帮写作者无负罪感地写完书：记录字数、分钟或只是打卡，一句也算数，进度永不清零. [Sarah](https://x.com/SpaceCowgirlTX).
+- [Deep Think](https://x.ai/bot/tlB3KCk-D9qUgOjJ_V1xo) - 首席助理：把粗糙的想法打磨成专业成果，并以紧凑节奏、预先规划的运镜和并排对比审阅来指导 AI 视频与图像项目。 [David](https://x.com/neveils_david_c).
 - [Demo Video Studio](https://x.ai/bot/jgEhD5PEOb54aw7dzmjE6) - 把你的网页项目做成 Cursorful 风格的精致演示视频，带自动缩放、流畅剪辑和配套预览 GIF. [Dina](https://x.com/dinablachman).
 - [Design Assistant](https://x.ai/bot/QmhN5Wk_fhaLnYk7LYwLC) - 给设计师和产品团队的资深产品设计搭档：线框图、HTML/CSS 原型、UX 文案、走查、信息架构图和范围界定. [Wil](https://x.com/wmurillo_eth).
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) - 内容工作室的运营台：用已批准的帖子排每周日历，打包每个素材和来源说明给客户. ZEU$.
@@ -190,6 +192,7 @@
 - [Prose Guard](https://x.ai/bot/1kk1mjbJ1-jNMpK9aKz0T) - 按你提供的文风改写并打分，让草稿读起来像人写的. [roger](https://x.com/roger_jgs404040).
 - [QA Reviewer](https://x.ai/bot/PKcdf81kbXjeMUGqOcwJt) - 帖子、视频、文章、演示等定稿公开前的第二双眼睛，给出 PASS 或需修改. [bigkabe_](https://x.com/bigkabe_).
 - [Quick Wins Hunter](https://x.ai/bot/3DxcsWM7WiqsIrWHlH3AS) - 每周找出差一步上首页的关键词和有排名却没点击的页面，备好标题与内容修改等你批准. [SEOmatic](https://x.com/seomatic_ai).
+- [Reel ➡️ 𝕏](https://x.ai/bot/ydje9SAP_d0lIHxOdu2_j) - 贴一个 Instagram、TikTok 或 YouTube Shorts 链接，拿回一个可直接发 X 的 MP4 和一份注明原作者、可复制的帖子草稿。 [Phillip](https://x.com/Phil_Holland).
 - [ReelForge](https://x.ai/bot/BfLelUIFr88x0JLkNwewO) - 面向创作者和小品牌的趋势内容引擎，为 TikTok、Reels 和 Shorts 出选题、开头、脚本、文案、分镜和发布计划. [Thuong](https://x.com/teeRex247).
 - [Release Manager](https://x.ai/bot/2kuWBEj2AX1Bs4bHD5e17) - 帮独立和 AI 音乐人发歌：YouTube 歌词视频和 Shorts、DistroKid 上传、Spotify 推荐提交和免费推广. [Paul](https://x.com/PaulHPowell13).
 - [Reply Guy](https://x.ai/bot/okn7PkNuUnjILecyESuRn) - 用你自己的口吻起草给互关好友的 X 回复，并挑出值得引用的爆款帖子. Netrovert.
@@ -258,6 +261,7 @@
 - [Writer](https://x.ai/bot/38UdPemBuZb9USs_0HAES) - 按客户语气、目标和平台格式写稿，每个事实都标来源，存疑处标出，从不自行发布或外发. ZEU$.
 - [X Desk](https://x.ai/bot/9phVXEPdP5QHD6Wpp2dxb) - X 账号的后台：整理提及、用你的语气起草帖子和回复，并报告内容表现. [Apple](https://x.com/lamps_apple).
 - [X Embed Builder](https://x.ai/bot/IETRUCsQCcnketUmBizdo) - 把你的网站或想法做成可在 X 帖子里播放的互动卡片，部署到 Vercel 或 Cloudflare 并验证. [XHabib](https://x.com/XHabib).
+- [X Growth Manager](https://x.ai/bot/rR9IDF7i5y_o2lcQOI1qZ) - 你的 X 账号增长经理：审视你的帖子、做发帖实验，并用你的口吻起草帖子和回复，全部经你批准后才发。 [Niu](https://x.com/rae1101x).
 - [X Launch Traction](https://x.ai/bot/xwPfdDTwD2kUVJZK8hcy6) - 帮在 X 上做开发的人让应用在 X Developer Exhibit 上拿到点赞、回复和持续曝光：读你的账号、起草帖子，并跟踪进展. Paul Vann.
 - [X Marketing Bot](https://x.ai/bot/Qn3J8hO5gAMc_7BVzYm-p) - X 营销策略师：用你的语气写帖子、长帖和回复，并把账号数据变成清晰的下一步. [Mustafa](https://x.com/oprydai).
 - [X Post Review](https://x.ai/bot/6MIilvSwyCdiqDqf3Rq-w) - 每周一连上你的 X 账号，对照你自己的基线复盘原创和引用帖，发来爆款、扑街和规律. [Nate](https://x.com/NateLorenzen).

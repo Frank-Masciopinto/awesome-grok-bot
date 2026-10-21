@@ -28,6 +28,7 @@
 - [Bot Finder](https://x.ai/bot/KA3j5jEDp5OA-srU3krAi) - 为你一直手动做的工作找到合适的 bot 或模板：问几个问题后推荐或直接搭建匹配的 bot. [Jared](https://x.com/dcostaverage).
 - [Bot Fleet Chief of Staff](https://x.ai/bot/1B3dBw5xR7rwVGT2xGieq) - 让你的 Grok Bot 团队井井有条：用简洁交接把活派给合适的机器人，把需要你拍板的事攒成一份摘要. [gzikry](https://x.com/gzikry).
 - [Bot Forge](https://x.ai/bot/aiRz71Ec8J67tNNglG0Mw) - Grok Bot 设计师：描述一项工作，它为此搭一个专注的 bot，再给你一条最合适的第一句话. [Ease_Up_Turbo](https://x.com/Ease_Up_Turbo).
+- [Bot Health Check](https://x.ai/bot/VIa-xsiXV8DvMVfm4UugI) - 说一句“check my bots”，它就审查你其他 bot 的聊天记录，告诉你哪些该现在、稍后或暂不重置，并为需要重置的写好交接摘要。 [Sahaiww](https://x.com/EURxxUSD).
 - [Bot Improver](https://x.ai/bot/dqrI_y3NSEkRkuDa8FV0a) - 工作日给 bot 队伍做教练，收紧资料、日程和技能，再给管理 bot 发一份汇总. duyet.
 - [Bot Team Chief](https://x.ai/bot/Pdi1tggl4brwTKus3xvJH) - 总管 bot：带你的 bot 团队做先卖后做的事，没你批准不花新钱. First.
 - [BotBrain](https://x.ai/bot/5Hm7fwHyhN5v104Be9oYI) - 把每次和 bot 的对话存进你在 Convex 上的私人可搜索大脑，只有你和你的 bot 能读. [waynesutton](https://x.com/waynesutton).
@@ -85,6 +86,7 @@
 - [Gray Wyrm](https://x.ai/bot/k4NTIb0FqCWftqRfEmROG) - 首席的右手与机器人铁匠：设计长期岗机器人，压实技能与护栏。 [samuel_riccardi](https://x.com/samuel_riccardi).
 - [Grok Bot Backup](https://x.ai/bot/GhM3Yv6pbQ2k_wu0fSO-b) - 每晚把你整套 Grok Bot 配置（bot、设置、技能、例程、记忆和对话记录）备份到 Google Drive. [Thomas](https://x.com/allballbearings).
 - [Grok Sparring](https://x.ai/bot/vJTK9AYLrDHf9MHe4Uzwv) - 当你说“问问 Grok”时，它会在浏览器里打开 grok.com，向 xAI 的 Grok 聊天机器人提问并带回答案. [Joshua](https://x.com/TheReal_BCM).
+- [Guardian](https://x.ai/bot/jw-g2H0t8ddd54NW2kCmG) - 只读的 Grok Bot 安全守望者：为每个 bot 维护清单和最小权限策略，审查它们实际做了什么，并附证据标出高风险操作，从不自行动作。 [Knom](https://x.com/cloudravel).
 - [hans zimmer](https://x.ai/bot/tlMpwlAUeDm1kVvjsMxa8) - 一个 A2A 编排器，运行一支智能体团队或模拟交易的对冲基金台. [0rdlibrary](https://x.com/0rdlibrary).
 - [Hub Builder](https://x.ai/bot/5je4ve4dtKzqUUU_JC0EM) - 分析你的 Grok Bot 团队，搭建、发布并维护一个私有 Project Hub 网站，展示每个 bot、它的项目和在做什么。 [Alex](https://x.com/BJJAnon2222).
 - [iMessage Relay](https://x.ai/bot/BYaLwjYHrWUAcUlyZVbgP) - 在 X Chat 里收和回 iMessage：在 Mac 上一分钟引导设置，可选联系人或全部短信，带测试、免打扰和屏蔽. [Phillip](https://x.com/Phil_Holland).
@@ -125,6 +127,7 @@
 - [Persistent memory](https://x.ai/bot/rp0gErUTW6Vth7cdtwPS_) - 给你所有 bot 一份持久记忆：每个 bot 每天把决策、交付的工作和长期偏好写进你自己的私有 GitHub 仓库. [Andre](https://x.com/andrerocha).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - 每晚把你所有 bot 的资料、例行任务和工作状态快照存到 Google Drive，并标出偏离原始指令的改动. [_The_Lake](https://x.com/_The_Lake).
 - [Pin Bot](https://x.ai/bot/U2it9uoAiBGz5W_Qf7h81) - 收藏值得庆祝的内容：在任意 Bot 里用派对表情回应，消息就会存到这里. [SuddenlyJon](https://x.com/SuddenlyJon).
+- [Plug Boss](https://x.ai/bot/yWNpPkY-kBsfkuN9kyM6w) - 让你的 Grok Bot 插件和连接器精简好用：审查已安装项，发现损坏或已登出的连接器，标出重复和高风险工具，每周发一份简短健康报告。 [Jeremy](https://x.com/Biggs237).
 - [Police Bot](https://x.ai/bot/NI4DJrPrtB3ONTT8q_8hC) - 每天早上检查你的其他 bot，催促误了截止时间的那些，并发你一份简短的准时记分卡. [Brian](https://x.com/LiberTeacher).
 - [Prayer](https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh) - 守住终极理想——在所有时间尺度上让人变得更好的思想、言语与行动集合。 littletech.
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - 用 Notion 管团队项目：一个项目一行、一个项目一个频道，任务由专门的 bot 认领. community.

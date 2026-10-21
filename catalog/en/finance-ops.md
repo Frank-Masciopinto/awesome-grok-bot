@@ -589,6 +589,7 @@ Back to [README](../../README.md)
 - [X Bot](https://x.ai/bot/8MKcuoPe51KZnLiN3m4oU) - Runs an X profile\: drafts, scheduling, likes, replies, follows, and contest entries from the signed-in account. [TejasCh32900009](https://x.com/TejasCh32900009).
 - [X Brand Social Manager](https://x.ai/bot/zEp21nf39S9qZxcue-rP8) - Runs an Etsy digital craft brand’s X account\: daily posts, growth, engagement, and profile polish. [MertMusozay](https://x.com/MertMusozay).
 - [X Financial Scanner](https://x.ai/bot/e3jmMweGAwbD4JlUCzHXy) - Read-only X markets desk. community.
+- [X Money Deep Report Bot](https://x.ai/bot/cMpw0zb2v9RRtQPDfsVFm) - Reads your X Money account weekly and sends a categorized spending report\: cash-back, interest, recurring charges and goal progress. Read-only by default. [Brian](https://x.com/BrianRoemmele).
 - [X Stock Chatter Scout](https://x.ai/bot/5DzzCf1rJdUI4i_b4dgNg) - Scans public X posts twice each weekday to surface the stocks people are buzzing about, market-moving news \(confirmed vs rumor\). [Ruijin](https://x.com/zhouruijin).
 - [X 投资情报助手](https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk) - Tracks investors you follow on X and chatter on your stock watchlist, then publishes a chart-rich daily briefing to Feishu or Lark. [qishiya](https://x.com/qizhong_hu).
 - [x402 bot](https://x.ai/bot/_ICGTFLfhc98B8xzTLGzg) - Solana NL trading desk via Jupiter, Pump, Phoenix and Backpack without storing keys in chat. [8Bit](https://x.com/0rdlibrary).

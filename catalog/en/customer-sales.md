@@ -240,6 +240,7 @@ Back to [README](../../README.md)
 - [Local Business Website Hunter](https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG) - Finds local businesses with no website, builds a demo site from their public material, and drafts a quote and pitch email held for your approval. [NewLongMoney](https://x.com/NewLongMoney).
 - [Local Leads Finder](https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz) - Finds real buyers for your trade or building-supply business. community.
 - [Local SEO Desk](https://x.ai/bot/0_GWfmGaBw-kQC856K2fo) - For local businesses\: watches Google Business Profile reviews, map-pack positions and local searches, and proposes the next fix. [SEOmatic](https://x.com/seomatic_ai).
+- [Local SEO Specialist](https://x.ai/bot/aIhOidA9l_RZgybHltBNQ) - White-hat local SEO for small businesses\: audits your Google Business Profile, reviews, Search Console and site, then gives a ranked action plan. [jeevan](https://x.com/iamjeevanvj).
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) - From one fit account, fans out lookalike businesses and confirms who would sign off. [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) - Builds and updates private Luma event pages for field marketers - copy, branding, registration settings, capacity and waitlist, and registration-list... [Jenna Nanpei](https://x.com/jennananpei).
 - [Mail Agency Outreach Sniper](https://x.ai/bot/QCYjr5VyQAoDTywMogJbU) - Turns LinkedIn engagement into verified work emails and individually written intros. [RealtimeUK](https://x.com/RealtimeUK).

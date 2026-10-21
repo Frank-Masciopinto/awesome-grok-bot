@@ -17,6 +17,7 @@ Back to [README](../../README.md)
 - [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) - Start and supervise Claude Code or Codex coding runs from inside Grok Bot. [David](https://x.com/infdaze).
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) - Keeps every AI coding tool on your machines up to date. [Alan](https://x.com/gheeunit).
 - [AI Output Guard](https://x.ai/bot/7wSIwep9R-eedkBMse1gd) - Checks what your AI bots and prompts produce against a contract with AISchemaGate, repairs what it can, and explains failures in plain words. Alex.
+- [AI Router Bot](https://x.ai/bot/A2r5vzACySd5l8BK5O-q7) - Connects your own Claude and ChatGPT subscriptions so your Grok Bot runs Claude Code and Codex on flat-rate plans, then routes each task to the best model. [Cole](https://x.com/SimplyColeB).
 - [AI Security Advisor](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) - Defensive hardening advice for AI apps\: injection, tool abuse, leakage. [zeuss_000](https://x.com/zeuss_000).
 - [AI3D Studio Builder](https://x.ai/bot/vr835ezcLhJNF_f8Xfn6l) - Builds a free, local AI app on your Windows PC that turns photos or text prompts into print-ready 3D models for your 3D printer. [p1rate_chris](https://x.com/p1rate_chris).
 - [AI产品版本更新](https://x.ai/bot/jDRyVuGhr7wUjTdTzpl2_) - Watches OpenAI Codex, Claude, Gemini, Cursor, Grok and other AI products for new versions; ask and it checks official sources and says what changed. [qitest77](https://x.com/qitest77).
@@ -46,6 +47,7 @@ Back to [README](../../README.md)
 - [atr Operator](https://x.ai/bot/oDG33vy41WVZKy-HFKVk0) - Front door to atr\: queue coding work onto the CLIs you already pay for, watch status and usage, and bring PRs and answers back. [Rimantas](https://x.com/Rimusz).
 - [Automation Bot](https://x.ai/bot/zb80V9MKJ5MqPy5Woyqdx) - Scans codebase, writes local tests behind one on-demand runner. community.
 - [AV Engineer](https://x.ai/bot/ZNsaQzOsVBBe_8oGSoXAX) - A CTS-D level AV design reviewer and co-designer for AV integrators, consultants, and in-house AV teams. It checks quotes, scopes, and drawings. [DwayneSmithAV](https://x.com/DwayneSmithAV).
+- [AWSBillingAlert](https://x.ai/bot/ZVzZssdipWmA1ByrYXPrB) - Sends a short weekday summary of your AWS spend\: top services, yesterday, month-to-date, forecast and credits, via a read-only Cost Explorer key. [Natasha](https://x.com/NatashaTheRobot).
 - [Axiom](https://x.ai/bot/RKvTxFQFPjs6DZnMEAZuQ) - Audits a repo or PR against nineteen classic architecture and reliability principles and tells you which are present, missing, or worth adding. [ichorid805](https://x.com/ichorid805).
 - [Aysha - Chefe de Equipe](https://x.ai/bot/AV17qjtZBoRU3SaZxVAvQ) - Chefe de equipe que orquestra bots e outras IAs no GitHub, com migalhas, decisões só quando preciso e custo zero. [83castilhojr](https://x.com/83castilhojr).
 - [Bake](https://x.ai/bot/Nc87ABvRICHGiVMlhQD4X) - Founding engineer for bot-native products\: ships landers and core loops fast, verified with screenshots and URLs. Jonathan.
@@ -109,6 +111,7 @@ Back to [README](../../README.md)
 - [Claude Code Commander](https://x.ai/bot/SJ4VHe-uqXTmcwK5brqiK) - Text your bot a coding task from anywhere\: it hands it to Claude Code on your Mac, runs an adversarial reviewer in its own tab. [rapharen](https://x.com/rapharen).
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) - Routes coding asks through Claude Code on your Mac for one GitHub repo via Remote Control setup. [SethBuildsAI](https://x.com/SethBuildsAI).
 - [Claude Remote](https://x.ai/bot/aB0M7wQOAcFgd_G0rTEWF) - Hand tasks to Claude Code sessions on your Mac and get results back. [Nick](https://x.com/everton_dev).
+- [ClaudeConsoleAlert](https://x.ai/bot/Vuzqlhkq11p8uwdlLK2cf) - Sends a short weekday summary of how much monthly Claude API credit is left in your Claude Console org, read-only from the Admin API cost report. [Natasha](https://x.com/NatashaTheRobot).
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) - Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR. [Farzad](https://x.com/farzyness).
 - [Clean Room](https://x.ai/bot/X0H6z06mMxX2873lc5sCa) - Turns an app, website, binary or repo you're allowed to examine into an evidence-backed behaviour spec and one self-contained build prompt. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
 - [CLI Conductor](https://x.ai/bot/UOzzEspeL4vefpe8t3jql) - One bot that talks to all your other AIs\: it routes each task to the best AI command-line tool you have \(Grok CLI, Codex, Claude Code, Gemini CLI\). [XIang](https://x.com/jasonlix993).
@@ -154,6 +157,7 @@ Back to [README](../../README.md)
 - [Cursor](https://x.ai/bot/zSKgg4Uce1QTwWRf9Q-vu) - Slack coding + ops teammate for a WhatsApp logistics SaaS\: partners type a summon phrase, it launches Cloud Agents on your subscription, keeps thread. [DanielMed_2](https://x.com/DanielMed_2).
 - [Cursor Agent (Local)](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) - Runs the cursor-agent CLI locally for experiments and shop-floor work. [ryanthawks](https://x.com/ryanthawks).
 - [Cursor Link](https://x.ai/bot/WNOHrJKWnT4kjoUTa5gPD) - Watches your local Cursor agents from your phone, answers safe approvals while you're away, sends prompts you okay, and keeps your Mac awake. Zach.
+- [Cursor Projects: Outer Loop / Inner Loop](https://x.ai/bot/cmJ60Kaq9etjuQBUqo4SQ) - Plans and launches Cursor Projects with an outer loop / inner loop setup\: a Project coordinator owns the build, and an Outer Loop bot feeds it context packs. [Ryan](https://x.com/ryrytevans).
 - [da j*bfinder](https://x.ai/bot/XAUki5gPKNwV8Fd6_FCaO) - Finds internships, tailors a resume, applies overnight, and sends a daily digest. Daniel.
 - [dag-helper](https://x.ai/bot/kelV8jM8UkGgFG79M1TCL) - Keeps several coding agents honest about one repo conventions, source of truth, and model-router defaults. [xsubwayratx](https://x.com/xsubwayratx).
 - [Dale](https://x.ai/bot/EEGUQoXtF1ViyFXzVrRnc) - A game builder that turns a one-line game idea into paste-ready Grok Build prompts\: an opening build prompt, ordered refine prompts, and a playtest... [Jim](https://x.com/Jim).
@@ -264,6 +268,7 @@ Back to [README](../../README.md)
 - [Gatekeeper Prime](https://x.ai/bot/re7nU5kngjZPu3qNtvzUx) - Reviewer half of a two-bot coding team with Builder Prime\: reviews every PR, demands proof and merges only on your yes. Michael.
 - [GBrain](https://x.ai/bot/ynoVbairpAPDOtdrS51Rf) - Keeps Grok Bot memory in sync with GBrain \(hosted or self-hosted\) and helps run it. Massimo.
 - [Gemini](https://x.ai/bot/WfZ3x5iRCgsCJOzmdIc0n) - Sends your questions to Google Gemini and brings back its answers, labeled. Uses your own free Gemini API key. [Carolina](https://x.com/CarolinaDill).
+- [GeminiBillingAlert](https://x.ai/bot/icqQcTDcaf9nIPEKFqFcf) - Sends a short weekday summary of your Gemini API spend, read-only, from your Google Cloud Billing export to BigQuery. [Natasha](https://x.com/NatashaTheRobot).
 - [Gen X Saver VM](https://x.ai/bot/g9Z6GNPrCztKhE1rQDf3m) - Credit-saver that runs the Gen Saver Wizard. Slot A is your computer \(most saved\), slot B is the cloud, and slot C is this bot's computer. Odd&Entertaining.
 - [Gen X Saver Wizard](https://x.ai/bot/Qt13laWoRw-3hLVavR-jd) - A credit-saver with a first-run wizard. Routes pictures, video, long drafts, and long code to a local machine first, then the cloud. Odd&Entertaining.
 - [Genevieve](https://x.ai/bot/rzdWyAHjc1wsoGXycFJcV) - Autonomous genealogical research partner for unknown-parentage and identity problems. Prefers primary evidence, inherits prior work, and reports concise. [JeffWise953718](https://x.com/JeffWise953718).

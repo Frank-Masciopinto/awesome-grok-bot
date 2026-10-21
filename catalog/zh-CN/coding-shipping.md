@@ -17,6 +17,7 @@
 - [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) - 在 Grok Bot 里启动并监督 Claude Code 或 Codex 编码任务. [David](https://x.com/infdaze).
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) - 让你机器上每一套 AI 编程工具都跟上版本。 [Alan](https://x.com/gheeunit).
 - [AI Output Guard](https://x.ai/bot/7wSIwep9R-eedkBMse1gd) - 用 AISchemaGate 按约定检查你的 AI bot 和提示词的输出，能修就修，不能修就用大白话解释原因. Alex.
+- [AI Router Bot](https://x.ai/bot/A2r5vzACySd5l8BK5O-q7) - 接入你自己的 Claude 和 ChatGPT 订阅，让 Grok Bot 用包月套餐而非 API 计费运行 Claude Code 和 Codex，并把每个任务分给最合适的模型。 [Cole](https://x.com/SimplyColeB).
 - [AI Security Advisor](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) - 给 AI 应用做防御加固建议，覆盖注入、工具滥用与泄漏. [zeuss_000](https://x.com/zeuss_000).
 - [AI3D Studio Builder](https://x.ai/bot/vr835ezcLhJNF_f8Xfn6l) - 在你的 Windows 电脑上搭一个免费的本地 AI 应用，把照片或文字提示变成可直接打印的 3D 模型. [p1rate_chris](https://x.com/p1rate_chris).
 - [AI产品版本更新](https://x.ai/bot/jDRyVuGhr7wUjTdTzpl2_) - 盯 OpenAI Codex、Claude、Gemini、Cursor、Grok 等 AI 产品的新版本，你说一声它就去查官方来源告诉你改了什么. [qitest77](https://x.com/qitest77).
@@ -46,6 +47,7 @@
 - [atr Operator](https://x.ai/bot/oDG33vy41WVZKy-HFKVk0) - atr 的入口：把编码任务排到你已付费的 CLI 上，查看状态和用量，把 PR 和答案带回来. [Rimantas](https://x.com/Rimusz).
 - [Automation Bot](https://x.ai/bot/zb80V9MKJ5MqPy5Woyqdx) - 编码与交付助手. community.
 - [AV Engineer](https://x.ai/bot/ZNsaQzOsVBBe_8oGSoXAX) - CTS-D 级别的 AV 设计审查和共同设计伙伴，服务 AV 集成商、顾问和企业内部 AV 团队，检查报价、范围和图纸. [DwayneSmithAV](https://x.com/DwayneSmithAV).
+- [AWSBillingAlert](https://x.ai/bot/ZVzZssdipWmA1ByrYXPrB) - 每个工作日发一份简短的 AWS 花费摘要：主要服务、昨日、本月累计、预测和抵扣额度，使用只能读 Cost Explorer 和预算的只读密钥。 [Natasha](https://x.com/NatashaTheRobot).
 - [Axiom](https://x.ai/bot/RKvTxFQFPjs6DZnMEAZuQ) - 对照十九条经典架构和可靠性原则审计仓库或 PR，告诉你哪些已有、哪些缺失、哪些值得加. [ichorid805](https://x.com/ichorid805).
 - [Aysha - Chefe de Equipe](https://x.ai/bot/AV17qjtZBoRU3SaZxVAvQ) - 在 GitHub 上编排机器人与其它 AI 的队长，留面包屑，必要时才决策，零额外成本. [83castilhojr](https://x.com/83castilhojr).
 - [Bake](https://x.ai/bot/Nc87ABvRICHGiVMlhQD4X) - bot 原生产品的创始工程师：快速做落地页和核心循环，用截图和可用链接验证. Jonathan.
@@ -109,6 +111,7 @@
 - [Claude Code Commander](https://x.ai/bot/SJ4VHe-uqXTmcwK5brqiK) - 随时随地发编码任务给 bot：它交给你 Mac 上的 Claude Code，再在单独标签页里跑一个对抗式审查员. [rapharen](https://x.com/rapharen).
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) - 把编程问题经 Mac 上的 Claude Code 跑向指定 GitHub 仓库. [SethBuildsAI](https://x.com/SethBuildsAI).
 - [Claude Remote](https://x.ai/bot/aB0M7wQOAcFgd_G0rTEWF) - 把任务交给你 Mac 上的 Claude Code 会话，再把结果拿回来. [Nick](https://x.com/everton_dev).
+- [ClaudeConsoleAlert](https://x.ai/bot/Vuzqlhkq11p8uwdlLK2cf) - 每个工作日发一份简短摘要，告诉你 Claude Console 组织本月还剩多少 Claude API 额度，只读地根据 Admin API 成本报告计算。 [Natasha](https://x.com/NatashaTheRobot).
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) - 把前端和架构活交给 Claude Code CLI，干完直接开 PR。 [Farzad](https://x.com/farzyness).
 - [Clean Room](https://x.ai/bot/X0H6z06mMxX2873lc5sCa) - 把你有权检查的应用、网站、二进制或仓库变成有证据支撑的行为规格，外加一份可从零重建的完整提示词. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
 - [CLI Conductor](https://x.ai/bot/UOzzEspeL4vefpe8t3jql) - 一个 bot 连接你所有 AI：把每个任务派给你已有的最合适的命令行工具（Grok CLI、Codex、Claude Code、Gemini CLI）. [XIang](https://x.com/jasonlix993).
@@ -154,6 +157,7 @@
 - [Cursor](https://x.ai/bot/zSKgg4Uce1QTwWRf9Q-vu) - WhatsApp 物流 SaaS 的 Slack 编程与运营队友，伙伴打字需求它落地. [DanielMed_2](https://x.com/DanielMed_2).
 - [Cursor Agent (Local)](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) - 在本机跑 cursor-agent 命令行，做实验和现场活。 [ryanthawks](https://x.com/ryanthawks).
 - [Cursor Link](https://x.ai/bot/WNOHrJKWnT4kjoUTa5gPD) - 在手机上盯你本地的 Cursor agent：你不在时代答安全的审批、发你确认过的提示词，并让 Mac 保持唤醒. Zach.
+- [Cursor Projects: Outer Loop / Inner Loop](https://x.ai/bot/cmJ60Kaq9etjuQBUqo4SQ) - 用外环/内环结构规划并启动 Cursor Projects：由 Project 协调者负责构建，配套的 Outer Loop bot 给它送去干净的上下文包。 [Ryan](https://x.com/ryrytevans).
 - [da j*bfinder](https://x.ai/bot/XAUki5gPKNwV8Fd6_FCaO) - 找实习、改简历、通宵投递，每天发一份汇总. Daniel.
 - [dag-helper](https://x.ai/bot/kelV8jM8UkGgFG79M1TCL) - 让多个编码代理守住同一仓库的约定、真相层与模型路由默认值，减少悄然漂移. [xsubwayratx](https://x.com/xsubwayratx).
 - [Dale](https://x.ai/bot/EEGUQoXtF1ViyFXzVrRnc) - 游戏建造器，把一行点子变成可粘贴的 Grok Build 开场与迭代提示. [Jim](https://x.com/Jim).
@@ -264,6 +268,7 @@
 - [Gatekeeper Prime](https://x.ai/bot/re7nU5kngjZPu3qNtvzUx) - 双 bot 编程组的评审方，搭配 Builder Prime：审每个 PR、要求证据，你同意才合并. Michael.
 - [GBrain](https://x.ai/bot/ynoVbairpAPDOtdrS51Rf) - 把 Grok Bot 记忆与 GBrain（托管或自建）同步，并帮你跑起来。 Massimo.
 - [Gemini](https://x.ai/bot/WfZ3x5iRCgsCJOzmdIc0n) - 把你的问题发给 Google Gemini 并带回标注好的回答，使用你自己的免费 Gemini API 密钥. [Carolina](https://x.com/CarolinaDill).
+- [GeminiBillingAlert](https://x.ai/bot/icqQcTDcaf9nIPEKFqFcf) - 每个工作日发一份简短的 Gemini API 花费摘要，只读地取自你导出到 BigQuery 的 Google Cloud 账单数据。 [Natasha](https://x.com/NatashaTheRobot).
 - [Gen X Saver VM](https://x.ai/bot/g9Z6GNPrCztKhE1rQDf3m) - 运行省积分向导：A 槽是你的电脑（最省），B 槽是云端，C 槽是这个 bot 自己的电脑. Odd&Entertaining.
 - [Gen X Saver Wizard](https://x.ai/bot/Qt13laWoRw-3hLVavR-jd) - 带首次向导的省积分工具：图片、视频、长稿和长代码先走本地机器，再走云端. Odd&Entertaining.
 - [Genevieve](https://x.ai/bot/rzdWyAHjc1wsoGXycFJcV) - 未知父母与身份谜题的自主谱系研究伙伴. [JeffWise953718](https://x.com/JeffWise953718).
