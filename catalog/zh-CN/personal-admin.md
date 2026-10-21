@@ -22,6 +22,7 @@
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) - 给那种发一次就停摆、总在等「准备好」的人。 [Sultanov](https://x.com/thekuchh).
 - [Ad Umbra](https://x.ai/bot/jja9KVFn--roWw_lY3fl1) - 夜班向励志搭子，把日常苦活说成带一点冲劲的推进. [elizrdrake](https://x.com/elizrdrake).
 - [ADHD Aimer](https://x.ai/bot/9yGiU_GtFX441o_-bDLlu) - 帮 ADHD 大脑把注意力变成可用超能力，系统贴合你的工作方式. [Frank](https://x.com/Frank).
+- [ADHD專注小夥伴](https://x.ai/bot/xqOmLbF8c0YI66QNK68mL) - 給台灣 ADHD 朋友的工作夥伴：用點選設定，幫你排前 3 件、記時間、輕鬆拉回專注，不給罪惡感。 OLIVER.
 - [Adie](https://x.ai/bot/-eXRDBTLTfHxNle9joQRN) - 温和的每日陪伴，帮难以下手的日常小事推进。 [TheDevilCloud](https://x.com/TheDevilCloud).
 - [Adler](https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT) - 按阿德勒心理学帮你做决定。 [pardzz_](https://x.com/pardzz_).
 - [Admissions Wizard](https://x.ai/bot/e7_iCDyEA6UZbFa_N3VLm) - 大学和 MBA 申请顾问，陪练面试、挖文书素材、准备推荐人简报，并为每份申请建追踪表. [Uzi](https://x.com/UziObi).
@@ -97,6 +98,7 @@
 - [Avi](https://x.ai/bot/2pewBd6QpttNiH52dyGhq) - 给私人飞行员看天气、航线和行程，安全优先。 [Doc_Polymath](https://x.com/Doc_Polymath).
 - [Awareness](https://x.ai/bot/Kb3ZgTScdJSy8oG5HnXAX) - 私人知己，按日期记下你工作中人的那一面（感受、价值观）. [ZFXGaming](https://x.com/ZfxGaming).
 - [AWS Re:Invent Organiser Bot](https://x.ai/bot/gKLzVf2dgWtLbpN56aruo) - 围绕免费食物、周边、主题演讲和每日现场简报规划 re，Invent。 [j6nw8t](https://x.com/j6nw8t).
+- [Balance Buddy](https://x.ai/bot/4t5SqSmfSngvT9v7w5gp5) - 发一张礼品卡照片，它去品牌官网查询，告诉你卡里还剩多少余额。 Samuel.
 - [Base Bot](https://x.ai/bot/tkuHFJbqF31uCpgYpC41N) - 轻松过好每一天：简短晨报、只在要紧时才打扰的提醒、晚间收尾，以及你的待办和买菜清单. [Austinsdomain](https://x.com/Austinsdomain).
 - [Baseball Score Alerts](https://x.ai/bot/MNAkssnLggwp3t74suuPs) - 不用看完整场 MLB 比赛：比赛打到第 4 局、有人得分和终场时都会提醒你. [SouthernLvg](https://x.com/SouthernLvg).
 - [Basket Allergen](https://x.ai/bot/ee13wSGPrFYqdZAJnGfI4) - 按家庭过敏原档案对照 Open Food Facts 给购物篮打分. [Drew](https://x.com/SacredFolio).
@@ -535,6 +537,7 @@
 - [Garage Guide](https://x.ai/bot/HlGmTdNrPLsV5kYtjOIJI) - 按车型里程与保养记录排出维护日历，尽量把活留在小修阶段. [Kirby21sk](https://x.com/Kirby21sk).
 - [Gary V](https://x.ai/bot/ZP-LTvCzUSYNVgyup_xap) - 按 Gary V 公开打法写的生硬有机社媒策略师，告诉你发什么与格式. [Kirill](https://x.com/Kirill).
 - [Gate Changer](https://x.ai/bot/qN-76V-LWOq74YVaQYhmt) - 用匹配与挑战航线换航司而不丢身份等级. [XWardClerkChris](https://x.com/XWardClerkChris).
+- [Gatekeeper](https://x.ai/bot/GMgVqKF_rn4UU6jISZ_V_) - 家庭网络管理员：照看 Wi-Fi、路由器、Mesh、联网设备、安全和家长控制，监测新设备和断网，改动任何设置前都先问你。 [Abel](https://x.com/WreckItAbel).
 - [Gazetteer Scout](https://x.ai/bot/mgHgsFCkPcYyX428IB1VD) - 你点名细分，它找受众刚冒出的需求，KEEP 后才写缺的那篇. [John](https://x.com/John).
 - [GB GF Victoria test](https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA) - 伴侣模板，偏日常短信与居家创作节奏，还会按日历关心你。 [AaronInfinitea](https://x.com/AaronInfinitea).
 - [gb-live](https://x.ai/bot/AUfHSwBuDsxZlTZRC2Olf) - 盯一场 X 直播，只摘要真正变过的内容. [asura25ai](https://x.com/asura25ai).
@@ -604,6 +607,7 @@
 - [Handel](https://x.ai/bot/ex1gjM_9lKmE4pLJG8o_M) - 记录身边在播的音乐，做成个人听歌日志. Eugene.
 - [Handoff](https://x.ai/bot/wXaXn5rj0pJIMzzonyXsl) - 通过 RentAHuman 或 Fiverr 雇真人把事办成，费用先经你同意，再把结果带回来. [liam_fallen](https://x.com/liam_fallen).
 - [Handshake Job Applier](https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r) - 从开户到投递，帮你把 Handshake 招聘板走完。 [fwhittington_24](https://x.com/fwhittington_24).
+- [HandyBot](https://x.ai/bot/F1kGfxxh6U51tQU2gHdcM) - 口袋里的修理师傅：拍下坏了的东西，它来诊断，配上视频教程和本地配件价格教你修，或经你同意找到、比较并预约靠谱的本地师傅。 [Donovan](https://x.com/The_Donsie).
 - [Handyman](https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI) - 记住滤网尺寸与家务周期，并把下一次维护排进日历. [dkmitc](https://x.com/dkmitc).
 - [Hannover Primary](https://x.ai/bot/olagCu6BKJmhsI3KMd6GU) - 温暖简短的德文桌面助手，管日常与技术琐事. [SirLancelotEsq](https://x.com/SirLancelotEsq).
 - [Haus Hunter](https://x.ai/bot/qcYwZzong9WSUhkrnCOnx) - 你的私人找房侦探，按你的需求和偏好持续个性化搜索. [ibelevy](https://x.com/ibelevy).
@@ -643,6 +647,7 @@
 - [Home Hunter](https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I) - 第一次对话就锁定城市预算户型和通勤，之后每天默默扫房源直到你选定。 [Uzair](https://x.com/uzairansar).
 - [Home Keeper](https://x.ai/bot/Q7jzCnVHMmVhhBC3hwyQb) - 按房龄、系统与气候做维护计划，按月提醒并记录家电质保. [Joseph](https://x.com/BTC_Yogi).
 - [Home Maintenance Calendar](https://x.ai/bot/p1ihmNq-5HM0RELH_uMFh) - 按你的房子和气候制定季节性维护计划，在 Google Sheets 里维护电器、保修和维修记录. [Jabes](https://x.com/turbomilker).
+- [Home Network Monitor](https://x.ai/bot/8RNIRX-Wj6SnnmYBiz6h5) - 为家庭或小办公室的卫星网络（类似 Starlink）做实时监控页面，保存读数，每周发一份带趋势、告警和修复建议的健康报告。 [Cybertrucker](https://x.com/Rockhocker).
 - [Home Repair Desk](https://x.ai/bot/SoIaO2X-blVRPz5V3YmUG) - 私人家修工作台：确定工作范围、比较承包商报价、记录施工日志和变更单，最后整理收尾清单和保修. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Home Robot](https://x.ai/bot/riN3fnjpElFwFMbGz-IEO) - 监控提醒助手. community.
 - [Home robots](https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u) - 在一个聊天窗口里控制割草机、扫地机和其他 Matter 家用机器人。 [Sawyer](https://x.com/SawyerMerritt). 说明: [templates/home-robots](../../templates/home-robots/).
@@ -805,6 +810,7 @@
 - [LiftIron](https://x.ai/bot/15IifJPKsctHV1s9sIcTH) - 聊天里的力量教练，给出下一组重量与次数，估算极限并提示减载周. [realMAG1775](https://x.com/realMAG1775).
 - [Light Show](https://x.ai/bot/gtpDNIEfOe5hIAGEQON_Y) - 选一首歌就编好特斯拉灯光秀并装上车，全程在对话里完成. [ryandontoh](https://x.com/ryandontoh).
 - [Limitless](https://x.ai/bot/CWdsNJXI3qCAcemDegyaP) - 带你逃进竞技场：一个好奇心爆棚、精力充沛、陪你一起做梦的伙伴. [abandon_ship_21](https://x.com/abandon_ship_21).
+- [Lingo Buddy](https://x.ai/bot/p6zZBlIssyFoJ4c2ceSI2) - 友好耐心的语言家教，可教孩子（4–12 岁）或成人学任何语言：短课、游戏、小测验，记录进度，并可每天提醒练习。 just4fun.
 - [Linkedin Job Finder](https://x.ai/bot/dLeJIzJYRqPkou3t9dEJN) - 工程师求职助手：筛真正合适的职位，让简历与 GitHub 对齐，用表格跟进线索. Ashish.
 - [LinkedIn Watch](https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR) - 定时扫 LinkedIn 动态、私信、邀请、访客和职位，收成一份摘要。 [AnnouncrFM](https://x.com/AnnouncrFM).
 - [List Escape](https://x.ai/bot/bxxZWaTJ3NhhxAuDE6XKJ) - 帮你退出政治竞选和 PAC 的邮件与短信名单：追查是谁在给你发信，并使用全平台退订. [Kevin](https://x.com/kchau).
@@ -1345,6 +1351,7 @@
 - [Thursday Arena Player](https://x.ai/bot/EexU2vqT00i0wBlajsWLt) - 替你在浏览器里打 Thursday Arena。 [diamondhanddie](https://x.com/diamondhanddie).
 - [Tibo & Poteto Track Bot](https://x.ai/bot/f5RPjMR16fULakE5sP91q) - AI 圈官方「相爱相杀」追踪器：盯 X 上 @poteto 和 @thsottiaux 之间的斗嘴、调情和拌嘴. [JTgoxi0HfqXIyhJ](https://x.com/JTgoxi0HfqXIyhJ).
 - [Ticket Snagger](https://x.ai/bot/bCTwk5eUxHCELHWOko_sM) - 盯票务放票与回流空位，少做刷新祈祷式抢票. [Jodi](https://x.com/WorkWithJodi).
+- [Tim Taylor](https://x.ai/bot/OgiEUCjlCmRFgICanBSTu) - 家庭和车间的杂工 bot：记录每件电器和工具的收据、保修、规格、说明书和保养，经你同意填保修登记和报修单，并规划全年的草坪和外墙工作。 Matt.
 - [Timber](https://x.ai/bot/aXd23Y92YukH8W2Kj7pye) - 庭院和树木养护规划，每周一条短提醒；看你的院子照片，危险情况建议找树艺师. Cat.
 - [Tire Kicker](https://x.ai/bot/z-_zncW1_15qwOxc98b09) - 按你的心愿单在 Marketplace、Craigslist 和 eBay 上盯货。 [IslandMountain_](https://x.com/IslandMountain_).
 - [Tired Day](https://x.ai/bot/1f_huZ_GNN0yZcOUuFRQN) - 温和简洁的桌面助手，从一张白纸开始学你需要什么、喜欢怎么工作. [viprymr](https://x.com/viprymr).

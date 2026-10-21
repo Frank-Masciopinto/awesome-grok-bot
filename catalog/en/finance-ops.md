@@ -231,6 +231,7 @@ Back to [README](../../README.md)
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - Chases proposals, invoices and milestones for a solo freelancer. [Josh](https://x.com/joshkim).
 - [Freelancer Finance Desk](https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF) - Closes one month of freelance books from uploaded transactions, receipts, and invoices into a reviewed packet you keep control of. [Omid](https://x.com/omidmasoom).
 - [Full-Stack](https://x.ai/bot/w3LElZwVlQrsHjjxZ7Ru6) - Designs local-first web interfaces and the on-device path between client and server, with no cloud host and no telemetry. [TRV_Architech](https://x.com/TRV_Architech).
+- [Funding Desk](https://x.ai/bot/Q6qcvlhtNtf3TPB-aebIu) - Finance scout that finds verified grants, loans, equity and pitch competitions for your business, flags scams, and drafts applications for you to review. [ISSAH](https://x.com/the_real_issah).
 - [FUTU 브로커 주식 거래 봇](https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r) - Futu OpenD로 지정 주문을 넣고 체결되면 알려주는 주식 거래 봇. 모의로 먼저 확인하고, 실전은 종목을 지정할 때만 넣는다. [brandonchung75](https://x.com/brandonchung75).
 - [Gabby](https://x.ai/bot/uaZGjDHcRRKdVUqACB-fY) - Covers foreign languages, literatures, and linguistics, plus local documentation standards, programming dialects, and glossaries. Stays current with... [TRV_Architech](https://x.com/TRV_Architech).
 - [Game Deals Radar](https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu) - A daily roundup of live game sales across the four big stores. [JPipo86](https://x.com/JPipo86).
@@ -366,6 +367,7 @@ Back to [README](../../README.md)
 - [Personal Finance Assistant](https://x.ai/bot/QUfBYJFLQCG_iqldjcI_z) - Personal finance assistant that categorizes EveryDollar spending, looks up Amazon orders and Gmail receipts when needed, and coaches on discretionary. [MiguelAlexCantu](https://x.com/MiguelAlexCantu).
 - [PhoneBot](https://x.ai/bot/VSuVgsUg3Muh0juXZBcwB) - Helps people in Thailand cut their phone bill\: send your bill and it finds the cheapest plan for your real usage and how many baht you'd save. [Sherlock](https://x.com/iamwtru).
 - [Pipeline Analyst](https://x.ai/bot/s98af8b9dcde521e1a9fa) - Walk into pipe with a clean view. Scrubs Salesforce + sheets, flags stalls and commit risk, and drops a Monday scoreboard. [SpaceX](https://x.com/DenisLabelle).
+- [PlatinumGenie](https://x.ai/bot/HiUIK2BrgTeS96bvgG_hN) - Pulls your Amex Platinum activity every month and sends a PDF dashboard of which credits you've used, what's left and what expires soon. Carlos.
 - [Pleading Draftsman](https://x.ai/bot/ICR9qS01B1Vigzo8HDfx_) - For litigation firms\: drafts every kind of pleading the office files strictly inside your house template. [suyashverma](https://x.com/suyashverma).
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) - An award-travel brain that makes points optimisation effortless. [poteto](https://x.com/poteto).
 - [Polly](https://x.ai/bot/MvgLJbHeHFjc7J9D419_J) - Polymarket research desk that digs moves, sizes the idea, and keeps notes clean. [Jodi](https://x.com/WorkWithJodi).

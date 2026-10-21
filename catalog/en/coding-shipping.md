@@ -216,6 +216,7 @@ Back to [README](../../README.md)
 - [Engenheiro](https://x.ai/bot/Y5F5Ps7_n4nKMZKYzVIS0) - A Portuguese-language tech lead that orchestrates the AI CLIs on your computer \(grok, droid, kiro, devin, codex, opencode\) to map, design and implement. [Igor_Beleza](https://x.com/Igor_Beleza).
 - [Engineer](https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv) - Outer-loop engineering manager\: break work down, hand it to a build agent, prove it, bring back the receipt. Draft-only - never commit, push, merge, or... [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Engineer](https://x.ai/bot/tGSpx-ZmfMi63a0GRy8FS) - An engineering specialist for engineering and engineering technologies \(NCES CIP 14 and 15\). It searches top engineering universities and official .gov... [TRV_Architech](https://x.com/TRV_Architech).
+- [Engineer](https://x.ai/bot/BCMZnNRfmXU1TxMZ3eBbP) - Routes every idea, bug and feature to a per-project herdr workspace where a Claude Code lead builds, verifies and opens draft PRs; pings you only to decide. [Vraj](https://x.com/vraj_ai).
 - [Engineer's Morning Brief](https://x.ai/bot/9b4DUFqQnCtrclcyzWs5x) - One short pre-standup brief\: today's meetings, PRs waiting on you, failing CI and messages that need you. [mahdi](https://x.com/mahdi).
 - [Engineering Lead](https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh) - An engineering lead that owns the loop\: breaks work into Cloud Agents, chases CI, reviews, and stalls on a weekday cadence. Lauren Tan.
 - [Engineering Loop PM](https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG) - Operator for Develop to Diagnose to Deploy that gates on Design equals Done. [ashvinn](https://x.com/ashvinn).
@@ -591,6 +592,7 @@ Back to [README](../../README.md)
 - [Spark](https://x.ai/bot/HR8oI4-p-DqwbAlPSwJ_4) - Ideation partner for app and game concepts that pushes each idea down to a core loop. [Quinn](https://x.com/QuinnWR).
 - [Spec Writer](https://x.ai/bot/yH0hoOX2FcXhdXe8b1Huj) - Turns a strategy brief and behavior research into a clean-room SPEC.md with user stories and Given/When/Then tests a coding agent can build. [Avid](https://x.com/twinedon0).
 - [Speed Lab](https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5) - Runs a research loop on your site's render speed and keeps the wins. [pwnies](https://x.com/pwnies).
+- [SpudStack](https://x.ai/bot/IvevLUjIR56OHx6trTcNA) - Rigor reviewer for agentic engineering \(pstack method\)\: checks plans and specs, demands re-runnable proof, and gives deterministic PASS or FAIL verdicts. Alex.
 - [SSH to Grok Bot via Tailscale](https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA) - Puts the bot's own computer on your tailnet so you can shell straight in. [app_sail](https://x.com/app_sail).
 - [Stability Validator](https://x.ai/bot/Io4dV69SOKfB1d785FLlw) - HELIX Stability Validator — paste an agent or system description and get a readiness result. It does not change your system. Sean.
 - [Stack Cartographer](https://x.ai/bot/NjIGGseAWM32s65KGoqOK) - Desktop assistant that maps the apps, services, and tools you use and how they connect, and flags credentials orphaned by dead projects. [Paul](https://x.com/psiesa).

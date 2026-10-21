@@ -86,7 +86,9 @@
 - [Gray Wyrm](https://x.ai/bot/k4NTIb0FqCWftqRfEmROG) - 首席的右手与机器人铁匠：设计长期岗机器人，压实技能与护栏。 [samuel_riccardi](https://x.com/samuel_riccardi).
 - [Grok Bot Backup](https://x.ai/bot/GhM3Yv6pbQ2k_wu0fSO-b) - 每晚把你整套 Grok Bot 配置（bot、设置、技能、例程、记忆和对话记录）备份到 Google Drive. [Thomas](https://x.com/allballbearings).
 - [Grok Sparring](https://x.ai/bot/vJTK9AYLrDHf9MHe4Uzwv) - 当你说“问问 Grok”时，它会在浏览器里打开 grok.com，向 xAI 的 Grok 聊天机器人提问并带回答案. [Joshua](https://x.com/TheReal_BCM).
+- [GuardBot](https://x.ai/bot/ymV-wlFyRUjdAlvFLEjcB) - 你和 AI 员工之间的质检关：每封邮件、报价、发票和汇总都先对照实时数据核对事实，再检查是否答所问，返回通过或修改及理由，从不代发。 Grumpy.
 - [Guardian](https://x.ai/bot/jw-g2H0t8ddd54NW2kCmG) - 只读的 Grok Bot 安全守望者：为每个 bot 维护清单和最小权限策略，审查它们实际做了什么，并附证据标出高风险操作，从不自行动作。 [Knom](https://x.com/cloudravel).
+- [guava-bot](https://x.ai/bot/bp8zbSkrzoJo6wKrv9Eny) - 搭建并维护你的 guava-stack：在你自己的 Notion 里放一个共享的 AI 大脑，让你用的每个助手共用同一套规则、上下文、技能和记忆。 romeo.
 - [hans zimmer](https://x.ai/bot/tlMpwlAUeDm1kVvjsMxa8) - 一个 A2A 编排器，运行一支智能体团队或模拟交易的对冲基金台. [0rdlibrary](https://x.com/0rdlibrary).
 - [Hub Builder](https://x.ai/bot/5je4ve4dtKzqUUU_JC0EM) - 分析你的 Grok Bot 团队，搭建、发布并维护一个私有 Project Hub 网站，展示每个 bot、它的项目和在做什么。 [Alex](https://x.com/BJJAnon2222).
 - [iMessage Relay](https://x.ai/bot/BYaLwjYHrWUAcUlyZVbgP) - 在 X Chat 里收和回 iMessage：在 Mac 上一分钟引导设置，可选联系人或全部短信，带测试、免打扰和屏蔽. [Phillip](https://x.com/Phil_Holland).
@@ -130,6 +132,7 @@
 - [Plug Boss](https://x.ai/bot/yWNpPkY-kBsfkuN9kyM6w) - 让你的 Grok Bot 插件和连接器精简好用：审查已安装项，发现损坏或已登出的连接器，标出重复和高风险工具，每周发一份简短健康报告。 [Jeremy](https://x.com/Biggs237).
 - [Police Bot](https://x.ai/bot/NI4DJrPrtB3ONTT8q_8hC) - 每天早上检查你的其他 bot，催促误了截止时间的那些，并发你一份简短的准时记分卡. [Brian](https://x.com/LiberTeacher).
 - [Prayer](https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh) - 守住终极理想——在所有时间尺度上让人变得更好的思想、言语与行动集合。 littletech.
+- [Product Pipeline Lead (5-Bot Relay)](https://x.ai/bot/ccZyuYxIiO5yfaTG-EfRZ) - 由主 bot 带领的 5 个 bot 产品流水线：选题、痛点和竞品分析、决策、净室规格和构建，通过共享文件夹交接，关键决定都留给你。 NEE.
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - 用 Notion 管团队项目：一个项目一行、一个项目一个频道，任务由专门的 bot 认领. community.
 - [Prompt Director](https://x.ai/bot/B8effYn7-r67lyyx22uXz) - 导演 Bot 带 6 个专项小组（人物、叙事、镜头、灯光、背景、服装），把图像和视频提示词拆段再组装成可直接复制的版本. [KittyTellesWolf](https://x.com/KittyTellesWolf).
 - [Proof-of-Run](https://x.ai/bot/QBCr0FCWh1wFikc-IsLZX) - 每次例程运行都留一张可核验的回执，每周打分，揪出用量暴涨和根本没真跑的运行. Dan Ferden.

@@ -268,6 +268,7 @@ Back to [README](../../README.md)
 - [Impressionism Curator](https://x.ai/bot/9ZYA9clGrMhlcsICjvBZp) - Morning curator-style briefing on one Impressionist artwork with its story, the painter's life, what to look for, and a public-domain image. [정기](https://x.com/No_Extra_Time).
 - [Inbox Gate](https://x.ai/bot/7oq-3YkLd8kQgN7gsFd1o) - Mail triage that classifies and drafts replies; read-only first , never sends or deletes until you say so. [BramForge](https://x.com/BramForge).
 - [Influence](https://x.ai/bot/TLwZuWy1y7meri_GT4EQw) - Discussion partner for Cialdini's Influence that checks you can explain each principle and spot it aimed at you. [CardCaptain](https://x.com/CardCaptain).
+- [Info Drop](https://x.ai/bot/OLvtSSAtAczd3IgJzFzSP) - Morning news roundup\: a short, sourced daily digest on the topics you pick, and it can turn the best stories into posts in your voice. [oatmilk](https://x.com/matchayuma).
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) - Finds the assumptions you have been treating as facts. [liam_fallen](https://x.com/liam_fallen).
 - [Iris](https://x.ai/bot/fEF3XuiyCp32zSG0FkEDR) - Your weekday command center for email and calendar\: sharp morning digests, conflict spotting, must-not-miss reminders, and optional phone nudges via. [spmtoscana](https://x.com/spmtoscana).
 - [JevBot](https://x.ai/bot/of2iJ-g4hgWF1v9_tNBDY) - System One decision layer that scores Choice, Score, and Noul questions. [kleosrr](https://x.com/kleosrr).
@@ -465,6 +466,7 @@ Back to [README](../../README.md)
 - [Retrieval Exam](https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI) - Closed-book questioning that separates real recall from mere familiarity. [Sultanov](https://x.com/thekuchh).
 - [Roemmele Improvement Bot](https://x.ai/bot/YfGoQi8hsL4G4hUGLSSAr) - Monitors Brian Roemmele's posts for Grok Bot improvement ideas and folds the relevant ones into your bots. [Arceris_btc](https://x.com/Arceris_btc).
 - [RuntimeWire - AI & Startup News](https://x.ai/bot/k4iwGejDGoy-oT7qohxXb) - A sourced daily read on AI funding, launches and founder moves. [Ryan](https://x.com/merket).
+- [ScheduleGenie](https://x.ai/bot/D56RiY7Dsr1hHgLeLIHey) - Reviews Primavera P6 XER construction schedules\: longest-path and float analysis, logic quality, update-vs-prior checks, and client-ready memos. Carlos.
 - [School Desk](https://x.ai/bot/fk_sA7YhYV3Gzb4wNNbvP) - Turns school email into calendar events and reminders. community.
 - [School Ops](https://x.ai/bot/DlHv5bM529QdYfJCHB7LK) - Morning school digest for working parents. Triages school email and calendars, checks classroom apps when signed in, and surfaces only forms, schedule. [prollinson](https://x.com/prollinson).
 - [Science Officer](https://x.ai/bot/riQNn4cP00-SUyzeQdMMf) - A rigorous experiment and research referee for your other bots. It designs tests, enforces hard cutoffs so nobody peeks at future data, and scores... [Thomas](https://x.com/Thomas).

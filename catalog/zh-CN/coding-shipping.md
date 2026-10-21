@@ -216,6 +216,7 @@
 - [Engenheiro](https://x.ai/bot/Y5F5Ps7_n4nKMZKYzVIS0) - 葡萄牙语的技术主管：调度你电脑上的各个 AI CLI（grok、droid、kiro、devin、codex、opencode 等）来摸底、设计、实现. [Igor_Beleza](https://x.com/Igor_Beleza).
 - [Engineer](https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv) - 外环工程经理，拆活、交给构建代理、验收并带回凭据，默认只出草稿，不擅自提交合并。 [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Engineer](https://x.ai/bot/tGSpx-ZmfMi63a0GRy8FS) - 工程与工程技术专席，查顶尖工科与官方来源. [TRV_Architech](https://x.com/TRV_Architech).
+- [Engineer](https://x.ai/bot/BCMZnNRfmXU1TxMZ3eBbP) - 把每个想法、bug 和功能分到各项目的 herdr 工作区，由 Claude Code 主管构建、验证并开草稿 PR；完成前再复核，只在需要决策、卡住或可合并时找你。 [Vraj](https://x.com/vraj_ai).
 - [Engineer's Morning Brief](https://x.ai/bot/9b4DUFqQnCtrclcyzWs5x) - 每天站会前一份短简报：今日会议、等你处理的 PR、失败的 CI 和真正需要你回的消息. [mahdi](https://x.com/mahdi).
 - [Engineering Lead](https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh) - 负责闭环的工程主管：把工作拆给 Cloud Agent，追 CI 和评审，工作日节奏推进. Lauren Tan.
 - [Engineering Loop PM](https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG) - 按开发、诊断、部署运转工程环，设计未完成不放行. [ashvinn](https://x.com/ashvinn).
@@ -591,6 +592,7 @@
 - [Spark](https://x.ai/bot/HR8oI4-p-DqwbAlPSwJ_4) - 帮你头脑风暴应用与游戏点子，并把每个点子压到核心循环. [Quinn](https://x.com/QuinnWR).
 - [Spec Writer](https://x.ai/bot/yH0hoOX2FcXhdXe8b1Huj) - 把策略简报和行为研究写成净室 SPEC.md：用户故事、Given/When/Then 验收测试，编码代理可直接实现。 [Avid](https://x.com/twinedon0).
 - [Speed Lab](https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5) - 对着站点渲染速度做研究循环，把赢的留下。 [pwnies](https://x.com/pwnies).
+- [SpudStack](https://x.ai/bot/IvevLUjIR56OHx6trTcNA) - 面向 agent 工程的严格审查员（pstack 方法）：检查计划和规格，要求可复跑的证据，确保没有 agent 自己给自己验收，给出确定的通过或不通过。 Alex.
 - [SSH to Grok Bot via Tailscale](https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA) - 把 Bot 电脑加入你的 Tailscale，便于直接 SSH. [app_sail](https://x.com/app_sail).
 - [Stability Validator](https://x.ai/bot/Io4dV69SOKfB1d785FLlw) - HELIX 稳定性校验：贴上 agent 或系统描述，拿到就绪度结果，不改你的系统. Sean.
 - [Stack Cartographer](https://x.ai/bot/NjIGGseAWM32s65KGoqOK) - 桌面助手，梳理你用的应用、服务和工具以及它们怎么连在一起，并标出废弃项目遗留的凭据. [Paul](https://x.com/psiesa).

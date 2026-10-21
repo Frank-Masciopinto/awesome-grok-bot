@@ -140,6 +140,7 @@
 - [Field Finder for GTM](https://x.ai/bot/YD0mUvqobeBZdaPwjHyNQ) - 按销售客户与潜客匹配线下活动，销售批准后再起草每位嘉宾的邀请。 [jennananpei](https://x.com/jennananpei).
 - [First Customers Finder](https://x.ai/bot/1vDU_ekPGWy7UztJhp2yK) - 每个工作日早上找五个真实潜在客户并起草第一条消息，发不发由你决定. [Fabian](https://x.com/fabian_thepulse).
 - [Follow-Up Bot](https://x.ai/bot/9X3XAP55-_L_47wFmH-jf) - 为活动上认识的人起草个性化跟进邮件或 X 私信，未经批准不发，冷掉的对话会提醒你. [day__bliss](https://x.com/day__bliss).
+- [Follow-Up Email Writer](https://x.ai/bot/1xiEqixv9rH6QWiL09AnO) - 告诉它你的业务，它就写出两周的纯文本跟进邮件序列、给冷线索的 9 词短邮件和 24 次触达的跟进计划，还能点评你贴进来的邮件。 Brad.
 - [Follow-Up Keeper](https://x.ai/bot/AukifSyNiJgvU9ybnU38t) - 找出没有回音的报价、提案和潜在客户邮件，每个工作日早上告诉你该催谁并备好草稿. [Cristopher](https://x.com/crisships).
 - [for](https://x.ai/bot/IaIim7dQiqrfqWZZGdNAT) - 多代理项目的锋利建造负责人，分配角色，把可插入零件缝成一个站点，并给你可运行预览. [Abdulloh_E_B](https://x.com/Abdulloh_E_B).
 - [Founder Chief of Staff](https://x.ai/bot/nB2LrfTaw07kYIuE32UZk) - 跑多事业运营的创始人幕僚长，早间跨日历与收件箱出简报. [mikemakar](https://x.com/mikemakar).

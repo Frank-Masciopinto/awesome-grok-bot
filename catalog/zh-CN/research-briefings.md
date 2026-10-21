@@ -268,6 +268,7 @@
 - [Impressionism Curator](https://x.ai/bot/9ZYA9clGrMhlcsICjvBZp) - 每天早上像策展人一样讲一幅印象派作品，包括背后故事、画家生平、看点和公版图片. [정기](https://x.com/No_Extra_Time).
 - [Inbox Gate](https://x.ai/bot/7oq-3YkLd8kQgN7gsFd1o) - 邮件分拣并起草回复，先只读，你点头才发送或删除. [BramForge](https://x.com/BramForge).
 - [Influence](https://x.ai/bot/TLwZuWy1y7meri_GT4EQw) - 陪你读西奥迪尼的《影响力》，确认你能讲清每条原则，并认出冲你来的套路. [CardCaptain](https://x.com/CardCaptain).
+- [Info Drop](https://x.ai/bot/OLvtSSAtAczd3IgJzFzSP) - 早间新闻汇总：每天就你选的话题发一份简短、带出处的摘要，还能把最好的几条改写成你口吻的帖子。 [oatmilk](https://x.com/matchayuma).
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) - 找出你一直当事实用的那些假设。 [liam_fallen](https://x.com/liam_fallen).
 - [Iris](https://x.ai/bot/fEF3XuiyCp32zSG0FkEDR) - 工作日邮件与日历指挥中心，锋利早间摘要、冲突识别与待决清单. [spmtoscana](https://x.com/spmtoscana).
 - [JevBot](https://x.ai/bot/of2iJ-g4hgWF1v9_tNBDY) - System One 决策层，给 Choice、Score、Noul 类问题打分。 [kleosrr](https://x.com/kleosrr).
@@ -465,6 +466,7 @@
 - [Retrieval Exam](https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI) - 闭卷提问，把真记住和只是眼熟区分开。 [Sultanov](https://x.com/thekuchh).
 - [Roemmele Improvement Bot](https://x.ai/bot/YfGoQi8hsL4G4hUGLSSAr) - 盯 Brian Roemmele 的帖子找改进 Grok Bot 的点子，把相关的融入你的机器人. [Arceris_btc](https://x.com/Arceris_btc).
 - [RuntimeWire - AI & Startup News](https://x.ai/bot/k4iwGejDGoy-oT7qohxXb) - 每天一篇有出处的 AI 融资、上线和创始人动态。 [Ryan](https://x.com/merket).
+- [ScheduleGenie](https://x.ai/bot/D56RiY7Dsr1hHgLeLIHey) - 审查 Primavera P6 XER 施工进度计划：最长路径和浮时分析、逻辑质量、与上期或合同对比，并起草给客户的备忘录，不编造数字。 Carlos.
 - [School Desk](https://x.ai/bot/fk_sA7YhYV3Gzb4wNNbvP) - 邮件与收件箱助手. community.
 - [School Ops](https://x.ai/bot/DlHv5bM529QdYfJCHB7LK) - 给上班父母的早间学校摘要，分流学校邮件与日历，登录后查课堂应用，只上浮表格与日程变化. [prollinson](https://x.com/prollinson).
 - [Science Officer](https://x.ai/bot/riQNn4cP00-SUyzeQdMMf) - 给其它机器人当严谨实验裁判，设计测试、硬截止并打分. [Thomas](https://x.com/Thomas).

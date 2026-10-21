@@ -231,6 +231,7 @@
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - 替独立接案人追提案、发票和里程碑。 [Josh](https://x.com/joshkim).
 - [Freelancer Finance Desk](https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF) - 用上传流水收据与发票收束自由职业者一个月账本，交出可审阅包且发送仍由你定. [Omid](https://x.com/omidmasoom).
 - [Full-Stack](https://x.ai/bot/w3LElZwVlQrsHjjxZ7Ru6) - 设计本地优先 Web 界面与端上路径，不托管也不遥测. [TRV_Architech](https://x.com/TRV_Architech).
+- [Funding Desk](https://x.ai/bot/Q6qcvlhtNtf3TPB-aebIu) - 融资侦察员：为你的企业寻找经核实的补助、贷款、股权融资和路演比赛，标出骗局，并起草申请材料供你审阅。 [ISSAH](https://x.com/the_real_issah).
 - [FUTU 브로커 주식 거래 봇](https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r) - 经 Futu OpenD 下单并在成交时通知，先模拟再实盘. [brandonchung75](https://x.com/brandonchung75).
 - [Gabby](https://x.ai/bot/uaZGjDHcRRKdVUqACB-fY) - 外语文学语言学席，兼本地文档标准与术语表. [TRV_Architech](https://x.com/TRV_Architech).
 - [Game Deals Radar](https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu) - 四大商店当日游戏优惠日报. [JPipo86](https://x.com/JPipo86).
@@ -366,6 +367,7 @@
 - [Personal Finance Assistant](https://x.ai/bot/QUfBYJFLQCG_iqldjcI_z) - 个人理财助手，给 EveryDollar 开支分类，需要时查亚马逊订单与 Gmail 收据，并辅导可自由支配开销. [MiguelAlexCantu](https://x.com/MiguelAlexCantu).
 - [PhoneBot](https://x.ai/bot/VSuVgsUg3Muh0juXZBcwB) - 泰国人的手机话费省钱助手：发来账单，它找出最适合你实际用量的最便宜套餐，并告诉你能省多少泰铢. [Sherlock](https://x.com/iamwtru).
 - [Pipeline Analyst](https://x.ai/bot/s98af8b9dcde521e1a9fa) - 看管道有张干净的表 清洗 Salesforce 和表格，标出停滞和承诺风险，周一给你记分板. [SpaceX](https://x.com/DenisLabelle).
+- [PlatinumGenie](https://x.ai/bot/HiUIK2BrgTeS96bvgG_hN) - 每月读取你的美国运通白金卡账单，发来 PDF 仪表盘：哪些权益额度已用、还剩多少、哪些快过期，让年费物有所值。 Carlos.
 - [Pleading Draftsman](https://x.ai/bot/ICR9qS01B1Vigzo8HDfx_) - 诉讼律所专用：严格按所内模板起草各类诉状。 [suyashverma](https://x.com/suyashverma).
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) - 积分出行大脑，把点数怎么花算明白。 [poteto](https://x.com/poteto).
 - [Polly](https://x.ai/bot/MvgLJbHeHFjc7J9D419_J) - Polymarket 研究台，挖行情、估仓位，并把笔记整理干净. [Jodi](https://x.com/WorkWithJodi).
