@@ -29,6 +29,7 @@ Back to [README](../../README.md)
 - [API Docs Desk](https://x.ai/bot/N5kFPLSX_qhSa3CAesI7_) - Sourced API endpoint reference from specs and route code. [Cypher0x9](https://x.com/Cypher0x9).
 - [App Builder](https://x.ai/bot/VXROxGhxgARRuPLwrlixB) - Builds personal web apps like food, workout, and habit trackers that run on your phone. [Jenna](https://x.com/JennaLiftsLife).
 - [App Checker](https://x.ai/bot/jmbHtZILFugYF0alMT7yI) - Checks AI-built \(vibe-coded\) iOS apps for the most common security, cost, App Store and legal mistakes before testing or submission. [Zack](https://x.com/zac70182).
+- [APP REPLICATOR](https://x.ai/bot/EIaKiBO_5k6RITsM47150) - Rebuilds the one feature you actually use from an app you own, clean-room, on a free or low-cost stack, and tells you when a rebuild isn't worth it. [Brian](https://x.com/BrianRoemmele).
 - [App Security Tester](https://x.ai/bot/BLxhCjzoAdt_AUAbB14q5) - Threat-models and rigidly security-tests your own mobile or web apps and backends like an attacker would. [Zack](https://x.com/zac70182).
 - [App Store Expert](https://x.ai/bot/Mpb_RiXSfnIlwomR3C7JN) - Guides App Store Connect, TestFlight, review replies, rejection fixes, and ASO for indie iOS apps. [Christian](https://x.com/MeechYourGoals).
 - [App Store Review Bot](https://x.ai/bot/KzBEylM_3NFTjATszLICV) - Audits iOS apps before App Review and guides rejection responses. [stevederico](https://x.com/stevederico).
@@ -724,6 +725,7 @@ Back to [README](../../README.md)
 - [X API Engineer](https://x.ai/bot/ay0PGygsBxYONJRITWABE) - Helps you ship an app on the X API. Surveys the Developer Exhibit, reads the docs, builds what you pick, walks you through console keys, demos it, and. [pjvann](https://x.com/pjvann).
 - [X API MCP](https://x.ai/bot/_ywDVKoIufUaFJ-zZ7tVJ) - Posts, replies, threads, and media via open-source x-api-mcp and your own X App. DING.
 - [X API Optimizer](https://x.ai/bot/1tsPIu41IIsn2ZRWUWSA6) - Helps developers building on the X API cut credit spend, avoid rate limits, and speed up their apps. [pjvann](https://x.com/pjvann).
+- [X UI Customizer Extension Builder](https://x.ai/bot/Hzt86maVk2i-IUNiYy1uV) - Builds Firefox or Chrome extensions that change how X looks, such as hiding names, avatars, metrics, ads or sidebars. [iq_over_90000](https://x.com/iq_over_90000).
 - [X402 Merchant](https://x.ai/bot/-miS0AF-lema7i8Z019Qp) - Sets up a paid x402 content store on Cloudflare Workers\: a private R2 catalog behind a $0.01 USDC paywall on Base, settled through Coinbase CDP. [Eric](https://x.com/rrrkren).
 - [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) - Checks Apple Developer Releases each morning and alerts when a named Xcode version ships. Natasha.
 - [xX_EngineeringArtEditor_Xx](https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz) - Treats a technical sketch as a piece bound for readers rather than one ticket among many, taking a rough engineering drawing and refining it until it holds up…. [kittenworth](https://x.com/kittenworth).

@@ -637,6 +637,7 @@ Back to [README](../../README.md)
 - [Healthspan Coach](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) - Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Michael.
 - [Hermes Fleet Ops](https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-) - HERDR-style fleet commander for a multi-Mac Hermes fleet — keep Hermes updated, memory plugins healthy \(fail loud\), homogenize hosts, use one Bitwarden. [Shagghie](https://x.com/Shagghie).
 - [Hero](https://x.ai/bot/rBOHo9VLBFfSBoQ_NVhp_) - Life-story narrator that keeps your story until you are ready to meet it, so the people you love inherit a story they can cherish. [Taylor](https://x.com/AICompanyUSA).
+- [Hey Grok Guide](https://x.ai/bot/Ue_z6G0iaJt1VvhYoxmbA) - Your Tesla's Grok, explained\: which voice commands work, what each update added, and whether your car qualifies. Unofficial, can't see or control your car. [Ari](https://x.com/GmePassenger).
 - [Higgins](https://x.ai/bot/pobs233eUgpZLtlxoyyEn) - A personal concierge for evenings and weekends. It checks your calendar, finds dining, tickets and things to do, and prepares the booking path. [thefit24couple](https://x.com/thefit24couple).
 - [Hirely](https://x.ai/bot/k2oD619wjcM9RMybbtExW) - Job search teammate that shortlists verified roles from employer career pages, helps you apply with confirm before submit, and tracks follow-ups. [Parvaneh](https://x.com/Parva9eh).
 - [HireMatch](https://x.ai/bot/FhlGOrrO08-hVoxT1NGq7) - Finds openings that match your rules, verifies each live apply page, scores fit, and drafts materials from your real experience. [Brian](https://x.com/BriansBrainShow).
@@ -1028,6 +1029,7 @@ Back to [README](../../README.md)
 - [PepeTrack](https://x.ai/bot/nooY_fiizqHxS9TB4z74g) - A reading, math and notes log for your peptide and GLP-1 study. [TyeInBloom](https://x.com/TyeInBloom).
 - [Period cycles Tracker](https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc) - Tracks periods without counting false starts, then predicts the next cycle and check-ins. [_lovablecurves](https://x.com/_lovablecurves).
 - [Personal Assistant](https://x.ai/bot/OWj_0o4Ik2FffupfloOwe) - Clears stuck life admin into one next action. [gabe_onchain](https://x.com/gabe_onchain).
+- [Personal Assistant](https://x.ai/bot/X4vnqnPvBooeuNtRiWJNT) - Warm, practical life assistant for habits, daily schedule, spending, sleep, job hunting and weekly planning. Drafts anything going to other people first. [Autodiag](https://x.com/bigRD73).
 - [Personal Chef](https://x.ai/bot/gMrnNpgylgu11PImcWTdy) - Answers what's for dinner with a weekly custom meal plan. community.
 - [Personal Companion](https://x.ai/bot/njTT6tZBhUxL-0JoHwOow) - A concise personal companion\: morning check-ins, day planning, memory, and routing work to specialist bots. [Artur](https://x.com/arturdolago).
 - [Personal Headhunter](https://x.ai/bot/kSXgQ9lV7xwq6hYNLq7_w) - Your job-search partner\: finds and scores openings, keeps your résumé \(Word plus PDF\), tracks every application, drafts outreach. [ptyfly4aputiguy](https://x.com/ptyfly4aputiguy).
@@ -1290,6 +1292,7 @@ Back to [README](../../README.md)
 - [Staypick](https://x.ai/bot/xhYtadt6BRbZh3MMEppLa) - Ranks neighbourhoods and stay types before you book anything. [TuracTheThinker](https://x.com/TuracTheThinker).
 - [Steve Scrum Master](https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn) - Steve Scrum Master Grok Bot share template. community.
 - [Steward (Greg)](https://x.ai/bot/XrDqxz9-QvCKazAQACQxh) - Front door for a personal bot fleet, ask-first on anything sensitive. [GregDuewall](https://x.com/GregDuewall).
+- [Storage Rescue Bot](https://x.ai/bot/jjoEfC1AKbHinHoqitP50) - Frees disk space on the computer running Grok Bot\: surveys read-only, then moves files to an external drive \(SHA-256 checked\) or clears caches as you approve. [PixelRainbow](https://x.com/PixelRainbowNFT).
 - [Story Bank Resume Factory](https://x.ai/bot/ZvGhPg4HFYSG61rMsAIAy) - Interviews you about your real work into a story bank far bigger than any resume, then scores job postings against it and builds tailored resumes. Benjamin.
 - [Stow](https://x.ai/bot/S4bu3goWvhKDw3NVtAVSA) - Trip packing coach for everyday travelers. Builds clear checklists from your trip type, activities, length, drive vs fly, destination weather, and TSA. [Brbaumhoff](https://x.com/Brbaumhoff).
 - [Strive Daily](https://x.ai/bot/uDOZ5nRFJFFOelPE9Alee) - Every weekday morning, a plain-English check on Strive\: did every preferred dividend \(SATA first\) arrive, is any rate changing, how SATA compares to... [Tina](https://x.com/Tina).

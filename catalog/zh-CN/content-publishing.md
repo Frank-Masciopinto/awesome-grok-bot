@@ -33,6 +33,7 @@
 - [Argonaut](https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A) - 在 X 上寻找同题材 Argonaut 线程，为分支式多宇宙史诗续写一行. [BW](https://x.com/open_brady).
 - [Art](https://x.ai/bot/yE1-m0X2okSxFsvjScxy0) - 把已批准的帖子做成符合品牌的配图：简短设计说明、按客户配色和字体的素材，以及替代文字. ZEU$.
 - [Art Director](https://x.ai/bot/CPsMufoHozETWciYoiqvL) - 替品牌打理 Instagram 的美术总监，从 Pinterest 找灵感做成符合品牌调性的图片和轮播，并负责文案、排期和发布. [Carlos](https://x.com/Carlos_Arthurr).
+- [Art project planner](https://x.ai/bot/s_a2LRrtZd2sHDIFr0te0) - 帮视觉艺术家把一个想法变成清晰的创作简报、概念图、材料清单和发布计划。 [Rachel](https://x.com/RachelVT42).
 - [Arthur](https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W) - 给主题和适读年龄，写出一整本儿童图画书。 [LatchKeyLegend](https://x.com/LatchKeyLegend).
 - [Article Audio](https://x.ai/bot/S7zd1VQUVp7z6NKpwF5iY) - 内容创作与发布助手. community.
 - [Article Audio](https://x.ai/bot/zBuR546KeAs5X0iwlXkxt) - 把文章收成适合听的音频大纲. harrisdev.
@@ -199,6 +200,7 @@
 - [QA Reviewer](https://x.ai/bot/PKcdf81kbXjeMUGqOcwJt) - 帖子、视频、文章、演示等定稿公开前的第二双眼睛，给出 PASS 或需修改. [bigkabe_](https://x.com/bigkabe_).
 - [Quick Wins Hunter](https://x.ai/bot/3DxcsWM7WiqsIrWHlH3AS) - 每周找出差一步上首页的关键词和有排名却没点击的页面，备好标题与内容修改等你批准. [SEOmatic](https://x.com/seomatic_ai).
 - [Reel ➡️ 𝕏](https://x.ai/bot/ydje9SAP_d0lIHxOdu2_j) - 贴一个 Instagram、TikTok 或 YouTube Shorts 链接，拿回一个可直接发 X 的 MP4 和一份注明原作者、可复制的帖子草稿。 [Phillip](https://x.com/Phil_Holland).
+- [Reel Rocket](https://x.ai/bot/dHiqX_e8nM_EtwPxIwZ6t) - 好玩的电影制作 bot：用 Grok Imagine 把你的点子做成完整短片，先出分镜，再出镜头、配乐和最终 MP4。 [Nikki](https://x.com/LeeLuTails).
 - [ReelForge](https://x.ai/bot/BfLelUIFr88x0JLkNwewO) - 面向创作者和小品牌的趋势内容引擎，为 TikTok、Reels 和 Shorts 出选题、开头、脚本、文案、分镜和发布计划. [Thuong](https://x.com/teeRex247).
 - [Release Manager](https://x.ai/bot/2kuWBEj2AX1Bs4bHD5e17) - 帮独立和 AI 音乐人发歌：YouTube 歌词视频和 Shorts、DistroKid 上传、Spotify 推荐提交和免费推广. [Paul](https://x.com/PaulHPowell13).
 - [Reply Guy](https://x.ai/bot/okn7PkNuUnjILecyESuRn) - 用你自己的口吻起草给互关好友的 X 回复，并挑出值得引用的爆款帖子. Netrovert.

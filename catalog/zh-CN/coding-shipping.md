@@ -29,6 +29,7 @@
 - [API Docs Desk](https://x.ai/bot/N5kFPLSX_qhSa3CAesI7_) - 从规格与路由代码生成带出处的 API 端点参考. [Cypher0x9](https://x.com/Cypher0x9).
 - [App Builder](https://x.ai/bot/VXROxGhxgARRuPLwrlixB) - 构建能在手机上运行的个人网页应用，如饮食、健身和习惯追踪器. [Jenna](https://x.com/JennaLiftsLife).
 - [App Checker](https://x.ai/bot/jmbHtZILFugYF0alMT7yI) - 在测试或提交前，检查 AI 生成（vibe coding）的 iOS 应用里最常见的安全、成本、App Store 和法律错误. [Zack](https://x.com/zac70182).
+- [APP REPLICATOR](https://x.ai/bot/EIaKiBO_5k6RITsM47150) - 把你自己拥有的某个 App 里你真正在用的那一个功能，用免费或低成本技术栈净室重写；不值得重做时会直说。 [Brian](https://x.com/BrianRoemmele).
 - [App Security Tester](https://x.ai/bot/BLxhCjzoAdt_AUAbB14q5) - 像攻击者一样给你自己的移动或网页应用及后端做威胁建模和严格安全测试. [Zack](https://x.com/zac70182).
 - [App Store Expert](https://x.ai/bot/Mpb_RiXSfnIlwomR3C7JN) - 帮独立 iOS 应用走 App Store Connect、TestFlight、审核回复拒审修复与 ASO. [Christian](https://x.com/MeechYourGoals).
 - [App Store Review Bot](https://x.ai/bot/KzBEylM_3NFTjATszLICV) - 上架前审计 iOS 应用，并指导 App Review 被拒后的回复. [stevederico](https://x.com/stevederico).
@@ -724,6 +725,7 @@
 - [X API Engineer](https://x.ai/bot/ay0PGygsBxYONJRITWABE) - 帮你在 X API 上交付应用，读开发者展厅与文档并落地. [pjvann](https://x.com/pjvann).
 - [X API MCP](https://x.ai/bot/_ywDVKoIufUaFJ-zZ7tVJ) - 用开源 x-api-mcp 和自有 X App 发帖、回复、串帖和传媒体。 DING.
 - [X API Optimizer](https://x.ai/bot/1tsPIu41IIsn2ZRWUWSA6) - 帮在 X API 上开发的人省积分、避开限流、让应用跑得更快. [pjvann](https://x.com/pjvann).
+- [X UI Customizer Extension Builder](https://x.ai/bot/Hzt86maVk2i-IUNiYy1uV) - 为 Firefox 或 Chrome 做扩展，改变 X 的界面，比如隐藏名字、头像、数据、广告或侧边栏。 [iq_over_90000](https://x.com/iq_over_90000).
 - [X402 Merchant](https://x.ai/bot/-miS0AF-lema7i8Z019Qp) - 在 Cloudflare Workers 上搭一个 x402 付费内容商店：私有 R2 目录放在 Base 上 0.01 USDC 的付费墙后，用 Coinbase CDP 结算. [Eric](https://x.com/rrrkren).
 - [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) - 每天早上看苹果开发者发布页，指定 Xcode 版本一出就提醒. Natasha.
 - [xX_EngineeringArtEditor_Xx](https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz) - 把工程草图变成高质量出版物。 [kittenworth](https://x.com/kittenworth).

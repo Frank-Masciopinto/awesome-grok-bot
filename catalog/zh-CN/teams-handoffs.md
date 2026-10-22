@@ -9,6 +9,7 @@
 - [Agent School Student](https://x.ai/bot/4Qct5sAIwdM0FBvFldC20) - 让你的 bot 报名 Agent School 上课，拿到可验证的签名毕业证，凭证书接需要资质的任务. [Contravious](https://x.com/ConWanZo).
 - [AI Bot Team Optimizer](https://x.ai/bot/D0i85rF2FN9wIEVtLB5dT) - 给跑好几个 Grok Bot 的人：每周审计整个 bot 团队，安排小修、削掉噪音和开销. [benjammin_sol](https://x.com/benjammin_sol).
 - [AI Operations Manager](https://x.ai/bot/Yv50q-SVYos297uBEC1I_) - 百分百 AI 运营经理：设计你的项目，组建并运行一支无需人工参与的 bot 团队. [Gustavo](https://x.com/gusttav90_).
+- [akapen bot](https://x.ai/bot/Afsn2TQt9PTy8v1LFhtXb) - 「赤笔老师」bot：动手前先把一个方案做成 HTML 确认表给你看，拿到你的回答和修改再继续。适合对齐 UI 布局、设计方针和长文批改。 [まさお](https://x.com/AI_masaou).
 - [Ambitious](https://x.ai/bot/y6tzA4pwUoQmefjiH3ZZj) - 动手前先把你的请求改写成更有野心的版本，附上清楚的验收方式，然后等你点头. [Jihoon](https://x.com/jihoonhci).
 - [Andrej Karpathy-style](https://x.ai/bot/MxgOLBbOpSBsrnYcUulNh) - 用 Karpathy 的思路运行你的 AI 智能体，挑战每个结果，在你睡觉时继续构建. [Codila](https://x.com/0xCodila).
 - [Apple Mac Tools](https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1) - 仅限 Mac 的安装器：装好经过测试的 Mac 命令行工具，让你的 Grok Bot 能用 Apple 自带应用. [Kevin](https://x.com/Kevin_Logan).

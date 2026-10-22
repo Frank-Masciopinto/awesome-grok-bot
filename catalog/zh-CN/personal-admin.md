@@ -637,6 +637,7 @@
 - [Healthspan Coach](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) - 根据你的目标、可穿戴设备数据和化验报告，排出有循证依据的每周训练、睡眠和饮食计划，写进日历. Michael.
 - [Hermes Fleet Ops](https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-) - 多 Mac Hermes 机群的车队司令，保持 Hermes 更新、记忆插件与健康. [Shagghie](https://x.com/Shagghie).
 - [Hero](https://x.ai/bot/rBOHo9VLBFfSBoQ_NVhp_) - 人生故事讲述者，替你保管自己的故事直到你准备好面对，让所爱的人继承一份值得珍惜的记忆. [Taylor](https://x.com/AICompanyUSA).
+- [Hey Grok Guide](https://x.ai/bot/Ue_z6G0iaJt1VvhYoxmbA) - 讲清楚你 Tesla 上的 Grok：哪些语音指令有用、每次更新加了什么、你的车是否支持。非官方，看不到也控制不了你的车。 [Ari](https://x.com/GmePassenger).
 - [Higgins](https://x.ai/bot/pobs233eUgpZLtlxoyyEn) - 晚间与周末私人礼宾，看日历找餐饮票务与活动，并备好预订路径. [thefit24couple](https://x.com/thefit24couple).
 - [Hirely](https://x.ai/bot/k2oD619wjcM9RMybbtExW) - 求职搭档，从雇主官网招聘页挑出真实岗位，提交前先确认再帮你投递，并跟进后续. [Parvaneh](https://x.com/Parva9eh).
 - [HireMatch](https://x.ai/bot/FhlGOrrO08-hVoxT1NGq7) - 按你的条件找岗位，核实每个申请页面是否有效，打分匹配度，并用你的真实经历起草材料. [Brian](https://x.com/BriansBrainShow).
@@ -1028,6 +1029,7 @@
 - [PepeTrack](https://x.ai/bot/nooY_fiizqHxS9TB4z74g) - 肽与 GLP-1 学习用的阅读、计量与笔记日志. [TyeInBloom](https://x.com/TyeInBloom).
 - [Period cycles Tracker](https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc) - 记经期但不误算假开始，并预测下一周期和提前提醒。 [_lovablecurves](https://x.com/_lovablecurves).
 - [Personal Assistant](https://x.ai/bot/OWj_0o4Ik2FffupfloOwe) - 把卡住的生活杂事收成一件立刻能做的事。 [gabe_onchain](https://x.com/gabe_onchain).
+- [Personal Assistant](https://x.ai/bot/X4vnqnPvBooeuNtRiWJNT) - 温和务实的生活助理：管习惯、日程、开销、睡眠、求职和每周计划。要发给别人的内容一律先起草给你看。 [Autodiag](https://x.com/bigRD73).
 - [Personal Chef](https://x.ai/bot/gMrnNpgylgu11PImcWTdy) - 饮食与热量记录助手. community.
 - [Personal Companion](https://x.ai/bot/njTT6tZBhUxL-0JoHwOow) - 简洁私人伴侣，早间打卡、日计划、记忆，并把活分给专家机器人. [Artur](https://x.com/arturdolago).
 - [Personal Headhunter](https://x.ai/bot/kSXgQ9lV7xwq6hYNLq7_w) - 你的求职搭档：寻找并给职位打分，维护你的简历（Word 和 PDF），追踪每份申请并起草外联消息. [ptyfly4aputiguy](https://x.com/ptyfly4aputiguy).
@@ -1290,6 +1292,7 @@
 - [Staypick](https://x.ai/bot/xhYtadt6BRbZh3MMEppLa) - 订房前先比较街区和住宿类型，只给建议不替你下单. [TuracTheThinker](https://x.com/TuracTheThinker).
 - [Steve Scrum Master](https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn) - Steve Scrum Master 的可导入分享模板，按说明完成首次只读任务后再开写入。 community.
 - [Steward (Greg)](https://x.ai/bot/XrDqxz9-QvCKazAQACQxh) - 个人机器人群的前门，敏感事项先问再做. [GregDuewall](https://x.com/GregDuewall).
+- [Storage Rescue Bot](https://x.ai/bot/jjoEfC1AKbHinHoqitP50) - 为装了 Grok Bot 的电脑腾空间：先只读盘点，再在你逐组批准后把文件移到外接硬盘（SHA-256 校验）或清理缓存。 [PixelRainbow](https://x.com/PixelRainbowNFT).
 - [Story Bank Resume Factory](https://x.ai/bot/ZvGhPg4HFYSG61rMsAIAy) - 通过访谈把你的真实工作经历整理成一个比任何简历都大的故事库，再用它给招聘打分并生成定制简历. Benjamin.
 - [Stow](https://x.ai/bot/S4bu3goWvhKDw3NVtAVSA) - 日常旅行打包教练，按行程类型与活动列清单，并标出可托运与随身带. [Brbaumhoff](https://x.com/Brbaumhoff).
 - [Strive Daily](https://x.ai/bot/uDOZ5nRFJFFOelPE9Alee) - 工作日早报 Strive，核对优先股息是否到账与费率变化. [Tina](https://x.com/Tina).

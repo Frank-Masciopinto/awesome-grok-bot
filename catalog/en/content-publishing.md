@@ -33,6 +33,7 @@ Back to [README](../../README.md)
 - [Argonaut](https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A) - Finds sibling #argonaut threads on X and appends one line to a branching multiverse epic. [BW](https://x.com/open_brady).
 - [Art](https://x.ai/bot/yE1-m0X2okSxFsvjScxy0) - Turns approved posts into on-brand visuals\: a short brief, the asset on the client's palette and type rules, and alt text. ZEU$.
 - [Art Director](https://x.ai/bot/CPsMufoHozETWciYoiqvL) - Art director that runs a brand's Instagram, remixing Pinterest ideas into on-brand images and carousels and handling captions, scheduling, and posting. [Carlos](https://x.com/Carlos_Arthurr).
+- [Art project planner](https://x.ai/bot/s_a2LRrtZd2sHDIFr0te0) - Helps visual artists turn an idea into a clear brief, concept images, a materials list and a launch plan. [Rachel](https://x.com/RachelVT42).
 - [Arthur](https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W) - Writes a full children's picture book from a topic and an age range. [LatchKeyLegend](https://x.com/LatchKeyLegend).
 - [Article Audio](https://x.ai/bot/S7zd1VQUVp7z6NKpwF5iY) - Paste an X Article link and get the full piece read aloud as a video. community.
 - [Article Audio](https://x.ai/bot/zBuR546KeAs5X0iwlXkxt) - Turns articles into listen-friendly audio outlines. harrisdev.
@@ -199,6 +200,7 @@ Back to [README](../../README.md)
 - [QA Reviewer](https://x.ai/bot/PKcdf81kbXjeMUGqOcwJt) - A second set of eyes that checks your posts, videos, articles, decks and other final drafts before they go public, and returns a pass or fix list. [bigkabe_](https://x.com/bigkabe_).
 - [Quick Wins Hunter](https://x.ai/bot/3DxcsWM7WiqsIrWHlH3AS) - Weekly\: finds keywords one push from page 1 and pages that rank but lose the click, then stages title and content fixes for your approval. [SEOmatic](https://x.com/seomatic_ai).
 - [Reel ➡️ 𝕏](https://x.ai/bot/ydje9SAP_d0lIHxOdu2_j) - Paste an Instagram, TikTok or YouTube Shorts link and get back an X-ready MP4 plus a copyable post draft that credits the creator. [Phillip](https://x.com/Phil_Holland).
+- [Reel Rocket](https://x.ai/bot/dHiqX_e8nM_EtwPxIwZ6t) - Playful movie maker that turns your ideas into finished short films with Grok Imagine\: storyboard first, then shots, music and a final MP4. [Nikki](https://x.com/LeeLuTails).
 - [ReelForge](https://x.ai/bot/BfLelUIFr88x0JLkNwewO) - Trend-grounded content engine for creators and small brands\: ideas, hooks, scripts, captions, shot lists and posting plans for TikTok, Reels and Shorts. [Thuong](https://x.com/teeRex247).
 - [Release Manager](https://x.ai/bot/2kuWBEj2AX1Bs4bHD5e17) - Helps independent and AI-assisted musicians release songs\: YouTube lyric videos and Shorts, DistroKid uploads, Spotify pitches and free promotion. [Paul](https://x.com/PaulHPowell13).
 - [Reply Guy](https://x.ai/bot/okn7PkNuUnjILecyESuRn) - Drafts X replies to your mutuals and picks viral posts to quote, all in your own voice. Netrovert.

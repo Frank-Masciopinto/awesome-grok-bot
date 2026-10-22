@@ -114955,6 +114955,161 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-21",
+      "shelf": "aka"
+    },
+    {
+      "slug": "akapen-bot",
+      "name": "akapen bot",
+      "author": {
+        "name": "まさお",
+        "url": "https://x.com/AI_masaou"
+      },
+      "summary": "Red-pen teacher bot: before building, shows one proposal as an HTML review sheet and waits for your corrections. For UI layouts, design calls and long edits.",
+      "summary_zh": "「赤笔老师」bot：动手前先把一个方案做成 HTML 确认表给你看，拿到你的回答和修改再继续。适合对齐 UI 布局、设计方针和长文批改。",
+      "import": "https://x.ai/bot/Afsn2TQt9PTy8v1LFhtXb",
+      "category": "teams-handoffs",
+      "tags": [
+        "akapen"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "personal-assistant",
+      "name": "Personal Assistant",
+      "author": {
+        "name": "Autodiag",
+        "url": "https://x.com/bigRD73"
+      },
+      "summary": "Warm, practical life assistant for habits, daily schedule, spending, sleep, job hunting and weekly planning. Drafts anything going to other people first.",
+      "summary_zh": "温和务实的生活助理：管习惯、日程、开销、睡眠、求职和每周计划。要发给别人的内容一律先起草给你看。",
+      "import": "https://x.ai/bot/X4vnqnPvBooeuNtRiWJNT",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "health",
+        "finance",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "aka"
+    },
+    {
+      "slug": "app-replicator",
+      "name": "APP REPLICATOR",
+      "author": {
+        "name": "Brian",
+        "url": "https://x.com/BrianRoemmele"
+      },
+      "summary": "Rebuilds the one feature you actually use from an app you own, clean-room, on a free or low-cost stack, and tells you when a rebuild isn't worth it.",
+      "summary_zh": "把你自己拥有的某个 App 里你真正在用的那一个功能，用免费或低成本技术栈净室重写；不值得重做时会直说。",
+      "import": "https://x.ai/bot/EIaKiBO_5k6RITsM47150",
+      "category": "coding-shipping",
+      "tags": [
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-ui-customizer-extension-builder",
+      "name": "X UI Customizer Extension Builder",
+      "author": {
+        "name": "iq_over_90000",
+        "url": "https://x.com/iq_over_90000"
+      },
+      "summary": "Builds Firefox or Chrome extensions that change how X looks, such as hiding names, avatars, metrics, ads or sidebars.",
+      "summary_zh": "为 Firefox 或 Chrome 做扩展，改变 X 的界面，比如隐藏名字、头像、数据、广告或侧边栏。",
+      "import": "https://x.ai/bot/Hzt86maVk2i-IUNiYy1uV",
+      "category": "coding-shipping",
+      "tags": [
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "reel-rocket",
+      "name": "Reel Rocket",
+      "author": {
+        "name": "Nikki",
+        "url": "https://x.com/LeeLuTails"
+      },
+      "summary": "Playful movie maker that turns your ideas into finished short films with Grok Imagine: storyboard first, then shots, music and a final MP4.",
+      "summary_zh": "好玩的电影制作 bot：用 Grok Imagine 把你的点子做成完整短片，先出分镜，再出镜头、配乐和最终 MP4。",
+      "import": "https://x.ai/bot/dHiqX_e8nM_EtwPxIwZ6t",
+      "category": "content-publishing",
+      "tags": [
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "storage-rescue-bot",
+      "name": "Storage Rescue Bot",
+      "author": {
+        "name": "PixelRainbow",
+        "url": "https://x.com/PixelRainbowNFT"
+      },
+      "summary": "Frees disk space on the computer running Grok Bot: surveys read-only, then moves files to an external drive (SHA-256 checked) or clears caches as you approve.",
+      "summary_zh": "为装了 Grok Bot 的电脑腾空间：先只读盘点，再在你逐组批准后把文件移到外接硬盘（SHA-256 校验）或清理缓存。",
+      "import": "https://x.ai/bot/jjoEfC1AKbHinHoqitP50",
+      "category": "personal-admin",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "art-project-planner",
+      "name": "Art project planner",
+      "author": {
+        "name": "Rachel",
+        "url": "https://x.com/RachelVT42"
+      },
+      "summary": "Helps visual artists turn an idea into a clear brief, concept images, a materials list and a launch plan.",
+      "summary_zh": "帮视觉艺术家把一个想法变成清晰的创作简报、概念图、材料清单和发布计划。",
+      "import": "https://x.ai/bot/s_a2LRrtZd2sHDIFr0te0",
+      "category": "content-publishing",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "hey-grok-guide",
+      "name": "Hey Grok Guide",
+      "author": {
+        "name": "Ari",
+        "url": "https://x.com/GmePassenger"
+      },
+      "summary": "Your Tesla's Grok, explained: which voice commands work, what each update added, and whether your car qualifies. Unofficial, can't see or control your car.",
+      "summary_zh": "讲清楚你 Tesla 上的 Grok：哪些语音指令有用、每次更新加了什么、你的车是否支持。非官方，看不到也控制不了你的车。",
+      "import": "https://x.ai/bot/Ue_z6G0iaJt1VvhYoxmbA",
+      "category": "personal-admin",
+      "tags": [
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
       "shelf": "raw"
     }
   ]
