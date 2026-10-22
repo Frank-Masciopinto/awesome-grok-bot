@@ -115111,6 +115111,351 @@
       "verified": false,
       "updated": "2026-10-22",
       "shelf": "raw"
+    },
+    {
+      "slug": "linkedin-hook-writer",
+      "name": "LinkedIn Hook Writer",
+      "author": {
+        "name": "Dilini"
+      },
+      "summary": "Writes scroll-stopping LinkedIn post hooks for founders and B2B creators, using data-backed hook principles and a real-facts-only rule.",
+      "summary_zh": "为创始人和 B2B 创作者写让人停下滑动的 LinkedIn 开头，依据有数据支撑的开头原则，只用真实事实。",
+      "import": "https://x.ai/bot/5LgoQsKj1oOn67nX_j4Wy",
+      "category": "content-publishing",
+      "tags": [
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "don-bot-corleone",
+      "name": "Don Bot Corleone",
+      "author": {
+        "name": "AdamDesigns"
+      },
+      "summary": "Sends your work to top Claude and OpenAI models through your own Claude Code and Codex subscription logins, not paid API keys, and can compare models.",
+      "summary_zh": "用你自己的 Claude Code 和 Codex 订阅登录（不用付费 API key）把活派给顶级 Claude 和 OpenAI 模型并带回结果，还能并排比较模型。",
+      "import": "https://x.ai/bot/OI2Q6w1ZObbpFbazhrFvC",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "ai-news"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "onboarding-bot",
+      "name": "Onboarding Bot",
+      "author": {
+        "name": "Matthew"
+      },
+      "summary": "Gets new hires up to speed: builds a knowledge file from your onboarding docs, tracks each hire's checklist and drafts a timed welcome email series.",
+      "summary_zh": "让新员工快速上手：用入职文档建知识文件，跟踪每位新人的清单，起草定时欢迎邮件序列等你批准，每周核对资料来源。",
+      "import": "https://x.ai/bot/WrmRe9wC4ydNS7tqIkTjQ",
+      "category": "teams-handoffs",
+      "tags": [
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "family-book-bot",
+      "name": "Family Book Bot",
+      "author": {
+        "name": "Skybatan",
+        "url": "https://x.com/SkyXFunNext"
+      },
+      "summary": "Keeps your family's yearly income and expense book in Google Sheets or Excel Online, logging every receipt from photos or order emails, in any language.",
+      "summary_zh": "在 Google Sheets 或 Excel Online 里记家庭年度收支账，从照片或订单邮件里录入每张收据，支持任何语言。",
+      "import": "https://x.ai/bot/_rnDP1x7YK-rTY5f1Y3_O",
+      "category": "finance-ops",
+      "tags": [
+        "email",
+        "family",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "archivist-2",
+      "name": "Archivist",
+      "author": {
+        "name": "Phillip"
+      },
+      "summary": "Keeps one long-term record of your projects and decisions as plain Markdown notes in a private GitHub repo, so you and your AI assistants keep context.",
+      "summary_zh": "把你的项目和决策长期记录成私有 GitHub 仓库里的纯 Markdown 笔记，让你和其他 AI 助手都不丢上下文。",
+      "import": "https://x.ai/bot/aNe4vWL9LYsnFY72STSY5",
+      "category": "teams-handoffs",
+      "tags": [
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "aka"
+    },
+    {
+      "slug": "tavern-dm",
+      "name": "Tavern DM",
+      "author": {
+        "name": "Chef"
+      },
+      "summary": "Tabletop RPG with a DM bot, Cast bots for NPCs and enemies and a Party bot for AI heroes; you play your own hero. Solo by default, multiplayer optional.",
+      "summary_zh": "桌面角色扮演游戏：DM bot 主持，Cast bot 扮演 NPC 和敌人，Party bot 扮演 AI 队友，你扮演自己的英雄。默认单人，可选多人。",
+      "import": "https://x.ai/bot/g8PfMW94P5hOCBOXXEeSj",
+      "category": "personal-admin",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "postwright",
+      "name": "Postwright",
+      "author": {
+        "name": "Calix"
+      },
+      "summary": "Turns your week of real work into ready-to-post X drafts in your own voice, with sources, assets and suggested times. Draft-only: you hit post.",
+      "summary_zh": "把你一周的真实工作变成用你自己口吻写的 X 草稿，附来源、素材和建议发布时间。只起草，发帖由你按。",
+      "import": "https://x.ai/bot/h-oDlchOpuh6GYjGgK6oV",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "chief-of-staff-kit",
+      "name": "Chief of Staff Kit",
+      "author": {
+        "name": "Dennis"
+      },
+      "summary": "One front door for your bot org: routes work to specialist bots, tracks open items and never acts externally without your approval.",
+      "summary_zh": "你的 bot 组织的统一前台：把工作派给专职 bot，跟踪未结事项，未经你批准绝不对外行动。",
+      "import": "https://x.ai/bot/lgNmuYSTX9tRPjnKNxIS0",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "studio-door"
+    },
+    {
+      "slug": "stenographer-2",
+      "name": "Stenographer",
+      "author": {
+        "name": "Andy"
+      },
+      "summary": "Keeps a light word-for-word text log of everything your Grok Bots and group chats say, plus each bot's instructions, so your setup can be rebuilt.",
+      "summary_zh": "给你所有 Grok Bot 和群聊的发言留一份轻量逐字文本记录，连同每个 bot 的指令，便于在另一个账号里重建整套配置。",
+      "import": "https://x.ai/bot/oj6_65zDgvR6ldzJiRx97",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "aka"
+    },
+    {
+      "slug": "streamer-calvin",
+      "name": "Streamer Calvin",
+      "author": {
+        "name": "Falcon"
+      },
+      "summary": "Supervised live-stream co-producer for X Live, Twitch, YouTube and Kick: helps set up OBS, reads and moderates chat, and drafts replies you approve.",
+      "summary_zh": "受你监督的直播副导播，支持 X Live、Twitch、YouTube 和 Kick：帮你设置 OBS，读弹幕、做管理，并起草回复等你批准。",
+      "import": "https://x.ai/bot/wnBf1QOmxcGTKQe6zCtaw",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "news-bias-meter",
+      "name": "News Bias Meter",
+      "author": {
+        "name": "Denton",
+        "url": "https://x.com/C_CapturesAI"
+      },
+      "summary": "Scores news headlines and articles for objectivity on a 1-5 scale, quoting the exact words behind each score, with an optional daily digest of your sources.",
+      "summary_zh": "按 1–5 分给新闻标题和文章的客观性打分，并引用每个分数背后的原话；也可每天推送你常看来源的摘要。",
+      "import": "https://x.ai/bot/xu6OomS7QCV9t9mjgEGMu",
+      "category": "research-briefings",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "youtube-strategy-professor",
+      "name": "YouTube Strategy Professor",
+      "author": {
+        "name": "Abdullah",
+        "url": "https://x.com/stratbyabdullah"
+      },
+      "summary": "YouTube strategy tutor: tracks official updates and top strategists daily, sends a sourced digest on packaging, retention, monetization and a daily experiment.",
+      "summary_zh": "YouTube 策略导师：每天研究官方更新和头部策略师，发来带出处的摘要，涵盖包装、留存、变现，外加一个每日实验。",
+      "import": "https://x.ai/bot/FWt2FMtlFfACgHC809qmz",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "research",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "launchpad",
+      "name": "Launchpad",
+      "author": {
+        "name": "Fellipe",
+        "url": "https://x.com/soareso"
+      },
+      "summary": "App store manager that sets up and maintains your mobile apps on the App Store and Google Play, from first listing to production release.",
+      "summary_zh": "应用商店管家：在 App Store 和 Google Play 上为你的移动应用完成从首次上架到正式发布的设置和维护。",
+      "import": "https://x.ai/bot/RfT_MNcUK0jrK6pa-lZ79",
+      "category": "coding-shipping",
+      "tags": [
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "opsec",
+      "name": "OPSEC",
+      "author": {
+        "name": "Jason",
+        "url": "https://x.com/bigjsilva"
+      },
+      "summary": "Defensive security bot for small businesses and solo devs: inventories apps, repos, deploys and domains, and reports leaked secrets and misconfigs with fixes.",
+      "summary_zh": "给小企业主和独立开发者的防御型安全 bot：盘点应用、仓库、部署和域名，排查泄露的密钥和错误配置，定期用大白话报告并给出具体修法。",
+      "import": "https://x.ai/bot/dVA3KrJ80o-MfPl8Wqh_G",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "rule-manager",
+      "name": "Rule Manager",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/Michael35715972"
+      },
+      "summary": "Shows the rules and standing instructions your agents follow and where each came from, flagging conflicts, stale rules and holds that spread. Read-only.",
+      "summary_zh": "列出你的 agent 遵循的规则和常驻指令及其来源，标出冲突、过时规则和波及其他工作的暂停指令。只读。",
+      "import": "https://x.ai/bot/zryJsdYfIEEJUY2MU-R6N",
+      "category": "teams-handoffs",
+      "tags": [
+        "rule",
+        "manager"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "phone-caller",
+      "name": "Phone Caller",
+      "author": {
+        "name": "Walter",
+        "url": "https://x.com/adamson"
+      },
+      "summary": "Makes real phone calls for you in a natural AI voice, in any language: book a table, check hours, pass on a message. Bring your own Telnyx number and xAI key.",
+      "summary_zh": "用自然的 AI 语音替你打真实电话，任何语言都行：订位、问营业时间、转达消息。无需订阅，自带 Telnyx 号码和 xAI key，按用量付费。",
+      "import": "https://x.ai/bot/v9RZSxBXeZnMp_3hvlXad",
+      "category": "personal-admin",
+      "tags": [
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "school-mail-watch",
+      "name": "School Mail Watch",
+      "author": {
+        "name": "Walter",
+        "url": "https://x.com/adamson"
+      },
+      "summary": "For parents: reads your email for school messages, lists what's needed and when, adds dates to your calendar and sends one short daily summary. Read-only.",
+      "summary_zh": "给忙碌的家长：读取邮箱里来自孩子学校的邮件，列出要准备的东西和期限，把日期加进日历，每天发一份简短摘要。只读，不发也不删。",
+      "import": "https://x.ai/bot/S72cBf66t4v4xLl3YFqAm",
+      "category": "personal-admin",
+      "tags": [
+        "email",
+        "calendar",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
+    },
+    {
+      "slug": "security-watch",
+      "name": "Security Watch",
+      "author": {
+        "name": "emre",
+        "url": "https://x.com/emrecolakoglu"
+      },
+      "summary": "Watches your GitHub repos and Vercel projects for newly disclosed vulnerabilities and supply-chain attacks, and reports what actually affects you with fixes.",
+      "summary_zh": "盯着你的 GitHub 仓库和 Vercel 项目，留意新披露的漏洞和供应链攻击，只报告真正影响你的部分并给出具体修复方法。默认只扫描和报告。",
+      "import": "https://x.ai/bot/3ig7Hs_LtjrFA-x8elQLR",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-22",
+      "shelf": "raw"
     }
   ]
 }

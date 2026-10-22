@@ -154,6 +154,7 @@
 - [LaunchBot](https://x.ai/bot/b3yeJkrslF4MWu1LUuyTE) - 帮创始人在 X 上发布产品：研究同类发布，打磨发布帖和素材，再跟踪互动和讨论. [Paul Vann](https://x.com/pjvann).
 - [Lienzo](https://x.ai/bot/Czc1kCepdYnisFnRWfDKr) - Grok Bot 的设计资源收件箱：丢个链接就在 design-resources 下存一条 markdown 笔记，之后随时调出你的资源库. [Franco](https://x.com/FrancoE114696).
 - [LinkedIn Agent](https://x.ai/bot/2jelZnGWnAlhmvHFZOp1N) - LinkedIn 代笔和人脉助手：找你领域里有出处的选题，用你的口吻起草帖子和外联消息. [ryanthawks](https://x.com/ryanthawks).
+- [LinkedIn Hook Writer](https://x.ai/bot/5LgoQsKj1oOn67nX_j4Wy) - 为创始人和 B2B 创作者写让人停下滑动的 LinkedIn 开头，依据有数据支撑的开头原则，只用真实事实。 Dilini.
 - [Linkedin Post Writer](https://x.ai/bot/1mbVjnfwK-2uJY34N_4Dd) - 从你的工作里提炼有用见解，写成 LinkedIn 帖子. ar33b.
 - [Linkfo.me Bot](https://x.ai/bot/XkyuX648dekpInVtBr44n) - 用你的链接和简介、以你的口吻搭一个免费的 Linkfo 页面，由 agent 打理而不是一张静态列表. [Linkfo_me](https://x.com/Linkfo_me).
 - [Listing Auditor](https://x.ai/bot/WgIRS7s6lOKFJKb0xaj_M) - 贴上你的 bot 上架标题和描述，按诚实规则检查，告诉你能不能发布. Sean.
@@ -191,6 +192,7 @@
 - [Photomosaic](https://x.ai/bot/dYpPe1PCZv2WJDVTYDwhc) - 用参考帖和背景、主视觉素材在 Figma 里做 3 联 X 拼图，按需出可直接导出的图. Matt.
 - [Podcast Clipper for X](https://x.ai/bot/9Lqx9JK4j4sGUwPBr2O2w) - 把播客和 YouTube 节目剪成 8–12 个方形带字幕片段，每个配 3–5 条你口吻的 X 草稿. [Wayne](https://x.com/wayneb).
 - [Portrait Studio](https://x.ai/bot/-NDVAQNQYsBhnoE50Q5rO) - 按每个 Grok Bot 实际在做的事，给它画一张圆润的 3D 搪胶玩具头像. [0xPraxLannister](https://x.com/0xPraxLannister).
+- [Postwright](https://x.ai/bot/h-oDlchOpuh6GYjGgK6oV) - 把你一周的真实工作变成用你自己口吻写的 X 草稿，附来源、素材和建议发布时间。只起草，发帖由你按。 Calix.
 - [Producer](https://x.ai/bot/eNCu6dmGVCAR-DSYWT57j) - 短竖屏创意总监：选题、写带停滑钩子的脚本，并指导动效。 [KhoaHun68916646](https://x.com/KhoaHun68916646).
 - [Product Clip](https://x.ai/bot/RQ68eyPi1KbclOwSAJgoY) - 把真实产品照片做成用于电商平台和社交媒体的短带货视频. [dataespresso](https://x.com/dataespresso).
 - [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - 给你的 X 账号打健康分：风险提示、安全与限流检查、信息流调优和清理垃圾关注. community.
@@ -229,6 +231,7 @@
 - [Sprite Bot](https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ) - 把照片或文字描述做成带走跑跳攻击动画的 2D 游戏角色，可导出给 Unity、Godot 或 GIF. [Wayne](https://x.com/wikiwayne).
 - [Star Reply](https://x.ai/bot/SxlztEUtDeUXOiP26dyDb) - 给餐厅、诊所、沙龙、商店和健身房老板以及替他们回评的助理写评价回复. Sol.
 - [Story Studio](https://x.ai/bot/aYnmKNgxX9Dcmr51AGvoD) - 把一个简单的故事变成动画短片、绘本、动态图文帖和有旁白的幻灯片，每一步都等你确认. [roginnnn](https://x.com/roginnnn).
+- [Streamer Calvin](https://x.ai/bot/wnBf1QOmxcGTKQe6zCtaw) - 受你监督的直播副导播，支持 X Live、Twitch、YouTube 和 Kick：帮你设置 OBS，读弹幕、做管理，并起草回复等你批准。 Falcon.
 - [Sunday Desk](https://x.ai/bot/kGgTu8Ubg8mqg3LWvttfs) - 支持 Sleeper、ESPN 和 Yahoo 的梦幻橄榄球经理：每周按你联赛的计分规则给出明确的首发、捡人和交易建议. [penguinspecz](https://x.com/penguinspecz).
 - [Suno & Imagine Creator](https://x.ai/bot/aY7oZvOOoyKs3FQvlleEt) - 创作搭档：写歌词、Suno 风格提示词，以及 Grok Imagine 的图片和视频提示词. [Michael94288471](https://x.com/Michael94288471).
 - [Suno Producer](https://x.ai/bot/35rhm2R_3m9FZ-iSU19pM) - Suno 音乐制作助手：写风格提示词和分段歌词，提出歌曲点子，并整理你的曲库。 [Bigpoppamike](https://x.com/Bigpoppamike2).
@@ -616,6 +619,7 @@
 - [YouTube Episode Launch Prep](https://x.ai/bot/7yZBZ7mRlO3wdK2Nzemm5) - 为播客或访谈集做高信任 YouTube 上线包，三标题变体、缩略图概念与描述. [Bill](https://x.com/ProbateWeekly).
 - [YouTube Field Producer](https://x.ai/bot/Nf0M-LgnNsLDvtvAKnASf) - 规划 YouTube 拍摄、写 SEO 标题并检查公开上传与 Shorts. [RetiredYoungNW](https://x.com/RetiredYoungNW).
 - [YouTube Soft-PASS Ops](https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8) - 先私密包装 YouTube 音乐发行，你点头才公开，并准备分发与一条 Short。 [EricChez](https://x.com/EricChez).
+- [YouTube Strategy Professor](https://x.ai/bot/FWt2FMtlFfACgHC809qmz) - YouTube 策略导师：每天研究官方更新和头部策略师，发来带出处的摘要，涵盖包装、留存、变现，外加一个每日实验。 [Abdullah](https://x.com/stratbyabdullah).
 - [YouTube Title & Description Writer](https://x.ai/bot/3XJW8dmWURQqR6KqXper8) - 把视频逐字稿变成三个标题备选、一段简介和对得上时间的章节，全部等你审过再用. [Draggen75](https://x.com/Draggen75).
 - [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) - 在 Apple Silicon 上用 yue2-mlx 生成歌曲（非商业）。 [monomyth](https://x.com/monomyth).
 - [Zillow Bot](https://x.ai/bot/y4iQpd9VSjs_h8FCPF5Up) - 找业主直租的公寓、联排与独栋，过滤中介盘并按条件筛. [DylanRavin82531](https://x.com/DylanRavin82531).

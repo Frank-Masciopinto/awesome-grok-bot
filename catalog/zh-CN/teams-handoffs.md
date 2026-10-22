@@ -14,6 +14,7 @@
 - [Andrej Karpathy-style](https://x.ai/bot/MxgOLBbOpSBsrnYcUulNh) - 用 Karpathy 的思路运行你的 AI 智能体，挑战每个结果，在你睡觉时继续构建. [Codila](https://x.com/0xCodila).
 - [Apple Mac Tools](https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1) - 仅限 Mac 的安装器：装好经过测试的 Mac 命令行工具，让你的 Grok Bot 能用 Apple 自带应用. [Kevin](https://x.com/Kevin_Logan).
 - [ArchiveFirst](https://x.ai/bot/fdRVVbCmfplCynhOpa-3k) - 在任何整理、刷新或标记删除之前，先给你的账号或 bot 历史做一份带哈希校验的完整副本. [AdventureNLearn](https://x.com/AdventureNLearn).
+- [Archivist](https://x.ai/bot/aNe4vWL9LYsnFY72STSY5) - 把你的项目和决策长期记录成私有 GitHub 仓库里的纯 Markdown 笔记，让你和其他 AI 助手都不丢上下文。 Phillip.
 - [Articulation Intelligence](https://x.ai/bot/mQUvX6PxUItMsH5rF2B7N) - 把你的碎碎念、语音倾倒和半成形的想法整理成别人能看懂、能行动的清晰结构. [Christian](https://x.com/MeechYourGoals).
 - [Baba](https://x.ai/bot/ZMV5G-lqKqWoirt8rq8ws) - 给管理 bot 团队的创始人的先知和唱反调者：压力测试重大决定，防止内容重复. [Vikash](https://x.com/VikashSparxIT).
 - [Backup Bot](https://x.ai/bot/G3Du-G9_8zTwynr6sl9Z2) - 每晚把你 bot 的电脑备份到 Google Drive 或 OneDrive，每周测试一次恢复，重置也不会丢工作. [Andres](https://x.com/AndresRuggiero3).
@@ -53,6 +54,7 @@
 - [Chief of Staff](https://x.ai/bot/fdmLOOrmXV6cyEhmiVrBd) - 做你唯一的前门：接收所有请求，用 SendToAgent 转给合适的经理 bot，并跟踪在办的事. [HamzaDincer](https://x.com/HamzaDincer).
 - [Chief of Staff](https://x.ai/bot/rkFvRR2Gj3mC4AAcMQBWU) - 统管你专职 bot 团队的总管：分派请求、转达你的批准、维护一份共享交接日志. [Mike](https://x.com/Windrunner_24).
 - [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) - 一个总协调带六个助手，分管项目、人际、健康、抗衰、社交日程和知识库，每早汇成一份简报，未经确认不发出任何东西. [sravanjay](https://x.com/sravanjay).
+- [Chief of Staff Kit](https://x.ai/bot/lgNmuYSTX9tRPjnKNxIS0) - 你的 bot 组织的统一前台：把工作派给专职 bot，跟踪未结事项，未经你批准绝不对外行动。 Dennis.
 - [Close Loop](https://x.ai/bot/ZHSf2xajDZF6vZGyRC8eP) - 记下每个 bot 的承诺和悬而未决的问题，找出卡点，推动逐项关闭. Kris.
 - [Coach](https://x.ai/bot/9DlKDN0KwSAiTVNutnRcv) - 用突击考试和严格查证的评分，逼你的其他 bot 在各自领域做到顶尖. [Anthony](https://x.com/TheRealUgLife).
 - [Collaboration Bot](https://x.ai/bot/SVz86tYbkiggizWQ_9vca) - 通过共享仓库把你的 Bot 团队和别人的 Bot 团队连起来协作项目，带用量预算、授权确认和安全检查. [realMattAbrams](https://x.com/realMattAbrams).
@@ -126,6 +128,7 @@
 - [Oink](https://x.ai/bot/QFHWSWYeRqHph-Qv4g1ZT) - Everything Bots 的地面指挥：粉红猪玩偶管看板、点出下一步，帮你摆脱卡住。 Ξ.
 - [Ollie the HR Bot](https://x.ai/bot/pz2KNFvlJq8JtR6GgtPVs) - bot 团队太大时用的 HR bot：设计并制作动态头像资料，统一命名和标签，负责新 bot 入职。 [Jesse](https://x.com/jessenowlin).
 - [Omni CEO](https://x.ai/bot/LtKQ2mkbts-OL-rIhOl_w) - 自动驾驶的 CEO：把你的点子或产品变成一家自己运转的公司，替你招募和管理一支 AI bot 团队. [eng_khairallah1](https://x.com/eng_khairallah1).
+- [Onboarding Bot](https://x.ai/bot/WrmRe9wC4ydNS7tqIkTjQ) - 让新员工快速上手：用入职文档建知识文件，跟踪每位新人的清单，起草定时欢迎邮件序列等你批准，每周核对资料来源。 Matthew.
 - [Operations Assistant](https://x.ai/bot/5sAshhzeYa0wLEpAXne2Z) - 给任何团队或组织的专职运营助手：让清单、日程、请求和报告保持有序、准确、准时。 [DJW](https://x.com/dan103fd).
 - [Opti](https://x.ai/bot/Bbicf1cUXx_eWVuiBw0KM) - 盯着你的 bot 和 AI 工具如何消耗共享额度，每周发一份简报建议保留、精简或砍掉什么. [Kenneth](https://x.com/KGitpro).
 - [Orchestrator — Your AI Front Door](https://x.ai/bot/gNyxnXEv2hYNzFqoaSvLT) - 工作台体系的前门：你只跟一个 bot 说话，它把工作分给各个专职工作台，跟踪进度，统一汇报. [NewsGurus](https://x.com/NewsGurus).
@@ -146,6 +149,7 @@
 - [Quota](https://x.ai/bot/ylCdqzarTvkUP7a-CD8s7) - 跟踪你的 Grok Bot、例程和编码 CLI 烧掉多少额度和钱，每天一个看板，附可操作的提醒. [franklinjavier](https://x.com/franklinjavier).
 - [Radovid](https://x.ai/bot/JzHMH4sxHC2IGktj0M49m) - 调度一支小型 agent 团队的幕僚长，只把校准过的成果交给你. [samuel_riccardi](https://x.com/samuel_riccardi).
 - [Relay Bot](https://x.ai/bot/bfNhGosCb-fnoRAhYN9ub) - 你和另一个 Grok Bot 账号上的一位伙伴之间的私密双向消息中转. [quigleyBits](https://x.com/quigleyBits).
+- [Rule Manager](https://x.ai/bot/zryJsdYfIEEJUY2MU-R6N) - 列出你的 agent 遵循的规则和常驻指令及其来源，标出冲突、过时规则和波及其他工作的暂停指令。只读。 [Michael](https://x.com/Michael35715972).
 - [Scam Bot](https://x.ai/bot/TK3jh27fy9qZGcxRktI16) - 找出 X 上冒充你的账号，分批稳妥地举报，也帮你判断可疑消息. [Wife](https://x.com/WifeDirtyTesla).
 - [Scam Email Detector](https://x.ai/bot/E3_qOY1VUJWZMh2inUvwT) - 盯你的收件箱，在你上当前提醒钓鱼和诈骗邮件，平时不打扰. [Dirty](https://x.com/dcostaverage).
 - [Scribot](https://x.ai/bot/TRPaZaxuJ2lz60P7SbQfc) - WhatsApp 群的秘书：发会议提醒、发公告、写会议纪要，并帮社团追踪会费. [ISSAH](https://x.com/the_real_issah).
@@ -160,6 +164,7 @@
 - [SOP转bot](https://x.ai/bot/B40ra70WUsNK7GCP1gUKL) - 把中文 SOP 或流程文档变成能自动运行的 bot 和定时任务：拆解步骤、区分自动与人工确认、生成规则并试跑核对. [阿言](https://x.com/yan179539549809).
 - [Spar Crew Lead](https://x.ai/bot/KeKKabNV-HE-iYv8u7JDZ) - 给创业者的副驾，带专职 bot 小队走调研、收窄范围、上线. Jonathan.
 - [Stenographer](https://x.ai/bot/Kzm-c9sdsLGWs81gJe2x2) - 把你和所有 Grok Bot 的对话记进轻量加密的只追加日志，并附一份重建包，可用来备份或整体迁移. SimonPuzey.
+- [Stenographer](https://x.ai/bot/oj6_65zDgvR6ldzJiRx97) - 给你所有 Grok Bot 和群聊的发言留一份轻量逐字文本记录，连同每个 bot 的指令，便于在另一个账号里重建整套配置。 Andy.
 - [Super Intelligence Bot](https://x.ai/bot/zVgZS00x5Z8LDDwsAMKl_) - Bot 团队的质检员，其他 Bot 在交付前把成果发给它，它核对计算、风险和合规后把修改意见发回去. [Danny](https://x.com/dannybuck).
 - [TAO](https://x.ai/bot/aCAskvkaRv6bFIF3ZRY6a) - 粘贴你准备交给 AI 智能体的任务，得到更清晰可执行的版本，它只优化需求，不代你执行. [Andy](https://x.com/yandymccutcheon).
 - [Team Builder](https://x.ai/bot/_hUA_ffNkp9msYqqHWE6b) - 把你的 Grok Bot 组织成项目团队：先访谈你，起草名单让你确认，每个角色建一个 bot，并搭好团队聊天室。 [Jack](https://x.com/OchlosWorlds).

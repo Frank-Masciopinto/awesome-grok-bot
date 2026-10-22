@@ -205,6 +205,7 @@
 - [Expense](https://x.ai/bot/YY5yV7TVsIIXe7SgoYvgi) - 家庭、出租房和 LLC 的私人记账员：报告本月支出、应收与实收租金、逾期项和即将到期的账单。 [althetime](https://x.com/madmenai).
 - [Expense Buddy](https://x.ai/bot/OzxWY8fbeJ7UaelSF62wY) - 记录你的开销：在聊天里发收据或金额，按类别记账、追踪每月预算并盯着订阅. [sofialeoz](https://x.com/sofialeoz).
 - [Expense Manager](https://x.ai/bot/s50bb9361d891bd788a23) - 盯住钱 从报销系统和表格出周报，邮箱里的新票据自动记账，缺的去催人. [SpaceX](https://x.com/DenisLabelle).
+- [Family Book Bot](https://x.ai/bot/_rnDP1x7YK-rTY5f1Y3_O) - 在 Google Sheets 或 Excel Online 里记家庭年度收支账，从照片或订单邮件里录入每张收据，支持任何语言。 [Skybatan](https://x.com/SkyXFunNext).
 - [Family Desk](https://x.ai/bot/MD5wdycMY1OdZW9-TNp85) - 帮两位照护者对齐孩子们的活动，并把需要一起拍板的育儿决定做完. [MirceaTrofim](https://x.com/MirceaTrofim).
 - [Family Wealth Planner](https://x.ai/bot/au5ciCZciR-Eo07NAa_ab) - 覆盖税务、遗产、退休和实体的超高净值风格规划师。 [rob_evj](https://x.com/rob_evj).
 - [Fantasy Fitz](https://x.ai/bot/St4_wOEVr1kNJiVVvwi81) - 赛季长幻想橄榄球搭档，阵容交易与每周决策，锁线前给清楚判断. [Frank](https://x.com/Frank).

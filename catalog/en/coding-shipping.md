@@ -200,6 +200,7 @@ Back to [README](../../README.md)
 - [Docs Auditor](https://x.ai/bot/s1025e1ebe0b11f048bd4) - Diffs the help center and internal notes against what actually shipped, flags stale pages, and drafts the fix. [SpaceX](https://x.com/DenisLabelle).
 - [Domain Hunter](https://x.ai/bot/J-9TG44LFHNvJQijaW_ub) - Finds real-word domain names that are still open \(like .si under $100\), checks them at real registrars, and sends back a ranked report. [ziwenxu_](https://x.com/ziwenxu_).
 - [Domain Scout](https://x.ai/bot/J4vRgDCnJcK5EaUUlP-FR) - Finds brand-new domain names across .com, .ai, .io, .si, other country codes and newer endings, confirms they're free at the registry. [Kyle](https://x.com/GrokmasElf).
+- [Don Bot Corleone](https://x.ai/bot/OI2Q6w1ZObbpFbazhrFvC) - Sends your work to top Claude and OpenAI models through your own Claude Code and Codex subscription logins, not paid API keys, and can compare models. AdamDesigns.
 - [dr buzz](https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp) - A bot that builds other bots, each scoped to one job and one voice. [Talalakkari](https://x.com/Talalakkari).
 - [Dr Disk Clean](https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO) - Surveys a crowded Linux box and never deletes until you name the path. [old_pgmrs_will](https://x.com/old_pgmrs_will).
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) - A bot that builds other Grok bots for you. [Lauren](https://x.com/poteto). Notes: [templates/dr-eggbot](../../templates/dr-eggbot/).
@@ -378,6 +379,7 @@ Back to [README](../../README.md)
 - [Kubernetes Hardener](https://x.ai/bot/IVmcj7aFV-wtMA19P3G4Q) - Audits your GitHub repos' Kubernetes manifests, Helm charts, and kustomize files for risky defaults and returns exact YAML fixes. Ritvik.
 - [Kun](https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE) - Principal engineer bot continuously updated with Kun Chen posts videos and open source. [kunchenguid](https://x.com/kunchenguid).
 - [Last Stop](https://x.ai/bot/3k6PxNav782x0cEE3iD7P) - Keeps a public atlas of Grok bots and files each new find as a skill. [FantomBuildz](https://x.com/FantomBuildz).
+- [Launchpad](https://x.ai/bot/RfT_MNcUK0jrK6pa-lZ79) - App store manager that sets up and maintains your mobile apps on the App Store and Google Play, from first listing to production release. [Fellipe](https://x.com/soareso).
 - [Lauren Tan](https://x.ai/bot/4KAElqS6FCSb73vLXZ14S) - Poteto-mode thinking partner for engineering and agent workflows that goes deep first, ships less but better code, and proves it works. [Saad](https://x.com/saadkamal).
 - [Lean Chief of Staff](https://x.ai/bot/LyOQ5fUSLM_z3gIiktpkP) - A chief-of-staff bot that runs a team of Grok Bots on a tight weekly quota. [SigurdJorsalfar](https://x.com/SigurdJorsalfar).
 - [Lean Lead Bot](https://x.ai/bot/xQbNgBdjjo1o2bCQNxbp7) - A lead bot that runs your other bots and coding agents fast and cheap\: it ranks before reading, keeps tool output tiny. [207_studio](https://x.com/207_studio).
@@ -450,6 +452,7 @@ Back to [README](../../README.md)
 - [Omnipresence](https://x.ai/bot/HsqCRD8q_eZII9ewRNkpm) - Discovers and maps your Wi-Fi, network devices, software, hardware and connected services read-only, learns what each can safely do. [@suddenlyjon](https://x.com/SuddenlyJon).
 - [On-set ingest bot](https://x.ai/bot/Mpk0GQurVy7idutEgKKUF) - Media offload and ingest via chat while you are still on set. [usaps](https://x.com/usaps).
 - [Ops](https://x.ai/bot/T_OxP_C_2AbW68oUIqzch) - Keeps a fleet of AI assistants healthy. Audits routines, handoffs, skills, rooms and each bot's purpose, fixes what's safe. [jason_bennitt](https://x.com/jason_bennitt).
+- [OPSEC](https://x.ai/bot/dVA3KrJ80o-MfPl8Wqh_G) - Defensive security bot for small businesses and solo devs\: inventories apps, repos, deploys and domains, and reports leaked secrets and misconfigs with fixes. [Jason](https://x.com/bigjsilva).
 - [OpticalKernel](https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv) - Computes a labeled numeric kernel between two vectors, capped at eight modes. [krisadipap](https://x.com/krisadipap).
 - [Optima](https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy) - Clears obsolete rules and instructions still stuck in your other bots' memory. [TOATspace](https://x.com/TOATspace).
 - [Optima](https://x.ai/bot/ppARM1W-tWcae_wryLH1z) - Erases old unused lines and files so new workflows do not mix with leftover rules. [TOATspace](https://x.com/TOATspace).
@@ -565,6 +568,7 @@ Back to [README](../../README.md)
 - [Security Bot](https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6) - Scans a GitHub repo from chat via Midkernel and returns a report plus full log. [mdashjames](https://x.com/mdashjames).
 - [Security Questionnaire Filler](https://x.ai/bot/s1bde25ba45eca88ff276) - Logs into vendor security portals, pulls answers from your trust center and past RFPs, and drafts every field for review. [SpaceX](https://x.com/DenisLabelle).
 - [Security Warden](https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6) - Gates another bot's risky moves like outbound messages, deletions, and shell, checking for secrets and personal data before they run. [Mayur](https://x.com/myrrazor).
+- [Security Watch](https://x.ai/bot/3ig7Hs_LtjrFA-x8elQLR) - Watches your GitHub repos and Vercel projects for newly disclosed vulnerabilities and supply-chain attacks, and reports what actually affects you with fixes. [emre](https://x.com/emrecolakoglu).
 - [Send Chad Money](https://x.ai/bot/VslQPtPjI2tgGsskQOhYP) - Ideas to get perfect strangers to send you money. Chad.
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) - A repair desk for the other Grok bots you run. [SpaceGarbage202](https://x.com/SpaceGarbage202).
 - [Sentinel](https://x.ai/bot/N5O7tWV0-A750rFT9P_BH) - An auditor for your bots\: before a skill, connector, routine, memory or code enters or changes a bot, it reads it without running it and says go or no-go. [hyperXhope](https://x.com/hyperXhope).

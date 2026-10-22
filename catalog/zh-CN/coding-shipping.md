@@ -200,6 +200,7 @@
 - [Docs Auditor](https://x.ai/bot/s1025e1ebe0b11f048bd4) - 揪出跟产品脱节的文档 拿帮助中心和内部笔记比上周发了什么，标出过期页并起草修订. [SpaceX](https://x.com/DenisLabelle).
 - [Domain Hunter](https://x.ai/bot/J-9TG44LFHNvJQijaW_ub) - 找还没被注册的真实单词域名（比如 100 美元以内的 .si），在正规注册商核实后发回排序报告. [ziwenxu_](https://x.com/ziwenxu_).
 - [Domain Scout](https://x.ai/bot/J4vRgDCnJcK5EaUUlP-FR) - 在 .com、.ai、.io、.si 等国家后缀和新后缀中寻找全新域名，并在注册局确认可注册. [Kyle](https://x.com/GrokmasElf).
+- [Don Bot Corleone](https://x.ai/bot/OI2Q6w1ZObbpFbazhrFvC) - 用你自己的 Claude Code 和 Codex 订阅登录（不用付费 API key）把活派给顶级 Claude 和 OpenAI 模型并带回结果，还能并排比较模型。 AdamDesigns.
 - [dr buzz](https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp) - 帮你造其他 Bot，每个只干一件事并有固定语气。 [Talalakkari](https://x.com/Talalakkari).
 - [Dr Disk Clean](https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO) - 先盘点拥挤的 Linux 机器，你点名路径才删。 [old_pgmrs_will](https://x.com/old_pgmrs_will).
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) - 替你搭建其他 Grok Bot。 [Lauren](https://x.com/poteto). 说明: [templates/dr-eggbot](../../templates/dr-eggbot/).
@@ -378,6 +379,7 @@
 - [Kubernetes Hardener](https://x.ai/bot/IVmcj7aFV-wtMA19P3G4Q) - 审查 GitHub 仓库里的 Kubernetes 清单、Helm chart 和 kustomize 文件的危险默认值，给出精确 YAML 修复. Ritvik.
 - [Kun](https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE) - 持续更新的首席工程师助手，汇总 Kun 的帖子视频与开源内容. [kunchenguid](https://x.com/kunchenguid).
 - [Last Stop](https://x.ai/bot/3k6PxNav782x0cEE3iD7P) - 维护公开的 Grok Bot 地图，并把新发现沉淀成技能. [FantomBuildz](https://x.com/FantomBuildz).
+- [Launchpad](https://x.ai/bot/RfT_MNcUK0jrK6pa-lZ79) - 应用商店管家：在 App Store 和 Google Play 上为你的移动应用完成从首次上架到正式发布的设置和维护。 [Fellipe](https://x.com/soareso).
 - [Lauren Tan](https://x.ai/bot/4KAElqS6FCSb73vLXZ14S) - Poteto 风格的工程与智能体工作流思考伙伴，先想透再动手，少写但写好，并证明能跑. [Saad](https://x.com/saadkamal).
 - [Lean Chief of Staff](https://x.ai/bot/LyOQ5fUSLM_z3gIiktpkP) - 在每周额度很紧的情况下运营一支 Grok Bot 团队的幕僚长机器人. [SigurdJorsalfar](https://x.com/SigurdJorsalfar).
 - [Lean Lead Bot](https://x.ai/bot/xQbNgBdjjo1o2bCQNxbp7) - 带头机器人：又快又省地调度其他机器人与编码 agent，先排序再细读，压工具输出。 [207_studio](https://x.com/207_studio).
@@ -450,6 +452,7 @@
 - [Omnipresence](https://x.ai/bot/HsqCRD8q_eZII9ewRNkpm) - 只读地发现并梳理你的 Wi-Fi、网络设备、软硬件和已连接服务，弄清每样东西能安全做什么. [@suddenlyjon](https://x.com/SuddenlyJon).
 - [On-set ingest bot](https://x.ai/bot/Mpk0GQurVy7idutEgKKUF) - 还在片场时，用聊天把素材卸载与入库走完。 [usaps](https://x.com/usaps).
 - [Ops](https://x.ai/bot/T_OxP_C_2AbW68oUIqzch) - 让一队 AI 助手保持健康：审查例程、交接、技能、房间和每个机器人的定位，安全的问题直接修. [jason_bennitt](https://x.com/jason_bennitt).
+- [OPSEC](https://x.ai/bot/dVA3KrJ80o-MfPl8Wqh_G) - 给小企业主和独立开发者的防御型安全 bot：盘点应用、仓库、部署和域名，排查泄露的密钥和错误配置，定期用大白话报告并给出具体修法。 [Jason](https://x.com/bigjsilva).
 - [OpticalKernel](https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv) - 在两个向量间算带标签的数值核，最多八个模式，偏演示用途. [krisadipap](https://x.com/krisadipap).
 - [Optima](https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy) - 扫过其它机器人的记忆，挑出过时规则并建议清掉。 [TOATspace](https://x.com/TOATspace).
 - [Optima](https://x.ai/bot/ppARM1W-tWcae_wryLH1z) - 清掉过期无用的行和文件，避免新流程和旧规则搅在一起。 [TOATspace](https://x.com/TOATspace).
@@ -565,6 +568,7 @@
 - [Security Bot](https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6) - 在聊天里用 Midkernel 扫 GitHub 仓库，回报报告和完整日志。 [mdashjames](https://x.com/mdashjames).
 - [Security Questionnaire Filler](https://x.ai/bot/s1bde25ba45eca88ff276) - 快速过供应商安全问卷 登门户、从信任中心和历史标书取答案，逐项填好草稿. [SpaceX](https://x.com/DenisLabelle).
 - [Security Warden](https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6) - 在其他机器人发消息、删东西或跑命令前先审一遍，查有没有泄露密钥和个人信息. [Mayur](https://x.com/myrrazor).
+- [Security Watch](https://x.ai/bot/3ig7Hs_LtjrFA-x8elQLR) - 盯着你的 GitHub 仓库和 Vercel 项目，留意新披露的漏洞和供应链攻击，只报告真正影响你的部分并给出具体修复方法。默认只扫描和报告。 [emre](https://x.com/emrecolakoglu).
 - [Send Chad Money](https://x.ai/bot/VslQPtPjI2tgGsskQOhYP) - 各种让陌生人给你打钱的点子. Chad.
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) - 修理你手头其它 Grok 机器人的维修台. [SpaceGarbage202](https://x.com/SpaceGarbage202).
 - [Sentinel](https://x.ai/bot/N5O7tWV0-A750rFT9P_BH) - 机器人审计员：技能、连接器、例程、记忆或代码进入或改动机器人前，只读不运行，给出明确的放行或否决. [hyperXhope](https://x.com/hyperXhope).

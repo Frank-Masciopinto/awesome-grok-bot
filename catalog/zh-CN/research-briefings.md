@@ -363,6 +363,7 @@
 - [National Dialogue](https://x.ai/bot/ekyJWK5GWu3WcbFzrMBQZ) - 全国对话类简报，把说法与有来源报道分开. Brett.
 - [Neuroscience](https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz) - 神经科学和脑机接口专长。 [monomyth](https://x.com/monomyth).
 - [News](https://x.ai/bot/-Q6NUVktJo7EBMLb9Y3xw) - 全球新闻与市场简报，跟踪预测与长期趋势，带来源的国际覆盖. [dfer2dfer](https://x.com/dfer2dfer).
+- [News Bias Meter](https://x.ai/bot/xu6OomS7QCV9t9mjgEGMu) - 按 1–5 分给新闻标题和文章的客观性打分，并引用每个分数背后的原话；也可每天推送你常看来源的摘要。 [Denton](https://x.com/C_CapturesAI).
 - [News Brief](https://x.ai/bot/8VRND3bWXULRzcYZfl3iP) - 一周仍站得住的新闻摘要，并做虚假信息核对. [scientists_blog](https://x.com/scientists_blog).
 - [News Feed](https://x.ai/bot/ERa5jibQitS0Q9xDpEpeL) - 盯你选定的 X 账号和 RSS 源，每 15 分钟发一份去重新闻摘要，全程只读. [Av1dlive](https://x.com/Av1dlive).
 - [News Honestly](https://x.ai/bot/vKZRklu07uF34Ut9XzMxt) - 给每条热点标题两侧善意解读，并搭一座桥. [BrianRoemmele](https://x.com/BrianRoemmele).

@@ -1045,6 +1045,7 @@ Back to [README](../../README.md)
 - [Phone Bot](https://x.ai/bot/uvdl2ZJyNekgZv_niJKY-) - Makes phone calls and sends texts for you through Bland AI. Confirms every call and every payment with you first. [GrokBotRadar](https://x.com/GrokBotRadar).
 - [Phone Call Bot](https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj) - Linked to a JooVoice number, places calls for you\: booking appointments, chasing refunds, cancelling bookings, asking shops for quotes. [JooVoice](https://x.com/JooVoice).
 - [Phone Call Expert](https://x.ai/bot/klUNCIuB1VMh6ERrVISN5) - Helps you handle phone calls\: finds the right number, writes scripts, preps you for interviews, and can place calls for you through Bland AI. [Heidi](https://x.com/HeidiBriones).
+- [Phone Caller](https://x.ai/bot/v9RZSxBXeZnMp_3hvlXad) - Makes real phone calls for you in a natural AI voice, in any language\: book a table, check hours, pass on a message. Bring your own Telnyx number and xAI key. [Walter](https://x.com/adamson).
 - [Photo Curator](https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z) - Picks keepers from a raw photo folder and applies light edits for review. [jaharris13](https://x.com/jaharris13).
 - [Photo Paige](https://x.ai/bot/qye6GiC4AqhUjhGewdxUM) - Goes through your Apple Photos library and helps you build albums or delete what you do not need, with less camera-roll clutter. [Frank](https://x.com/FrankFindsOut).
 - [Photo Stylist](https://x.ai/bot/cXNeUZ2jpSYhXH91uqBNT) - Style critique and restyle ideas from one full-length photo, ending with a shopping list. [OliverRCote](https://x.com/OliverRCote).
@@ -1197,6 +1198,7 @@ Back to [README](../../README.md)
 - [School Assistant](https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa) - One weekday email covering grades, upcoming work, and what is truly late. [kerrychalpin](https://x.com/kerrychalpin).
 - [School Companion](https://x.ai/bot/fnebLkY08y2GCer768ukp) - Tracks a Mackenzie AVA semester\: assignments, lectures, mail. [Zulian](https://x.com/Zulian).
 - [School Grades Reporter](https://x.ai/bot/kolMkVGzNL0Kzs-Cm5B6b) - Checks your student's grades in the school portal \(like Focus through Clever\) every school day and emails a plain-text report. [SpaceGarbage202](https://x.com/SpaceGarbage202).
+- [School Mail Watch](https://x.ai/bot/S72cBf66t4v4xLl3YFqAm) - For parents\: reads your email for school messages, lists what's needed and when, adds dates to your calendar and sends one short daily summary. Read-only. [Walter](https://x.com/adamson).
 - [School Study Ops](https://x.ai/bot/AS6uhZDipBQVtOyQdASUX) - Parent bot for one student\: read-only Classroom digests, official grades, and interactive HTML study quizzes from posted materials. Wes.
 - [SchoolAdminBot](https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G) - Homeschool office for any US state. Walks the legal process and admits each child. Tanner.
 - [Scope Cop](https://x.ai/bot/D_VGPLc2zfU9WBMrAcHZO) - Locks renovation scope must/later/cut before money moves. [yandymccutcheon](https://x.com/yandymccutcheon).
@@ -1324,6 +1326,7 @@ Back to [README](../../README.md)
 - [Tangiers](https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ) - Casino-floor calm Ace Rothstein vibes that runs the room, not the noise. [x402agent](https://x.com/x402agent).
 - [Tape Bot](https://x.ai/bot/l4oe6CObIVQLANlBxZEla) - Set up routines on your favorite podcasts or YouTube channels that cut ads, add chapters, keep show notes and original chapters/art, and publish to a... [David](https://x.com/David).
 - [Tasks](https://x.ai/bot/BcK_tur9AvL1GiGDk3yVg) - Your single daily check-in board\: To-Do | Proposed | Upcoming | Recently Completed. Weekdays lean work; weekends lean personal. Lane bots hand short. [natenords](https://x.com/natenords).
+- [Tavern DM](https://x.ai/bot/g8PfMW94P5hOCBOXXEeSj) - Tabletop RPG with a DM bot, Cast bots for NPCs and enemies and a Party bot for AI heroes; you play your own hero. Solo by default, multiplayer optional. Chef.
 - [Teacher Assistant](https://x.ai/bot/9ROKfVRFdxI-5N0oYObEr) - Handles repetitive student emails, grade sync and Canvas busywork so teachers only make judgment calls. Lucas.
 - [TeacherBot](https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W) - Homeschool teacher for one child after SchoolAdminBot admits them. Tanner.
 - [Team Manager Desk](https://x.ai/bot/qMs0pvInutE6iKaiPuTPN) - Your private team manager's desk for one season\: roster, schedule, and league rules as pasted, practice plans, and fair game-day rotations. [DoonerDesigns_](https://x.com/DoonerDesigns_).

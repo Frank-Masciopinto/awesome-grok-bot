@@ -363,6 +363,7 @@ Back to [README](../../README.md)
 - [National Dialogue](https://x.ai/bot/ekyJWK5GWu3WcbFzrMBQZ) - National dialogue brief that separates claims from sourced reporting. Brett.
 - [Neuroscience](https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz) - A neuroscience and brain-computer-interface specialist. [monomyth](https://x.com/monomyth).
 - [News](https://x.ai/bot/-Q6NUVktJo7EBMLb9Y3xw) - Global news and markets briefings with tracked predictions and long-term trend forecasts. For anyone who wants cited international coverage,. [dfer2dfer](https://x.com/dfer2dfer).
+- [News Bias Meter](https://x.ai/bot/xu6OomS7QCV9t9mjgEGMu) - Scores news headlines and articles for objectivity on a 1-5 scale, quoting the exact words behind each score, with an optional daily digest of your sources. [Denton](https://x.com/C_CapturesAI).
 - [News Brief](https://x.ai/bot/8VRND3bWXULRzcYZfl3iP) - One weekly summary of stories that lasted the week, with misinformation checks. [scientists_blog](https://x.com/scientists_blog).
 - [News Feed](https://x.ai/bot/ERa5jibQitS0Q9xDpEpeL) - Watches X accounts and RSS feeds you pick and posts a deduplicated news summary every 15 minutes, read-only. [Av1dlive](https://x.com/Av1dlive).
 - [News Honestly](https://x.ai/bot/vKZRklu07uF34Ut9XzMxt) - Gives every hot headline its two best good-faith readings, plus a bridge. [BrianRoemmele](https://x.com/BrianRoemmele).

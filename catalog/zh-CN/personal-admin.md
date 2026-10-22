@@ -1045,6 +1045,7 @@
 - [Phone Bot](https://x.ai/bot/uvdl2ZJyNekgZv_niJKY-) - 通过 Bland AI 替你打电话、发短信；每通电话、每笔付款都先跟你确认. [GrokBotRadar](https://x.com/GrokBotRadar).
 - [Phone Call Bot](https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj) - 接上 JooVoice 号码后替你打电话：约时间、催退款、取消预订、问店铺报价. [JooVoice](https://x.com/JooVoice).
 - [Phone Call Expert](https://x.ai/bot/klUNCIuB1VMh6ERrVISN5) - 帮你处理电话：找到正确号码、写话术、为面试做准备，还能通过 Bland AI 替你拨打. [Heidi](https://x.com/HeidiBriones).
+- [Phone Caller](https://x.ai/bot/v9RZSxBXeZnMp_3hvlXad) - 用自然的 AI 语音替你打真实电话，任何语言都行：订位、问营业时间、转达消息。无需订阅，自带 Telnyx 号码和 xAI key，按用量付费。 [Walter](https://x.com/adamson).
 - [Photo Curator](https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z) - 从一堆原片里挑出值得留的，再做一点轻修给你确认。 [jaharris13](https://x.com/jaharris13).
 - [Photo Paige](https://x.ai/bot/qye6GiC4AqhUjhGewdxUM) - 梳理 Apple 照片库，帮你建相册或删掉不需要的内容，减少相机胶卷杂乱. [Frank](https://x.com/FrankFindsOut).
 - [Photo Stylist](https://x.ai/bot/cXNeUZ2jpSYhXH91uqBNT) - 根据一张全身照做穿搭点评与改款建议，并给出购物清单. [OliverRCote](https://x.com/OliverRCote).
@@ -1197,6 +1198,7 @@
 - [School Assistant](https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa) - 工作日发一封邮件，汇总成绩、待办和真正逾期的作业。 [kerrychalpin](https://x.com/kerrychalpin).
 - [School Companion](https://x.ai/bot/fnebLkY08y2GCer768ukp) - 跟踪 Mackenzie AVA 学期，作业、讲座、邮件。 [Zulian](https://x.com/Zulian).
 - [School Grades Reporter](https://x.ai/bot/kolMkVGzNL0Kzs-Cm5B6b) - 每个上学日在学校门户（比如通过 Clever 进入的 Focus）查孩子的成绩，发一封纯文本报告邮件. [SpaceGarbage202](https://x.com/SpaceGarbage202).
+- [School Mail Watch](https://x.ai/bot/S72cBf66t4v4xLl3YFqAm) - 给忙碌的家长：读取邮箱里来自孩子学校的邮件，列出要准备的东西和期限，把日期加进日历，每天发一份简短摘要。只读，不发也不删。 [Walter](https://x.com/adamson).
 - [School Study Ops](https://x.ai/bot/AS6uhZDipBQVtOyQdASUX) - 给一个学生配的家长 bot：只读 Classroom 摘要、官方成绩，用发布的资料出互动 HTML 小测. Wes.
 - [SchoolAdminBot](https://x.ai/bot/_0VVd5uJhvxRX0M8Srr9G) - 按美国各州现行法规办家庭学校手续并给每个孩子办入学。 Tanner.
 - [Scope Cop](https://x.ai/bot/D_VGPLc2zfU9WBMrAcHZO) - 在钱动之前锁定装修范围，必须／以后／砍掉。 [yandymccutcheon](https://x.com/yandymccutcheon).
@@ -1324,6 +1326,7 @@
 - [Tangiers](https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ) - 赌场楼面那种冷静，管场面不管噪音。 [x402agent](https://x.com/x402agent).
 - [Tape Bot](https://x.ai/bot/l4oe6CObIVQLANlBxZEla) - 给播客或 YouTube 设例行，去广告、加章节并保留原笔记与封面. [David](https://x.com/David).
 - [Tasks](https://x.ai/bot/BcK_tur9AvL1GiGDk3yVg) - 单一每日看板，待办、提议、即将到来与最近完成，工作日偏工作周末偏生活. [natenords](https://x.com/natenords).
+- [Tavern DM](https://x.ai/bot/g8PfMW94P5hOCBOXXEeSj) - 桌面角色扮演游戏：DM bot 主持，Cast bot 扮演 NPC 和敌人，Party bot 扮演 AI 队友，你扮演自己的英雄。默认单人，可选多人。 Chef.
 - [Teacher Assistant](https://x.ai/bot/9ROKfVRFdxI-5N0oYObEr) - 包揽重复的学生邮件、成绩同步和 Canvas 杂务，老师只需做判断. Lucas.
 - [TeacherBot](https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W) - 孩子办入学后给这一人写学年计划并执行教学。 Tanner.
 - [Team Manager Desk](https://x.ai/bot/qMs0pvInutE6iKaiPuTPN) - 一季球队经理私人台：名单、赛程与联赛规则原文、训练计划与公平轮换。 [DoonerDesigns_](https://x.com/DoonerDesigns_).
