@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **189**.
+Generated from [catalog.json](../catalog.json). Count: **190**.
 
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
@@ -95,6 +95,7 @@ Generated from [catalog.json](../catalog.json). Count: **189**.
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) - Household chief of staff that keeps the family's helper bots in step.
 - [hans zimmer](https://x.ai/bot/tlMpwlAUeDm1kVvjsMxa8) - An A2A orchestrator that runs a team of agents or a paper-trading hedge-fund desk.
 - [Head of Growth](https://x.ai/bot/_l8tAONAOSZ-wU-Quresz) - Chief of staff for self-serve growth. Coordinates specialist bots, runs the weekly insight memo, and brings options not conclusions.
+- [Helper](https://x.ai/bot/oAHCYwNih8IKbGKKnAU9M) - Quarterback and chief of staff for people who run several bots\: sends each task to the bot that owns it and keeps an evidence-backed task board.
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) - Grizzled chief of staff who delegates across your bots and only pulls you in for real decisions.
 - [Herdr Conductor](https://x.ai/bot/p3Gjgv7MbQlkl6bTdsNhM) - Orchestrates coding agents through the herdr CLI for long, heavy build sessions.
 - [Hiring Floor](https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN) - You are Hiring Floor, grokbot.studio door + installer. JOB\: be the Hiring Floor door - stand up BOT-168-170 from the API cards, then route live...

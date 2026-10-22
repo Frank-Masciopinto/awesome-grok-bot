@@ -112,6 +112,7 @@
 - [Class Action Finder](https://x.ai/bot/3Tf_Vk_UR3JJb6Dq3hioZ) - 查找你可以申领的加拿大和魁北克集体诉讼和解。 [rob_an_](https://x.com/rob_an_).
 - [ClauseBot](https://x.ai/bot/L_Jo-M00K98MdB1xrSYSi) - 粘贴条款或日常合同，标出骗局、陷阱与隐形费用。 [Dominicyoungix](https://x.com/Dominicyoungix).
 - [clawd](https://x.ai/bot/KZEcx_uMDR-zJIXLlYw5I) - Solana 上 Pump.fun 交易 bot，用目标连到 clawd-ws 实时流. [clawddevs](https://x.com/clawddevs).
+- [Clean Slate](https://x.ai/bot/vY1eft-dZTKssiaUQvJEc) - 帮你获取免费信用报告，找出催收、错误和过期条目，并起草给三大征信机构的 FCRA 异议信。 [Brian](https://x.com/BrianRoemmele).
 - [Clippy Shopper](https://x.ai/bot/Z56l38GYvaZtYIgjhDl6-) - 结账前自动找优惠码，免费，带联盟佣金. Matt.
 - [Close Captain](https://x.ai/bot/Xh-upYcyPJE3ozRscZbHL) - 月末结账自跑，从 D-2 到 D+5 管结账日历并雇财务小队. unknown.
 - [Cloud Spend Desk](https://x.ai/bot/TAzgDpkrgwiVaFjaSbCe6) - 只读只报告：找出主机和云账单里的浪费，比如闲置项目、过大的套餐、没用的域名和账单突增. [Av1dlive](https://x.com/Av1dlive).
@@ -144,6 +145,7 @@
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - 告诉你这笔该刷哪张卡，积分和权益才最大。 [trevin](https://x.com/trevin).
 - [Credit Card Max](https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt) - 告诉你哪张信用卡刷这笔最划算，积分、返现和权益拉满. community.
 - [Credit file correction specialist](https://x.ai/bot/NhXL-jFdpzywbzSbSrsnO) - 审阅你的 Equifax、Experian 和 TransUnion 信用报告，对你想更正的条目发起申诉，并把每次回复记进台账. [nbayoungdork](https://x.com/nbayoungdork).
+- [Credit Freeze Keeper](https://x.ai/bot/TnX_wRTr85bRhCfao1xiy) - 带你在三大征信机构冻结信用，规划解冻和重新冻结，并标出你不认识的查询记录。 [T1000](https://x.com/teeRex247).
 - [Credit Repair](https://x.ai/bot/ZaRviWPxBNPvq5p302zLb) - 帮你调取信用报告、找出错误、起草异议信，并规划怎么提高信用分. fuzzy.
 - [Credit Reports](https://x.ai/bot/gZ0uuJdy7v4QJ-5JkI4E-) - 拉取你的 Experian、Equifax 和 TransUnion 信用报告，标出错误和身份盗用，在线提交能提交的异议. [Yossi](https://x.com/josephstayhappy).
 - [CreditCards](https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN) - 把你所有信用卡记成一本账：余额、还款日、权益和优惠，标出疑似重复扣款，把年费和优惠截止日放进日历. [Kong](https://x.com/TeslaTranslated).
@@ -288,6 +290,7 @@
 - [Kiwi Pocket](https://x.ai/bot/TBDkrl21y6qX-wk5G107W) - 用你自己的 Akahu 个人凭证，只读查看新西兰银行账户。 Daimen.
 - [Labor Drift Catcher](https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd) - 对照排班与打卡下班时间，抓住工时漂移，减少加班意外. [Myke](https://x.com/myke86d).
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) - 十万软顶的Mag8落后股袖仓，对美股巨头排名并挑最落后的一只做研究与执行. [SachivM99](https://x.com/SachivM99).
+- [Late Delivery Refund Desk](https://x.ai/bot/c4iPua1eVHtYPzgLeZnQG) - 从账单里找出延误的 FedEx 和 UPS 限时件，在截止前起草每份退款申请。由你提交，它从不代办。 [T1000](https://x.com/teeRex247).
 - [Law Bot](https://x.ai/bot/EQgLIMO5Q_sVk3IM9EQbZ) - 德州律所运营助手，覆盖家事民事刑事与遗产，草稿标 SAMPLE，须律师审签. [JoshuaRCook](https://x.com/JoshuaRCook).
 - [Leak Ledger](https://x.ai/bot/H2568vK9f4ZO_zlRgidOw) - 从邮件里找出被遗忘的订阅和账单漏洞，起草取消或议价消息，记录追回的钱，不会自动发送. [Aydin](https://x.com/aydin_ayanzadeh).
 - [Lease Finder](https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1) - 全国找当前汽车租赁优惠，盯对标价折扣最深的。 [dannymacias](https://x.com/dannymacias).
@@ -340,6 +343,7 @@
 - [News Bot](https://x.ai/bot/q4oVF0beUcMxwVZzHz_Nl) - 资讯简报助手. community.
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) - 增长团队的 PLG 数字台，回答时给出数字、定义、来源查询与限制，只读不瞎估。 [JaySahnan](https://x.com/JaySahnan).
 - [Octavius](https://x.ai/bot/20uVcNTF4_l3n1ZTTk-UB) - 资讯简报助手. community.
+- [Open Enrollment Comp](https://x.ai/bot/zzltcOxztGiMzbJ250xC5) - 上传你或配偶雇主、ACA 市场或 Medicare 的开放投保材料，得到清晰、有计算依据的保险方案对比。 [Ramp](https://x.com/RampCapitalLLC).
 - [Operator](https://x.ai/bot/VRju--X8VRlzTySAh-WTd) - 小生意的沉稳运营，让一天的事照常推进，只把需要你拍板的决定带给你. [Mark Cassara](https://x.com/markcassara).
 - [Ops Knowledge Observer](https://x.ai/bot/CIgxhKdiPj7KflehWkaEr) - 只读的公司大脑，整队机器人都能查阅. [StephenRuhe](https://x.com/StephenRuhe).
 - [Options Desk Chief](https://x.ai/bot/v-wtDQ7dpFXNzd1P9Hz9a) - 私人期权交易台：每个工作日用期货、波动率、财报和风控检查筛选点子，再给你完整的交易方案. [martin_pestak](https://x.com/martin_pestak).
@@ -514,6 +518,7 @@
 - [Tax Helper](https://x.ai/bot/NoYZ1JRm8YRDuIKRgCNlc) - 个人报税助手：帮你准备报税、跟踪扣除项和收据、按时缴纳预估税，并解答税务问题. [Digital](https://x.com/DigitalDaisyX).
 - [Tax Pro](https://x.ai/bot/4JYyLn77nDW4T06beD6zl) - 专家级个人报税助手：引用实际法条、展示计算过程、找出漏掉的节税项，并预估退税或应缴税额. [Zack](https://x.com/zac70182).
 - [Tax Return](https://x.ai/bot/PkfuqRPuckq_Y4Df2i4Ck) - 整理报税材料、标出缺什么，带着你在 TurboTax 里填完报税表（或打包交给会计师），由你审核. [MyPerfectGoatee](https://x.com/MyPerfectGoatee).
+- [Tax Return Second Look](https://x.ai/bot/EpshNndIEvCkf5nAG_EAY) - 上传去年的报税表，它按表格和行号找出漏掉的抵扣、税收抵免和退税，从不替你提交。 [T1000](https://x.com/teeRex247).
 - [TaxPilot](https://x.ai/bot/noGnZSrrYsQWIQjhTKX7I) - 围绕「TaxPilot」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Taxx](https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK) - 估算 2025 和 2026 年美国联邦所得税，不当 CPA。 [RyanGBsystems](https://x.com/RyanGBsystems).
 - [TeemTape](https://x.ai/bot/9eRmhgjSdrIlHfW_ZXfl3) - 用 TeemTape 研究股票和行业：延迟行情、代码对比、选股扫描和匿名自选股笔记. [awsexp](https://x.com/awsexp).

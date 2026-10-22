@@ -12,6 +12,7 @@ Back to [README](../../README.md)
 - [AEO/SEO Bot](https://x.ai/bot/Jyx1Lg-VzYgyjDc-y-GQi) - Weekday pipeline that picks, lays out, and grades search-visibility pages. [eddiearc6](https://x.com/eddiearc6).
 - [After I Post](https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN) - Follows each X post after publication, surfaces the people and ideas worth acting on, and preserves evidence that improves what happens next. Asks... [hnshah](https://x.com/hnshah).
 - [Afterglow](https://x.ai/bot/0pfVoOQLOV4O8Ujlk27x8) - Daily X post-game\: each morning it charts how your posts did and tells you what worked, data only, no drafting. [Nick](https://x.com/thecsguy).
+- [Agency Pilot](https://x.ai/bot/ZSu98od4TaQFG4-2gpAVf) - Gives your bots an agency team\: SEO posts, social posts, client reports, GA4 insights, competitor research and content calendars. [Lola](https://x.com/LadySoleil33).
 - [Agent 37](https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw) - A coding-and-strategy bot for when the standard answer isn't enough. It writes down what the experts would do, pulls a mechanism from a distant field,. [the_Arow_H](https://x.com/the_Arow_H).
 - [AI Copywriter](https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka) - Writes blogs, landing pages, emails, ads, social posts, and campaign briefs in Dan Koe's voice. Every draft goes through Humanizer. Not for video scripts. Jeroen.
 - [AI Film School](https://x.ai/bot/CGzI6msqOzVVmfCp5cIDL) - A hands-on, 15-lesson course from first Grok Imagine clip to finished short film. community.
@@ -26,6 +27,7 @@ Back to [README](../../README.md)
 - [Amazon Affiliate Video Maker](https://x.ai/bot/WWH3tIZcTTiOxlYnbG-i-) - Makes short-form Amazon affiliate videos and stills for you\: it picks a trending product with a live listing, writes the script. [CryptoBandit100](https://x.com/CryptoBandit100).
 - [AMV Desk](https://x.ai/bot/CDEMagEwXls_3Aw3iTHCk) - Hybrid AMV studio desk from paper to review link. [littletechbird](https://x.com/littletechbird).
 - [Animated Story Maker](https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O) - Turns a story idea, theme, or character photos into a short 3D animated story with Grok Imagine prompts per episode. [karatademada](https://x.com/karatademada).
+- [Aperture](https://x.ai/bot/EkEnSuWp9ITE-X3T6UODT) - Image and short-video generator that learns your brand colors and favorite art styles, then turns briefs into posts, thumbnails and covers. [Auny](https://x.com/AunySillyMe).
 - [App Store Creative](https://x.ai/bot/D5sZiu0LI4a0Iy8b6ijxV) - Packages app screenshots into store-ready creative briefs. ctab.
 - [Archer](https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w) - Manages a bot crew that keeps an online product catalogue current. [dukezone](https://x.com/dukezone).
 - [Argonaut](https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A) - Finds sibling #argonaut threads on X and appends one line to a branching multiverse epic. [BW](https://x.com/open_brady).
@@ -74,6 +76,7 @@ Back to [README](../../README.md)
 - [Character Reference Sheet](https://x.ai/bot/QYL4wlIxzVr5tBpzZLCo0) - Turns one character image into a locked reference sheet and scene prompts that keep the character consistent across any image model. [RiddleSphere](https://x.com/RiddleSphere).
 - [Claims Checker](https://x.ai/bot/6ORk8r6auKoPkyGW6q_uN) - Paste a draft post, title or pitch and it marks each claim as sourced, shaky, or needs a cite before you publish. [prorookiegamer](https://x.com/prorookiegamer).
 - [Claudia](https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM) - Make Claudia content \(stills, clips, songs, music videos\) with the open AI popstar from claudia.gallery. [anabology](https://x.com/anabology).
+- [Claudia Video Launcher](https://x.ai/bot/E8eKUWvmlMGVafa5lKvD7) - Open it and it creates a fresh Claudia music-video bot loaded with production rules, then walks you through 22 setup questions. [chuckkay](https://x.com/TheRealChuckyK).
 - [CleanText](https://x.ai/bot/Bz7NPA38GwTUNZNuy6Fgb) - Finds hidden invisible characters such as zero-width spaces and direction marks in pasted text, screenshots, or files, and returns a report plus a clean copy. [Carolina](https://x.com/CarolinaDill).
 - [Clip Bot](https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_) - Finds the best moments in a long recording and cuts them into short captioned clips. community.
 - [Clip Bot](https://x.ai/bot/6MmRZHFXNkFjwZZn9b3bv) - Cuts cinematic, captioned 16\:9 clips from podcasts and talks, with word-for-word synced captions and draft posts that tag guests naturally. [Darragh](https://x.com/darrxgh).
@@ -87,6 +90,7 @@ Back to [README](../../README.md)
 - [Content Lead](https://x.ai/bot/ii1aRqayk_TpTMIVFEqkF) - A copy lead and art director for your brand\: headlines, posts, captions, site text and image briefs, each self-checked before you see it. [iJen_xYz_RgB](https://x.com/iJen_xYz_RgB).
 - [Content Mod](https://x.ai/bot/vyaYfy9EGxn9j6781LGWx) - Checks your X drafts against Auny's \(@AunySillyMe\) X content playbook with scores, top fixes, and a rewrite in your voice. [AunySillyMe](https://x.com/AunySillyMe).
 - [Content Planner](https://x.ai/bot/65wGaCazNY1t1K3I4oFy0) - Plans what to write and what to update from your own Search Console data, then writes a brief for each piece. [SEOmatic](https://x.com/seomatic_ai).
+- [Convert Bot](https://x.ai/bot/O77giEZSfcdxq30tfFFM1) - Converts video and audio files, reframes videos to vertical or square for social, trims and compresses clips, and pulls audio out. [brflux](https://x.com/brflux).
 - [Copy](https://x.ai/bot/tFwQlKDGzy2rXcUaGyKjg) - For marketers and founders who need conversion copy across pages, email, social, SMS, and creative. Pranav.
 - [Copy Editor](https://x.ai/bot/YloFf7LEAy3GwFmXbu5vv) - Paste any draft for X, LinkedIn, Facebook, or email and get back clean, paste-ready text, a short list of fixes. [ArtJazd](https://x.com/ArtJazd).
 - [Course Builder](https://x.ai/bot/L8GuDR4th92W3XWqhKIku) - Builds clean, spacious course materials for any instructor and subject\: syllabi, worksheets, answer keys, study sheets, lesson plans, and lecture decks. [roger](https://x.com/roger_jgs404040).
@@ -126,6 +130,7 @@ Back to [README](../../README.md)
 - [Folklore Still](https://x.ai/bot/UGcotHqa2ABtMzfcMmR0Q) - Makes faceless illustrated folklore videos\: picks a genre, writes the story, locks one art look, narrates with your SpaceXAI voice key. [xerith_darkmind](https://x.com/xerith_darkmind).
 - [Gallery Builder](https://x.ai/bot/IQhq5x44hzXhcthp-YEhT) - Turns your photos into a public website where they form a shape, like a heart or a state outline. [realjohnnewburg](https://x.com/realjohnnewburg).
 - [Gen Saver Hermes](https://x.ai/bot/UfcXTzGb6_OH8ekqFlZpF) - A credit-saver generation desk for people who make pictures, video, voice, and long scripts. Odd&Entertaining.
+- [GEO Blog Desk](https://x.ai/bot/Dwtuax-TWdmJTveXTke2C) - Blog desk for founders and marketing teams\: researches what your audience asks and writes posts that rank in Google and get cited by AI answer engines. [Rananjay](https://x.com/Rananjay_RajW).
 - [Global Clip](https://x.ai/bot/YJ7J_oFXTeMuMVhTHOmsL) - Send a short video and language; get AI voiceover, burned-in subs, and an X caption. Joshua.
 - [gnome stylist](https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8) - Returns exactly one picture per request of a gnome wearing the haircut you describe in words or a photo. [neatobird](https://x.com/neatobird).
 - [Go Direct](https://x.ai/bot/WxcRgxU7YtWNqL7ZIkg3e) - Skip the press. Lulu helps founders tell their story straight to the 50 to 500 people who actually matter\: investors, early customers, future hires. [Landon](https://x.com/LandonH).
@@ -151,6 +156,7 @@ Back to [README](../../README.md)
 - [Linkedin Post Writer](https://x.ai/bot/1mbVjnfwK-2uJY34N_4Dd) - Pulls useful insights from your work and turns them into LinkedIn posts. ar33b.
 - [Linkfo.me Bot](https://x.ai/bot/XkyuX648dekpInVtBr44n) - Sets up a free Linkfo page from your links and bio, in your voice, with an agent instead of a static list. [Linkfo_me](https://x.com/Linkfo_me).
 - [Listing Auditor](https://x.ai/bot/WgIRS7s6lOKFJKb0xaj_M) - Paste your bot listing title and description. Listing Auditor checks them against honesty rules and returns ready-to-publish or not-ready. Sean.
+- [Lyric](https://x.ai/bot/Ch-3aeVlrN5xZbEWG6BUg) - Creative companion for songwriters\: helps write lyrics and Suno prompts, and turns your songs and photos into music videos that look like you. [Mandy](https://x.com/starbasemandy).
 - [Lyric Loop](https://x.ai/bot/vDbfFTnS7RZFXtYjKaTFP) - A song-review bot for lyricists who make music with AI tools like Suno. [Rich](https://x.com/anubis941).
 - [Lyrically](https://x.ai/bot/O2xM44Mc__jdhKHr57izC) - A mastering and audio engineering assistant for people who make music with AI tools. [Auny](https://x.com/AunySillyMe).
 - [Magical Music Video Maker](https://x.ai/bot/I_-3solZeQXm-Pn2_C55A) - Send a song and its lyrics and get back a cinematic music video cut to the beat, with the look and storyline proposed first. [Michael](https://x.com/MichaelGannotti).
@@ -223,6 +229,7 @@ Back to [README](../../README.md)
 - [Story Studio](https://x.ai/bot/aYnmKNgxX9Dcmr51AGvoD) - Turns a simple story into short animated videos, storybooks, motion-graphic posts and narrated slideshows, with an approval step at every stage. [roginnnn](https://x.com/roginnnn).
 - [Sunday Desk](https://x.ai/bot/kGgTu8Ubg8mqg3LWvttfs) - A fantasy football GM for Sleeper, ESPN and Yahoo that gives straight start/sit, waiver and trade calls each week, scored in your league's format. [penguinspecz](https://x.com/penguinspecz).
 - [Suno & Imagine Creator](https://x.ai/bot/aY7oZvOOoyKs3FQvlleEt) - A creative partner that writes song lyrics, Suno style prompts, and Grok Imagine still and video prompts. [Michael94288471](https://x.com/Michael94288471).
+- [Suno Producer](https://x.ai/bot/35rhm2R_3m9FZ-iSU19pM) - Music production assistant for Suno\: writes style prompts and structured lyrics, pitches song ideas and organizes your library. [Bigpoppamike](https://x.com/Bigpoppamike2).
 - [Suno Song Creator](https://x.ai/bot/NP7mZ91wWsTYmjrOKCde5) - Brainstorms song ideas and writes ready-to-paste lyrics, style prompts and titles for Suno. Tim.
 - [Syllabot](https://x.ai/bot/uLaiAPTZzDV7vfptofUov) - Builds and manages your courses inside Kajabi so the platform housekeeping stops eating your week. [Dave](https://x.com/gambrill).
 - [T. S. Eliot](https://x.ai/bot/LjDRYoJZtHs0r3pd-kAY6) - Talk with T. S. Eliot about his poems, plays, criticism, and life, or bring him your own work to collaborate on. [Meleagers_Fire](https://x.com/Meleagers_Fire).
@@ -620,6 +627,7 @@ Back to [README](../../README.md)
 - [ブログからX投稿](https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU) - Splits saved blog posts into X threads by topic and posts them morning and evening; also turns articles or voice notes into posts. [蒼巳](https://x.com/1123momojiro1).
 - [プロフィール動画ボット](https://x.ai/bot/oFDEjFDH8whqVnBXf7Box) - Makes a personal profile video \(9\:16 or 16\:9, narration, music, captions\) from birthday, astrology or MBTI labels, using only Grok and Gemini in a browser. [蒼巳](https://x.com/1123momojiro1).
 - [全平台内容抓取](https://x.ai/bot/G9FfCfIzn4hoPf1888jYi) - Paste one link and get the full public content back, across 17 platforms incl. Douyin, Xiaohongshu, Bilibili, WeChat, YouTube, X and TikTok. [天](https://x.com/kkkkeric_AI).
+- [理解のある彼くん](https://x.ai/bot/gMcsObYU5zQgtGwaxjVmU) - Parody bot playing the too-nice, slightly shady guy from the Japanese net meme 'どしたん話聞こか', agreeing with all your rants in Kansai dialect. [ぐそくむしちゃん](https://x.com/kabupoyo2023).
 - [视频工坊](https://x.ai/bot/tSa26E3PoBOXehxJzglsR) - Analyzes existing videos and makes Chinese-language explainer and product promo videos with Remotion, with its own scoring, synth voice and mixing pipeline. [yang0001](https://x.com/yang0001).
 - [街头教练](https://x.ai/bot/4olj8YlToV_vsMr7MFw04) - A street photography coach\: sets practice drills, critiques your shots, helps recrop and color grade, and finds examples for your camera and lens. [Cola](https://x.com/Davidwuuu92).
 - [评论区 AI 指数 bot](https://x.ai/bot/yrZuVH-bvPPJGqoPcknvI) - Scans every reply in an X comment section and gives each an AI-likelihood badge with reasons; hiding or blocking only happens after you confirm each one. [ny](https://x.com/liushiyumath).

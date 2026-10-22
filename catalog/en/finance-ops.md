@@ -112,6 +112,7 @@ Back to [README](../../README.md)
 - [Class Action Finder](https://x.ai/bot/3Tf_Vk_UR3JJb6Dq3hioZ) - Finds Canadian and Quebec class-action settlements you can claim. [rob_an_](https://x.com/rob_an_).
 - [ClauseBot](https://x.ai/bot/L_Jo-M00K98MdB1xrSYSi) - Flags scams, traps, and hidden fees in pasted terms or everyday contracts. [Dominicyoungix](https://x.com/Dominicyoungix).
 - [clawd](https://x.ai/bot/KZEcx_uMDR-zJIXLlYw5I) - Pump.fun trading bot for Solana. /goal connects to the live clawd-ws relay \(https\://clawd-ws.fly.dev/\). Also /wallet /buy /sell /trending /auto —. [clawddevs](https://x.com/clawddevs).
+- [Clean Slate](https://x.ai/bot/vY1eft-dZTKssiaUQvJEc) - Helps you get your free credit reports, finds collections, errors and outdated items, and drafts FCRA dispute letters to the three bureaus. [Brian](https://x.com/BrianRoemmele).
 - [Clippy Shopper](https://x.ai/bot/Z56l38GYvaZtYIgjhDl6-) - Your AI, now a savvy shopper. Clippy finds coupon codes automatically before you check out. Free. Affiliate\: Clippy may earn a commission. Matt.
 - [Close Captain](https://x.ai/bot/Xh-upYcyPJE3ozRscZbHL) - Month-end close that runs itself. Close Captain runs your close calendar from D−2 to D+5, hires its own finance crew on first run, posts one status line... unknown.
 - [Cloud Spend Desk](https://x.ai/bot/TAzgDpkrgwiVaFjaSbCe6) - A read-and-report bot that finds waste in your hosting and cloud bills, like idle projects, oversized plans, unused domains and bill spikes. [Av1dlive](https://x.com/Av1dlive).
@@ -144,6 +145,7 @@ Back to [README](../../README.md)
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - Tells you which card to use for a purchase to maximise points and perks. [trevin](https://x.com/trevin).
 - [Credit Card Max](https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt) - Advises which credit card to use for a given purchase to maximize points, cash back, and perks. community.
 - [Credit file correction specialist](https://x.ai/bot/NhXL-jFdpzywbzSbSrsnO) - Reviews your Equifax, Experian, and TransUnion reports, disputes the tradelines you want corrected, and tracks every response in a ledger. [nbayoungdork](https://x.com/nbayoungdork).
+- [Credit Freeze Keeper](https://x.ai/bot/TnX_wRTr85bRhCfao1xiy) - Walks you through freezing your credit at all 3 bureaus, plans thaws and refreezes, and flags inquiries you don't recognize. [T1000](https://x.com/teeRex247).
 - [Credit Repair](https://x.ai/bot/ZaRviWPxBNPvq5p302zLb) - Helps you pull your credit reports, spot errors, draft dispute letters, and plan how to raise your scores. fuzzy.
 - [Credit Reports](https://x.ai/bot/gZ0uuJdy7v4QJ-5JkI4E-) - Pulls your Experian, Equifax, and TransUnion reports, flags errors and identity-theft fraud, files the disputes it can online. [Yossi](https://x.com/josephstayhappy).
 - [CreditCards](https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN) - Keeps one ledger of your cards with balances, due dates, perks, and promos, flags duplicate charges, and puts fee and promo deadlines on your calendar. [Kong](https://x.com/TeslaTranslated).
@@ -288,6 +290,7 @@ Back to [README](../../README.md)
 - [Kiwi Pocket](https://x.ai/bot/TBDkrl21y6qX-wk5G107W) - Read-only New Zealand bank access via your Akahu personal app credentials. Daimen.
 - [Labor Drift Catcher](https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd) - Compares schedule vs clock-out to catch labor drift and overtime surprises before they stack up. [Myke](https://x.com/myke86d).
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) - A $100k soft-cap Mag8 laggard sleeve\: ranks AAPL MSFT GOOGL AMZN META NVDA TSLA AVGO, picks the most hated name each month, and only proposes IBKR. [SachivM99](https://x.com/SachivM99).
+- [Late Delivery Refund Desk](https://x.ai/bot/c4iPua1eVHtYPzgLeZnQG) - Finds late FedEx and UPS guaranteed shipments in your invoices and drafts each refund request before the deadline. You file, it never does. [T1000](https://x.com/teeRex247).
 - [Law Bot](https://x.ai/bot/EQgLIMO5Q_sVk3IM9EQbZ) - Texas law-firm ops OS for family civil criminal and estate drafts labeled SAMPLE until an attorney signs. [JoshuaRCook](https://x.com/JoshuaRCook).
 - [Leak Ledger](https://x.ai/bot/H2568vK9f4ZO_zlRgidOw) - Finds forgotten subscriptions and bill leaks in your email, drafts cancel or negotiate messages, and tracks cash you get back without auto-sending. [Aydin](https://x.com/aydin_ayanzadeh).
 - [Lease Finder](https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1) - Hunts current car lease deals nationwide for the deepest discount to MSRP. [dannymacias](https://x.com/dannymacias).
@@ -340,6 +343,7 @@ Back to [README](../../README.md)
 - [News Bot](https://x.ai/bot/q4oVF0beUcMxwVZzHz_Nl) - Weekday tech and markets news bot. community.
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) - A PLG numbers bot for growth teams. Answers with a number, the definition, the source and query, and the caveats. Read only. Never guesses, never rounds... [JaySahnan](https://x.com/JaySahnan).
 - [Octavius](https://x.ai/bot/20uVcNTF4_l3n1ZTTk-UB) - A crypto desk assistant that tracks markets, news, and wallets. community.
+- [Open Enrollment Comp](https://x.ai/bot/zzltcOxztGiMzbJ250xC5) - Upload open-enrollment documents from your employer, a spouse's, the ACA Marketplace or Medicare and get a clear, math-backed plan comparison. [Ramp](https://x.com/RampCapitalLLC).
 - [Operator](https://x.ai/bot/VRju--X8VRlzTySAh-WTd) - A calm operator for a small business that keeps the day moving and brings you only the decisions that need you. [Mark Cassara](https://x.com/markcassara).
 - [Ops Knowledge Observer](https://x.ai/bot/CIgxhKdiPj7KflehWkaEr) - One read-only company brain that a whole bot fleet can draw on. [StephenRuhe](https://x.com/StephenRuhe).
 - [Options Desk Chief](https://x.ai/bot/v-wtDQ7dpFXNzd1P9Hz9a) - Your personal options trading desk\: every weekday it gates ideas through futures, volatility, earnings and risk checks, then hands you complete trades. [martin_pestak](https://x.com/martin_pestak).
@@ -514,6 +518,7 @@ Back to [README](../../README.md)
 - [Tax Helper](https://x.ai/bot/NoYZ1JRm8YRDuIKRgCNlc) - A personal tax assistant that helps you get ready to file, track deductions and receipts, stay on top of estimated payments, and answer tax questions. [Digital](https://x.com/DigitalDaisyX).
 - [Tax Pro](https://x.ai/bot/4JYyLn77nDW4T06beD6zl) - An expert-level personal tax assistant that cites the actual law, shows its math, finds missed savings, projects your refund or amount owed. [Zack](https://x.com/zac70182).
 - [Tax Return](https://x.ai/bot/PkfuqRPuckq_Y4Df2i4Ck) - Organizes your tax documents, flags what's missing, and walks your return through TurboTax \(or builds a CPA handoff\) for you to review. [MyPerfectGoatee](https://x.com/MyPerfectGoatee).
+- [Tax Return Second Look](https://x.ai/bot/EpshNndIEvCkf5nAG_EAY) - Upload last year's tax return and it finds missed deductions, credits and refunds, by form and line. Never files anything. [T1000](https://x.com/teeRex247).
 - [TaxPilot](https://x.ai/bot/noGnZSrrYsQWIQjhTKX7I) - Personal AI tax assistant for U.S. federal and state returns. community.
 - [Taxx](https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK) - U.S. federal income tax estimator for 2025 and 2026. [RyanGBsystems](https://x.com/RyanGBsystems).
 - [TeemTape](https://x.ai/bot/9eRmhgjSdrIlHfW_ZXfl3) - Researches stocks and industries with TeemTape\: delayed quotes, ticker comparisons, idea scans, and anonymous watchlist notes. [awsexp](https://x.com/awsexp).

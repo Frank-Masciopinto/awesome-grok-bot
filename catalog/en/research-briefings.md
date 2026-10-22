@@ -28,6 +28,7 @@ Back to [README](../../README.md)
 - [AI Visibility | GEO Operator](https://x.ai/bot/beh0HMIMPwr5cenZVVAT-) - An autonomous world-class GEO operator for your brand. It monitors how your brand appears in answers across major AI models, uncovers where competitors... [Miguel](https://x.com/seoforgpt).
 - [AI 뉴스 봇](https://x.ai/bot/QjlXhXmlHD7KpnHC7H11Q) - Sends short daily AI news digests built from X chatter and official blogs\: a morning roundup and an evening hot-topic check. [현](https://x.com/hokkk01).
 - [AI 官号雷达](https://x.ai/bot/sGX1MPOtVLAMzSUScPaxi) - Monitors AI company and coding-agent X accounts for launches, credits and pricing changes, with twice-daily Chinese digests. [Chaosai0](https://x.com/Chaosai0).
+- [AI 新词雷达](https://x.ai/bot/LnCC_S0CWNObpYUITtHXf) - Tracks new AI terms, models, products and repos every day, to help you learn new concepts and give content teams topic ideas \(new-term-radar method\). [KXXG](https://x.com/kxxg625).
 - [AI 资讯精选](https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs) - Weekday Chinese AI product and tools digest in short human notes; stays quiet when sources are thin. [MaiYangAI](https://x.com/MaiYangAI).
 - [Airfare Deals](https://x.ai/bot/yXrklU1viS9roHs9d25-a) - Watches for unusually cheap last-minute nonstop weekend fares from your home airport, priced for your whole family, and only pings you when a deal. [Luke Carriere](https://x.com/LukeGrokBot).
 - [Alexandria](https://x.ai/bot/kjS8IGsV78-rPH_8mYlXk) - Librarian that briefs a book from public sources then mints a one-book Bot only after you say yes. [Joe](https://x.com/CardCaptain).
@@ -73,6 +74,7 @@ Back to [README](../../README.md)
 - [Business](https://x.ai/bot/B7C9a8QJSUSUJLKtHtze4) - Business, management, and marketing seat. Looks up CIP 52 from official sources, keeps local-first books, and never invents money balances. [TRV_Architech](https://x.com/TRV_Architech).
 - [Business Legal Prep Desk](https://x.ai/bot/rtfT8mnlp-69m6N4x56tA) - Legal research and drafting prep for Maryland and Florida small-business owners, every claim cited and dated. Not a lawyer, not legal advice. [iamtheh0n3yp0t](https://x.com/iamtheh0n3yp0t).
 - [Calorie Log](https://x.ai/bot/zK27ouDr1l7fMT9DHB6oZ) - A personal calorie and weight tracker. community.
+- [Cancer Curer](https://x.ai/bot/liwVNZ8sQXxJEK-bx1YvW) - Private daily watch for new treatments, trials, approvals and companies matched to your own \(or a loved one's\) cancer profile. [Kevin](https://x.com/kevinace).
 - [Captain Orwell](https://x.ai/bot/InRDBbawlH8rdErJa8_-t) - Answers any question in short, plain English. The answer comes first, with no filler. Built on Simplified Technical English \(the clear-writing standard. [jonnywallace](https://x.com/jonnywallace).
 - [Career Scout](https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz) - Reads your CV, then ranks openings by how closely they really fit. [jakesh_jakesh](https://x.com/jakesh_jakesh).
 - [CEO — Chief of Staff](https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO) - A front-door Chief of Staff for managers drowning in email and team noise. Runs specialist teammates in the background, weekday silence-first digests,. [rayistern](https://x.com/rayistern).
@@ -190,6 +192,7 @@ Back to [README](../../README.md)
 - [Fact Check Bot](https://x.ai/bot/8RyeqTp5cgrjbzO9t2wXb) - Checks claims, headlines, viral posts, stats, images, and advice against reliable sources and tells you what holds up. [Ilya](https://x.com/ilyafrol).
 - [Facta](https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR) - Grades claims from other bots as solid, shaky, overstated, or hold for a human. [JaimeBubblehead](https://x.com/JaimeBubblehead).
 - [Fail Dig](https://x.ai/bot/oEDvMidjbGpncvbLsROau) - FOIA-spirit dig into public US equity settlement data for structural smells, not trade advice. [jason_bennitt](https://x.com/jason_bennitt).
+- [Fake Review Buster](https://x.ai/bot/9ztGgqFRgI-HZd4kALfUc) - Checks whether the reviews of any product, restaurant or service are real, and gives a trust-adjusted score from 1 to 10. [Jeff](https://x.com/jeffnixonstone).
 - [Family Care Companion](https://x.ai/bot/sZMzwsYO_whThdbDgTx9a) - A warm, practical companion for family caregivers. Helps with the care binder, meds, appointments, family updates, paperwork, and looking after you too... [Deana](https://x.com/Deana).
 - [Family Tracer](https://x.ai/bot/4uDh1KecF-pYO6BSmfjYD) - Genealogy teammate that hunts public records into a sourced timeline without inventing ancestors. [Michael](https://x.com/prepperevol).
 - [family wordpress helpdesk](https://x.ai/bot/7ySyCp6OurH0hlcKMAm_b) - A help desk for the relative who runs the family WordPress site. [joshkim](https://x.com/joshkim).
@@ -290,6 +293,7 @@ Back to [README](../../README.md)
 - [Launch & Sky Watch](https://x.ai/bot/jhwkYhWyRJbDs_-uHzGar) - Tracks rocket launches and sky events in your local time; independent, not SpaceX affiliated. [Joseph](https://x.com/BTC_Yogi).
 - [Launch Seat](https://x.ai/bot/QwYUXSLYJcuk0k6L_lyn9) - A work-and-projects assistant built for the Starbase trip contest — keeps tasks, drafts, research, and follow-through moving so more of the day ships. [brandonbe](https://x.com/brandonbe).
 - [Launch Watcher](https://x.ai/bot/M-FcnnVF11YHbPSVLFITQ) - Watches the product, startup, and AI launches you care about and flags the ones that matter as they go live. [Moritz](https://x.com/bierlingm).
+- [Layoffs Watch](https://x.ai/bot/gvql4DVYHaJeHq264HYN4) - Tracks US layoffs, WARN notices and jobs data for the companies and sectors you care about, with a weekday morning digest and a Sunday roundup. [Daniel](https://x.com/Daniel847665050).
 - [LDS Church News](https://x.ai/bot/aE-0Zz2eVsV9RC3R_ns7c) - Updates from the Church of Jesus Christ of Latter-day Saints newsroom. [londontodd](https://x.com/londontodd).
 - [Lecture Sheet](https://x.ai/bot/y3xJtXexbxn7XpmECEJMc) - Turn YouTube lectures into dense, exam-ready cheat sheet PDFs. Cited formulas, real diagrams, Typst layout, math verification before delivery. Michael.
 - [Legal Advisor](https://x.ai/bot/0TmnKtakm--gYpX_1jcni) - Plain-language legal research that adapts to your jurisdiction and drafts your options. [xpixeladventure](https://x.com/xpixeladventure).
@@ -526,6 +530,7 @@ Back to [README](../../README.md)
 - [Stuck Cycle](https://x.ai/bot/fihe4nAy0jFWoygo4JCAW) - Runs one skill through repeated laps of attempt, snag, and targeted study. [Sultanov](https://x.com/thekuchh).
 - [Study Desk](https://x.ai/bot/vgHXRiVYEQ7aDKQQl100I) - Your private study desk\: turn a syllabus into a spaced session plan, practice from your own materials with honest grading, and log and re-drill every miss. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Stuff Politicians Said](https://x.ai/bot/QDCP86BUv33CoK4Agv4C1) - Finds politicians' recorded words from official transcripts with exact quotations in context. [Cliff](https://x.com/PresupPoli).
+- [Sturzi](https://x.ai/bot/3aEIY6-TxA3_UwqHgE7XU) - Argentine deregulation hunter\: finds rules that create rents or arbitrary discretion and drafts Spanish filings for the Ministerio de Desregulación. [Gianluca](https://x.com/gminoprio).
 - [Summarize Bot](https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7) - Summarizes web pages, videos, PDFs, images, and pasted text into a short chat gist. [Vincent Peng](https://x.com/_VincentPeng).
 - [Sunlight](https://x.ai/bot/zfDZyngnaxStUF6RtoD-7) - Expose media untruths and funding with primary-source hard gate. community.
 - [Suomatlas article coordinator](https://x.ai/bot/nqfPdBjxE6JNdjvr7Qwda) - Runs a multi-bot newsroom for weekly Finnish postal-area data stories\: picks the topic, verifies numbers against production, drafts fi+en copy,. [ItaloArmenti](https://x.com/ItaloArmenti).
@@ -566,6 +571,7 @@ Back to [README](../../README.md)
 - [tree counter](https://x.ai/bot/GUoroKpfPq-CLL_206JzT) - Counts street trees from Google Street View and compares them to city inventory data, with an agent handoff queue so each visit finishes one street or sub-ZIP. [wreinhardt](https://x.com/wreinhardt).
 - [Trend Scout for X](https://x.ai/bot/Q6YX1p5zlhRZZjEmDYfzA) - Finds fresh X trending stories that fit you, ranked by what's most likely to do well, with tappable links, angles, and reply targets. [Ashley](https://x.com/ashleyschendel).
 - [Trendspotter](https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr) - Weekday digest of sports, entertainment, and culture trends plus AI-in-marketing signals. [jennananpei](https://x.com/jennananpei).
+- [Trust Me Bro](https://x.ai/bot/xBZ0SoblxcvebLT_fI0P7) - Checks any claim against Trust Me Bro's public evidence receipts from trustmebro.to and gives a plain verdict, key evidence and the receipt link. [Edward](https://x.com/Ashyedra).
 - [Two Lenses: Decide & Cut](https://x.ai/bot/7_dnh4QViapra7VrGgFCM) - Reviews any plan through taste and teardown lenses and returns a cut list with the next step, without sending or buying. [SmileHub](https://x.com/SmileHubDLabs).
 - [Unblemished Checker](https://x.ai/bot/jabQBmqF-dO8ReVlmSEDo) - Looks up the next election for a location and researches each candidate from official records. [BRBlow](https://x.com/BRBlowGames).
 - [UniFi Protect Alerts](https://x.ai/bot/t9-UluNtR8-sZdrr_bxQU) - Watches your UniFi Protect cameras and emails you only for events that matter. community.
@@ -624,6 +630,7 @@ Back to [README](../../README.md)
 - [X-Man](https://x.ai/bot/DGIs4Ax4tU2Mi8RXyNKQ5) - Watches X accounts you pick and sends short deduped in-chat alerts when they post; never posts. Auny.
 - [Xssistant](https://x.ai/bot/fObiyZbdETsAwYyS0nTup) - Personal link library\: send it any X post, YouTube video or website and it saves, transcribes, tags and files it in a searchable library. [Jonah](https://x.com/ALL_Jonah).
 - [테슬라 펌웨어 뉴스](https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH) - Tracks Korean Tesla FSD software versions, builds, and HW3/HW4 rollout changes, and alerts you in Korean only when something changes. [Bummo](https://x.com/gbmksquare).
+- [アップデート情報](https://x.ai/bot/kiYURV5roSwbDBzKNKno-) - Checks RSS feeds for Grok Bot, Grok Build, xAI status and the X API every morning and sums up new updates or outages in Japanese. [矢部っち](https://x.com/yabetchi_iPhone).
 - [微博追踪](https://x.ai/bot/w5SXwT0WzP0Y-55u7bIWT) - Nightly roundup of the Weibo accounts you follow, top picks first, plus signals on topics you care about \(like US stocks\) from key posts and comments. [Guluhehe](https://x.com/Guluhehe).
 - [推栏](https://x.ai/bot/0fFAYGwaSgbdZqYmncLZb) - Nightly digest of the best Chinese-language X posts, grouped by author with source links, plus a separate overseas-view section for English accounts you follow. [wifibaby4u](https://x.com/wifibaby4u).
 - [时讯](https://x.ai/bot/Y1Gx9J-uWXR2Mt06Ml_qG) - Hourly briefings on major world and China news, all-day breaking-news watch and a nightly wrap-up, every item with a source link. [wifibaby4u](https://x.com/wifibaby4u).

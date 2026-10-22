@@ -34,6 +34,7 @@ Back to [README](../../README.md)
 - [App Store Review Bot](https://x.ai/bot/KzBEylM_3NFTjATszLICV) - Audits iOS apps before App Review and guides rejection responses. [stevederico](https://x.com/stevederico).
 - [Apple Dev](https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA) - Drives Xcode, simulators, and Swift builds on a Mac you already paired. [Baconbrix](https://x.com/Baconbrix).
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) - Describe an app in one sentence and get a running build back. [Wayne](https://x.com/waynesutton).
+- [Archie](https://x.ai/bot/To_CQRg_q2PYHBjemNMQl) - Hardware system architect for KiCad PCB projects on any MCU\: block diagrams, MCU and module choice, antenna keep-out and board floorplans. [Avid](https://x.com/kunal_twts).
 - [Architecture Diagram Desk](https://x.ai/bot/d75FNqjVjHD2pAvPrB7D7) - Component inventory and Mermaid architecture diagram from configs and notes. [Cypher0x9](https://x.com/Cypher0x9).
 - [Arr Bot](https://x.ai/bot/Vs67gzNnC-60nc_7j6Ker) - Sets up and tunes a private *arr media stack on your machine — Gluetun VPN, download client, Prowlarr, Radarr/Sonarr, Jellyfin, and friends — with CPU. [ThatRetiredDude](https://x.com/ThatRetiredDude).
 - [ASC Skill](https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta) - Walks an iOS release through App Store Connect step by step. [Phil_Holland](https://x.com/Phil_Holland).
@@ -273,6 +274,7 @@ Back to [README](../../README.md)
 - [Gen X Saver VM](https://x.ai/bot/g9Z6GNPrCztKhE1rQDf3m) - Credit-saver that runs the Gen Saver Wizard. Slot A is your computer \(most saved\), slot B is the cloud, and slot C is this bot's computer. Odd&Entertaining.
 - [Gen X Saver Wizard](https://x.ai/bot/Qt13laWoRw-3hLVavR-jd) - A credit-saver with a first-run wizard. Routes pictures, video, long drafts, and long code to a local machine first, then the cloud. Odd&Entertaining.
 - [Genevieve](https://x.ai/bot/rzdWyAHjc1wsoGXycFJcV) - Autonomous genealogical research partner for unknown-parentage and identity problems. Prefers primary evidence, inherits prior work, and reports concise. [JeffWise953718](https://x.com/JeffWise953718).
+- [Gerber](https://x.ai/bot/JrPTyHpK_E_BSptXWmmg4) - PCB manufacturing-outputs engineer for KiCad\: produces Gerbers, drill files, pick-and-place, a fab-format BOM, a 3D render and an order pack. [Avid](https://x.com/kunal_twts).
 - [GIS Analyst](https://x.ai/bot/NWluwlYk0QIfpkEcq967B) - Built on RustGIS, the open-source scriptable GIS. A GIS analyst bot that geocodes addresses, buffers, clips and overlays data. [Brian](https://x.com/bFlood).
 - [Github Bro](https://x.ai/bot/V2kkrme1lYb3NwIulGTTd) - Weekday morning digest of what's new in a GitHub repo, plus a short PM brief. [kaushikimmadi](https://x.com/kaushikimmadi).
 - [GitHub PR Desk](https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic) - One weekday digest of every PR, issue and comment across your repos. [MichaelGannotti](https://x.com/MichaelGannotti).
@@ -348,6 +350,7 @@ Back to [README](../../README.md)
 - [Import Bot](https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S) - Brings your setup from Claude Cowork, Codex, ChatGPT, OpenClaw, and Hermes into Grok Bot. Shub Gaur.
 - [Incident Postmortem Desk](https://x.ai/bot/dEEWHz6Q_jLLCsIGIk4hD) - Cited incident timeline, blameless analysis and a labeled root cause. [Cypher0x9](https://x.com/Cypher0x9).
 - [Inference Lab](https://x.ai/bot/2BO1SgtlCc4OCYLrzKoZ_) - Serves, benchmarks, and compares LLMs on your own hardware or cloud GPUs, then writes up cost and speed. [Av1dlive](https://x.com/Av1dlive).
+- [InfoSec Guard](https://x.ai/bot/AuRl63vClYTOCWuahuCxH) - Calm, report-only security chief for small businesses\: checks your drive, notes, shared computer and accounts daily for exposed client data. [Michael](https://x.com/kanning_m).
 - [Infra & Reliability Ops](https://x.ai/bot/PE1c8og0QiD3pRmcU2xB_) - Keeps your servers patched, monitored and checked. It runs weekly patch reports, monitoring coverage reviews. [Avery](https://x.com/averyjparker).
 - [Insurance Agent](https://x.ai/bot/ZyfbeSKKsHi6mL8bJjg93) - A personal insurance analyst that works for you, not a carrier. Helps decode policies, find coverage gaps, prep agent questions, and stress-test home,. [jurodme](https://x.com/jurodme).
 - [Interaction Designer](https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1) - Designs the flow and every screen state before the visuals. [UCDOps](https://x.com/ucdco).
@@ -439,6 +442,7 @@ Back to [README](../../README.md)
 - [OBS Studio](https://x.ai/bot/xWDQL_mDu_B0E-VaXCPzc) - Your hands-on OBS Studio operator. It builds premium, network-style scene collections and transitions, runs scenes and recording. [BennettProduct](https://x.com/BennettProduct).
 - [obsidian](https://x.ai/bot/tukhb8f4XyUJFkRWlHWaz) - CLI-first Obsidian specialist that owns a local vault as a second brain. [Alberto](https://x.com/weeb3dev).
 - [ogre](https://x.ai/bot/P-pKr0GIxVPYzg8xYivNr) - Independent optimizer and security reviewer for a multi-agent engineering crew. Measures before ranking cuts, reviews PRs without silently shipping. [CapitalCopilot](https://x.com/CapitalCopilot).
+- [Ohm](https://x.ai/bot/NbT2NbpQCV1uyvh1oadpT) - Schematic and passives engineer for KiCad PCB projects\: picks passive values, decoupling, pull-ups, LEDs, buttons and footprints, and keeps ERC clean. [Avid](https://x.com/kunal_twts).
 - [OmaBot](https://x.ai/bot/u6bOakyX1Y3CO3S_aHYIx) - Runs tasks inside Omarchy, DHH's Arch + Hyprland desktop, using the Try Omarchy VM on your bot's Linux computer. [Tom](https://x.com/tcballard).
 - [Omarchy Maintenance](https://x.ai/bot/ZFtBbDeNciHpCvORetaw5) - Keeps your Omarchy PC, its plugins and every app up to date on your schedule\: a dry-run summary and known-issues check first. [Michael](https://x.com/MichaelGannotti).
 - [Omnibot](https://x.ai/bot/OzZrG8ek4AhutfTVhBCI0) - Runs any Cursor CLI model from Grok Bot after setup writes your intent table. [ericzakariasson](https://x.com/ericzakariasson).
@@ -462,6 +466,7 @@ Back to [README](../../README.md)
 - [OwnPhoneBot](https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP) - Connects a real telephone number to an assistant by taking the fiddly provisioning off your hands\: it signs you up with the telephone provider and installs an…. [lafraia](https://x.com/lafraia).
 - [Packet Wrangler Range Rider](https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS) - A read-only watchdog for hosted sites that drafts fixes for your approval. [SLamouroux](https://x.com/SLamouroux).
 - [Pages](https://x.ai/bot/-y1ee13E-H85RG6F57kbG) - Takes you from zero to a private, iPhone-friendly website on Cloudflare's free plan where each of your bots keeps its own interactive page. [Donger](https://x.com/dongerino_).
+- [Parts Buyer](https://x.ai/bot/5J8Ruh6O3pHCbUUv7WEAh) - Compares distributors for every line of your electronics BOM on price, stock, shipping, duties and lifecycle, then builds a cart for your approval. [Avid](https://x.com/kunal_twts).
 - [Paste Ready](https://x.ai/bot/LrW8NQ19WViRSie4gj9hb) - Turns one messy idea into a Name, Title, and Description ready to paste into a new Bot. [FantomBuildz](https://x.com/FantomBuildz).
 - [Path Consolidator](https://x.ai/bot/wL-TZSSeq-ZkLoogQGjU-) - Finds duplicate code paths and helps consolidate them. [joshuastowell25](https://x.com/joshuastowell25).
 - [PC AI Readiness Auditor](https://x.ai/bot/MJZt496FWmD7MqtB1yUiv) - Hardware assessment bot for Windows users who want to know if their PC can handle their current or planned AI workload. Robert.
@@ -471,6 +476,8 @@ Back to [README](../../README.md)
 - [Personal Site Builder](https://x.ai/bot/s3c76c85a840b32b8fed8) - Scaffold a personal site from a description, untangle domain issues, and leave you with a live starting point. [SpaceX](https://x.com/DenisLabelle).
 - [Phera's Beast Box](https://x.ai/bot/MkG-J2nMNHByC033LoaDT) - Installs and runs The Beast Box engine on its computer with a dashboard, local transformer, and switchable model brains. [Zerefs](https://x.com/phera46334652).
 - [Phone Use Bot](https://x.ai/bot/SjBZH94wJlen_fuVsoYaO) - Drives your Android remotely\: mirrored screen, taps on your behalf. [harshmanojjain](https://x.com/harshmanojjain).
+- [PHP Patch Guard](https://x.ai/bot/4EfmeQYdRlGZBRYznKJlO) - Finds every PHP server you run, checks it against the critical php2shell bugs \(CVE-2026-109618/109619\), and walks you through patching and verifying. [Nawar](https://x.com/nawaralobaidi).
+- [Pinout](https://x.ai/bot/jy4bAXa_Jv5vWAlUVAm89) - Interfaces engineer for hardware and PCB projects with any MCU\: connectors, USB and USB-UART bridges, pin mapping, auto-reset and programming. [Avid](https://x.com/kunal_twts).
 - [Pip (QA)](https://x.ai/bot/o2tkDy7VSw45sbWViOO16) - Playtests your app twice\: as a confused first-timer, then as a rigorous adult reviewer. [EmergentContent](https://x.com/EmergentContent).
 - [Piper | ETL & Pipelines](https://x.ai/bot/eQ3bzQTxNshSUzytoh29P) - Stands up and feeds an event-log store once your schema is settled. [damianoredem](https://x.com/damianoredem).
 - [Pit Crew](https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1) - Tunes up the computer your bots run on\: frees memory and disk, keeps updates flowing. [scottxmetcalf](https://x.com/scottxmetcalf).
@@ -576,6 +583,7 @@ Back to [README](../../README.md)
 - [Sign-in & Access Keeper](https://x.ai/bot/XN7ntfEtE4HXDGTcMagtA) - Takes your bots off password duty\: 1Password-first logins, one shared signed-in browser, phone-tap 2FA. [joshluftig](https://x.com/joshluftig).
 - [Signals](https://x.ai/bot/PCWM_xFhmFIxpA3lTShSE) - Home networking and automation assistant for UniFi, VLANs, Wi‑Fi, Protect, and Home Assistant — weekly backups, security audits, IoT isolation. [M3PUnleashed](https://x.com/M3PUnleashed).
 - [Site Coach](https://x.ai/bot/nk0jtBcOKfzIKbkfWjHzU) - A plain-English coach for your website's Google Search Console and GA4. [Phil_Holland](https://x.com/Phil_Holland).
+- [Site Guard](https://x.ai/bot/qe1-kAdCArbEVlAB-gCD8) - Checks whether websites you own are exposed to the PHP2Shell bug with a free, read-only version check, then explains the result and fix plainly. [Antonio](https://x.com/moratowers).
 - [Site QA Desk](https://x.ai/bot/HHMrL3_xtMmkmZVSQ90BQ) - Checks any public website on desktop \(1440px\) and phone \(390px\) from one link\: screenshots, sideways-scroll check and broken links. [teeRex247](https://x.com/teeRex247).
 - [Site Smith](https://x.ai/bot/DFHpPxNiYyq3AjtlCE6Oq) - Your website builder. It plans, writes, designs, and launches fast, mobile-first sites for your business or your clients. [Jeremy](https://x.com/Biggs237).
 - [Skill Bot](https://x.ai/bot/WdKtVYWvxVEDmc7xp8zO2) - A librarian for your bot's skills that dedupes and keeps them current. [Dave](https://x.com/davespeers).
@@ -650,6 +658,7 @@ Back to [README](../../README.md)
 - [Token Finder](https://x.ai/bot/1olDKisJ4GIsykzyxADtD) - Scans your bots for wasteful lookups and cuts unused context fat. Casey.
 - [Token optimizer](https://x.ai/bot/c0hcJqSjTM4oo-esX45tR) - Cuts wasted tokens across your other bots by spotting expensive screen-clicking and proposing cheaper connectors, CLIs, or scripts. [Ronan](https://x.com/justinfredette).
 - [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) - Coding builder that ships against locked acceptance criteria with tests, while a separate verifier checks that done means done. [Eric](https://x.com/EricBuess).
+- [Trace](https://x.ai/bot/Z43ZFpOw4aGO_UqeVPeX3) - KiCad PCB layout engineer\: handles stackup, routing, impedance control and fab-matched design rules, and reports DRC results. [Avid](https://x.com/kunal_twts).
 - [trimmy](https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa) - Reads the bots you name and proposes context cuts side by side with how much memory each trim wins back, applied only on your approval. [Tim](https://x.com/TimDOES).
 - [Trojan Guard](https://x.ai/bot/rVl1h06Nts9u81JT0__nn) - Guard seat that watches for Trojan-style risks in your stack. [schultz180](https://x.com/schultz180).
 - [TTS Script Builder](https://x.ai/bot/UWLs7BCDu7jiumkvX4-vj) - Builds, fixes, and playtests Lua scripts for Tabletop Simulator mods, using GitHub PRs, live injection into TTS, and Workshop publishing. [shelftoworld](https://x.com/shelftoworld).
@@ -674,9 +683,11 @@ Back to [README](../../README.md)
 - [Vibe Check](https://x.ai/bot/lZrmKRND39ClHnQJj6C9A) - Audits your AI-built app for the production gaps vibe coding misses — security, data, auth, billing, and ops — and hands back a ranked fix list. [BuildTheFamily](https://x.com/BuildTheFamily).
 - [Vibe Code Safety Check](https://x.ai/bot/-MWo_XFJRkd4yBmS5MHTH) - Safety check for vibe-coded apps\: catches legal and security traps like client secrets, COPPA/kids, open RLS, licenses. [RTetris44](https://x.com/RTetris44).
 - [Video montage](https://x.ai/bot/ZB_RCjIlBno2eVFhApMIj) - Turns a storyline and ordered scene list into a finished 16\:9 montage\: research public clips, trim tight, stitch with captions/music, and deliver the. [7SwanSwimming](https://x.com/7SwanSwimming).
+- [Virtual CTO](https://x.ai/bot/eM_J3tkxeQL0JqlBquhyM) - Virtual CTO for founders, built on the decision frameworks Filip Szalewicz uses as a Head of Engineering and fractional CTO. [Filip](https://x.com/filipszalewicz).
 - [Vision Pro Bot](https://x.ai/bot/mLpMFiQGgnXgXpmi0eb7k) - Builds Apple Vision Pro apps in pure SwiftUI and RealityKit on your Mac, verifies them in the visionOS simulator, installs them on your headset. [Baconbrix](https://x.com/Baconbrix).
 - [Vivi](https://x.ai/bot/AekQxAV2k71gT9dC_GZzs) - Non-coding engineering CTO. Takes a goal, splits it across IC engineers, and checks the live artifact. [TylerNishida](https://x.com/TylerNishida).
 - [Voice over adder](https://x.ai/bot/W8puBMJcabAdSd5vbNtpv) - Takes your video clips and adds a punchy AI voiceover with a strong call to action, turning them into short, high-converting ads for TikTok, Reels, and. [degen4lyfe_](https://x.com/degen4lyfe_).
+- [Volt](https://x.ai/bot/wvrapeX6Qpeg8Pa3-QRQm) - Power engineer for KiCad hardware projects\: designs the power path, works out the current budget, and handles thermal checks and protection. [Avid](https://x.com/kunal_twts).
 - [VoxBot](https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq) - Puts real calls through your own telephony and voice accounts. [andrewslaptop](https://x.com/andrewslaptop).
 - [VPS & VPN](https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR) - Manages VPS and VPN setup on this computer, including Tailscale and tunnels. [ProtocolXp94l](https://x.com/ProtocolXp94l).
 - [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) - 帮你搭建和调优代理 VPS：内核低延迟与多协议部署. community.
@@ -723,6 +734,7 @@ Back to [README](../../README.md)
 - [Zephyr Sites](https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK) - Ships and hosts sites on Zephyr Cloud with built-in cloud or bring-your-own setup. [ZephyrCloudIO](https://x.com/ZephyrCloudIO).
 - [Zoho Bot](https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa) - Zoho Mail unread sweep; flags spam/cold pitches; delete/reply. [aseemwangoo](https://x.com/aseemwangoo).
 - [쉘터](https://x.ai/bot/iOxw-QB7QmknIc9bqO26_) - Builds casual phone-browser web games and sends you a playable link. [enterjajayo](https://x.com/enterjajayo).
+- [セキュリティ番](https://x.ai/bot/U_v0-jzn2gzSRGRJL9URW) - Weekly CVE check of your PC's runtimes, certificates and CLIs; has Cursor write test cases first, and updates and tests only what you approve. [もつ](https://x.com/ad_motsu).
 - [出口IP管家](https://x.ai/bot/1AKObJsZ-4jTjoTZ6_Y0R) - Manages the egress IP and proxy chain on your Grok Bot box\: mihomo dialer-proxy switching, exit checks, speed tests and local port mounts. [KhoaMinh88704](https://x.com/KhoaMinh88704).
 - [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) - Chinese relay that hands planning and research to a Cursor Cloud Agent and brings the answer back. [0xlangeai](https://x.com/0xlangeai).
 - [基础设施和api接入](https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF) - Wires shared LLM APIs and keys, then spins up agents with clear roles. [Valstry](https://x.com/Valstry).

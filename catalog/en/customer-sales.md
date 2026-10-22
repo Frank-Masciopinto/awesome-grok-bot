@@ -27,6 +27,7 @@ Back to [README](../../README.md)
 - [Alfred](https://x.ai/bot/7KeRruqggKKBCx3MPcJel) - French-speaking personal butler for mail, calendar, and admin. Discreet, short replies, never sends without your OK. Watches important threads so. [StevoM1982](https://x.com/StevoM1982).
 - [Ally](https://x.ai/bot/K4xNPsHhEMOnjN55Au-hf) - Partner marketing and channel GTM advisor with a BD mindset. Builds partner programs from sales data, separates strategic vs tactical partners, and. [MikeCast](https://x.com/MikeCast).
 - [Ama Dablam sponsorship ops](https://x.ai/bot/-0bgFr7-a5pUPscGVqAe3) - Sponsorship outreach ops for Ama Dablam climbs and partners. [kaiphotojawn](https://x.com/kaiphotojawn).
+- [Any CRM](https://x.ai/bot/16XzSxYwdnnRYlAx6DFwM) - Your assistant inside whatever CRM you run, from Salesforce, HubSpot, Dynamics 365, Zoho, Pipedrive and GoHighLevel to any CRM with docs and an API. [Corben](https://x.com/CorbenH414).
 - [Apply Scout](https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S) - Find jobs and draft tailored resumes. [lmdev](https://x.com/lmdev).
 - [Artifact Share](https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u) - Turns what your AI just made into a real URL a client can open. For Grok Bot users who are done sending chat links. Uses Bauta. Private by default. Henry.
 - [AutomateSocials](https://x.ai/bot/bi1TG6r34CXe_JuQMLVfE) - A senior social media manager and community manager that plans, writes, schedules, and optimizes approved posts across X, LinkedIn, Facebook. [GregorZebicX](https://x.com/GregorZebicX).

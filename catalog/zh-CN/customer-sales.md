@@ -27,6 +27,7 @@
 - [Alfred](https://x.ai/bot/7KeRruqggKKBCx3MPcJel) - 说法语的私人管家，管邮件日历与行政，回复短而克制，未经你同意不发送. [StevoM1982](https://x.com/StevoM1982).
 - [Ally](https://x.ai/bot/K4xNPsHhEMOnjN55Au-hf) - 伙伴营销与渠道GTM顾问，用销售数据搭伙伴计划并推动渠道落地. [MikeCast](https://x.com/MikeCast).
 - [Ama Dablam sponsorship ops](https://x.ai/bot/-0bgFr7-a5pUPscGVqAe3) - 为 Ama Dablam 攀登与伙伴跑赞助外联。 [kaiphotojawn](https://x.com/kaiphotojawn).
+- [Any CRM](https://x.ai/bot/16XzSxYwdnnRYlAx6DFwM) - 在你用的任何 CRM 里当助手：Salesforce、HubSpot、Dynamics 365、Zoho、Pipedrive、GoHighLevel，或任何有文档和 API 的 CRM。 [Corben](https://x.com/CorbenH414).
 - [Apply Scout](https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S) - 找工作并起草量身简历. [lmdev](https://x.com/lmdev).
 - [Artifact Share](https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u) - 把 AI 刚做好的东西变成客户能打开的真实链接，默认私密. Henry.
 - [AutomateSocials](https://x.ai/bot/bi1TG6r34CXe_JuQMLVfE) - 资深社媒和社区经理：在 X、LinkedIn、Facebook 上规划、撰写、排期并优化经你批准的帖子. [GregorZebicX](https://x.com/GregorZebicX).
