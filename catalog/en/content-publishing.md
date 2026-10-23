@@ -255,6 +255,7 @@ Back to [README](../../README.md)
 - [Trial Reels](https://x.ai/bot/HktaB2ID5y5djGCrRAxvf) - Cuts long-form video into trial Reels, spins overlay variants, and reports which ones beat that day's median so you can promote winners. [Eric](https://x.com/ericosiu).
 - [True Circle](https://x.ai/bot/im2DwW3bwlVenPgiKl8Cm) - Makes an X inner-circle image of the people you really interact with, after short onboarding for flavor, window, theme and leave-outs. Needs the X plugin. [Jay](https://x.com/JayDook).
 - [Truffle](https://x.ai/bot/22XPum6Dznc_jnPeuWGTt) - Finds small, high-quality X accounts in your interests that you probably don't follow yet. Reads your public profile, proposes niches, and sends picks. [monomyth](https://x.com/monomyth).
+- [Tubewright](https://x.ai/bot/DuELeZImu7B6FXzIs2bMt) - Turns a finished video's transcript into a draft upload kit\: titles, SEO description, timestamped chapters, thumbnail ideas, pinned comment and X clip thread. Calix.
 - [UGC Content Studio](https://x.ai/bot/W-GZduBEhE-fDFW4SwQ0k) - UGC Content Studio turns a brand's brief into everything you need to film and deliver\: hooks, a timed script, a shot list. [TRENCH_FORCE_](https://x.com/TRENCH_FORCE_).
 - [UniFlow Social Agent](https://x.ai/bot/l7teR_Bwnhh4kTSb-S97a) - A social media content strategist that plans your week of posts and writes drafts for X, Instagram, Facebook, LinkedIn, Threads, Bluesky and more. Bosotter.
 - [Unslop](https://x.ai/bot/7dlHJhOl6IcZZB3EYQURn) - A blunt red-pen editor that flags the signs of AI writing in your drafts, using Wikipedia's field guide. [onpardev](https://x.com/onpardev).
@@ -280,6 +281,7 @@ Back to [README](../../README.md)
 - [Workbench Design](https://x.ai/bot/wbLs8l_Xpej3rH9ewWycd) - Agent Workbench design specialist. Review supplied public pages, screenshots and product descriptions for clarity, usability and accessibility. Flux.
 - [Wrappy McWrapface](https://x.ai/bot/a4hfYt7OhdvdZRXJhK9nN) - Wrap Studio for Tesla\: designs custom Paint Shop wraps. Unofficial, not affiliated with Tesla; others' logos for personal use only. [davidkurkov](https://x.com/davidkurkov).
 - [Writer](https://x.ai/bot/38UdPemBuZb9USs_0HAES) - Writes studio copy to a client's voice, goal, and platform format. Sources every fact, flags anything unverified, and never publishes or sends work out. ZEU$.
+- [X Account Manager](https://x.ai/bot/v4ONWEUoeWfNz3_Bk03GX) - Runs your personal X account\: daily posts in your voice scheduled through Buffer, reposts of a partner account, scheduled promos and a weekly growth report. Alexander.
 - [X Desk](https://x.ai/bot/9phVXEPdP5QHD6Wpp2dxb) - Back office for your X account. Sorts your mentions, drafts posts and replies in your voice, reports on what performed. [Apple](https://x.com/lamps_apple).
 - [X Embed Builder](https://x.ai/bot/IETRUCsQCcnketUmBizdo) - Turns your site or idea into an interactive X player card, deploys it to Vercel or Cloudflare and verifies it. [XHabib](https://x.com/XHabib).
 - [X Growth Manager](https://x.ai/bot/rR9IDF7i5y_o2lcQOI1qZ) - A growth manager for your X account. It audits your posts, runs posting experiments, and drafts posts and replies in your voice, all for your approval. [Niu](https://x.com/rae1101x).
@@ -658,5 +660,6 @@ Back to [README](../../README.md)
 - [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - A daily X posting system for ideas, drafts, timing, and review. [KinGao476942](https://x.com/KinGao476942).
 - [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - Checks Japanese grammar, keigo, and readability for boss-facing drafts without changing meaning. [24K](https://x.com/gold24k9999).
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - Schedules voice demo, PPT, avatar, and 1080p lecture video delivery. [dugujun12](https://x.com/dugujun12).
+- [青鸟 · Bluebird](https://x.ai/bot/9CwXPs6jsmaQ7HObWmQce) - Yunjian's prompt writer\: say in one line what you want AI to do and get a paste-ready prompt for images, video, copy, standing rules or bot instructions. Valerie.
 - [墨灵 Moling](https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0) - Long-form ghostwriter that learns your voice, writes viral posts without the AI feel, and adapts each one for X, WeChat, Douyin, Xiaohongshu, Zhihu and Weibo. [Alcherex](https://x.com/LZJ5460).
 - [Podcast](https://x.ai/bot/rPdIhRzdXS6hqqMMGoY-R) - Topic in, recorded two-host podcast episode out. Made by the team behind the Sam & Riley Unfiltered podcast. [Leon](https://x.com/GrokBotCEO).

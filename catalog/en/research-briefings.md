@@ -631,6 +631,7 @@ Back to [README](../../README.md)
 - [X Brief](https://x.ai/bot/GkX6X536UK2MlbkfGLQnb) - Learns what you pay attention to from your own posts, then watches that beat. [Daniel](https://x.com/daniel_mac8).
 - [X Brief](https://x.ai/bot/RO8GwQZFXL9O95i13epqF) - Turns the accounts and topics you pick on X into one short daily brief. Reads your X connection or handles you paste, and never posts on your behalf. community.
 - [X Free Credits Finder](https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF) - Finds X posts giving away AI tool credits for a reply or follow, flags scams and closed offers, and can check twice a day. [Melvin](https://x.com/melvindvivas).
+- [X Legal Watch](https://x.ai/bot/v3K4-OkNZC6V0rG53GcpH) - Reviews X posts, accounts and searches for content that may break the law, like sexual deepfakes, threats, doxxing and scams, and drafts reports to file. Big.
 - [X Livestream Moderator](https://x.ai/bot/m_hJjlgiRa4vpGybtAtzP) - Watches your X livestream replies and mentions, flags hate, threats, doxxing, spam, and likely bots right away, and keeps a private evidence log you can. [MarioYaps](https://x.com/MarioYaps).
 - [X Monitor](https://x.ai/bot/37ckm2zchL3Gr57l8uxNl) - Tracks who replies to an X account\: groups commenters by attitude, flags hostile accounts with real reach, and lists posts that may break X's rules. [Kuangyi](https://x.com/BoKuangyi).
 - [X Radar](https://x.ai/bot/cogaww1OUGu8h-9eETMnQ) - Watches the Grok Bot and Cursor team accounts on X and sends you one morning digest of what's worth knowing, with links, at a time you choose. [bigfarmer666](https://x.com/bigfarmer666).
@@ -644,6 +645,7 @@ Back to [README](../../README.md)
 - [Xssistant](https://x.ai/bot/fObiyZbdETsAwYyS0nTup) - Personal link library\: send it any X post, YouTube video or website and it saves, transcribes, tags and files it in a searchable library. [Jonah](https://x.com/ALL_Jonah).
 - [테슬라 펌웨어 뉴스](https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH) - Tracks Korean Tesla FSD software versions, builds, and HW3/HW4 rollout changes, and alerts you in Korean only when something changes. [Bummo](https://x.com/gbmksquare).
 - [アップデート情報](https://x.ai/bot/kiYURV5roSwbDBzKNKno-) - Checks RSS feeds for Grok Bot, Grok Build, xAI status and the X API every morning and sums up new updates or outages in Japanese. [矢部っち](https://x.com/yabetchi_iPhone).
+- [凝露 · Dew](https://x.ai/bot/9zPoGWngujInyf31EjpzL) - Yunjian's distiller\: turns books, courses, chat logs, recordings and your own know-how into a linked, sourced knowledge-card web with a map. Resumable. Valerie.
 - [微博追踪](https://x.ai/bot/w5SXwT0WzP0Y-55u7bIWT) - Nightly roundup of the Weibo accounts you follow, top picks first, plus signals on topics you care about \(like US stocks\) from key posts and comments. [Guluhehe](https://x.com/Guluhehe).
 - [推栏](https://x.ai/bot/0fFAYGwaSgbdZqYmncLZb) - Nightly digest of the best Chinese-language X posts, grouped by author with source links, plus a separate overseas-view section for English accounts you follow. [wifibaby4u](https://x.com/wifibaby4u).
 - [时讯](https://x.ai/bot/Y1Gx9J-uWXR2Mt06Ml_qG) - Hourly briefings on major world and China news, all-day breaking-news watch and a nightly wrap-up, every item with a source link. [wifibaby4u](https://x.com/wifibaby4u).
@@ -665,5 +667,6 @@ Back to [README](../../README.md)
 - [最值得关注的Grok Bot 推文？](https://x.ai/bot/lFDR77qKaT3Iglzv9pUac) - A twice-daily Chinese-language sweep of top Grok Bot accounts. [MaiYangAI](https://x.com/MaiYangAI).
 - [左左的AI情报员](https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt) - Chinese AI intel daily from a fixed 46-source list with verify, dedupe, and importance scoring. [左左](https://x.com/zuoyou_ai).
 - [微信文章捕手](https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g) - Fetches a WeChat public-account article into Markdown and JSON with title, account, time, body, and images. [铁柱AGI](https://x.com/cgnot996).
+- [经纬 · Loom](https://x.ai/bot/yZLB_EF-gFtOe8WRFTPeq) - Yunjian's ontology builder\: lays the foundation for a shop, app or skill as a sourced folder of roots, parts and relations that you and any AI can build on. Valerie.
 - [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - Morning blueberry research monitor that stays quiet when nothing new matters. [Bizuayeu](https://x.com/Bizuayeu).
 - [观潮](https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW) - Cross-market research desk for A/HK/US plus macros, watchlists, theme logs, and decision leanings \(not advice\). [wifibaby4u](https://x.com/wifibaby4u).

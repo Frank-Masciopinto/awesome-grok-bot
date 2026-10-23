@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **191**.
+Generated from [catalog.json](../catalog.json). Count: **193**.
 
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
@@ -193,6 +193,8 @@ Generated from [catalog.json](../catalog.json). Count: **191**.
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) - A household chief of staff for family plans, school and home admin.
 - [Usage Optimizer](https://x.ai/bot/XBsOfo3zlutpRPm4FO-zn) - Advises your Chief of Staff or coordinator bot on getting the same results with less Grok Bot usage\: triggers, schedules, tools and models.
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) - Sends heavy coding jobs to Cursor, Claude Code, or Codex pools instead of Grok Bot credits.
+- [XO](https://x.ai/bot/GpfSXlyQGc1kbScfa8Sx0) - Chief of staff and front door for your Grok Bot team\: turns asks into tracked tasks, routes work to specialist bots, and wants proof before calling it done.
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) - Coordinates a specialist bot team for a social photo app\: Scout world moments, Marketing, Social, Idea Lab, and Knowledge. Keeps lanes clear and growth.
 - [Zephyr](https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU) - Front desk for OneStepGPS fleets that answers lookups and makes app changes only after you confirm each one.
 - [Zevy -Chief of Staff](https://x.ai/bot/aDoTDLUcFjrjahN64Ymqv) - Family-office chief of staff\: routes work to specialist seats, builds multi-seat decision packets and runs a weekly principal brief.
+- [起元 · Genesis](https://x.ai/bot/2OahtdVJ5dShzLr9yqL7U) - Yunjian's orchestrator for jobs too big for one assistant\: scopes the ask, plans the route, sends five specialist bots, checks each step, asks you at key gates.

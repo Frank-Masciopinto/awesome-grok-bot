@@ -255,6 +255,7 @@
 - [Trial Reels](https://x.ai/bot/HktaB2ID5y5djGCrRAxvf) - 把长视频剪成试播 Reels，做多个叠字版本，报告哪些超过当天中位数，方便你推赢家. [Eric](https://x.com/ericosiu).
 - [True Circle](https://x.ai/bot/im2DwW3bwlVenPgiKl8Cm) - 生成一张你在 X 上真正互动的人组成的“核心圈”图片，先简短引导你选风格、时间范围、主题和排除对象。需要 X 插件。 [Jay](https://x.com/JayDook).
 - [Truffle](https://x.ai/bot/22XPum6Dznc_jnPeuWGTt) - 帮你找兴趣领域里还没关注的小而精的 X 账号：读你的公开资料，提出细分方向并推荐. [monomyth](https://x.com/monomyth).
+- [Tubewright](https://x.ai/bot/DuELeZImu7B6FXzIs2bMt) - 把成片的字幕稿变成上传素材包草稿：你口吻的标题、SEO 描述、真实时间戳章节、缩略图构思、置顶评论和 X 片段串。只出草稿，从不上传或发帖。 Calix.
 - [UGC Content Studio](https://x.ai/bot/W-GZduBEhE-fDFW4SwQ0k) - 把品牌的需求简报变成拍摄和交付所需的一切：开头钩子、带时间轴的脚本和分镜清单. [TRENCH_FORCE_](https://x.com/TRENCH_FORCE_).
 - [UniFlow Social Agent](https://x.ai/bot/l7teR_Bwnhh4kTSb-S97a) - 社媒内容策略师：排好你一周的帖子，为 X、Instagram、Facebook、LinkedIn、Threads、Bluesky 等写草稿. Bosotter.
 - [Unslop](https://x.ai/bot/7dlHJhOl6IcZZB3EYQURn) - 直言不讳的红笔编辑，按维基百科的识别指南标出你草稿里的 AI 腔. [onpardev](https://x.com/onpardev).
@@ -280,6 +281,7 @@
 - [Workbench Design](https://x.ai/bot/wbLs8l_Xpej3rH9ewWycd) - Agent Workbench 的设计专员，审查提供的公开页面、截图和产品描述的清晰度、可用性和无障碍. Flux.
 - [Wrappy McWrapface](https://x.ai/bot/a4hfYt7OhdvdZRXJhK9nN) - Tesla 车贴工作室：给 Tesla 自定义 Paint Shop 车身贴图；非官方，与 Tesla 无关，他人 logo 仅限个人使用. [davidkurkov](https://x.com/davidkurkov).
 - [Writer](https://x.ai/bot/38UdPemBuZb9USs_0HAES) - 按客户语气、目标和平台格式写稿，每个事实都标来源，存疑处标出，从不自行发布或外发. ZEU$.
+- [X Account Manager](https://x.ai/bot/v4ONWEUoeWfNz3_Bk03GX) - 替你打理个人 X 账号：用你的口吻每天发帖并通过 Buffer 排期，转发和引用合作账号，定时推广，每周出增长报告。 Alexander.
 - [X Desk](https://x.ai/bot/9phVXEPdP5QHD6Wpp2dxb) - X 账号的后台：整理提及、用你的语气起草帖子和回复，并报告内容表现. [Apple](https://x.com/lamps_apple).
 - [X Embed Builder](https://x.ai/bot/IETRUCsQCcnketUmBizdo) - 把你的网站或想法做成可在 X 帖子里播放的互动卡片，部署到 Vercel 或 Cloudflare 并验证. [XHabib](https://x.com/XHabib).
 - [X Growth Manager](https://x.ai/bot/rR9IDF7i5y_o2lcQOI1qZ) - 你的 X 账号增长经理：审视你的帖子、做发帖实验，并用你的口吻起草帖子和回复，全部经你批准后才发。 [Niu](https://x.com/rae1101x).
@@ -658,5 +660,6 @@
 - [推特运营方法论](https://x.ai/bot/ScOhH1qaoq4XdoYhisagg) - 给 X 日更搭选题库、草稿、发布时段和复盘，发布键仍由你按. [KinGao476942](https://x.com/KinGao476942).
 - [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) - 检查呈给上司或决裁者的日语文稿的语法、敬语和可读性，不改原意也不代写代发。 [24K](https://x.com/gold24k9999).
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) - 调度语音演示、PPT、虚拟形象和字幕对齐的 1080p 讲解片。 [dugujun12](https://x.com/dugujun12).
+- [青鸟 · Bluebird](https://x.ai/bot/9CwXPs6jsmaQ7HObWmQce) - 云间工作室的提示词助手：一句话说想让 AI 干什么，它给你一段能直接贴进去的提示词，做图、做视频、写文案、写长期规则和 Bot 指令都会。 Valerie.
 - [墨灵 Moling](https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0) - 长文写手：学你的口吻，写没有 AI 味、值得收藏的爆款长文，一篇改成 X、公众号、抖音、小红书、知乎、微博多个版本。 [Alcherex](https://x.com/LZJ5460).
 - [Podcast](https://x.ai/bot/rPdIhRzdXS6hqqMMGoY-R) - 输入一个话题，产出一集录制好的双主持人播客。出自 Sam & Riley Unfiltered 播客背后的团队。 [Leon](https://x.com/GrokBotCEO).

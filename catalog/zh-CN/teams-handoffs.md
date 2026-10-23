@@ -92,6 +92,7 @@
 - [Gnosys](https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li) - 给整个机器人团队用的持久便携记忆，包装一个本地 SQLite 大脑供所有机器人共享，也可以通过 MCP 接到 IDE. [Edward](https://x.com/edtadros).
 - [Gray Wyrm](https://x.ai/bot/k4NTIb0FqCWftqRfEmROG) - 首席的右手与机器人铁匠：设计长期岗机器人，压实技能与护栏。 [samuel_riccardi](https://x.com/samuel_riccardi).
 - [Grok Bot Backup](https://x.ai/bot/GhM3Yv6pbQ2k_wu0fSO-b) - 每晚把你整套 Grok Bot 配置（bot、设置、技能、例程、记忆和对话记录）备份到 Google Drive. [Thomas](https://x.com/allballbearings).
+- [Grok Bot Backup Assistant](https://x.ai/bot/LvdHazZLidr0S3JJAdr8e) - 用开源 grok-bot-backup 工具备份你 Grok Bot 电脑上的每个助手，除原始归档外还生成一份可读、可交接的对话、记忆、笔记和工作区文件副本，校验后交给你。 TechOps.
 - [Grok Sparring](https://x.ai/bot/vJTK9AYLrDHf9MHe4Uzwv) - 当你说“问问 Grok”时，它会在浏览器里打开 grok.com，向 xAI 的 Grok 聊天机器人提问并带回答案. [Joshua](https://x.com/TheReal_BCM).
 - [GuardBot](https://x.ai/bot/ymV-wlFyRUjdAlvFLEjcB) - 你和 AI 员工之间的质检关：每封邮件、报价、发票和汇总都先对照实时数据核对事实，再检查是否答所问，返回通过或修改及理由，从不代发。 Grumpy.
 - [Guardian](https://x.ai/bot/jw-g2H0t8ddd54NW2kCmG) - 只读的 Grok Bot 安全守望者：为每个 bot 维护清单和最小权限策略，审查它们实际做了什么，并附证据标出高风险操作，从不自行动作。 [Knom](https://x.com/cloudravel).
@@ -201,6 +202,7 @@
 - [Watchtower (beta)](https://x.ai/bot/wJTXth8eiaaJpayeryWEd) - Grok Bot 团队的安全官：看护共用的云端电脑，并在安装前审查模板和技能. [Ken](https://x.com/Ken_LinkWell).
 - [What Should My Bot Do?](https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ) - 先问 5 个关于你业务的问题，再推荐你的第一个 Agent 和接下来的 3 项工作，每项附一篇免费指南。只写草稿。 [Roshel](https://x.com/RoshelPere15695).
 - [What Would Elon Do?](https://x.ai/bot/J2UPsryIUiwJ3YYeI4Gla) - 面向独立创始人和小企业的直率第一性原理战略伙伴. [WorldWideVibes](https://x.com/W0rldwid3vib3s).
+- [XO](https://x.ai/bot/GpfSXlyQGc1kbScfa8Sx0) - Grok Bot 团队的幕僚长和统一入口：把需求变成可跟踪的任务，分派给专职 bot，没证据不算完成，还能用邮件联络家人的 bot、接管 AI 电话筛来电。 Oliver.
 - [薬剤師ニュースチーム立ち上げbot](https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV) - 为日本药剂师搭建 6 个 Bot 的团队，每天核实行业新闻并以文章和 MP3 送达. [tadayaku_Pha](https://x.com/tadayaku_Pha).
 - [赛博小晚](https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S) - 赛博小晚的公开 Skill 化身，用她公开提炼的思考方式帮你做 IP 打造与运营，不冒充本人. 铁柱AGI.
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - 访谈式引导，帮你组出第一支 Bot 花名册。 [A-A-ron](https://x.com/theaaron).
@@ -596,3 +598,4 @@
 - [ボット整備](https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD) - 按实际用法核对其他机器人的名字和简介，只在你点头后改。 [x_stone_island](https://x.com/x_stone_island).
 - [真Deviフレーム Type2トライアル](https://x.ai/bot/aeE3iKjj5xfDmx_dolbll) - 星宮专用 Devi 框架连接试用，最终判断仍由本人拍板。 [Fermion_Boson17](https://x.com/Fermion_Boson17).
 - [记忆管家](https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy) - 把各 Bot 设定和独立记忆持续备份到私有 Git，含标准仓结构与定时查漏。 [铁柱AGI](https://x.com/cgnot996).
+- [起元 · Genesis](https://x.ai/bot/2OahtdVJ5dShzLr9yqL7U) - 云间工作室的总指挥，接单个 AI 助手做不完的大事：问清需求、排路线、派五位成员去做，每段都验过，只在要紧处请你拍板。 Valerie.

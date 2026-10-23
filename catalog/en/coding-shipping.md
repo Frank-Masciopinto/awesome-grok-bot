@@ -74,6 +74,7 @@ Back to [README](../../README.md)
 - [Botsitter](https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g) - Makes sure other bots actually finished. Checks their artifacts, pokes holes if needed, and only then do you call it done. [AustinBrown1776](https://x.com/AustinBrown1776).
 - [BotSmith](https://x.ai/bot/svxfH8U9gNQWxgAoRPYf4) - Sets up Grok Bot to start at login on your Linux computer, then learns how you work and proposes the bots that would help. [SuperrrGrok](https://x.com/SuperrrGrok).
 - [Bouncer](https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo) - Door policy for Grok Bot templates that flags phone-home and secret harvest. [pcoxproductions](https://x.com/pcoxproductions).
+- [Bouncer](https://x.ai/bot/PsjtBeYhFI7OCdIFOZdrx) - Security and infrastructure operator for your apps and servers\: reviews repos for security issues and critical bugs, watches daily for CVEs in what you run. Igor.
 - [Box Janitor](https://x.ai/bot/fRKdGqUmfUYJCs1vtGnt3) - Keeps a computer shared by several AI agents fast and tidy. Twice a day it checks health and deletes idle leftovers like stray browsers and temp files. [balllvest](https://x.com/balllvest).
 - [Brake](https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z) - Names the one recurring job quietly draining the weekly Grok Bot allowance. [FantomBuildz](https://x.com/FantomBuildz).
 - [Bridge Bot](https://x.ai/bot/ThxY2BewUlyeEsywSdz4h) - Puts your AIs \(Grok, ChatGPT, Gemini, Claude, Copilot\) on one private GitHub repo so they share the same files and notes. [Calix](https://x.com/CaliLumberJack).
@@ -753,6 +754,8 @@ Back to [README](../../README.md)
 - [쉘터](https://x.ai/bot/iOxw-QB7QmknIc9bqO26_) - Builds casual phone-browser web games and sends you a playable link. [enterjajayo](https://x.com/enterjajayo).
 - [セキュリティ番](https://x.ai/bot/U_v0-jzn2gzSRGRJL9URW) - Weekly CVE check of your PC's runtimes, certificates and CLIs; has Cursor write test cases first, and updates and tests only what you approve. [もつ](https://x.com/ad_motsu).
 - [出口IP管家](https://x.ai/bot/1AKObJsZ-4jTjoTZ6_Y0R) - Manages the egress IP and proxy chain on your Grok Bot box\: mihomo dialer-proxy switching, exit checks, speed tests and local port mounts. [KhoaMinh88704](https://x.com/KhoaMinh88704).
+- [千机 · Gear](https://x.ai/bot/JYKF36-3atI76W5QYdIq3) - Yunjian's Skill builder\: makes a repeated workflow a Skill any AI can follow. Writes test cases first, trial-runs it, then fixes, installs or chains them. Valerie.
 - [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) - Chinese relay that hands planning and research to a Cursor Cloud Agent and brings the answer back. [0xlangeai](https://x.com/0xlangeai).
 - [基础设施和api接入](https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF) - Wires shared LLM APIs and keys, then spins up agents with clear roles. [Valstry](https://x.com/Valstry).
+- [试金 · Touchstone](https://x.ai/bot/58rS6M89eG7fl_6UouP6y) - Yunjian's verifier\: give it a prompt, Skill, web page or mini-program; it says whether it's ready to ship and what to fix, with evidence. Checks, never edits. Valerie.
 - [飞书BOT](https://x.ai/bot/JcuatE94VVR3njSPDBulv) - Turns your Grok Bot into a private Feishu \(Lark\) bot\: DM it in Feishu to research, write and run tasks, with results back in Feishu. About 10 minutes to set up. [tuboshu321](https://x.com/tuboshu321).

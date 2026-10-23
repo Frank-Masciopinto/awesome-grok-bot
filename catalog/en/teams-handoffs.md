@@ -92,6 +92,7 @@ Back to [README](../../README.md)
 - [Gnosys](https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li) - Persistent portable memory for a whole bot fleet, wrapping a local SQLite brain every bot can share, with optional IDE MCP attach. [Edward](https://x.com/edtadros).
 - [Gray Wyrm](https://x.ai/bot/k4NTIb0FqCWftqRfEmROG) - Right-hand aide and bot smith for a chief; designs tenured bots and densifies skills and guardrails. [samuel_riccardi](https://x.com/samuel_riccardi).
 - [Grok Bot Backup](https://x.ai/bot/GhM3Yv6pbQ2k_wu0fSO-b) - Backs up your whole Grok Bot setup every night \(bots, settings, skills, routines, memories and transcripts\) to your Google Drive. [Thomas](https://x.com/allballbearings).
+- [Grok Bot Backup Assistant](https://x.ai/bot/LvdHazZLidr0S3JJAdr8e) - Backs up every assistant on your Grok Bot box via open-source grok-bot-backup, plus a readable, handover-ready copy of chats, memories, notes and files. TechOps.
 - [Grok Sparring](https://x.ai/bot/vJTK9AYLrDHf9MHe4Uzwv) - When you say "ask Grok", it opens grok.com in the browser, puts the question to xAI's Grok chatbot and brings the answer back. [Joshua](https://x.com/TheReal_BCM).
 - [GuardBot](https://x.ai/bot/ymV-wlFyRUjdAlvFLEjcB) - Quality gate between your AI staff and you\: checks every email, quote, invoice and rollup against live sources and the ask, then returns PASS or FIX. Grumpy.
 - [Guardian](https://x.ai/bot/jw-g2H0t8ddd54NW2kCmG) - Read-only security watcher for your Grok Bots\: keeps an inventory and least-privilege policy per bot, reviews what they did, flags risky actions with evidence. [Knom](https://x.com/cloudravel).
@@ -201,6 +202,7 @@ Back to [README](../../README.md)
 - [Watchtower (beta)](https://x.ai/bot/wJTXth8eiaaJpayeryWEd) - Security officer for your Grok Bot roster\: watches the shared cloud computer and vets templates and skills before they are installed. [Ken](https://x.com/Ken_LinkWell).
 - [What Should My Bot Do?](https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ) - Asks 5 questions about your business, then picks your first agent and 3 next jobs, with a free guide for each. Drafts only. [Roshel](https://x.com/RoshelPere15695).
 - [What Would Elon Do?](https://x.ai/bot/J2UPsryIUiwJ3YYeI4Gla) - A blunt first-principles strategy partner for solo founders and small businesses. [WorldWideVibes](https://x.com/W0rldwid3vib3s).
+- [XO](https://x.ai/bot/GpfSXlyQGc1kbScfa8Sx0) - Chief of staff and front door for your Grok Bot team\: turns asks into tracked tasks, routes work to specialist bots, and wants proof before calling it done. Oliver.
 - [薬剤師ニュースチーム立ち上げbot](https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV) - Sets up a six-bot team that delivers verified daily pharmacy news to Japanese pharmacists as articles and MP3. [tadayaku_Pha](https://x.com/tadayaku_Pha).
 - [赛博小晚](https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S) - Public skill avatar of 赛博小晚\: uses her published thinking framework to help you build and run a personal brand, without claiming to be her. 铁柱AGI.
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).
@@ -596,3 +598,4 @@ Back to [README](../../README.md)
 - [ボット整備](https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD) - Audits other bots' names and blurbs against real use, and proposes wording you approve first. [x_stone_island](https://x.com/x_stone_island).
 - [真Deviフレーム Type2トライアル](https://x.ai/bot/aeE3iKjj5xfDmx_dolbll) - Trial Devi frame connector for Hoshimiya; final judgment stays with the user. [Fermion_Boson17](https://x.com/Fermion_Boson17).
 - [记忆管家](https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy) - Backs up each bot setting and memory to a private Git repo with a standard fleet layout. [铁柱AGI](https://x.com/cgnot996).
+- [起元 · Genesis](https://x.ai/bot/2OahtdVJ5dShzLr9yqL7U) - Yunjian's orchestrator for jobs too big for one assistant\: scopes the ask, plans the route, sends five specialist bots, checks each step, asks you at key gates. Valerie.

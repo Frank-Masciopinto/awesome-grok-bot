@@ -855,6 +855,7 @@
 - [Lumi](https://x.ai/bot/r1T7by_HKzpacJ1EgXJ6H) - 在你的城市找值得出门的科技见面会. [logesh45](https://x.com/logesh45).
 - [M5入荷みはり](https://x.ai/bot/cAV3aRWNNP8ArGjOSJ7g9) - 盯着日本 Switch Science 的 M5Stack 和电子纸到货，只用简短日语报告新品，不下单不加购. [まるいも](https://x.com/marulimoai).
 - [Mac Pilot](https://x.ai/bot/0AFTv9n--ZWZZFhW5F14q) - 操控你 Mac 上的应用：移动光标、打字、整理文件、填表；删除、发送等难撤销操作先等你确认. [Luca_Hagenmayer](https://x.com/Luca_Hagenmayer).
+- [Mack](https://x.ai/bot/AADEdx7JETEE8yJh08bkp) - 你的私人汽车顾问：解答机油、轮胎和零件问题，帮你做保养，诊断怪味和异响，还能找本地维修报价。 Kelly.
 - [MacOS Disk Cleaner](https://x.ai/bot/Z0WBoK2sucsOAqAXRpRb8) - 按规则目录扫 Mac 磁盘，只删你点头的那些路径。 [MapachesAlexis](https://x.com/MapachesAlexis).
 - [MacPowerTools](https://x.ai/bot/SktrYfnj1vy3eG90uQ971) - 先预演再清理 Mac 用户缓存、废纸篓和旧下载，不擅自删除. [krisadipap](https://x.com/krisadipap).
 - [Madison](https://x.ai/bot/237C0hK8Lph45gLkwplld) - 公民办事助手，覆盖信息公开、法院、学校与福利. [IAmMichaelSweet](https://x.com/IAmMichaelSweet).
@@ -914,6 +915,7 @@
 - [Morning Job Search](https://x.ai/bot/seqDrzAbYIA5Hc3tt-07S) - 工作日早晨只扫雇主自家招聘页，只报新增、关闭或有变的岗位。 [jasper_saunders](https://x.com/jasper_saunders).
 - [Morpheus](https://x.ai/bot/uv4r3mNUgymF11q0N3L7F) - 把你卡着的选项丢给它，它挑一个并替这个选择辩护。 [liam_fallen](https://x.com/liam_fallen).
 - [Morpheus](https://x.ai/bot/fINpFEqNy4DPyZ5hZmTKT) - 冷静的决策顾问. [JohnnyDetailTX](https://x.com/JohnnyDetailTX).
+- [Moss](https://x.ai/bot/h7ez-fl_Y7bnVud1g-GAd) - 友好的 Windows 10/11 家用电脑修理工：诊断崩溃、卡顿和坏掉的应用，每周体检一次，帮你把付费安全软件换成系统自带的免费工具，每次改动前先问。 Matt.
 - [Motivation Bot](https://x.ai/bot/KNoXvnLnkKME1TqhqJx8t) - 每日激励，帮你保持专注. [johnboyle](https://x.com/johnboyle).
 - [Movie Magic](https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK) - 电影推荐、持续更新的待看清单，以及带可复用图表的每周北美票房汇总. [king_rob_lo](https://x.com/king_rob_lo).
 - [Moving Concierge](https://x.ai/bot/iOUbudzFRy7Y0NNrrcYK5) - 用白话比较自搬、半包与全包搬家方案. [nextgenmove](https://x.com/nextgenmove).
@@ -1118,6 +1120,7 @@
 - [Protective Detail](https://x.ai/bot/37Km_vSkZWbQLJacdb_xq) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [Reconfigurate](https://x.com/autosourcer0).
 - [Psycho](https://x.ai/bot/LR0wXrk09bWEHQkI_QnQK) - 应用心理学教练：用心理学看销售、发帖、辅导、路演、游戏手感和育儿表达会怎样落地. AdamDesigns.
 - [PT Bot](https://x.ai/bot/QFanuVCMxVH0hJ4CZCMJi) - 私人教练机器人：把每天的步数、距离、热量和运动时长做成简短、适合截图的报告. [Mustafa](https://x.com/mustafaergisi).
+- [Public Auction Ledger](https://x.ai/bot/fZtSSFchGhVG3CA-APEhT) - 把各种主张记成带行动时限和必要核查的临时“出价”，再审计并清掉过期或已核实的条目。任何不可逆操作都等你批准。 Gregory.
 - [Pulse](https://x.ai/bot/DdNlDzU_cYi-JJv2YR2CS) - 医生打造的健康教练，从聊天、餐食照片和睡眠截图了解你的饮食、运动和睡眠，每次只给一条有用的建议. [Wilson](https://x.com/qpzm620).
 - [Quake Live Ultrawide Fixer](https://x.ai/bot/35WCgs71fVrBtwyDgj3El) - 带你把 Steam 版 Quake Live 调成贴合显示器的真超宽画面（21 比 9 或 32 比 9），不再拉伸 16 比 9. [Christopher Fryant](https://x.com/cfryant).
 - [Qualification Coach](https://x.ai/bot/ulaxnHIZLneDmUszBpoIA) - 面向各行业、各国职业资格（如 NVQ、City & Guilds、学徒制）的每日教练，每天一节短课. [Arunas](https://x.com/ArunasZidonis).
@@ -1285,6 +1288,7 @@
 - [Spam-Call Scrubber](https://x.ai/bot/SrM9NoljdbR1rkyaKSryA) - 在人肉搜索网站和数据经纪商上找到你的电话号码，提交退出申请、完成邮件确认，并定期复查。 [Blake](https://x.com/ShawfujikawaTTV).
 - [Spam-Call Scrubber](https://x.ai/bot/Z-1lj3U4-IdLhvH-As2vc) - 在人员搜索网站和数据经纪商上找到你的电话号码，提交退出申请、完成邮件确认，并按你设定的周期复查。 [Seth](https://x.com/seth_urban).
 - [Spam-Call Tracker](https://x.ai/bot/fN2O4TlBg102RyonIGwnC) - 在人肉搜索网站和数据经纪商那里找出你的手机号，提交免费退出申请，并把邮件确认也办完. [Sergio](https://x.com/sfarache).
+- [Spanish Teacher](https://x.ai/bot/81AkB9k0IgS65382DCm_8) - 以语音为主的西班牙语老师，从零基础带到 C1：分级对话、课程、间隔复习和等级考试，讲中性拉美西语，学习进度只存在你自己的副本里。 Antony.
 - [Spanish Tutor](https://x.ai/bot/4JMShKpqdyH5fnanTMefC) - 每天几分钟的西班牙语口语练习，以听说为主、点选作答，专为 ADHD 和阅读障碍学习者设计. [Wayne](https://x.com/wikiwayne).
 - [Spark](https://x.ai/bot/f0W4gAqrCJ0gRHJTlHOao) - 用短促追问把半成品点子逼到一个命名洞见和下一步实验. [Steph_Pierson](https://x.com/Steph_Pierson).
 - [Spark](https://x.ai/bot/6CYrmV0opWopQM0WrI9NV) - 在特斯拉车机里跨通话与打断保住 Grok 对话上下文. Kevin.

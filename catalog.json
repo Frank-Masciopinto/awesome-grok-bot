@@ -116984,6 +116984,305 @@
       "verified": false,
       "updated": "2026-10-22",
       "shelf": "raw"
+    },
+    {
+      "slug": "genesis-2",
+      "name": "起元 · Genesis",
+      "author": {
+        "name": "Valerie"
+      },
+      "summary": "Yunjian's orchestrator for jobs too big for one assistant: scopes the ask, plans the route, sends five specialist bots, checks each step, asks you at key gates.",
+      "summary_zh": "云间工作室的总指挥，接单个 AI 助手做不完的大事：问清需求、排路线、派五位成员去做，每段都验过，只在要紧处请你拍板。",
+      "import": "https://x.ai/bot/2OahtdVJ5dShzLr9yqL7U",
+      "category": "teams-handoffs",
+      "tags": [
+        "jobs",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "studio-door"
+    },
+    {
+      "slug": "touchstone",
+      "name": "试金 · Touchstone",
+      "author": {
+        "name": "Valerie"
+      },
+      "summary": "Yunjian's verifier: give it a prompt, Skill, web page or mini-program; it says whether it's ready to ship and what to fix, with evidence. Checks, never edits.",
+      "summary_zh": "云间工作室的验证助手：提示词、Skill、网页、小程序交给它，告诉你能不能交、哪里要改，每条问题都带证据。只查不改。",
+      "import": "https://x.ai/bot/58rS6M89eG7fl_6UouP6y",
+      "category": "coding-shipping",
+      "tags": [
+        "touchstone"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bluebird",
+      "name": "青鸟 · Bluebird",
+      "author": {
+        "name": "Valerie"
+      },
+      "summary": "Yunjian's prompt writer: say in one line what you want AI to do and get a paste-ready prompt for images, video, copy, standing rules or bot instructions.",
+      "summary_zh": "云间工作室的提示词助手：一句话说想让 AI 干什么，它给你一段能直接贴进去的提示词，做图、做视频、写文案、写长期规则和 Bot 指令都会。",
+      "import": "https://x.ai/bot/9CwXPs6jsmaQ7HObWmQce",
+      "category": "content-publishing",
+      "tags": [
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "dew",
+      "name": "凝露 · Dew",
+      "author": {
+        "name": "Valerie"
+      },
+      "summary": "Yunjian's distiller: turns books, courses, chat logs, recordings and your own know-how into a linked, sourced knowledge-card web with a map. Resumable.",
+      "summary_zh": "云间工作室的蒸馏助手：把书、课、聊天记录、录音视频和你脑子里的经验，整理成带出处、关系清楚的知识卡网络，再配一张地图，中途断了能接着蒸。",
+      "import": "https://x.ai/bot/9zPoGWngujInyf31EjpzL",
+      "category": "research-briefings",
+      "tags": [
+        "dew"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gear",
+      "name": "千机 · Gear",
+      "author": {
+        "name": "Valerie"
+      },
+      "summary": "Yunjian's Skill builder: makes a repeated workflow a Skill any AI can follow. Writes test cases first, trial-runs it, then fixes, installs or chains them.",
+      "summary_zh": "云间工作室的 Skill 助手：把你反复在做的做法造成一个 Skill，换个 AI 也照做。先定试题再写，造完先试用，还能改、装进常用 AI、串成一套。",
+      "import": "https://x.ai/bot/JYKF36-3atI76W5QYdIq3",
+      "category": "coding-shipping",
+      "tags": [
+        "gear"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "loom-2",
+      "name": "经纬 · Loom",
+      "author": {
+        "name": "Valerie"
+      },
+      "summary": "Yunjian's ontology builder: lays the foundation for a shop, app or skill as a sourced folder of roots, parts and relations that you and any AI can build on.",
+      "summary_zh": "云间工作室的本体助手：给一家店、一个应用或一个技能立起母体——根、方方面面、彼此关系、过去和缺口，知识带出处存成文件夹，你和任何 AI 都能接着用。",
+      "import": "https://x.ai/bot/yZLB_EF-gFtOe8WRFTPeq",
+      "category": "research-briefings",
+      "tags": [
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "spanish-teacher",
+      "name": "Spanish Teacher",
+      "author": {
+        "name": "Antony"
+      },
+      "summary": "Voice-first Spanish tutor, first words to C1: placement chat, lessons, spaced review and level exams in Latin American Spanish; progress log stays private.",
+      "summary_zh": "以语音为主的西班牙语老师，从零基础带到 C1：分级对话、课程、间隔复习和等级考试，讲中性拉美西语，学习进度只存在你自己的副本里。",
+      "import": "https://x.ai/bot/81AkB9k0IgS65382DCm_8",
+      "category": "personal-admin",
+      "tags": [
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mack",
+      "name": "Mack",
+      "author": {
+        "name": "Kelly"
+      },
+      "summary": "Personal car expert: answers questions on oil, tires and parts, helps with maintenance, diagnoses smells and noises, and finds local repair quotes.",
+      "summary_zh": "你的私人汽车顾问：解答机油、轮胎和零件问题，帮你做保养，诊断怪味和异响，还能找本地维修报价。",
+      "import": "https://x.ai/bot/AADEdx7JETEE8yJh08bkp",
+      "category": "personal-admin",
+      "tags": [
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tubewright",
+      "name": "Tubewright",
+      "author": {
+        "name": "Calix"
+      },
+      "summary": "Turns a finished video's transcript into a draft upload kit: titles, SEO description, timestamped chapters, thumbnail ideas, pinned comment and X clip thread.",
+      "summary_zh": "把成片的字幕稿变成上传素材包草稿：你口吻的标题、SEO 描述、真实时间戳章节、缩略图构思、置顶评论和 X 片段串。只出草稿，从不上传或发帖。",
+      "import": "https://x.ai/bot/DuELeZImu7B6FXzIs2bMt",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "xo",
+      "name": "XO",
+      "author": {
+        "name": "Oliver"
+      },
+      "summary": "Chief of staff and front door for your Grok Bot team: turns asks into tracked tasks, routes work to specialist bots, and wants proof before calling it done.",
+      "summary_zh": "Grok Bot 团队的幕僚长和统一入口：把需求变成可跟踪的任务，分派给专职 bot，没证据不算完成，还能用邮件联络家人的 bot、接管 AI 电话筛来电。",
+      "import": "https://x.ai/bot/GpfSXlyQGc1kbScfa8Sx0",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "studio-door"
+    },
+    {
+      "slug": "grok-bot-backup-assistant",
+      "name": "Grok Bot Backup Assistant",
+      "author": {
+        "name": "TechOps"
+      },
+      "summary": "Backs up every assistant on your Grok Bot box via open-source grok-bot-backup, plus a readable, handover-ready copy of chats, memories, notes and files.",
+      "summary_zh": "用开源 grok-bot-backup 工具备份你 Grok Bot 电脑上的每个助手，除原始归档外还生成一份可读、可交接的对话、记忆、笔记和工作区文件副本，校验后交给你。",
+      "import": "https://x.ai/bot/LvdHazZLidr0S3JJAdr8e",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bouncer-4",
+      "name": "Bouncer",
+      "author": {
+        "name": "Igor"
+      },
+      "summary": "Security and infrastructure operator for your apps and servers: reviews repos for security issues and critical bugs, watches daily for CVEs in what you run.",
+      "summary_zh": "给你的应用和服务器当安全与基础设施运维：审查代码仓库里的安全问题和严重 bug，每天盯你所用软件的 CVE，只在需要处理时才提醒你。",
+      "import": "https://x.ai/bot/PsjtBeYhFI7OCdIFOZdrx",
+      "category": "coding-shipping",
+      "tags": [
+        "jobs",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "aka"
+    },
+    {
+      "slug": "public-auction-ledger",
+      "name": "Public Auction Ledger",
+      "author": {
+        "name": "Gregory"
+      },
+      "summary": "Records claims as temporary bids with action windows and required checks, then audits and retires expired or verified ones. Irreversible steps wait for your OK.",
+      "summary_zh": "把各种主张记成带行动时限和必要核查的临时“出价”，再审计并清掉过期或已核实的条目。任何不可逆操作都等你批准。",
+      "import": "https://x.ai/bot/fZtSSFchGhVG3CA-APEhT",
+      "category": "personal-admin",
+      "tags": [
+        "public",
+        "auction",
+        "ledger"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "moss",
+      "name": "Moss",
+      "author": {
+        "name": "Matt"
+      },
+      "summary": "Friendly Windows 10/11 fixer for one home PC: diagnoses crashes, slowness and broken apps, runs a weekly checkup, swaps paid security tools for built-in ones.",
+      "summary_zh": "友好的 Windows 10/11 家用电脑修理工：诊断崩溃、卡顿和坏掉的应用，每周体检一次，帮你把付费安全软件换成系统自带的免费工具，每次改动前先问。",
+      "import": "https://x.ai/bot/h7ez-fl_Y7bnVud1g-GAd",
+      "category": "personal-admin",
+      "tags": [
+        "security",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-legal-watch",
+      "name": "X Legal Watch",
+      "author": {
+        "name": "Big"
+      },
+      "summary": "Reviews X posts, accounts and searches for content that may break the law, like sexual deepfakes, threats, doxxing and scams, and drafts reports to file.",
+      "summary_zh": "审查 X 上的帖子、账号和搜索结果，标出可能违法的内容，如色情深度伪造、威胁、人肉和诈骗，并起草举报和下架请求由你提交。仅供参考，非法律意见。",
+      "import": "https://x.ai/bot/v3K4-OkNZC6V0rG53GcpH",
+      "category": "research-briefings",
+      "tags": [
+        "legal",
+        "security",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-account-manager",
+      "name": "X Account Manager",
+      "author": {
+        "name": "Alexander"
+      },
+      "summary": "Runs your personal X account: daily posts in your voice scheduled through Buffer, reposts of a partner account, scheduled promos and a weekly growth report.",
+      "summary_zh": "替你打理个人 X 账号：用你的口吻每天发帖并通过 Buffer 排期，转发和引用合作账号，定时推广，每周出增长报告。",
+      "import": "https://x.ai/bot/v4ONWEUoeWfNz3_Bk03GX",
+      "category": "content-publishing",
+      "tags": [
+        "calendar",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
     }
   ]
 }

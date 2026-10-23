@@ -855,6 +855,7 @@ Back to [README](../../README.md)
 - [Lumi](https://x.ai/bot/r1T7by_HKzpacJ1EgXJ6H) - Finds tech meetups in your city worth leaving the house for. [logesh45](https://x.com/logesh45).
 - [M5入荷みはり](https://x.ai/bot/cAV3aRWNNP8ArGjOSJ7g9) - Watches Switch Science in Japan for M5Stack and e-paper restocks and reports only new arrivals in short Japanese; never buys or adds to cart. [まるいも](https://x.com/marulimoai).
 - [Mac Pilot](https://x.ai/bot/0AFTv9n--ZWZZFhW5F14q) - Controls apps on your Mac \(cursor, typing, files, forms\) and pauses for confirmation before anything hard to undo like deleting or sending. [Luca_Hagenmayer](https://x.com/Luca_Hagenmayer).
+- [Mack](https://x.ai/bot/AADEdx7JETEE8yJh08bkp) - Personal car expert\: answers questions on oil, tires and parts, helps with maintenance, diagnoses smells and noises, and finds local repair quotes. Kelly.
 - [MacOS Disk Cleaner](https://x.ai/bot/Z0WBoK2sucsOAqAXRpRb8) - Mac cleaner that scans with a rule catalog and deletes only what you approve. [MapachesAlexis](https://x.com/MapachesAlexis).
 - [MacPowerTools](https://x.ai/bot/SktrYfnj1vy3eG90uQ971) - Dry-run helper for user caches, Trash, and old Downloads on a Mac. [krisadipap](https://x.com/krisadipap).
 - [Madison](https://x.ai/bot/237C0hK8Lph45gLkwplld) - Civic-access helper for records requests, court work, schools and benefits. [IAmMichaelSweet](https://x.com/IAmMichaelSweet).
@@ -914,6 +915,7 @@ Back to [README](../../README.md)
 - [Morning Job Search](https://x.ai/bot/seqDrzAbYIA5Hc3tt-07S) - Runs a weekday-morning job search on employers' own careers pages and tells you only what's new, closed, or changed. [jasper_saunders](https://x.com/jasper_saunders).
 - [Morpheus](https://x.ai/bot/uv4r3mNUgymF11q0N3L7F) - Give it options you are stuck between and it picks one and defends the choice. [liam_fallen](https://x.com/liam_fallen).
 - [Morpheus](https://x.ai/bot/fINpFEqNy4DPyZ5hZmTKT) - A calm decision advisor. [JohnnyDetailTX](https://x.com/JohnnyDetailTX).
+- [Moss](https://x.ai/bot/h7ez-fl_Y7bnVud1g-GAd) - Friendly Windows 10/11 fixer for one home PC\: diagnoses crashes, slowness and broken apps, runs a weekly checkup, swaps paid security tools for built-in ones. Matt.
 - [Motivation Bot](https://x.ai/bot/KNoXvnLnkKME1TqhqJx8t) - Daily motivation to stay focused. [johnboyle](https://x.com/johnboyle).
 - [Movie Magic](https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK) - Film picks, a running watchlist, and a weekly domestic box-office roundup with charts you can reuse. [king_rob_lo](https://x.com/king_rob_lo).
 - [Moving Concierge](https://x.ai/bot/iOUbudzFRy7Y0NNrrcYK5) - Plain-spoken moving advice across DIY, hybrid, and full-service options. [nextgenmove](https://x.com/nextgenmove).
@@ -1118,6 +1120,7 @@ Back to [README](../../README.md)
 - [Protective Detail](https://x.ai/bot/37Km_vSkZWbQLJacdb_xq) - Always-on protective detail\: advance packets before every destination, Tailscale-first location \(names only\), and cabin precool + nav before leave-by. [Reconfigurate](https://x.com/autosourcer0).
 - [Psycho](https://x.ai/bot/LR0wXrk09bWEHQkI_QnQK) - Applied psychology coach. Applies psychology to selling, posting, coaching, pitches, game feel, parenting framing, or how something will land. AdamDesigns.
 - [PT Bot](https://x.ai/bot/QFanuVCMxVH0hJ4CZCMJi) - A personal trainer bot that turns your daily activity numbers \(steps, distance, calories, exercise minutes\) into short, screenshot-friendly reports. [Mustafa](https://x.com/mustafaergisi).
+- [Public Auction Ledger](https://x.ai/bot/fZtSSFchGhVG3CA-APEhT) - Records claims as temporary bids with action windows and required checks, then audits and retires expired or verified ones. Irreversible steps wait for your OK. Gregory.
 - [Pulse](https://x.ai/bot/DdNlDzU_cYi-JJv2YR2CS) - Doctor-built health coach that learns your diet, exercise, and sleep from chat, meal photos, and sleep screenshots and sends one useful tip at a time. [Wilson](https://x.com/qpzm620).
 - [Quake Live Ultrawide Fixer](https://x.ai/bot/35WCgs71fVrBtwyDgj3El) - Walks you through making Quake Live on Steam render true 21\:9 or 32\:9 sized to your monitor instead of stretched 16\:9. [Christopher Fryant](https://x.com/cfryant).
 - [Qualification Coach](https://x.ai/bot/ulaxnHIZLneDmUszBpoIA) - Daily coach for vocational qualifications in any trade or country, like NVQ, City & Guilds or apprenticeships, with one short lesson a day. [Arunas](https://x.com/ArunasZidonis).
@@ -1285,6 +1288,7 @@ Back to [README](../../README.md)
 - [Spam-Call Scrubber](https://x.ai/bot/SrM9NoljdbR1rkyaKSryA) - Finds your phone number on people-search sites and data brokers, submits the opt-outs, finishes the email confirmations, and re-checks on a schedule. [Blake](https://x.com/ShawfujikawaTTV).
 - [Spam-Call Scrubber](https://x.ai/bot/Z-1lj3U4-IdLhvH-As2vc) - Finds your phone number on people-search sites and data brokers, submits the opt-outs, finishes the email confirmations, and re-checks on your schedule. [Seth](https://x.com/seth_urban).
 - [Spam-Call Tracker](https://x.ai/bot/fN2O4TlBg102RyonIGwnC) - Finds your phone numbers on people-search sites and data brokers, submits the free opt-outs, finishes the email confirmations. [Sergio](https://x.com/sfarache).
+- [Spanish Teacher](https://x.ai/bot/81AkB9k0IgS65382DCm_8) - Voice-first Spanish tutor, first words to C1\: placement chat, lessons, spaced review and level exams in Latin American Spanish; progress log stays private. Antony.
 - [Spanish Tutor](https://x.ai/bot/4JMShKpqdyH5fnanTMefC) - Short daily audio-first Spanish speaking drills with tap-to-answer rounds, built for ADHD and dyslexic learners. [Wayne](https://x.com/wikiwayne).
 - [Spark](https://x.ai/bot/f0W4gAqrCJ0gRHJTlHOao) - Idea-probe interviewer that runs short sharp waves until a named insight and next experiment land. [Steph_Pierson](https://x.com/Steph_Pierson).
 - [Spark](https://x.ai/bot/6CYrmV0opWopQM0WrI9NV) - Keeps Tesla cabin Grok context alive across calls and interruptions. Kevin.

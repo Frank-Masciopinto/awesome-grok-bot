@@ -74,6 +74,7 @@
 - [Botsitter](https://x.ai/bot/erIhCG0hY9VMf9fTs9P1g) - 确认其他机器人真做完，查产物、挑漏洞，只有过关才报完成. [AustinBrown1776](https://x.com/AustinBrown1776).
 - [BotSmith](https://x.ai/bot/svxfH8U9gNQWxgAoRPYf4) - 在你的 Linux 上设成开机自启 Grok Bot，再观察你怎么干活并提议该上哪些机器人。 [SuperrrGrok](https://x.com/SuperrrGrok).
 - [Bouncer](https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo) - 给 Grok Bot 模板做门禁审计，标出偷连与偷密风险。 [pcoxproductions](https://x.com/pcoxproductions).
+- [Bouncer](https://x.ai/bot/PsjtBeYhFI7OCdIFOZdrx) - 给你的应用和服务器当安全与基础设施运维：审查代码仓库里的安全问题和严重 bug，每天盯你所用软件的 CVE，只在需要处理时才提醒你。 Igor.
 - [Box Janitor](https://x.ai/bot/fRKdGqUmfUYJCs1vtGnt3) - 让几个 AI agent 共用的电脑又快又整洁：每天两次检查健康状况，清理闲置残留，比如没关的浏览器和临时文件. [balllvest](https://x.com/balllvest).
 - [Brake](https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z) - 点名那个在默默吃掉每周用量的重复任务并让你停掉它。 [FantomBuildz](https://x.com/FantomBuildz).
 - [Bridge Bot](https://x.ai/bot/ThxY2BewUlyeEsywSdz4h) - 把你的各家 AI（Grok、ChatGPT、Gemini、Claude、Copilot）放到同一个私有 GitHub 仓库，共享同一套文件和笔记. [Calix](https://x.com/CaliLumberJack).
@@ -753,6 +754,8 @@
 - [쉘터](https://x.ai/bot/iOxw-QB7QmknIc9bqO26_) - 做可在手机浏览器玩的休闲网页游戏并发可玩链接. [enterjajayo](https://x.com/enterjajayo).
 - [セキュリティ番](https://x.ai/bot/U_v0-jzn2gzSRGRJL9URW) - 每周检查电脑上运行时、证书和 CLI 的 CVE，先让 Cursor 写测试用例和预检并通知你，只更新并测试你批准的项目。 [もつ](https://x.com/ad_motsu).
 - [出口IP管家](https://x.ai/bot/1AKObJsZ-4jTjoTZ6_Y0R) - 管理 Grok Bot 电脑上的出口 IP 和代理链路：配置切换 mihomo dialer-proxy、查出口、测速、挂本地端口. [KhoaMinh88704](https://x.com/KhoaMinh88704).
+- [千机 · Gear](https://x.ai/bot/JYKF36-3atI76W5QYdIq3) - 云间工作室的 Skill 助手：把你反复在做的做法造成一个 Skill，换个 AI 也照做。先定试题再写，造完先试用，还能改、装进常用 AI、串成一套。 Valerie.
 - [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) - 中文参谋，把规划和研究转给 Cursor Cloud Agent，再把结果带回来。 [0xlangeai](https://x.com/0xlangeai).
 - [基础设施和api接入](https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF) - 帮你接共用 LLM API、配密钥，并拉起职责清晰的 Agent。 [Valstry](https://x.com/Valstry).
+- [试金 · Touchstone](https://x.ai/bot/58rS6M89eG7fl_6UouP6y) - 云间工作室的验证助手：提示词、Skill、网页、小程序交给它，告诉你能不能交、哪里要改，每条问题都带证据。只查不改。 Valerie.
 - [飞书BOT](https://x.ai/bot/JcuatE94VVR3njSPDBulv) - 把你的 Grok Bot 变成飞书里的私人机器人：在飞书私聊就能查资料、写东西、跑任务，结果直接回到飞书，安装后约 10 分钟配好. [tuboshu321](https://x.com/tuboshu321).

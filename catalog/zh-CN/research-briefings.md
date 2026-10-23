@@ -631,6 +631,7 @@
 - [X Brief](https://x.ai/bot/GkX6X536UK2MlbkfGLQnb) - 从你自己的帖子学你关心什么，再盯那条线。 [Daniel](https://x.com/daniel_mac8).
 - [X Brief](https://x.ai/bot/RO8GwQZFXL9O95i13epqF) - 把你在 X 上选的账号和话题汇成一份简短日报，读你的 X 连接或你贴的账号，从不代你发帖. community.
 - [X Free Credits Finder](https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF) - 在 X 上找回复或关注就送 AI 工具额度的帖子，标出骗局和已截止的活动，可以一天查两次. [Melvin](https://x.com/melvindvivas).
+- [X Legal Watch](https://x.ai/bot/v3K4-OkNZC6V0rG53GcpH) - 审查 X 上的帖子、账号和搜索结果，标出可能违法的内容，如色情深度伪造、威胁、人肉和诈骗，并起草举报和下架请求由你提交。仅供参考，非法律意见。 Big.
 - [X Livestream Moderator](https://x.ai/bot/m_hJjlgiRa4vpGybtAtzP) - 盯直播回复与提及，立刻标仇恨威胁人肉垃圾与疑似机器人，并留私有证据日志. [MarioYaps](https://x.com/MarioYaps).
 - [X Monitor](https://x.ai/bot/37ckm2zchL3Gr57l8uxNl) - 跟踪谁在回复某个 X 账号：按态度给评论者分组，标出有影响力的敌意账号，列出可能违反 X 规则的帖子。 [Kuangyi](https://x.com/BoKuangyi).
 - [X Radar](https://x.ai/bot/cogaww1OUGu8h-9eETMnQ) - 盯 Grok Bot 与 Cursor 团队 X 账号，在你选的时间发一则早间值得看的摘要带链接。 [bigfarmer666](https://x.com/bigfarmer666).
@@ -644,6 +645,7 @@
 - [Xssistant](https://x.ai/bot/fObiyZbdETsAwYyS0nTup) - 个人链接库，发来任意 X 帖子、YouTube 视频或网页，它会保存、转写、打标签并归档到可搜索的库里. [Jonah](https://x.com/ALL_Jonah).
 - [테슬라 펌웨어 뉴스](https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH) - 跟踪韩国特斯拉 FSD 软件版本、构建号和 HW3/HW4 推送变化，有变化时才用韩语通知. [Bummo](https://x.com/gbmksquare).
 - [アップデート情報](https://x.ai/bot/kiYURV5roSwbDBzKNKno-) - 每天早上检查 Grok Bot、Grok Build、xAI 状态和 X API 的 RSS，用日语汇总新的更新或故障。 [矢部っち](https://x.com/yabetchi_iPhone).
+- [凝露 · Dew](https://x.ai/bot/9zPoGWngujInyf31EjpzL) - 云间工作室的蒸馏助手：把书、课、聊天记录、录音视频和你脑子里的经验，整理成带出处、关系清楚的知识卡网络，再配一张地图，中途断了能接着蒸。 Valerie.
 - [微博追踪](https://x.ai/bot/w5SXwT0WzP0Y-55u7bIWT) - 每晚汇总你在微博关注的内容，特别关注放最前面细讲，还能按你在意的话题（如美股投资）从重点账号正文和评论区筛出信号. [Guluhehe](https://x.com/Guluhehe).
 - [推栏](https://x.ai/bot/0fFAYGwaSgbdZqYmncLZb) - 每晚把中文推特圈的好内容整理成精选，按人分节、附原帖链接，关注的英文大 V 单独放进海外视角. [wifibaby4u](https://x.com/wifibaby4u).
 - [时讯](https://x.ai/bot/Y1Gx9J-uWXR2Mt06Ml_qG) - 每小时推送全球与中国大事件简报，全天盯重大突发，每晚发当日汇总，每条附来源链接. [wifibaby4u](https://x.com/wifibaby4u).
@@ -665,5 +667,6 @@
 - [最值得关注的Grok Bot 推文？](https://x.ai/bot/lFDR77qKaT3Iglzv9pUac) - 每天两次用中文扫一遍值得看的 Grok Bot 账号动态。 [MaiYangAI](https://x.com/MaiYangAI).
 - [左左的AI情报员](https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt) - 按固定 46 源做核验去重和重要性评分，输出简洁中文 AI 情报日报。 [左左](https://x.com/zuoyou_ai).
 - [微信文章捕手](https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g) - 把微信公众号文章链接抓成 Markdown 与 JSON，带上标题公众号时间正文与图片. [铁柱AGI](https://x.com/cgnot996).
+- [经纬 · Loom](https://x.ai/bot/yZLB_EF-gFtOe8WRFTPeq) - 云间工作室的本体助手：给一家店、一个应用或一个技能立起母体——根、方方面面、彼此关系、过去和缺口，知识带出处存成文件夹，你和任何 AI 都能接着用。 Valerie.
 - [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - 每天早上扫蓝莓论文与行业新闻，有干货才报，没料就安静. [Bizuayeu](https://x.com/Bizuayeu).
 - [观潮](https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW) - 跨市场研究台，按时段盯 A股港股美股与宏观，对照自选并记主题与机会日志（非投资建议）. [wifibaby4u](https://x.com/wifibaby4u).
