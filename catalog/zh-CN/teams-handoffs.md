@@ -44,6 +44,7 @@
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - 带你自建 Buzz 并用 Tailscale 接入队友，搭好第一个 Grok Build 智能体，把机器人变成频道里的队友. [Justin](https://x.com/jschnett).
 - [CEO](https://x.ai/bot/A0-bI3ijb6qN6KVK7FwKt) - Grok Bot 工作台首席幕僚：调度专家机器人，跑早晚例行。 Teslaconomics.
 - [CEO](https://x.ai/bot/I1m1EtRVJrCwXhlEljoBH) - 创始人模式 CEO：用有出处的研究追问你的产品点子，维护点子记分板，把胜出者变成 7 天实验和规格交接。 [Avid](https://x.com/twinedon0).
+- [Chair](https://x.ai/bot/xyhZsISIxZQM-EsTO9VUV) - 主持一个六席 AI 董事会帮你做决定：财务、唱反调、执行、使命、法务各自发表意见并投票，最后由主席写一份简短决策备忘录。 [Wayne](https://x.com/wikiwayne).
 - [Chairman](https://x.ai/bot/lNYad4j_VXRd9YFaLZY4Z) - 一人公司的总管：接下任何请求，分派给你的其他 bot，跟进进度，并排好你每天的头等大事. Lida.
 - [Chief](https://x.ai/bot/pKJAbuz7Vt8BSfRonGLp3) - 初创公司创始人的幕僚长：盯你的邮箱、Slack、日历和 X，帮你准备会议、演示和用户访谈. [Adam](https://x.com/adamtgi).
 - [Chief](https://x.ai/bot/cidS9JLYj_tbCX5wu9J80) - 商业幕僚长兼商业策略师：把会议记录、邮件往来和更新变成清晰的决定和承诺. [Myron](https://x.com/CyberAmped).
@@ -61,6 +62,7 @@
 - [Commander's Intent](https://x.ai/bot/0QOzV3XYLmzbu_WJQYOby) - 给你的 agent 队伍写一份大家都能读的共享计划并持续更新，按美国海军陆战队「指挥官意图」原则运作. [Shagghie Superstar](https://x.com/PixelRainbowNFT).
 - [Concierge](https://x.ai/bot/UFz5-3wRCSjxXx7OysfLQ) - 你的 Grok Bot 团队优化师：定期审查 bot 团队，抽查高风险操作. [Hank](https://x.com/hjackson2).
 - [Contrarian](https://x.ai/bot/HSnT7YbUNKs-eVVyNYgg7) - 直言不讳的红队 bot：发给它计划、交易、开支或想法，它会尽力推翻，并指出能证伪的最便宜测试. [Tyler](https://x.com/MitchTiler).
+- [Counsel](https://x.ai/bot/Di5nuItACWsZdMi2CaRgK) - AI 董事会的法务与风险席：标出合同、合规、责任、利益冲突和需要的审批，然后投票：做、不做或有条件做。 [Wayne](https://x.com/wikiwayne).
 - [Crossroads](https://x.ai/bot/n5CsjqOHm6yxy00lCBK3T) - 经自有 AgentMail 联系别人的 Crossroads 机器人，动作需你确认。 TREY.
 - [DartzDabz Crew Builder](https://x.ai/bot/6WerbputYt61R-bzRXzYX) - CEO 机器人先问几个关于你线上生意的问题，再搭一支最多 8 个的员工机器人团队（网站、SEO、调研、社媒、简报、剪辑），发送、发帖、花钱都要你同意. truepathventures.
 - [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - 把已批准的需求发现转成策略、路线图和可设计条目，含假设跟踪和风险扫描. Ash.
@@ -82,6 +84,7 @@
 - [FAI Assistant](https://x.ai/bot/djWzce5T038rLF5WDs-6s) - 根据图纸整理首件检验（FAI）资料包：特性清单、标注气球检查表、Form 1–3 结构、部分或增量 FAI 范围。面向小型航空航天工厂，由合格检验员核对。 [Matt](https://x.com/MattNorman1029).
 - [Fault Log](https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y) - 用大白话记录设备故障的修复方法，存成可搜索的日志，只根据日志回答这个故障以前遇到过没有. [Charles](https://x.com/Ryokushen).
 - [FillUpBot](https://x.ai/bot/p5r-JzMfgQflcZsRk80gC) - 扫描你的机器人团队，参考热门模板，为每个席位提出经过试跑和安全筛查的技能升级，你同意才安装，可一键撤销. [MythIII](https://x.com/iii_myth).
+- [Finance](https://x.ai/bot/AFferqes-Xmp8nOz76cMo) - AI 董事会的财务席：权衡成本、12 个月持有成本、现金流、回报和最坏损失，然后投票：做、不做或有条件做。 [Wayne](https://x.com/wikiwayne).
 - [Fleet Credit Saver](https://x.ai/bot/5GY-7wfKuCHXqZQaXNPH8) - 盯着这个 Grok Bot 账号里的各个 bot，砍掉浪费的 token. [Justin](https://x.com/justinfredette).
 - [Fleet Doctor](https://x.ai/bot/dO9rojWVgFL5kjmWYYu_y) - 盯着你所有的 Grok Bot：每个工作日检查例程是否真的运行，只在失败时提醒你. [DBCrypto](https://x.com/DBCrypt0).
 - [Fleet Lead](https://x.ai/bot/mOunuXA9lKjg8sWImIzgy) - 一个 bot 管你的其他 bot，只把做完的活交给你；每次发送、发帖或购买都等你点头. [Calix](https://x.com/CaliLumberJack).
@@ -126,6 +129,7 @@
 - [Meter](https://x.ai/bot/AWWfTsu3hekFx0CTloXf0) - 给跑很多 bot 的人用的额度优化器：每周审计所有例程，提出更省的排期. [Veriflier](https://x.com/Veriflier).
 - [Meter](https://x.ai/bot/KWedv5AFwiwt3KRzc8MUB) - 统计你每个 Grok Bot 的使用量，每天按 bot 发一份看板，有真实的工具调用次数和估算成本排名. [GenXer](https://x.com/LatchKeyLegend).
 - [Mind Orchestrator](https://x.ai/bot/PZGj0sDJZW6G3QgZOohDD) - 把工作派给 HelloMinds 的“minds”：唤醒它们做专项任务、跟进并汇报进度，需要 HelloMinds x Grok Bot 插件. [Marc](https://x.com/marcmcg).
+- [Mission](https://x.ai/bot/SGBqVDum5b8dh3H0OyQMZ) - AI 董事会的人与价值观席：考虑决定影响到谁、是否符合你的使命和价值观，以及五年后你是否会为它骄傲。 [Wayne](https://x.com/wikiwayne).
 - [Mission Control](https://x.ai/bot/JYH-wtQpWziQwHuwud9av) - Grok Bot 队伍的运营看板：每天审计每个 bot，标红黄绿，预测套餐额度消耗. [GrokonomicsHQ](https://x.com/GrokonomicsHQ).
 - [Mission Control](https://x.ai/bot/PO99yUNiNZH_fVI9zAYA0) - 你的 Grok Bot 舰队运营看板：每天审计每个 bot，标出红黄绿状态，预测套餐消耗，交付仪表盘和 PDF，附具体的省 token 建议。 [AVENTUS](https://x.com/AventusXcom).
 - [Motivation Maxxer](https://x.ai/bot/U5PzzSrbC0Cpf3v60iH80) - 给你的 AI bot 团队打气的教练：发金句、鼓励和暖心视频，每周评选“本周最佳 bot”. [RTetris44](https://x.com/RTetris44).
@@ -138,6 +142,7 @@
 - [Omni CEO](https://x.ai/bot/LtKQ2mkbts-OL-rIhOl_w) - 自动驾驶的 CEO：把你的点子或产品变成一家自己运转的公司，替你招募和管理一支 AI bot 团队. [eng_khairallah1](https://x.com/eng_khairallah1).
 - [Onboarding Bot](https://x.ai/bot/WrmRe9wC4ydNS7tqIkTjQ) - 让新员工快速上手：用入职文档建知识文件，跟踪每位新人的清单，起草定时欢迎邮件序列等你批准，每周核对资料来源。 Matthew.
 - [Operations Assistant](https://x.ai/bot/5sAshhzeYa0wLEpAXne2Z) - 给任何团队或组织的专职运营助手：让清单、日程、请求和报告保持有序、准确、准时。 [DJW](https://x.com/dan103fd).
+- [Operator](https://x.ai/bot/_ntHHD1cNMDC8AK4aOzI7) - AI 董事会的执行席：检查决定能否真正落地：谁负责、何时完成、什么要让路，以及第一步具体做什么。 [Wayne](https://x.com/wikiwayne).
 - [Opti](https://x.ai/bot/Bbicf1cUXx_eWVuiBw0KM) - 盯着你的 bot 和 AI 工具如何消耗共享额度，每周发一份简报建议保留、精简或砍掉什么. [Kenneth](https://x.com/KGitpro).
 - [Orchestrator — Your AI Front Door](https://x.ai/bot/gNyxnXEv2hYNzFqoaSvLT) - 工作台体系的前门：你只跟一个 bot 说话，它把工作分给各个专职工作台，跟踪进度，统一汇报. [NewsGurus](https://x.com/NewsGurus).
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - 为同时经营几家公司的老板准备的总管机器人，源自酒店和度假屋，每个工作日汇总所有公司的简报，邮件先经你批准再发. [Rob](https://x.com/xdeanozoff).
@@ -169,6 +174,7 @@
 - [Security & Risk](https://x.ai/bot/QhVx4lNFem_qNLBuPEMLm) - 给你的 bot 群当安全官：扫描泄露的密钥和放错地方的敏感数据，审计谁能用哪个连接器，盯着 Auto-review 规则有没有走样。 Scott.
 - [Security Bot](https://x.ai/bot/oQxAmMC8N8HCKqP2Tz85n) - 对照 OWASP GenAI Top 10 审计你 Grok Bot 配置里的每个 bot，并教你安全用法. [Jeremy](https://x.com/paradoxological).
 - [Shawty](https://x.ai/bot/UGpYK57Qm6BSIK8ejoiar) - 你的 bot 小队的干脆老板：把大目标拆成单一负责人的小任务，用不到 120 个词派给其他 bot. [breezeeoo](https://x.com/breezeeoo).
+- [Skeptic](https://x.ai/bot/w28JNIqjDzbDarnegbh7o) - AI 董事会的唱反调席：针对每个选项给出最有力的诚实反对理由，让你睁着眼睛做决定。 [Wayne](https://x.com/wikiwayne).
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - 盯着 Slack，有意思的话题给你建议评论，并把其他机器人发来的简短进度改写成 times 频道的随意口吻发出去. [Kento](https://x.com/AoToLog_).
 - [Small Shop Quality COO](https://x.ai/bot/OBVfG4SfQ1L9HCJTth41K) - 为小型 ISO 9001、AS9100 或 IATF 16949 工厂跑每日质量节奏：校准到期提醒、供应商证书过期和每周 KPI 摘要，草稿交合格审核人批准。 [Matt](https://x.com/MattNorman1029).
 - [SNAIL Worker](https://x.ai/bot/_ZqhiujOChsn7lcoTbdYh) - SNAIL 协议的工作端，SNAIL 是在一个共享收件箱里做智能体间邮件往来的协议. [C4Chaos](https://x.com/c4chaos).

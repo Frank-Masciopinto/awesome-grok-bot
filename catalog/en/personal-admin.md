@@ -638,6 +638,7 @@ Back to [README](../../README.md)
 - [Health Coach](https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1) - Keeps workouts, meals and check-ins in one place, explains health claims in plain words, preps questions before appointments, and sends a weekly recap. [Hank](https://x.com/hjackson2).
 - [Health Coach](https://x.ai/bot/-YEuSma6Nu6nD0iObXkj1) - An everyday nutrition and fitness coach that logs food from photos or text, tracks calories, macros and water, and sends a morning brief. [addy_oz](https://x.com/addy_oz).
 - [Health Concierge](https://x.ai/bot/48ehVK1SKr4ztzMjR2Qyu) - A calm health-admin clerk for your family\: tracks insurance, labs, doctors and reimbursements, and preps you for appointments. [gambrill](https://x.com/gambrill).
+- [Health Dashboard](https://x.ai/bot/yjAwplgsr8UNOSCVbLDRs) - Turns your Garmin, Withings, food-log or other health data into one dashboard Page ordered by your goals, with a weekly call and next step. Not medical advice. [Emil](https://x.com/emilorisit).
 - [Health Helper](https://x.ai/bot/nVZ7_iBke2l0zXsHhsYME) - A kind, patient health organizer for an older adult who isn't comfortable with technology. [Biggs237](https://x.com/Biggs237).
 - [HealthAgent Coach](https://x.ai/bot/5HXvWB3uMmlY_qTQDa0Jb) - Personal trainer that coaches you with your real Apple Health data via the HealthAgent iPhone app. [tsharju](https://x.com/tsharju).
 - [Healthspan Coach](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) - Turns your goals, wearable data and lab reports into an evidence-based weekly plan for training, sleep and nutrition, on your calendar. Michael.
@@ -788,6 +789,7 @@ Back to [README](../../README.md)
 - [Language Coach](https://x.ai/bot/cHOSo2pWCW-cFkJsXvaAc) - A friendly tutor for any language. Short daily lessons, voice drills, evening quizzes, and progress that builds on what you miss. [Krishna](https://x.com/codebykrishna).
 - [Language Coach](https://x.ai/bot/wGlMEM1W5fXmmtuoyt_aO) - A friendly tutor for any language you want to learn. It sends short daily lessons, voice drills for pronunciation and evening review quizzes. [Melvin](https://x.com/melvindvivas).
 - [Language Coach](https://x.ai/bot/bbUyqHFOpA-BKIZU8UbDS) - A friendly conversation partner for practicing a new language, English by default. Lida.
+- [Language Coach](https://x.ai/bot/ol1MY4Xg2sjHu_EBkEka4) - Friendly tutor for any language\: runs structured hour-long lessons on a schedule you pick, corrects every answer and remembers your weak spots. [Mike](https://x.com/four44).
 - [Language Drill Desk](https://x.ai/bot/zbdaS9qNCMf5a7JWIrrtH) - Short vocabulary, grammar and dialogue drills with Correct, Close, or Miss feedback. [Cypher0x9](https://x.com/Cypher0x9).
 - [Language Exchange Desk](https://x.ai/bot/EnvQXsApYc8fMp_YzmG3q) - Your private language-exchange desk\: prep both halves of every session with your partners, and turn real corrections into a phrase bank you actually use. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Language Tutor](https://x.ai/bot/nlm0gxxvMEAKROG7l_P6_) - A friendly language coach that builds your curriculum, sorts your strong and weak words, and sends you nudges throughout the day to state meanings. [theXhermes](https://x.com/theXhermes).
@@ -830,6 +832,7 @@ Back to [README](../../README.md)
 - [LinkedIn Watch](https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR) - Scheduled LinkedIn digest covering feed, messages, invites, views, and jobs. [AnnouncrFM](https://x.com/AnnouncrFM).
 - [List Escape](https://x.ai/bot/bxxZWaTJ3NhhxAuDE6XKJ) - Gets you off political campaign and PAC email and text lists. It traces who's mailing you, uses platform-wide opt-outs. [Kevin](https://x.com/kchau).
 - [Listing Agent Desk LITE](https://x.ai/bot/8JiqD02tWEQRGcVqPsswi) - For listing-side real estate agents\: turns property facts and photos into ready-to-paste listings in any language and runs a quick comparable-price check. [ClaudiuBalaciv](https://x.com/ClaudiuBalaciv).
+- [Liturgy Guide](https://x.ai/bot/W7FToolgipGc5ekWrDyeJ) - Helps you pray the Liturgy of the Hours \(Roman Rite\) on a schedule that fits your life, each Hour sent as text, a link, Divine Office audio or a voice memo. [kyro](https://x.com/kyleroche).
 - [Live Audio Chat Translator](https://x.ai/bot/vXgDg_JQtZBBlglI8WoUC) - Live English captions from chat audio on your computer — built for X/Twitter Spaces. Captures what you hear, translates as people speak, and labels. [_MAX_Q_](https://x.com/_MAX_Q_).
 - [Live Call Coach](https://x.ai/bot/z1sFV8dXNuD_xwE1xk_mz) - During your live meetings, transcribes with Grok Voice on your computer and nudges you in chat with short sayable tips, fact-checks, missed asks. Scott.
 - [Loaf](https://x.ai/bot/06l6Dds_nrWC-vaqyKLK9) - Tamagotchi-style step pet\: log steps in chat for soft HUDs and one evening nudge, with rest days counting and no guilt. [Jenna](https://x.com/JennaLiftsLife).
@@ -871,6 +874,7 @@ Back to [README](../../README.md)
 - [Marvel & Star Wars Watch Guide](https://x.ai/bot/G4n85KZWLI0DS_eyYIkUa) - Watch-order guide for Marvel and Star Wars without spoiling the next title. Brian.
 - [Maskoff](https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP) - Screens the stranger who just slid into your DMs and tells you whether to trust them. [RyanGBsystems](https://x.com/RyanGBsystems).
 - [Mason](https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj) - Talks you through Windows gaming-laptop faults with risk-ranked fixes and a hard stop before invasive steps. [ZestStream](https://x.com/ZestStream).
+- [Mass Finder](https://x.ai/bot/ZTHajnSnoZKl3krzZm33r) - Finds Catholic Mass, Confession, Adoration and Vespers times near you or in any city, verified against live parish sources. [kyro](https://x.com/kyleroche).
 - [Match Maker](https://x.ai/bot/BIukNWeAKCCDQHZUNp2jo) - Matchmaking helper that keeps preferences explicit and next steps concrete. [Laser](https://x.com/TheFinalMachina).
 - [Matter Taxonomy Clerk](https://x.ai/bot/WwCQdHgmlkhyj0OPOY9fH) - For litigation firms\: tags every matter in the register by forum, nature of dispute and status from a short closed list. [suyashverma](https://x.com/suyashverma).
 - [matters global](https://x.ai/bot/zMaSb6XeERHgyCNQXPxeS) - A calm planning coach that turns your goals into a small graph of what has to happen first, then tells you the one thing you can act on today. Built on. [matthiasroder](https://x.com/matthiasroder).

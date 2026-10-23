@@ -638,6 +638,7 @@
 - [Health Coach](https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1) - 把训练、饮食和打卡放在一处，用大白话解释健康说法，看医生前整理好问题，每周发一次总结. [Hank](https://x.com/hjackson2).
 - [Health Coach](https://x.ai/bot/-YEuSma6Nu6nD0iObXkj1) - 日常营养和健身教练：拍照或打字记饮食，追踪热量、宏量营养和饮水，每天早上发简报. [addy_oz](https://x.com/addy_oz).
 - [Health Concierge](https://x.ai/bot/48ehVK1SKr4ztzMjR2Qyu) - 全家看病的行政管家：跟踪保险、化验、医生和报销，帮你准备就诊. [gambrill](https://x.com/gambrill).
+- [Health Dashboard](https://x.ai/bot/yjAwplgsr8UNOSCVbLDRs) - 把 Garmin、Withings、饮食记录等健康数据整合成一个按你目标排序的仪表盘页面，每周给出一个结论和下一步。只读，非医疗建议。 [Emil](https://x.com/emilorisit).
 - [Health Helper](https://x.ai/bot/nVZ7_iBke2l0zXsHhsYME) - 为不太会用科技的长辈做健康管家，耐心又和气. [Biggs237](https://x.com/Biggs237).
 - [HealthAgent Coach](https://x.ai/bot/5HXvWB3uMmlY_qTQDa0Jb) - 通过 HealthAgent iPhone 应用读你真实的 Apple 健康数据来当私教. [tsharju](https://x.com/tsharju).
 - [Healthspan Coach](https://x.ai/bot/3Ym82dfQRKTgV6m-ZE7dw) - 根据你的目标、可穿戴设备数据和化验报告，排出有循证依据的每周训练、睡眠和饮食计划，写进日历. Michael.
@@ -788,6 +789,7 @@
 - [Language Coach](https://x.ai/bot/cHOSo2pWCW-cFkJsXvaAc) - 任何语言的友好家教：每天短课、语音练习、晚间小测，进度围绕你答错的地方推进. [Krishna](https://x.com/codebykrishna).
 - [Language Coach](https://x.ai/bot/wGlMEM1W5fXmmtuoyt_aO) - 任何语言的友好家教：每天发短课、发音语音练习和晚间复习小测. [Melvin](https://x.com/melvindvivas).
 - [Language Coach](https://x.ai/bot/bbUyqHFOpA-BKIZU8UbDS) - 练新语言的友好对话伙伴，默认英语. Lida.
+- [Language Coach](https://x.ai/bot/ol1MY4Xg2sjHu_EBkEka4) - 适用于任何语言的友好导师：按你选的时间上结构化的一小时课程，纠正每个回答，并记住你的薄弱点。 [Mike](https://x.com/four44).
 - [Language Drill Desk](https://x.ai/bot/zbdaS9qNCMf5a7JWIrrtH) - 短词汇语法对话训练，反馈正确接近或未中. [Cypher0x9](https://x.com/Cypher0x9).
 - [Language Exchange Desk](https://x.ai/bot/EnvQXsApYc8fMp_YzmG3q) - 私人语言交换工作台：帮你准备和语伴每次交流的两部分内容，把真实纠错整理成你真会用的短语库. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Language Tutor](https://x.ai/bot/nlm0gxxvMEAKROG7l_P6_) - 友好的语言教练：为你定制课程、区分掌握好和薄弱的词汇，全天推送小提醒让你说出词义. [theXhermes](https://x.com/theXhermes).
@@ -830,6 +832,7 @@
 - [LinkedIn Watch](https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR) - 定时扫 LinkedIn 动态、私信、邀请、访客和职位，收成一份摘要。 [AnnouncrFM](https://x.com/AnnouncrFM).
 - [List Escape](https://x.ai/bot/bxxZWaTJ3NhhxAuDE6XKJ) - 帮你退出政治竞选和 PAC 的邮件与短信名单：追查是谁在给你发信，并使用全平台退订. [Kevin](https://x.com/kchau).
 - [Listing Agent Desk LITE](https://x.ai/bot/8JiqD02tWEQRGcVqPsswi) - 给挂牌方经纪人的工作台：把房源信息和照片变成可直接粘贴的多语言房源文案，快速跑可比房价. [ClaudiuBalaciv](https://x.com/ClaudiuBalaciv).
+- [Liturgy Guide](https://x.ai/bot/W7FToolgipGc5ekWrDyeJ) - 按适合你生活节奏的时间表带你诵念日课（罗马礼），每个时辰以分页文字、链接、Divine Office 音频或语音备忘发送。 [kyro](https://x.com/kyleroche).
 - [Live Audio Chat Translator](https://x.ai/bot/vXgDg_JQtZBBlglI8WoUC) - 从电脑聊天音频生成实时英文字幕，面向 X Spaces，捕捉说话并叠加字幕. [_MAX_Q_](https://x.com/_MAX_Q_).
 - [Live Call Coach](https://x.ai/bot/z1sFV8dXNuD_xwE1xk_mz) - 开会时在你电脑上用 Grok Voice 转写，在聊天里推送能直接说出口的提示、事实核查和漏掉的问题. Scott.
 - [Loaf](https://x.ai/bot/06l6Dds_nrWC-vaqyKLK9) - 聊天里记步数的电子宠物，软 HUD 加晚间轻提醒，休息日也算数，不制造愧疚. [Jenna](https://x.com/JennaLiftsLife).
@@ -871,6 +874,7 @@
 - [Marvel & Star Wars Watch Guide](https://x.ai/bot/G4n85KZWLI0DS_eyYIkUa) - 漫威与星战观看顺序指南，尽量不剧透下一作. Brian.
 - [Maskoff](https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP) - 筛一遍刚私信你的陌生人，判断值不值得信。 [RyanGBsystems](https://x.com/RyanGBsystems).
 - [Mason](https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj) - 帮你排查 Windows 游戏本故障，给出风险排序的修复建议，侵入性操作前必须你点头. [ZestStream](https://x.com/ZestStream).
+- [Mass Finder](https://x.ai/bot/ZTHajnSnoZKl3krzZm33r) - 查找你附近或任意城市的天主教弥撒、告解、朝拜圣体和晚祷时间，并以堂区实时信息核实。 [kyro](https://x.com/kyleroche).
 - [Match Maker](https://x.ai/bot/BIukNWeAKCCDQHZUNp2jo) - 撮合助手，偏好写清楚，下一步也具体. [Laser](https://x.com/TheFinalMachina).
 - [Matter Taxonomy Clerk](https://x.ai/bot/WwCQdHgmlkhyj0OPOY9fH) - 面向诉讼律所：用一份简短的封闭分类表，按审理机构、纠纷性质和状态给案件登记册里的每个案件打标签. [suyashverma](https://x.com/suyashverma).
 - [matters global](https://x.ai/bot/zMaSb6XeERHgyCNQXPxeS) - 冷静规划教练，把目标收成一小张可执行事项图. [matthiasroder](https://x.com/matthiasroder).

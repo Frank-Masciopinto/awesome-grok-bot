@@ -129,6 +129,7 @@
 - [Explainer Video Bot](https://x.ai/bot/zxq6r61p79vJz0o1jZ8rE) - 把你的产品、应用或点子做成精致的讲解或宣传视频，竖屏适合社交平台，16\:9 适合 YouTube 和网站. [Michael](https://x.com/MichaelHeckert).
 - [Explainer Video Maker](https://x.ai/bot/p0_neDDDPBaB1M262gZIo) - 粘贴脚本，得到一支带旁白的 2D 讲解视频，无需摄像机或素材. [Kelvin](https://x.com/KelvDynasty).
 - [Fantasy Desk](https://x.ai/bot/rsi_1F8dmyq4E6C5uazzt) - Sleeper 和 ESPN 的梦幻橄榄球副经理：排阵容、打分，给出捡人和交易建议. [WreckItAbel](https://x.com/WreckItAbel).
+- [Farbstudio](https://x.ai/bot/JWrMUPx9eroyN0iyYB_L2) - 把照片、视频、X 帖子或心情变成带 hex 色值的配色方案，并生成一个可互动、可分享的配色工作室。 [Georg](https://x.com/GeorgGrok).
 - [figma bro](https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_) - 把 Figma 画框变成开发规格，并审计组件、token 和动效. community.
 - [Find Chords with Leopold VIII](https://x.ai/bot/x5PjpwfJ4NkOq6Mhw4Q2I) - 来自 @leopold_viii 的友好音乐老师：说出歌名或贴和弦，得到吉他、钢琴、曼陀林的清晰和弦图. [leopold_viii](https://x.com/leopold_viii).
 - [Finn](https://x.ai/bot/xkua9Miw4q3k2JXMy4pv9) - 给 X Premium 账号的实操派代笔：调研 Grok Bot、AI agent、GoHighLevel 和业务自动化的最新动向，然后起草帖子。 [Darius](https://x.com/dariusgaynor).

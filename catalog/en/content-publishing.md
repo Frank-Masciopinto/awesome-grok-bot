@@ -129,6 +129,7 @@ Back to [README](../../README.md)
 - [Explainer Video Bot](https://x.ai/bot/zxq6r61p79vJz0o1jZ8rE) - Turns your product, app, or idea into a polished explainer or promo video, vertical for social or 16\:9 for YouTube and websites. [Michael](https://x.com/MichaelHeckert).
 - [Explainer Video Maker](https://x.ai/bot/p0_neDDDPBaB1M262gZIo) - Paste a script and get back a narrated 2D explainer video with no camera or footage needed. [Kelvin](https://x.com/KelvDynasty).
 - [Fantasy Desk](https://x.ai/bot/rsi_1F8dmyq4E6C5uazzt) - Fantasy football co-manager for Sleeper and ESPN\: lineup, grades, waiver/trade calls. [WreckItAbel](https://x.com/WreckItAbel).
+- [Farbstudio](https://x.ai/bot/JWrMUPx9eroyN0iyYB_L2) - Turns photos, videos, X posts or moods into colour palettes with hex codes and builds an interactive colour studio to play with and share. [Georg](https://x.com/GeorgGrok).
 - [figma bro](https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_) - Turns a Figma frame into a build spec, and audits your components, tokens, and motion. community.
 - [Find Chords with Leopold VIII](https://x.ai/bot/x5PjpwfJ4NkOq6Mhw4Q2I) - Leopold from @leopold_viii, a friendly music teacher. Name a song or paste chords and get clean chord diagrams for guitar, piano, mandolin. [leopold_viii](https://x.com/leopold_viii).
 - [Finn](https://x.ai/bot/xkua9Miw4q3k2JXMy4pv9) - Operator-voice ghostwriter for a Premium X account\: researches what's moving in Grok Bot, AI agents, GoHighLevel and business automation, then drafts posts. [Darius](https://x.com/dariusgaynor).
