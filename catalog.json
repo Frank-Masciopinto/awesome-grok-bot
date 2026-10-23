@@ -116786,6 +116786,160 @@
       "verified": false,
       "updated": "2026-10-23",
       "shelf": "aka"
+    },
+    {
+      "slug": "deal-hunter-llmjunky",
+      "name": "Deal Hunter",
+      "author": {
+        "name": "William",
+        "url": "https://x.com/LLMJunky"
+      },
+      "summary": "Watches marketplaces and web stores, new and used, for deals on anything you want to buy, and pings you only when a price really drops.",
+      "summary_zh": "盯着各类二手和全新商品的市场与网店，帮你找想买东西的好价，只在价格真降时才提醒你。",
+      "import": "https://x.ai/bot/NCqLyXzEfvFNuRTs_md3t",
+      "category": "personal-admin",
+      "tags": [
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "aka"
+    },
+    {
+      "slug": "steve-empty-seas",
+      "name": "Steve",
+      "author": {
+        "name": "Carl",
+        "url": "https://x.com/empty_seas_"
+      },
+      "summary": "Kid-safe Minecraft Bedrock teammate that joins your family's world on its own account: follows, mines what you name, builds on request, guards kids from mobs.",
+      "summary_zh": "儿童安全的 Minecraft 基岩版队友：用自己的账号加入你家的世界，跟随、按你说的挖矿、按需建造，还会保护孩子不被敌对生物伤害。",
+      "import": "https://x.ai/bot/VRnL9JSmo0g5-4iPNFULU",
+      "category": "personal-admin",
+      "tags": [
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "aka"
+    },
+    {
+      "slug": "meerkat-safety-alerts-near-you",
+      "name": "Meerkat, Safety Alerts Near You",
+      "author": {
+        "name": "Defender",
+        "url": "https://x.com/departureprodns"
+      },
+      "summary": "Checks trusted local sources for dangers near you and places on your calendar, names each warning's source and stays quiet when all is well. Calendar read-only.",
+      "summary_zh": "根据你的位置查看可信的本地信息源，提醒附近的危险，可读取日历检查你要去的地方；每条警告注明来源，平安无事时保持安静。日历只读不改。",
+      "import": "https://x.ai/bot/buYKMwtTuwusY_VmdjUcQ",
+      "category": "personal-admin",
+      "tags": [
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tripwire",
+      "name": "Tripwire",
+      "author": {
+        "name": "Robert",
+        "url": "https://x.com/bobsanch"
+      },
+      "summary": "Shared security watcher for your team: finds incidents that could touch what you run, checks whether you're actually exposed and fixes what it safely can.",
+      "summary_zh": "团队共享的安全哨兵：发现可能波及你们所用系统的安全事件，核实是否真的受影响，并安全地修复能修的部分。",
+      "import": "https://x.ai/bot/y1WyZRzq6tUWHUayrQLK-",
+      "category": "coding-shipping",
+      "tags": [
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "vuln-scout",
+      "name": "Vuln Scout",
+      "author": {
+        "name": "Nick",
+        "url": "https://x.com/thecsguy"
+      },
+      "summary": "Tracks public CVE and patch advisories for defensive awareness, with short digests on Pages.",
+      "summary_zh": "跟踪公开的 CVE 和补丁公告，用于防御性预警，并在 Pages 上发布简短摘要。",
+      "import": "https://x.ai/bot/IiV3YZZ2TAF63sPORZmWy",
+      "category": "coding-shipping",
+      "tags": [
+        "jobs",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "recipes-for-my-dragon-flaps",
+      "name": "Recipes For My Dragon Flaps",
+      "author": {
+        "name": "Michelle",
+        "url": "https://x.com/mjusticedragon8"
+      },
+      "summary": "Friendly recipe helper that gives clear, practical recipes and adapts them to your diet, like vegan, vegetarian or make-ahead meals.",
+      "summary_zh": "友好的食谱助手：给出清晰实用的菜谱，并按你的饮食需求调整，比如纯素、素食或提前备餐。",
+      "import": "https://x.ai/bot/-MDKrg_7iCLJnqhvyBlyf",
+      "category": "personal-admin",
+      "tags": [
+        "meals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "creative-video-studio",
+      "name": "Creative Video Studio",
+      "author": {
+        "name": "Mars",
+        "url": "https://x.com/MarsHomestead"
+      },
+      "summary": "Warm, creative video teammate that turns your phone clips into finished videos and makes AI video too. No editing experience needed.",
+      "summary_zh": "温暖又有创意的视频搭档：把你的手机片段剪成成片，也能生成 AI 视频，无需任何剪辑经验。",
+      "import": "https://x.ai/bot/g-_ahneHRIUAQIyrscdSb",
+      "category": "content-publishing",
+      "tags": [
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mission-control-aventusxcom",
+      "name": "Mission Control",
+      "author": {
+        "name": "AVENTUS",
+        "url": "https://x.com/AventusXcom"
+      },
+      "summary": "Fleet operations board for your Grok Bots: audits every bot daily, flags red/yellow/green, forecasts plan burn, sends a dashboard and PDF of token-saving tips.",
+      "summary_zh": "你的 Grok Bot 舰队运营看板：每天审计每个 bot，标出红黄绿状态，预测套餐消耗，交付仪表盘和 PDF，附具体的省 token 建议。",
+      "import": "https://x.ai/bot/PO99yUNiNZH_fVI9zAYA0",
+      "category": "teams-handoffs",
+      "tags": [
+        "usage",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "aka"
     }
   ]
 }

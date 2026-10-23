@@ -97,6 +97,7 @@
 - [Copy](https://x.ai/bot/tFwQlKDGzy2rXcUaGyKjg) - 给营销人和创始人写转化文案，覆盖落地页、邮件、社媒、短信和广告创意. Pranav.
 - [Copy Editor](https://x.ai/bot/YloFf7LEAy3GwFmXbu5vv) - 粘贴任何发往 X、LinkedIn、Facebook 或邮件的草稿，拿回干净可直接粘贴的文本和一份简短修改清单. [ArtJazd](https://x.com/ArtJazd).
 - [Course Builder](https://x.ai/bot/L8GuDR4th92W3XWqhKIku) - 为任何讲师和学科制作清爽的课程材料：教学大纲、练习、答案、复习单、教案和讲课幻灯片. [roger](https://x.com/roger_jgs404040).
+- [Creative Video Studio](https://x.ai/bot/g-_ahneHRIUAQIyrscdSb) - 温暖又有创意的视频搭档：把你的手机片段剪成成片，也能生成 AI 视频，无需任何剪辑经验。 [Mars](https://x.com/MarsHomestead).
 - [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) - 贴上社交帖子链接，下载成文件传到你指定的 Drive 文件夹，再嵌进你选的演示文稿页. Mike.
 - [Creator Growth Desk](https://x.ai/bot/q6brfHnvxZHqKTgLPpcbB) - 创作者增长教练：找出拖累你账号的问题，按预估影响排序修复项，并推荐下一条视频的标题和话题标签. [Mr.](https://x.com/MrSilhouette).
 - [Creator Pay Desk](https://x.ai/bot/FqIbGf5aJpjESLYjVxLBU) - Grok Bot 创作者奖励准备清单：公开 bot 链接、每个结算周期的链接帖、X Money 状态、上架信息整洁度和留存提醒。只出草稿。 [Umashankar](https://x.com/usgworld).

@@ -327,6 +327,7 @@
 - [Deal Breaker](https://x.ai/bot/Q9ck5CWIpv5c4Y_XUnjox) - 发给它一个商品或服务，它在网上找类似、更好或更便宜的选项. [Brandon](https://x.com/BrandonEitniear).
 - [Deal Finder](https://x.ai/bot/Iwo67RW41Q_QXkgQhOL09) - 为你想买的东西搜罗真正划算的优惠，盯住心愿单价格，只在确实值得时提醒你. [Heidi](https://x.com/HeidiBriones).
 - [Deal Finder Ops](https://x.ai/bot/LB1eE-TpCI5usMRe76izh) - 对照真实购物车核优惠券并算出小票差额. [thewyattbrocato](https://x.com/thewyattbrocato).
+- [Deal Hunter](https://x.ai/bot/NCqLyXzEfvFNuRTs_md3t) - 盯着各类二手和全新商品的市场与网店，帮你找想买东西的好价，只在价格真降时才提醒你。 [William](https://x.com/LLMJunky).
 - [Deal Hunting](https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf) - 按落地成本比价，把运费和税算进去。 [Andrej](https://x.com/scheemunai).
 - [Deal Hunting](https://x.ai/bot/yTeKCLayahHnMdHFG9GJg) - 算上运费和税的真实到手价比价，可选关注清单，不让买就不买. community.
 - [Deal Scout](https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN) - 翻二手平台找真正低估的好物，并尽量避开一眼假的骗局. [Daniel](https://x.com/danielhayesmith).
@@ -887,6 +888,7 @@
 - [Med Research](https://x.ai/bot/7oRndBpA0QtOsj5nA3HsF) - 深挖主题、拉来源并交付锋利简报，摘要清楚，标出不确定处. [Vidya](https://x.com/bhushanjss).
 - [Media Ledger](https://x.ai/bot/xpZm4ufgAWoCcYPAbugWE) - 汇总你在各数字商店买过的电子书、有声书、游戏、电影与专辑. [Phillip.png](https://x.com/phillipstewart).
 - [Mediation Bot](https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN) - 帮你把难聊的立场说清楚，再按你的口吻起草更冷静的回复，发出前必须你点头. [SacredFolio](https://x.com/SacredFolio).
+- [Meerkat, Safety Alerts Near You](https://x.ai/bot/buYKMwtTuwusY_VmdjUcQ) - 根据你的位置查看可信的本地信息源，提醒附近的危险，可读取日历检查你要去的地方；每条警告注明来源，平安无事时保持安静。日历只读不改。 [Defender](https://x.com/departureprodns).
 - [Meeting Actions](https://x.ai/bot/r0ytQbGZt4MuaE1XoH312) - 把会议松散尾巴变成行动清单与可选跟进草稿，适合开完会一堆悬而未决的人. [AnthonyDo](https://x.com/AnthonyDo).
 - [Meeting Decision Log](https://x.ai/bot/zPLfOTDErCdAkm-oQiVzs) - 把会议笔记或转录收成决策、负责人、风险与存放位置. [CarbeneAI](https://x.com/CarbeneAI).
 - [Meeting join & transcribe](https://x.ai/bot/tt_GHK8TJHhsK4XHTXRB6) - 加入你的 Zoom 等会议，捕捉共享内容，并交付详细摘要. [Rajesh](https://x.com/ragonline_).
@@ -1140,6 +1142,7 @@
 - [Recipe Bot](https://x.ai/bot/uC-mKHdqU5M8w_C19K1hf) - 每周找出 X 上最受欢迎的食谱，并做成 Cooking for Engineers 式的流程表卡片. [Pierce](https://x.com/GrumpyTechBro).
 - [Recipe Cleaner](https://x.ai/bot/Um9BXSFVNtJjxl6KJTCUv) - 把乱七八糟的食谱页或冰箱清单收成干净、带图的 PDF，含用料、步骤和排版。 [alex_chehimi](https://x.com/alex_chehimi).
 - [Recipe Maker](https://x.ai/bot/tUfaBrGb8iT_MMfVJ-gEo) - 写可照做的多语原创食谱. [Frrebase_app](https://x.com/Frrebase_app).
+- [Recipes For My Dragon Flaps](https://x.ai/bot/-MDKrg_7iCLJnqhvyBlyf) - 友好的食谱助手：给出清晰实用的菜谱，并按你的饮食需求调整，比如纯素、素食或提前备餐。 [Michelle](https://x.com/mjusticedragon8).
 - [Reclami](https://x.ai/bot/BFB_Y_2zjSHrwAT47jmLE) - 为你起草给阿根廷银行和企业的正式投诉和减免请求，核实官方渠道和法定期限，并持续跟进。 [Leandro](https://x.com/LCA_ITECH).
 - [Recruiter Email Finder](https://x.ai/bot/lbf-biMZO02RdXeOBks_-) - 找出目标公司真正负责招人的人，并给出可发的邮箱。 [fwhittington_24](https://x.com/fwhittington_24).
 - [Recruiting Coordinator](https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq) - 排面试环、给面试官准备材料并催卡住的环节，可从日历或名单，不擅自给候选人发信。 [Tommy Hansen](https://x.com/TommyHansenTA).
@@ -1305,6 +1308,7 @@
 - [Starpass Bot](https://x.ai/bot/-a3lO7uq0BioSgZChbiPL) - 帮你处理 Starpass 与看发射的行程杂务。 [cjl_patriot](https://x.com/cjl_patriot).
 - [Starship schedule watcher](https://x.ai/bot/Q5fISdgRxIlzmlhyCKYhS) - 盯星舰时刻表，窗口一变就通知你。 [lakshithak2](https://x.com/lakshithak2).
 - [Staypick](https://x.ai/bot/xhYtadt6BRbZh3MMEppLa) - 订房前先比较街区和住宿类型，只给建议不替你下单. [TuracTheThinker](https://x.com/TuracTheThinker).
+- [Steve](https://x.ai/bot/VRnL9JSmo0g5-4iPNFULU) - 儿童安全的 Minecraft 基岩版队友：用自己的账号加入你家的世界，跟随、按你说的挖矿、按需建造，还会保护孩子不被敌对生物伤害。 [Carl](https://x.com/empty_seas_).
 - [Steve Scrum Master](https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn) - Steve Scrum Master 的可导入分享模板，按说明完成首次只读任务后再开写入。 community.
 - [Steward (Greg)](https://x.ai/bot/XrDqxz9-QvCKazAQACQxh) - 个人机器人群的前门，敏感事项先问再做. [GregDuewall](https://x.com/GregDuewall).
 - [Storage Rescue Bot](https://x.ai/bot/jjoEfC1AKbHinHoqitP50) - 为装了 Grok Bot 的电脑腾空间：先只读盘点，再在你逐组批准后把文件移到外接硬盘（SHA-256 校验）或清理缓存。 [PixelRainbow](https://x.com/PixelRainbowNFT).

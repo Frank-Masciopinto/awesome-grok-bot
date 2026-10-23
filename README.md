@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 5535 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 5543 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -105,17 +105,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 752 |
+| [Coding & shipping](#coding--shipping) | 754 |
 | [Inbox & calendar](#inbox--calendar) | 222 |
 | [Research & briefings](#research--briefings) | 665 |
 | [Customer & sales](#customer--sales) | 449 |
 | [Finance & ops](#finance--ops) | 627 |
-| [Content & publishing](#content--publishing) | 657 |
-| [Personal admin](#personal-admin) | 1570 |
-| [Teams & handoffs](#teams--handoffs) | 593 |
-| **Total** | **5535** |
+| [Content & publishing](#content--publishing) | 658 |
+| [Personal admin](#personal-admin) | 1574 |
+| [Teams & handoffs](#teams--handoffs) | 594 |
+| **Total** | **5543** |
 
-On 23 Oct 2026, 5500 of 5535 share pages returned HTTP 200 (35 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 5535 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 23 Oct 2026, 5508 of 5543 share pages returned HTTP 200 (35 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 5543 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -253,7 +253,7 @@ One share is one bot. Assemble the roster yourself.
 
 ## Coding & shipping
 
-Full list (752 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
+Full list (754 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
 
 ## Inbox & calendar
 
@@ -273,15 +273,15 @@ Full list (627 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (657 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (658 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (1570 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
+Full list (1574 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
 
 ## Teams & handoffs
 
-Full list (593 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (594 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 

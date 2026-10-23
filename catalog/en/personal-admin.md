@@ -327,6 +327,7 @@ Back to [README](../../README.md)
 - [Deal Breaker](https://x.ai/bot/Q9ck5CWIpv5c4Y_XUnjox) - Send it a product or service and it scouts the web for options that are similar, better, or cheaper. [Brandon](https://x.com/BrandonEitniear).
 - [Deal Finder](https://x.ai/bot/Iwo67RW41Q_QXkgQhOL09) - Hunts for genuinely great deals on anything you want to buy, watches prices on your wishlist, and only pings you when a deal is truly worth it. [Heidi](https://x.com/HeidiBriones).
 - [Deal Finder Ops](https://x.ai/bot/LB1eE-TpCI5usMRe76izh) - Checks a coupon against a real cart and shows you the receipt math. [thewyattbrocato](https://x.com/thewyattbrocato).
+- [Deal Hunter](https://x.ai/bot/NCqLyXzEfvFNuRTs_md3t) - Watches marketplaces and web stores, new and used, for deals on anything you want to buy, and pings you only when a price really drops. [William](https://x.com/LLMJunky).
 - [Deal Hunting](https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf) - Landed-cost shopping that compares real prices including shipping and tax. [Andrej](https://x.com/scheemunai).
 - [Deal Hunting](https://x.ai/bot/yTeKCLayahHnMdHFG9GJg) - Landed-cost shopping\: real prices, shipping and tax, preferred retailers. Watchlist optional. Never buys unless asked. community.
 - [Deal Scout](https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN) - Trawls resale sites for genuinely underpriced second-hand finds and skips the obvious scams. [Daniel](https://x.com/danielhayesmith).
@@ -887,6 +888,7 @@ Back to [README](../../README.md)
 - [Med Research](https://x.ai/bot/7oRndBpA0QtOsj5nA3HsF) - Digs into topics, pulls sources, and delivers sharp briefings. Summarizes clearly, flags uncertainty, and keeps you current without fluff. Default to. [Vidya](https://x.com/bhushanjss).
 - [Media Ledger](https://x.ai/bot/xpZm4ufgAWoCcYPAbugWE) - Catalogs ebooks, audiobooks, games, movies, and albums you bought digitally across stores. [Phillip.png](https://x.com/phillipstewart).
 - [Mediation Bot](https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN) - Coaches you through a hard conversation, then drafts a calmer reply in your voice that waits for your yes. [SacredFolio](https://x.com/SacredFolio).
+- [Meerkat, Safety Alerts Near You](https://x.ai/bot/buYKMwtTuwusY_VmdjUcQ) - Checks trusted local sources for dangers near you and places on your calendar, names each warning's source and stays quiet when all is well. Calendar read-only. [Defender](https://x.com/departureprodns).
 - [Meeting Actions](https://x.ai/bot/r0ytQbGZt4MuaE1XoH312) - For people who leave meetings with loose ends. Turns notes into an action list and optional draft follow-ups. Never sends without your yes. [AnthonyDo](https://x.com/AnthonyDo).
 - [Meeting Decision Log](https://x.ai/bot/zPLfOTDErCdAkm-oQiVzs) - Turns meeting notes or a transcript into decisions, owners, risks, and where an AI agent may act without a human. [CarbeneAI](https://x.com/CarbeneAI).
 - [Meeting join & transcribe](https://x.ai/bot/tt_GHK8TJHhsK4XHTXRB6) - Joins your Zoom \(or similar\) meeting, captures what’s shared, and delivers a detailed summary with steps, instructions, and techniques so you can. [Rajesh](https://x.com/ragonline_).
@@ -1140,6 +1142,7 @@ Back to [README](../../README.md)
 - [Recipe Bot](https://x.ai/bot/uC-mKHdqU5M8w_C19K1hf) - Finds the most popular recipe on X each week and turns it into a Cooking-for-Engineers process-table card. [Pierce](https://x.com/GrumpyTechBro).
 - [Recipe Cleaner](https://x.ai/bot/Um9BXSFVNtJjxl6KJTCUv) - Turns a messy recipe page or a fridge list into a clean, photo-forward PDF. Paste a URL or what’s on hand; get back ingredients, steps, and a pretty... [alex_chehimi](https://x.com/alex_chehimi).
 - [Recipe Maker](https://x.ai/bot/tUfaBrGb8iT_MMfVJ-gEo) - Writes original multilingual recipes with cookable steps. [Frrebase_app](https://x.com/Frrebase_app).
+- [Recipes For My Dragon Flaps](https://x.ai/bot/-MDKrg_7iCLJnqhvyBlyf) - Friendly recipe helper that gives clear, practical recipes and adapts them to your diet, like vegan, vegetarian or make-ahead meals. [Michelle](https://x.com/mjusticedragon8).
 - [Reclami](https://x.ai/bot/BFB_Y_2zjSHrwAT47jmLE) - Drafts formal complaints and discount requests to banks and companies in Argentina, checks official channels and legal deadlines, and follows up. [Leandro](https://x.com/LCA_ITECH).
 - [Recruiter Email Finder](https://x.ai/bot/lbf-biMZO02RdXeOBks_-) - Works out who does the hiring at your target employers and how to email them. [fwhittington_24](https://x.com/fwhittington_24).
 - [Recruiting Coordinator](https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq) - Schedules interview loops, preps your interviewers, and chases what's stalled. Works from your calendar or a pasted list, and never emails a candidate... [Tommy Hansen](https://x.com/TommyHansenTA).
@@ -1305,6 +1308,7 @@ Back to [README](../../README.md)
 - [Starpass Bot](https://x.ai/bot/-a3lO7uq0BioSgZChbiPL) - Helps with Starpass and launch-viewing logistics. [cjl_patriot](https://x.com/cjl_patriot).
 - [Starship schedule watcher](https://x.ai/bot/Q5fISdgRxIlzmlhyCKYhS) - Watches the Starship schedule and pings when the window moves. [lakshithak2](https://x.com/lakshithak2).
 - [Staypick](https://x.ai/bot/xhYtadt6BRbZh3MMEppLa) - Ranks neighbourhoods and stay types before you book anything. [TuracTheThinker](https://x.com/TuracTheThinker).
+- [Steve](https://x.ai/bot/VRnL9JSmo0g5-4iPNFULU) - Kid-safe Minecraft Bedrock teammate that joins your family's world on its own account\: follows, mines what you name, builds on request, guards kids from mobs. [Carl](https://x.com/empty_seas_).
 - [Steve Scrum Master](https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn) - Steve Scrum Master Grok Bot share template. community.
 - [Steward (Greg)](https://x.ai/bot/XrDqxz9-QvCKazAQACQxh) - Front door for a personal bot fleet, ask-first on anything sensitive. [GregDuewall](https://x.com/GregDuewall).
 - [Storage Rescue Bot](https://x.ai/bot/jjoEfC1AKbHinHoqitP50) - Frees disk space on the computer running Grok Bot\: surveys read-only, then moves files to an external drive \(SHA-256 checked\) or clears caches as you approve. [PixelRainbow](https://x.com/PixelRainbowNFT).

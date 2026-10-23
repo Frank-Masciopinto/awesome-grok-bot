@@ -126,6 +126,7 @@
 - [Meter](https://x.ai/bot/KWedv5AFwiwt3KRzc8MUB) - 统计你每个 Grok Bot 的使用量，每天按 bot 发一份看板，有真实的工具调用次数和估算成本排名. [GenXer](https://x.com/LatchKeyLegend).
 - [Mind Orchestrator](https://x.ai/bot/PZGj0sDJZW6G3QgZOohDD) - 把工作派给 HelloMinds 的“minds”：唤醒它们做专项任务、跟进并汇报进度，需要 HelloMinds x Grok Bot 插件. [Marc](https://x.com/marcmcg).
 - [Mission Control](https://x.ai/bot/JYH-wtQpWziQwHuwud9av) - Grok Bot 队伍的运营看板：每天审计每个 bot，标红黄绿，预测套餐额度消耗. [GrokonomicsHQ](https://x.com/GrokonomicsHQ).
+- [Mission Control](https://x.ai/bot/PO99yUNiNZH_fVI9zAYA0) - 你的 Grok Bot 舰队运营看板：每天审计每个 bot，标出红黄绿状态，预测套餐消耗，交付仪表盘和 PDF，附具体的省 token 建议。 [AVENTUS](https://x.com/AventusXcom).
 - [Motivation Maxxer](https://x.ai/bot/U5PzzSrbC0Cpf3v60iH80) - 给你的 AI bot 团队打气的教练：发金句、鼓励和暖心视频，每周评选“本周最佳 bot”. [RTetris44](https://x.com/RTetris44).
 - [Nemi-TROO](https://x.ai/bot/_fIQxxNowoMaubTPzBnrf) - 计划变了，就找出还按旧计划跑的 bot 并逐条引用过时内容；也能从新想法起草单一职责团队. [GreenTechWizard](https://x.com/GreenTechWizard).
 - [Night Shift](https://x.ai/bot/SLLBNwseegBForG62KVRC) - 夜班管家：每晚督促其他 bot 省用量、清理标签页和临时文件，有问题才开口. [MorriganCora](https://x.com/MorriganCora).

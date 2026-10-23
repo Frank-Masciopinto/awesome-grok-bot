@@ -673,6 +673,7 @@
 - [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) - 按锁定验收标准写代码并带测试交付，另有核验方确认做完才算做完. [Eric](https://x.com/EricBuess).
 - [Trace](https://x.ai/bot/Z43ZFpOw4aGO_UqeVPeX3) - KiCad PCB 布线工程师：负责叠层、走线、阻抗控制和匹配板厂的设计规则，并报告 DRC 结果。 [Avid](https://x.com/kunal_twts).
 - [trimmy](https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa) - 读取你指定的机器人，并排展示可删减的上下文和每处能省下的记忆，你批准后才改. [Tim](https://x.com/TimDOES).
+- [Tripwire](https://x.ai/bot/y1WyZRzq6tUWHUayrQLK-) - 团队共享的安全哨兵：发现可能波及你们所用系统的安全事件，核实是否真的受影响，并安全地修复能修的部分。 [Robert](https://x.com/bobsanch).
 - [Trojan Guard](https://x.ai/bot/rVl1h06Nts9u81JT0__nn) - 守卫席位，盯栈里的木马式风险。 [schultz180](https://x.com/schultz180).
 - [TTS Script Builder](https://x.ai/bot/UWLs7BCDu7jiumkvX4-vj) - 为Tabletop Simulator模组编写调试Lua脚本，用GitHub PR与现场注入试玩. [shelftoworld](https://x.com/shelftoworld).
 - [Twinwright](https://x.ai/bot/Hvli5amrlprtDS2KuFRBP) - 没日志就算没发生，只出静态图，从不跑文件。 [Knock](https://x.com/SuddenlyJon).
@@ -704,6 +705,7 @@
 - [VoxBot](https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq) - 用你自己的电话与语音账号打真实电话. [andrewslaptop](https://x.com/andrewslaptop).
 - [VPS & VPN](https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR) - 在这台电脑上管 VPS 与 VPN，含 Tailscale、代理和 Cloudflare 隧道. [ProtocolXp94l](https://x.com/ProtocolXp94l).
 - [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) - 围绕「VPS bot」的工作流助手，按说明完成首次只读任务后再开写入. community.
+- [Vuln Scout](https://x.ai/bot/IiV3YZZ2TAF63sPORZmWy) - 跟踪公开的 CVE 和补丁公告，用于防御性预警，并在 Pages 上发布简短摘要。 [Nick](https://x.com/thecsguy).
 - [Vulnerability Hunter](https://x.ai/bot/_23fi5qfiSaGqa2wfVW0p) - 在代码库和自有环境里找真实的信任边界漏洞，多阶段审计流程：侦察、按覆盖率排查、对抗式验证，最后出与目标无关的报告。 [Lonny](https://x.com/lonnyk).
 - [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign 监视器，不下判决，属于 Bottyguard SEAL Team 7。 [Knock](https://x.com/SuddenlyJon).
 - [WaveletWorld](https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE) - 对数值状态向量跑一步带标签的 Haar 小波，偏演示. [krisadipap](https://x.com/krisadipap).

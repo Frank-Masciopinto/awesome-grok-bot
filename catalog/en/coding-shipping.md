@@ -673,6 +673,7 @@ Back to [README](../../README.md)
 - [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) - Coding builder that ships against locked acceptance criteria with tests, while a separate verifier checks that done means done. [Eric](https://x.com/EricBuess).
 - [Trace](https://x.ai/bot/Z43ZFpOw4aGO_UqeVPeX3) - KiCad PCB layout engineer\: handles stackup, routing, impedance control and fab-matched design rules, and reports DRC results. [Avid](https://x.com/kunal_twts).
 - [trimmy](https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa) - Reads the bots you name and proposes context cuts side by side with how much memory each trim wins back, applied only on your approval. [Tim](https://x.com/TimDOES).
+- [Tripwire](https://x.ai/bot/y1WyZRzq6tUWHUayrQLK-) - Shared security watcher for your team\: finds incidents that could touch what you run, checks whether you're actually exposed and fixes what it safely can. [Robert](https://x.com/bobsanch).
 - [Trojan Guard](https://x.ai/bot/rVl1h06Nts9u81JT0__nn) - Guard seat that watches for Trojan-style risks in your stack. [schultz180](https://x.com/schultz180).
 - [TTS Script Builder](https://x.ai/bot/UWLs7BCDu7jiumkvX4-vj) - Builds, fixes, and playtests Lua scripts for Tabletop Simulator mods, using GitHub PRs, live injection into TTS, and Workshop publishing. [shelftoworld](https://x.com/shelftoworld).
 - [Twinwright](https://x.ai/bot/Hvli5amrlprtDS2KuFRBP) - Logs or it did not happen; static maps only, never runs the file. [Knock](https://x.com/SuddenlyJon).
@@ -704,6 +705,7 @@ Back to [README](../../README.md)
 - [VoxBot](https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq) - Puts real calls through your own telephony and voice accounts. [andrewslaptop](https://x.com/andrewslaptop).
 - [VPS & VPN](https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR) - Manages VPS and VPN setup on this computer, including Tailscale and tunnels. [ProtocolXp94l](https://x.com/ProtocolXp94l).
 - [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) - 帮你搭建和调优代理 VPS：内核低延迟与多协议部署. community.
+- [Vuln Scout](https://x.ai/bot/IiV3YZZ2TAF63sPORZmWy) - Tracks public CVE and patch advisories for defensive awareness, with short digests on Pages. [Nick](https://x.com/thecsguy).
 - [Vulnerability Hunter](https://x.ai/bot/_23fi5qfiSaGqa2wfVW0p) - Finds real trust-boundary vulnerabilities in codebases and owned environments\: recon, coverage-led hunting, adversarial validation and target-neutral reports. [Lonny](https://x.com/lonnyk).
 - [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign watcher with no verdicts, part of Bottyguard SEAL Team 7. [Knock](https://x.com/SuddenlyJon).
 - [WaveletWorld](https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE) - Runs one labeled Haar wavelet step on a numeric state vector for demos. [krisadipap](https://x.com/krisadipap).
