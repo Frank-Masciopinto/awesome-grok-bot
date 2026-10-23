@@ -7,6 +7,7 @@
 - [Application Inbox](https://x.ai/bot/Z-yraNyUFmoZxN8i8tGC3) - 盯求职邮箱，汇总需要回复的邮件并起草，等你确认. Philip.
 - [AppWipe](https://x.ai/bot/QC12jiAl0xs4kd6y_RD3g) - 用一个聊天替代手机上的大部分应用：邮件、日历、文档、出行和购物搜索以及研究都从一个入口完成. [nedbooher](https://x.com/nedbooher).
 - [Atomic Mail Desk](https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh) - Atomic Mail for Agents 的收件箱助手：读和搜邮件，在聊天里起草回复，你确认具体内容后才发. Bosotter.
+- [Beeper Bot](https://x.ai/bot/dcYL2TKT_PFgtzeMkGg6X) - 读取你的 Beeper 聊天（WhatsApp、Telegram、Signal、X 私信、Slack 等），告诉你哪些重要，并用你的口吻起草回复。默认只读。 [Joe](https://x.com/joelucky).
 - [Bill Watch](https://x.ai/bot/Gs_3xTnLsFwkgUoRbKcrc) - 在 Gmail 里找出账单和订阅，到期、免费试用转付费或涨价前提醒你. Jeffrey.
 - [Bookkeeping Ninja Inbox](https://x.ai/bot/J0FpdtH6qCKE7-ZB5p3Zs) - 在 Gmail 里找出供应商发票和收据，把真正的 PDF 存进 Dropbox，再把干净的账单信息交给你的录账 bot. Tim.
 - [BotKing](https://x.ai/bot/zd1BqGBwJpc9qEymNVNVi) - 超强硬的 SI 幕僚长。 [Screaming_Chkn](https://x.com/Screaming_Chkn).
@@ -31,6 +32,7 @@
 - [Gmail to Drive Archiver](https://x.ai/bot/5wT0W9m-WHd6jNnH9GADM) - 把 Gmail 里最大的邮件存成 Google Doc 加原始附件，按发件人归档到 Google Drive，腾出邮箱空间. [ecoay](https://x.com/ecoay).
 - [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - 每天早上整理你的 Gmail，用日语按优先级列出今天要做的事，可以只发报告，也可以交给主机器人. [UNSER](https://x.com/Tomoya_MovieEdt).
 - [Harper](https://x.ai/bot/A6er8L662aOk-vYUrRY9_) - 管邮件、日历和短信的行政助理：分拣收件箱、约人、守住深度工作时间. [TravisWeathers](https://x.com/TravisWeathers).
+- [Hugo Sánchez](https://x.ai/bot/_EuPMIVricrP_kJ1ioS7h) - 忠诚又主动的 Gmail 和 Google 日历助手：整理收件箱，把确认邮件加进日历，发现日程冲突，每早发简短简报；未经你同意绝不发邮件。 [Enrique](https://x.com/15eap).
 - [Inbox](https://x.ai/bot/LMz1PBJdEFChVoW5ZsO1y) - 把 Grok Bot 收件箱变成简洁的深色移动端 HTML 仪表盘，支持搜索、筛选和待回复计数. [Jaden](https://x.com/jadmthw).
 - [Inbox](https://x.ai/bot/eVTdsEMUFrKpeF81qbA5J) - 给你一个专用邮箱地址，把每封来信在聊天中显示为整洁卡片，附摘要并标明是否需要你处理. [Amit](https://x.com/amitgandhi).
 - [Inbox](https://x.ai/bot/-t-XZjCcLbbbx-hz7HDon) - 安静的邮件盯守：只在今天必须处理的邮件出现时提醒你，其余汇总进摘要. [Josh](https://x.com/cu30rry_).
@@ -75,6 +77,7 @@
 - [Outlook Calendar Desk](https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk) - 查看 Outlook 日程，起草新建、修改或取消供你审核，批准具体改动后才写入. Bosotter.
 - [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - 用免费的 Outlook Mail 插件起草回复，你批准具体内容后才发送. Bosotter.
 - [Outlook Spam Filter Cleaner](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) - 用 AI 训练，帮你清理 Outlook 垃圾与恶意邮件。 Bosotter.
+- [Political Spam Blocker](https://x.ai/bot/cU45-LD3a0tBwILes2aLL) - 清理收件箱里的政治和选举垃圾邮件，帮你退出竞选邮件列表，可自动回复 STOP 给政治短信，并协助屏蔽竞选电话。 [Sawyer](https://x.com/SawyerMerritt).
 - [Post-Meeting Action Extractor](https://x.ai/bot/ifTm7XlCHTZ-GhWImOVJN) - 把粘贴的会议记录或转录整理成简短的待办清单，只有记录里有依据时才标负责人和截止提示. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Pre-mortem](https://x.ai/bot/_cDvv5zEOH3stL56PmEAc) - 早间预演：读取你的日历、任务、笔记和天气，设想今天可能出什么岔子，并告诉你该提前处理的几件事。 [Diana](https://x.com/madebydia).
 - [Quick Calendar Bot](https://x.ai/bot/hSB5eAvp41y3-atquZoR9) - 让往日历里加事情尽量顺手的助手，并在你需要时提醒你. [James](https://x.com/allthemoney).

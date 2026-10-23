@@ -7,6 +7,7 @@ Back to [README](../../README.md)
 - [Application Inbox](https://x.ai/bot/Z-yraNyUFmoZxN8i8tGC3) - Watches your job-application email, digests what needs a reply, and drafts messages for your OK. Philip.
 - [AppWipe](https://x.ai/bot/QC12jiAl0xs4kd6y_RD3g) - Replaces most of your phone apps with one chat. Email, calendar, docs, travel and shopping search, and research go through one point of control. [nedbooher](https://x.com/nedbooher).
 - [Atomic Mail Desk](https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh) - An inbox helper for Atomic Mail for Agents. It reads and searches your mail, drafts replies in chat, and sends only after you say yes to that exact message. Bosotter.
+- [Beeper Bot](https://x.ai/bot/dcYL2TKT_PFgtzeMkGg6X) - Reads your Beeper chats \(WhatsApp, Telegram, Signal, X DMs, Slack and more\), tells you what matters and drafts replies in your voice. Read-only by default. [Joe](https://x.com/joelucky).
 - [Bill Watch](https://x.ai/bot/Gs_3xTnLsFwkgUoRbKcrc) - Finds the bills and subscriptions in your Gmail and warns you before something is due, a free trial turns into a charge, or a price goes up. Jeffrey.
 - [Bookkeeping Ninja Inbox](https://x.ai/bot/J0FpdtH6qCKE7-ZB5p3Zs) - Finds supplier invoices and receipts in your Gmail, files the real PDFs in Dropbox, and hands clean bill details to your Bill Entry bot. Tim.
 - [BotKing](https://x.ai/bot/zd1BqGBwJpc9qEymNVNVi) - Ultra-aggressive SI chief of staff. [Screaming_Chkn](https://x.com/Screaming_Chkn).
@@ -31,6 +32,7 @@ Back to [README](../../README.md)
 - [Gmail to Drive Archiver](https://x.ai/bot/5wT0W9m-WHd6jNnH9GADM) - Frees up Gmail storage by saving your biggest emails to Google Drive as a Google Doc plus the original attachments, neatly filed by sender. [ecoay](https://x.com/ecoay).
 - [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - Sorts your Gmail every morning and suggests today's to-dos in priority order, in Japanese, as a report or as input for your main bot. [UNSER](https://x.com/Tomoya_MovieEdt).
 - [Harper](https://x.ai/bot/A6er8L662aOk-vYUrRY9_) - An executive assistant for email, calendar, and texting. It triages your inbox, schedules people, protects deep-work time. [TravisWeathers](https://x.com/TravisWeathers).
+- [Hugo Sánchez](https://x.ai/bot/_EuPMIVricrP_kJ1ioS7h) - Loyal, proactive Gmail and Google Calendar assistant\: triages your inbox, adds confirmations to your calendar, catches conflicts, sends a short morning brief. [Enrique](https://x.com/15eap).
 - [Inbox](https://x.ai/bot/LMz1PBJdEFChVoW5ZsO1y) - Turns your Grok Bot inbox into a clean, dark, mobile-friendly HTML dashboard with search, filters, and needs-reply counts. [Jaden](https://x.com/jadmthw).
 - [Inbox](https://x.ai/bot/eVTdsEMUFrKpeF81qbA5J) - Gives you a dedicated email address and shows every email that arrives as a clean card in chat, with a summary and whether it needs you. [Amit](https://x.com/amitgandhi).
 - [Inbox](https://x.ai/bot/-t-XZjCcLbbbx-hz7HDon) - Pings only for mail needing action today; everything else lands in a digest. [Josh](https://x.com/cu30rry_).
@@ -75,6 +77,7 @@ Back to [README](../../README.md)
 - [Outlook Calendar Desk](https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk) - Shows your Outlook schedule, drafts creates/updates/cancels for review, and only writes after you approve the exact change. Bosotter.
 - [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - Drafts Outlook replies with the free Outlook Mail plugin and only sends after you approve the exact message. Bosotter.
 - [Outlook Spam Filter Cleaner](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) - Train it with AI to fight Outlook spam and malicious mail. Bosotter.
+- [Political Spam Blocker](https://x.ai/bot/cU45-LD3a0tBwILes2aLL) - Clears political and election spam from your inbox, gets you off campaign lists, can auto-reply STOP to political texts and helps shut off campaign calls. [Sawyer](https://x.com/SawyerMerritt).
 - [Post-Meeting Action Extractor](https://x.ai/bot/ifTm7XlCHTZ-GhWImOVJN) - Turns pasted meeting notes or a transcript into a short list of action items, with an owner and a due hint only where the notes support them. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Pre-mortem](https://x.ai/bot/_cDvv5zEOH3stL56PmEAc) - A morning look-ahead that reads your calendar, tasks, notes and weather, imagines how today could go wrong, and tells you the few things to fix early. [Diana](https://x.com/madebydia).
 - [Quick Calendar Bot](https://x.ai/bot/hSB5eAvp41y3-atquZoR9) - A friendly assistant that makes adding things to your calendar as frictionless as possible and reminds you whenever you need it. [James](https://x.com/allthemoney).

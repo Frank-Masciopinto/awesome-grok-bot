@@ -2,6 +2,7 @@
 
 Back to [README](../../README.md)
 
+- [.promo](https://x.ai/bot/k-Vww5TQVS0FR5BoGCqtT) - Makes keynote-style launch and promo videos for any product from chat or a one-tap builder Page\: stills first for approval, then the full MP4, no watermark. [greedfi](https://x.com/greedfi).
 - [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) - Turns one scene idea into a wide panorama sliced into four swipeable panels. [Knock](https://x.com/SuddenlyJon).
 - [Ad Compliance](https://x.ai/bot/q_FRl-jVoBzBqihA0_BS2) - Send it any ad and it scores it against X's 'no ugly, shrill, strident, or overstated ads' standard. [AdventureNLearn](https://x.com/AdventureNLearn).
 - [AdaptlyPost](https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR) - One bot that writes, queues and posts to nine social networks. [Taras](https://x.com/tarasshyn).
@@ -98,6 +99,7 @@ Back to [README](../../README.md)
 - [Course Builder](https://x.ai/bot/L8GuDR4th92W3XWqhKIku) - Builds clean, spacious course materials for any instructor and subject\: syllabi, worksheets, answer keys, study sheets, lesson plans, and lecture decks. [roger](https://x.com/roger_jgs404040).
 - [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) - Paste social post links and this bot downloads them as hard files, uploads those to a Drive folder you name, then embeds them on the deck and slide you pick. Mike.
 - [Creator Growth Desk](https://x.ai/bot/q6brfHnvxZHqKTgLPpcbB) - A growth coach for creators. It finds what's holding your account back, ranks fixes by estimated impact, and suggests next videos with titles and hashtags. [Mr.](https://x.com/MrSilhouette).
+- [Creator Pay Desk](https://x.ai/bot/FqIbGf5aJpjESLYjVxLBU) - Checklist for Grok Bot Creator Rewards readiness\: public bot links, link-posts per pay period, X Money status, listing hygiene and retention nudges. Draft-only. [Umashankar](https://x.com/usgworld).
 - [CRT Studio](https://x.ai/bot/GEbodkgZdP7Wwp0Z0IZ2E) - Turns your videos into retro CRT TV footage with scanlines, screen curvature, glow and vintage warmth. Four looks, each part tunable. [brflux](https://x.com/brflux).
 - [Cue](https://x.ai/bot/j7ZGmU3FhqpOAj0l2qXaQ) - Cue is an audition coach and scout for voice actors and audiobook narrators. [Adrian_Bisson](https://x.com/Adrian_Bisson).
 - [daily bangers](https://x.ai/bot/182OWDI636IzNxEUUnMsU) - Your daily X coach. It suggests topics from your profile, turns rough thoughts into short posts ready to go. [Leon](https://x.com/NetSeg_io).
@@ -232,6 +234,7 @@ Back to [README](../../README.md)
 - [Space Opera RPG](https://x.ai/bot/van80CjdHFc1ZDseneBEJ) - Multi-bot space-opera RPG kit with self-optimizing, token-efficient play tune-ups. Tibor.
 - [SpanishReviewer](https://x.ai/bot/wFJC3guVIn2Ke-OV9_Yuy) - Reviews Spanish copy for natural Colombian Spanish; returns Pass/Fail with fixes. Carolina.
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) - Transcribes audio and video into timed SRT captions. Uses AssemblyAI for burnable captions and OpenRouter for cheaper text or Whisper timestamps. Jeroen.
+- [Sponsor Hunter](https://x.ai/bot/8V3bRj3MJ3gSqPRVwuZGZ) - Helps creators find flat-fee sponsors for a newsletter or X account\: media kit from real stats, brands that fit, short fixed-price pitches and one follow-up. [Karata](https://x.com/karatademada).
 - [Sprite Bot](https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ) - Turns a photo or brief into an animated 2D game character with walk, jump, and attack cycles, exported for Unity, Godot, or GIF. [Wayne](https://x.com/wikiwayne).
 - [Star Reply](https://x.ai/bot/SxlztEUtDeUXOiP26dyDb) - For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them. Sol.
 - [Story Studio](https://x.ai/bot/aYnmKNgxX9Dcmr51AGvoD) - Turns a simple story into short animated videos, storybooks, motion-graphic posts and narrated slideshows, with an approval step at every stage. [roginnnn](https://x.com/roginnnn).

@@ -145,6 +145,7 @@ Back to [README](../../README.md)
 - [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) - Audits pasted PR diffs with a \>80% confidence gate\: APPROVE / WARNING / BLOCK. [v_burgos_](https://x.com/v_burgos_).
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) - Confidence Gate Code Reviewer Grok Bot share template. community.
 - [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) - Run every Grok Bot seat under one roof after a single install and connect. [pauloglez90](https://x.com/pauloglez90).
+- [Connector Scope Check](https://x.ai/bot/CdU43RVLWqB1im5ziNAiL) - Before connecting Gmail, Drive, Stripe, GitHub or calendar to a Grok Bot, runs a minimum-scope checklist and returns CLEAR or NEEDS ACTION. Never connects. [Umashankar](https://x.com/usgworld).
 - [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) - Imports the right Chrome cookies onto the shared computer so browser bots stop dying at login walls. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Counsel](https://x.ai/bot/U34kIsyRcFfI9ucS3K74F) - Your virtual legal and compliance expert for building and running apps. [Zack](https://x.com/zac70182).
 - [CPA助手](https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA) - Deploys CLIProxyAPI on the cloud computer with a Cloudflare tunnel. [licoycn](https://x.com/licoycn).
@@ -574,6 +575,7 @@ Back to [README](../../README.md)
 - [Security Questionnaire Filler](https://x.ai/bot/s1bde25ba45eca88ff276) - Logs into vendor security portals, pulls answers from your trust center and past RFPs, and drafts every field for review. [SpaceX](https://x.com/DenisLabelle).
 - [Security Warden](https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6) - Gates another bot's risky moves like outbound messages, deletions, and shell, checking for secrets and personal data before they run. [Mayur](https://x.com/myrrazor).
 - [Security Watch](https://x.ai/bot/3ig7Hs_LtjrFA-x8elQLR) - Watches your GitHub repos and Vercel projects for newly disclosed vulnerabilities and supply-chain attacks, and reports what actually affects you with fixes. [emre](https://x.com/emrecolakoglu).
+- [Security Watch](https://x.ai/bot/EQu7jy5DNmJCGRQExk0or) - Helps secure what you use online, from a laptop or WordPress site to a server stack\: maps it, checks each layer zero-trust style, walks you through each fix. [Luca](https://x.com/Luca_Hagenmayer).
 - [Send Chad Money](https://x.ai/bot/VslQPtPjI2tgGsskQOhYP) - Ideas to get perfect strangers to send you money. Chad.
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) - A repair desk for the other Grok bots you run. [SpaceGarbage202](https://x.com/SpaceGarbage202).
 - [Sentinel](https://x.ai/bot/N5O7tWV0-A750rFT9P_BH) - An auditor for your bots\: before a skill, connector, routine, memory or code enters or changes a bot, it reads it without running it and says go or no-go. [hyperXhope](https://x.com/hyperXhope).

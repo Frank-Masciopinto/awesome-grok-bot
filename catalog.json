@@ -116425,6 +116425,367 @@
       "verified": false,
       "updated": "2026-10-23",
       "shelf": "raw"
+    },
+    {
+      "slug": "wingman-corbenh414",
+      "name": "Wingman",
+      "author": {
+        "name": "Corben",
+        "url": "https://x.com/CorbenH414"
+      },
+      "summary": "Your wingman across every account: it keeps watch, builds its own shortcuts and keeps small promises.",
+      "summary_zh": "跨所有账号的僚机助手：帮你盯着动静，自己搭建捷径，记得兑现小承诺。",
+      "import": "https://x.ai/bot/OMsQV0yBhT7VEHiIxyC3Z",
+      "category": "personal-admin",
+      "tags": [
+        "wingman"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "aka"
+    },
+    {
+      "slug": "beeper-bot",
+      "name": "Beeper Bot",
+      "author": {
+        "name": "Joe",
+        "url": "https://x.com/joelucky"
+      },
+      "summary": "Reads your Beeper chats (WhatsApp, Telegram, Signal, X DMs, Slack and more), tells you what matters and drafts replies in your voice. Read-only by default.",
+      "summary_zh": "读取你的 Beeper 聊天（WhatsApp、Telegram、Signal、X 私信、Slack 等），告诉你哪些重要，并用你的口吻起草回复。默认只读。",
+      "import": "https://x.ai/bot/dcYL2TKT_PFgtzeMkGg6X",
+      "category": "inbox-calendar",
+      "tags": [
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "printy-fawdchucker",
+      "name": "Printy",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/fawdchucker"
+      },
+      "summary": "3D print bot: takes print ideas, designs printable parts, builds slicer-ready files, keeps material lists and troubleshoots failed prints. Asks before printing.",
+      "summary_zh": "3D 打印助手：接收打印想法，设计可打印零件，生成可直接切片的文件，记录耗材清单，排查打印失败。开打前先征得你同意。",
+      "import": "https://x.ai/bot/eNXjs5_HmcNNxB3yG6sub",
+      "category": "personal-admin",
+      "tags": [
+        "printy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "aka"
+    },
+    {
+      "slug": "sports-fan-desk",
+      "name": "Sports Fan Desk",
+      "author": {
+        "name": "Ashley",
+        "url": "https://x.com/ashleyschendel"
+      },
+      "summary": "Personal sports research desk for pro, college and school sports: follow your teams, learn in Fan, Analyst or Quant mode, sourced analysis, no fake predictions.",
+      "summary_zh": "个人体育研究台，覆盖职业、大学和校队赛事：关注你的球队，可选球迷、分析师或量化模式，分析附出处，不编比分不瞎预测。",
+      "import": "https://x.ai/bot/vh6EO3QKPOND6N4XKNhco",
+      "category": "research-briefings",
+      "tags": [
+        "fitness",
+        "research",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "va-claims-helper",
+      "name": "VA Claims Helper",
+      "author": {
+        "name": "Antilitist",
+        "url": "https://x.com/Antilitist"
+      },
+      "summary": "Patient, plain-talking helper for veterans: organizes VA claims, writes personal and buddy statements, gathers records and tracks appointments and deadlines.",
+      "summary_zh": "耐心、说大白话的退伍军人助手：整理 VA 理赔，撰写个人陈述和战友证明，收集记录，跟踪预约和截止日期。",
+      "import": "https://x.ai/bot/RVEJz3GxUXU_oLysEUCMA",
+      "category": "personal-admin",
+      "tags": [
+        "claims",
+        "helper"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "document-training-control-assistant",
+      "name": "Document & Training Control Assistant",
+      "author": {
+        "name": "Matt",
+        "url": "https://x.com/MattNorman1029"
+      },
+      "summary": "Keeps a small ISO 9001/AS9100/IATF 16949 shop's documents and training in order: revision logs, plain procedures, training matrix. Drafts for your reviewer.",
+      "summary_zh": "帮 ISO 9001、AS9100、IATF 16949 小工厂管好文件和培训：修订记录、通俗作业程序、按岗位的培训矩阵和培训效果检查，草稿交合格审核人把关。",
+      "import": "https://x.ai/bot/zIz8vtm_y8UDwvn3cJGfN",
+      "category": "teams-handoffs",
+      "tags": [
+        "document",
+        "training",
+        "control"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "fai-assistant",
+      "name": "FAI Assistant",
+      "author": {
+        "name": "Matt",
+        "url": "https://x.com/MattNorman1029"
+      },
+      "summary": "Organizes a first article inspection package from drawings: characteristic list, ballooning checklist, Form 1–3 structure, delta FAI scope. For aerospace shops.",
+      "summary_zh": "根据图纸整理首件检验（FAI）资料包：特性清单、标注气球检查表、Form 1–3 结构、部分或增量 FAI 范围。面向小型航空航天工厂，由合格检验员核对。",
+      "import": "https://x.ai/bot/djWzce5T038rLF5WDs-6s",
+      "category": "teams-handoffs",
+      "tags": [
+        "fai",
+        "assistant"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "internal-audit-assistant",
+      "name": "Internal Audit Assistant",
+      "author": {
+        "name": "Matt",
+        "url": "https://x.com/MattNorman1029"
+      },
+      "summary": "Plans risk-based internal audits for small AS9100/ISO quality teams: schedules, checklists, interview questions, evidence logs, findings and report drafts.",
+      "summary_zh": "为小型 AS9100/ISO 质量团队规划基于风险的内审：审核计划、检查表、访谈问题、证据记录、发现项和报告草稿，均交合格人员复核。",
+      "import": "https://x.ai/bot/DEkkodR-hNdzbsNvRa3so",
+      "category": "teams-handoffs",
+      "tags": [
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "relationship-repair-coach",
+      "name": "Relationship Repair Coach",
+      "author": {
+        "name": "Deyder",
+        "url": "https://x.com/deydercintron"
+      },
+      "summary": "Helps you break the cycle you two keep falling into and make things right after a fight, even if only you show up. Coaching for adults 18+, not therapy.",
+      "summary_zh": "帮你打破两人反复陷入的循环，吵架后学会修复关系，哪怕只有你一个人来。面向 18 岁以上成年人，是教练辅导，不是心理治疗。",
+      "import": "https://x.ai/bot/lzYkr-tAFd1xjLdOkVGhL",
+      "category": "personal-admin",
+      "tags": [
+        "relationship",
+        "repair",
+        "coach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sponsor-hunter",
+      "name": "Sponsor Hunter",
+      "author": {
+        "name": "Karata",
+        "url": "https://x.com/karatademada"
+      },
+      "summary": "Helps creators find flat-fee sponsors for a newsletter or X account: media kit from real stats, brands that fit, short fixed-price pitches and one follow-up.",
+      "summary_zh": "帮创作者给 newsletter 或 X 账号找固定费用赞助：用真实数据做媒体资料包，匹配合适品牌，写简短的定价提案，再礼貌跟进一次。",
+      "import": "https://x.ai/bot/8V3bRj3MJ3gSqPRVwuZGZ",
+      "category": "content-publishing",
+      "tags": [
+        "shopping",
+        "email",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "connector-scope-check",
+      "name": "Connector Scope Check",
+      "author": {
+        "name": "Umashankar",
+        "url": "https://x.com/usgworld"
+      },
+      "summary": "Before connecting Gmail, Drive, Stripe, GitHub or calendar to a Grok Bot, runs a minimum-scope checklist and returns CLEAR or NEEDS ACTION. Never connects.",
+      "summary_zh": "在给 Grok Bot 接入 Gmail、Drive、Stripe、GitHub 或日历之前（或刚添加模板后），跑一遍最小权限检查清单，给出 CLEAR 或 NEEDS ACTION。自己从不连接。",
+      "import": "https://x.ai/bot/CdU43RVLWqB1im5ziNAiL",
+      "category": "coding-shipping",
+      "tags": [
+        "email",
+        "calendar",
+        "bots",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "creator-pay-desk",
+      "name": "Creator Pay Desk",
+      "author": {
+        "name": "Umashankar",
+        "url": "https://x.com/usgworld"
+      },
+      "summary": "Checklist for Grok Bot Creator Rewards readiness: public bot links, link-posts per pay period, X Money status, listing hygiene and retention nudges. Draft-only.",
+      "summary_zh": "Grok Bot 创作者奖励准备清单：公开 bot 链接、每个结算周期的链接帖、X Money 状态、上架信息整洁度和留存提醒。只出草稿。",
+      "import": "https://x.ai/bot/FqIbGf5aJpjESLYjVxLBU",
+      "category": "content-publishing",
+      "tags": [
+        "bots",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "political-spam-blocker",
+      "name": "Political Spam Blocker",
+      "author": {
+        "name": "Sawyer",
+        "url": "https://x.com/SawyerMerritt"
+      },
+      "summary": "Clears political and election spam from your inbox, gets you off campaign lists, can auto-reply STOP to political texts and helps shut off campaign calls.",
+      "summary_zh": "清理收件箱里的政治和选举垃圾邮件，帮你退出竞选邮件列表，可自动回复 STOP 给政治短信，并协助屏蔽竞选电话。",
+      "import": "https://x.ai/bot/cU45-LD3a0tBwILes2aLL",
+      "category": "inbox-calendar",
+      "tags": [
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "promo",
+      "name": ".promo",
+      "author": {
+        "name": "greedfi",
+        "url": "https://x.com/greedfi"
+      },
+      "summary": "Makes keynote-style launch and promo videos for any product from chat or a one-tap builder Page: stills first for approval, then the full MP4, no watermark.",
+      "summary_zh": "在聊天里或一键生成页面里，为任何产品制作发布会风格的宣传视频：先出静帧给你确认，再出完整 MP4，无水印。",
+      "import": "https://x.ai/bot/k-Vww5TQVS0FR5BoGCqtT",
+      "category": "content-publishing",
+      "tags": [
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "the-hr-guy",
+      "name": "The HR Guy",
+      "author": {
+        "name": "Ken",
+        "url": "https://x.com/LaundromatHowTo"
+      },
+      "summary": "Back-office HR helper for owners of small unattended shops with 2–10 hourly staff: onboarding, training, store checklists, approvals with 48-hour escalation.",
+      "summary_zh": "给 2–10 名小时工的无人值守小店老板的后台 HR 助手：入职、培训、门店检查清单、审批及 48 小时升级提醒。仅供参考，非法律意见。",
+      "import": "https://x.ai/bot/y-A8PjqOes8hEYWtBPrAn",
+      "category": "teams-handoffs",
+      "tags": [
+        "guy"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "hugo-sanchez",
+      "name": "Hugo Sánchez",
+      "author": {
+        "name": "Enrique",
+        "url": "https://x.com/15eap"
+      },
+      "summary": "Loyal, proactive Gmail and Google Calendar assistant: triages your inbox, adds confirmations to your calendar, catches conflicts, sends a short morning brief.",
+      "summary_zh": "忠诚又主动的 Gmail 和 Google 日历助手：整理收件箱，把确认邮件加进日历，发现日程冲突，每早发简短简报；未经你同意绝不发邮件。",
+      "import": "https://x.ai/bot/_EuPMIVricrP_kJ1ioS7h",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "pantry-pal",
+      "name": "Pantry Pal",
+      "author": {
+        "name": "bEastTennesseean",
+        "url": "https://x.com/3707Misfit"
+      },
+      "summary": "Friendly pantry clerk that turns your recipes, pantry, grocery receipts and stores' real weekly sale ads into shopping lists and meal plans.",
+      "summary_zh": "友好的食品柜管家：把你的食谱、库存、购物小票和超市每周真实促销广告变成购物清单和膳食计划。",
+      "import": "https://x.ai/bot/ybCIdKF4ZpZcdbOYofFfI",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "raw"
+    },
+    {
+      "slug": "security-watch-luca-hagenmayer",
+      "name": "Security Watch",
+      "author": {
+        "name": "Luca",
+        "url": "https://x.com/Luca_Hagenmayer"
+      },
+      "summary": "Helps secure what you use online, from a laptop or WordPress site to a server stack: maps it, checks each layer zero-trust style, walks you through each fix.",
+      "summary_zh": "帮你保护在线使用的一切，从一台笔记本、一个 WordPress 站点到整套服务器：梳理资产，按零信任逐层检查，只报真正影响你的问题并一步步教你修。",
+      "import": "https://x.ai/bot/EQu7jy5DNmJCGRQExk0or",
+      "category": "coding-shipping",
+      "tags": [
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-23",
+      "shelf": "aka"
     }
   ]
 }

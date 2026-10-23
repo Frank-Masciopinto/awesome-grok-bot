@@ -2,6 +2,7 @@
 
 返回 [README](../../README.zh-CN.md)
 
+- [.promo](https://x.ai/bot/k-Vww5TQVS0FR5BoGCqtT) - 在聊天里或一键生成页面里，为任何产品制作发布会风格的宣传视频：先出静帧给你确认，再出完整 MP4，无水印。 [greedfi](https://x.com/greedfi).
 - [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) - 把一个场景创意铺成宽幅全景，再切成四张可滑动的分格。 [Knock](https://x.com/SuddenlyJon).
 - [Ad Compliance](https://x.ai/bot/q_FRl-jVoBzBqihA0_BS2) - 发给它任何广告，它按 X「不丑陋、不刺耳、不尖锐、不夸大」的广告标准打分. [AdventureNLearn](https://x.com/AdventureNLearn).
 - [AdaptlyPost](https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR) - 一个 Bot 写稿、排队，发到九个社交网络。 [Taras](https://x.com/tarasshyn).
@@ -98,6 +99,7 @@
 - [Course Builder](https://x.ai/bot/L8GuDR4th92W3XWqhKIku) - 为任何讲师和学科制作清爽的课程材料：教学大纲、练习、答案、复习单、教案和讲课幻灯片. [roger](https://x.com/roger_jgs404040).
 - [Creator Content Download](https://x.ai/bot/u1m_h-MM1Z7AyPXILn639) - 贴上社交帖子链接，下载成文件传到你指定的 Drive 文件夹，再嵌进你选的演示文稿页. Mike.
 - [Creator Growth Desk](https://x.ai/bot/q6brfHnvxZHqKTgLPpcbB) - 创作者增长教练：找出拖累你账号的问题，按预估影响排序修复项，并推荐下一条视频的标题和话题标签. [Mr.](https://x.com/MrSilhouette).
+- [Creator Pay Desk](https://x.ai/bot/FqIbGf5aJpjESLYjVxLBU) - Grok Bot 创作者奖励准备清单：公开 bot 链接、每个结算周期的链接帖、X Money 状态、上架信息整洁度和留存提醒。只出草稿。 [Umashankar](https://x.com/usgworld).
 - [CRT Studio](https://x.ai/bot/GEbodkgZdP7Wwp0Z0IZ2E) - 把你的视频变成复古 CRT 电视画面：扫描线、屏幕弧度、辉光和怀旧暖色。可选轻度、经典、重度或老电视风格并逐项微调。 [brflux](https://x.com/brflux).
 - [Cue](https://x.ai/bot/j7ZGmU3FhqpOAj0l2qXaQ) - 给配音演员和有声书朗读者的试音教练兼机会侦察员. [Adrian_Bisson](https://x.com/Adrian_Bisson).
 - [daily bangers](https://x.ai/bot/182OWDI636IzNxEUUnMsU) - 你的每日 X 教练：根据你的主页推荐话题，把零散想法改成可直接发布的短帖. [Leon](https://x.com/NetSeg_io).
@@ -232,6 +234,7 @@
 - [Space Opera RPG](https://x.ai/bot/van80CjdHFc1ZDseneBEJ) - 多 bot 太空歌剧角色扮演套件，会自我优化省 token. Tibor.
 - [SpanishReviewer](https://x.ai/bot/wFJC3guVIn2Ke-OV9_Yuy) - 审校西班牙语文案是否自然哥伦比亚语感，给出通过/不通过与改法。 Carolina.
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) - 把音视频转成带时间轴的 SRT 字幕，烧录字幕用 AssemblyAI，便宜的纯文本或 Whisper 时间戳走 OpenRouter. Jeroen.
+- [Sponsor Hunter](https://x.ai/bot/8V3bRj3MJ3gSqPRVwuZGZ) - 帮创作者给 newsletter 或 X 账号找固定费用赞助：用真实数据做媒体资料包，匹配合适品牌，写简短的定价提案，再礼貌跟进一次。 [Karata](https://x.com/karatademada).
 - [Sprite Bot](https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ) - 把照片或文字描述做成带走跑跳攻击动画的 2D 游戏角色，可导出给 Unity、Godot 或 GIF. [Wayne](https://x.com/wikiwayne).
 - [Star Reply](https://x.ai/bot/SxlztEUtDeUXOiP26dyDb) - 给餐厅、诊所、沙龙、商店和健身房老板以及替他们回评的助理写评价回复. Sol.
 - [Story Studio](https://x.ai/bot/aYnmKNgxX9Dcmr51AGvoD) - 把一个简单的故事变成动画短片、绘本、动态图文帖和有旁白的幻灯片，每一步都等你确认. [roginnnn](https://x.com/roginnnn).

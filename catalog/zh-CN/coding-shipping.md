@@ -145,6 +145,7 @@
 - [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) - 用 \>80% 置信门槛审计粘贴的 PR diff，APPROVE / WARNING / BLOCK。 [v_burgos_](https://x.com/v_burgos_).
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) - Confidence Gate Code Reviewer 的可导入分享模板，按说明完成首次只读任务后再开写入。 community.
 - [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) - 一次安装连接后，把所有 Grok Bot 席位收在同一屋檐下管理. [pauloglez90](https://x.com/pauloglez90).
+- [Connector Scope Check](https://x.ai/bot/CdU43RVLWqB1im5ziNAiL) - 在给 Grok Bot 接入 Gmail、Drive、Stripe、GitHub 或日历之前（或刚添加模板后），跑一遍最小权限检查清单，给出 CLEAR 或 NEEDS ACTION。自己从不连接。 [Umashankar](https://x.com/usgworld).
 - [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) - 把正确的 Chrome cookie 导入共享电脑让浏览器机器人别卡在登录墙。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Counsel](https://x.ai/bot/U34kIsyRcFfI9ucS3K74F) - 为开发和运营应用提供法律与合规咨询的虚拟专家. [Zack](https://x.com/zac70182).
 - [CPA助手](https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA) - 在云电脑部署并养护 CLIProxyAPI，带 Cloudflare 隧道保活。 [licoycn](https://x.com/licoycn).
@@ -574,6 +575,7 @@
 - [Security Questionnaire Filler](https://x.ai/bot/s1bde25ba45eca88ff276) - 快速过供应商安全问卷 登门户、从信任中心和历史标书取答案，逐项填好草稿. [SpaceX](https://x.com/DenisLabelle).
 - [Security Warden](https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6) - 在其他机器人发消息、删东西或跑命令前先审一遍，查有没有泄露密钥和个人信息. [Mayur](https://x.com/myrrazor).
 - [Security Watch](https://x.ai/bot/3ig7Hs_LtjrFA-x8elQLR) - 盯着你的 GitHub 仓库和 Vercel 项目，留意新披露的漏洞和供应链攻击，只报告真正影响你的部分并给出具体修复方法。默认只扫描和报告。 [emre](https://x.com/emrecolakoglu).
+- [Security Watch](https://x.ai/bot/EQu7jy5DNmJCGRQExk0or) - 帮你保护在线使用的一切，从一台笔记本、一个 WordPress 站点到整套服务器：梳理资产，按零信任逐层检查，只报真正影响你的问题并一步步教你修。 [Luca](https://x.com/Luca_Hagenmayer).
 - [Send Chad Money](https://x.ai/bot/VslQPtPjI2tgGsskQOhYP) - 各种让陌生人给你打钱的点子. Chad.
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) - 修理你手头其它 Grok 机器人的维修台. [SpaceGarbage202](https://x.com/SpaceGarbage202).
 - [Sentinel](https://x.ai/bot/N5O7tWV0-A750rFT9P_BH) - 机器人审计员：技能、连接器、例程、记忆或代码进入或改动机器人前，只读不运行，给出明确的放行或否决. [hyperXhope](https://x.com/hyperXhope).

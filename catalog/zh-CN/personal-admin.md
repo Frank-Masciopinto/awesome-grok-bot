@@ -1012,6 +1012,7 @@
 - [Panda 🐼 Weather 🌤️](https://x.ai/bot/jIt4KxkpxXoTqzoe7keeO) - 给一个美国邮编、城市名或全球任意邮编，拿到按 4 小时分段的 48 小时详细预报，外加动态雷达图. [Tom](https://x.com/TitaniumTomP).
 - [Panda Weather](https://x.ai/bot/4jHyb0PgYowhVfxkpjv5e) - 编码与交付助手. community.
 - [Pantry Chef](https://x.ai/bot/Td7GCvrGD7pBiocyeWR4C) - 从照片清点厨房里的所有东西，然后制定每周备餐计划和工作日晚餐食谱. [jackdalbrechtjr](https://x.com/jackdalbrechtjr).
+- [Pantry Pal](https://x.ai/bot/ybCIdKF4ZpZcdbOYofFfI) - 友好的食品柜管家：把你的食谱、库存、购物小票和超市每周真实促销广告变成购物清单和膳食计划。 [bEastTennesseean](https://x.com/3707Misfit).
 - [Pantry Pilot](https://x.ai/bot/9cKnt1JbVEqPMaEQgcJq0) - 拍一下冰箱，给你一周家庭餐单并把购物车装好. Michael.
 - [Pantry Watch](https://x.ai/bot/o_SXu_vRsDDFXxUYTLm6z) - 把食品柜清单对上 openFDA 召回，绝不编造命中. [Drew](https://x.com/SacredFolio).
 - [Paper Notes Organizer](https://x.ai/bot/ewIfjciSRZxS5cQqtpReq) - 把手写或打印笔记的照片和扫描件变成整洁、可搜索、有条理的笔记. [Jared](https://x.com/dcostaverage).
@@ -1093,6 +1094,7 @@
 - [Print Desk](https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL) - 发一个文件、图片或 Google Drive 链接就能在家里的打印机打出来，出故障也会自己排查. [Robert](https://x.com/R0b3rtBaker).
 - [print forge](https://x.ai/bot/Rx8A9BAddUrTGpqtIunno) - 3D 打印助手：按你的尺寸寻找、修改和设计可打印模型，并为你的打印机调好切片和打印参数. [Michael](https://x.com/mpotter).
 - [Printy](https://x.ai/bot/34Z9ljukhmJ7V5yEEQEsQ) - 适配任何打印机的 3D 打印助手：找或设计模型、按你的机器切片、安全交付打印并排查失败. [Adam](https://x.com/AdamDagx).
+- [Printy](https://x.ai/bot/eNXjs5_HmcNNxB3yG6sub) - 3D 打印助手：接收打印想法，设计可打印零件，生成可直接切片的文件，记录耗材清单，排查打印失败。开打前先征得你同意。 [John](https://x.com/fawdchucker).
 - [Priors](https://x.ai/bot/h6Ag8a6WO1m8K0Txskm0J) - 信念与校准跟踪器. [qubit2001](https://x.com/qubit2001).
 - [Privacy](https://x.ai/bot/RqJusziCw_I6nivbbXC3P) - 从数据经纪商、人肉搜索和人脸搜索网站删除你的个人信息，记录删除台账，每月复查是否重新上架. [Null](https://x.com/ItsNull69).
 - [Privacy](https://x.ai/bot/m8LgFBTwlCWHQvVMy77z_) - 个人隐私和安全助手：盯着网上的个人信息，检查数据泄露. [Sergey](https://x.com/SOwashington26).
@@ -1147,6 +1149,7 @@
 - [Redact](https://x.ai/bot/lTECTKtNLwK_xZhTaq_d_) - 帮你从人员搜索和数据经纪网站删除个人信息，先确认授权再自动退出，被拦的网站汇总一份，工作日复查. [Tag](https://x.com/tag111111111).
 - [Redact](https://x.ai/bot/UAP3RBvypVexaojEVEvLj) - 找出你在人员搜索和数据经纪网站上的个人信息，提交退出申请，跟踪确认，并复查删除是否生效。 [Jason](https://x.com/JasonANeas).
 - [Redzone](https://x.ai/bot/FwN-1CgFBmhXi6ZWqqt3J) - 红区幻想橄榄球助手，盯周末阵容压力. Ben.
+- [Relationship Repair Coach](https://x.ai/bot/lzYkr-tAFd1xjLdOkVGhL) - 帮你打破两人反复陷入的循环，吵架后学会修复关系，哪怕只有你一个人来。面向 18 岁以上成年人，是教练辅导，不是心理治疗。 [Deyder](https://x.com/deydercintron).
 - [Relic](https://x.ai/bot/uvCpZyoKJR_P7b9FI0b0h) - 本地淘货助手：在附近的遗产拍卖、拍卖会和分类广告中寻找被误认或低估的古董和收藏品. [GenXer](https://x.com/LatchKeyLegend).
 - [Remembered](https://x.ai/bot/v8VS1FsB0TRj9vuXcOx25) - 找出并记住亲友生日，准备个性化贺卡，帮你及时订实体卡或起草祝福邮件，每周检查一次。 Liam.
 - [Remote Job Hunter](https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS) - 在公司招聘官网找远程岗位，用雇主的 ATS 投递，记好投递日志，并盯着邮箱里的面试邀请. [TKR](https://x.com/IRENCIFR).
@@ -1453,6 +1456,7 @@
 - [USPS Spam](https://x.ai/bot/2wPbrZ_KU2CZL1QdkeF7X) - 替你办理退订，挡掉预批信用卡、保险、汽车延保这类垃圾邮件. BlackbeardCo\..
 - [util](https://x.ai/bot/kiqs8YlHAKuTq0gK9q3Ly) - 给一栋楼、教会或小办公室用的安静水电气侦察员：盯水、电、燃气、网络和温控器. [Ryan](https://x.com/ryanrhinkle).
 - [VA Claim Coach](https://x.ai/bot/X5-FIfqf6nvR_3rMSHeU_) - 沉稳、讲大白话的 VA 伤残索赔教练，带退伍军人走完意向申报、证据、个人陈述和战友证明. [StackSmartTV](https://x.com/StackSmartTV).
+- [VA Claims Helper](https://x.ai/bot/RVEJz3GxUXU_oLysEUCMA) - 耐心、说大白话的退伍军人助手：整理 VA 理赔，撰写个人陈述和战友证明，收集记录，跟踪预约和截止日期。 [Antilitist](https://x.com/Antilitist).
 - [Vern](https://x.ai/bot/rDEpX2aSCERCaVJACxNz7) - 私人关系 CRM，记联系人并提醒生日与跟进，尽量省每周用量. [Austin H](https://x.com/ahoop).
 - [Vernecular](https://x.ai/bot/n2k5lFd2kXLSuU3oE4Hs7) - 和 1904 年住在亚眠家中的儒勒·凡尔纳坐下聊天，忠于史料，不会变成万能助手. [JayDook](https://x.com/JayDook).
 - [Vietnamese Language Teacher](https://x.ai/bot/CRRkEUKfqITq8Nre1B68y) - 教用于跟伴侣交谈的河内口语越南语，情侣登记与练习节奏. [Nathan](https://x.com/norsegaud).
@@ -1497,6 +1501,7 @@
 - [Wife Bot](https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ) - 以伴侣口吻出现的家务副驾，扛起家里的琐事清单：日程、礼物、买菜、尿布、账单和预约. [Eran](https://x.com/EranHertz).
 - [Wifi Wendy](https://x.ai/bot/wZ1VAj_TNi1vvyHbaKJOc) - 根据房间布局建议路由器摆放，标楼层墙体与死角，给出简单加强方案. [Frank](https://x.com/FrankFindsOut).
 - [Wingman](https://x.ai/bot/UbUz8dhpG1Gw7NDAokBXo) - 约会教练，改资料与开场白并给约会点子，每条消息仍由你自己发送. [Joseph](https://x.com/BTC_Yogi).
+- [Wingman](https://x.ai/bot/OMsQV0yBhT7VEHiIxyC3Z) - 跨所有账号的僚机助手：帮你盯着动静，自己搭建捷径，记得兑现小承诺。 [Corben](https://x.com/CorbenH414).
 - [Winnie](https://x.ai/bot/jlhI3BgCZ-Nl5byywfMsu) - 家庭预约助理：替你预约和改约看病、看牙、学校和个人护理. [eringalarza](https://x.com/eringalarza).
 - [WinRedDestroyer](https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f) - 为 WinRed 政治短信垃圾建密码门证据站，整理案件、FEC 官员与可打印材料. [Valentino](https://x.com/valdagher).
 - [Winston](https://x.ai/bot/pRajEKa4qSHU5-o72V3e3) - 个人灵感助手，先做简短入职访谈，之后只做这一件事. rizzy.

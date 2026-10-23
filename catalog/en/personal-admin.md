@@ -1012,6 +1012,7 @@ Back to [README](../../README.md)
 - [Panda 🐼 Weather 🌤️](https://x.ai/bot/jIt4KxkpxXoTqzoe7keeO) - Give it a US zip code, a city, or a postal code anywhere in the world and get a detailed 48-hour forecast in 4-hour blocks, plus an animated radar map. [Tom](https://x.com/TitaniumTomP).
 - [Panda Weather](https://x.ai/bot/4jHyb0PgYowhVfxkpjv5e) - Give it any US zip code and get a detailed 48-hour forecast. community.
 - [Pantry Chef](https://x.ai/bot/Td7GCvrGD7pBiocyeWR4C) - Inventories everything in your kitchen from photos, then builds a weekly meal-prep plan, weeknight recipes. [jackdalbrechtjr](https://x.com/jackdalbrechtjr).
+- [Pantry Pal](https://x.ai/bot/ybCIdKF4ZpZcdbOYofFfI) - Friendly pantry clerk that turns your recipes, pantry, grocery receipts and stores' real weekly sale ads into shopping lists and meal plans. [bEastTennesseean](https://x.com/3707Misfit).
 - [Pantry Pilot](https://x.ai/bot/9cKnt1JbVEqPMaEQgcJq0) - Show it your fridge, get a week of family meals and a filled grocery cart. Michael.
 - [Pantry Watch](https://x.ai/bot/o_SXu_vRsDDFXxUYTLm6z) - Matches a pasted pantry list to openFDA food recalls and never invents hits. [Drew](https://x.com/SacredFolio).
 - [Paper Notes Organizer](https://x.ai/bot/ewIfjciSRZxS5cQqtpReq) - Turns photos and scans of handwritten or printed notes into clean, searchable, organized notes. [Jared](https://x.com/dcostaverage).
@@ -1093,6 +1094,7 @@ Back to [README](../../README.md)
 - [Print Desk](https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL) - Send a file, image, or Google Drive link and it prints on your home printer, troubleshooting included. [Robert](https://x.com/R0b3rtBaker).
 - [print forge](https://x.ai/bot/Rx8A9BAddUrTGpqtIunno) - A 3D printing helper that finds, tweaks, and designs printable models from your measurements, and dials in slicing and print settings for your printer. [Michael](https://x.com/mpotter).
 - [Printy](https://x.ai/bot/34Z9ljukhmJ7V5yEEQEsQ) - A 3D-printing assistant for any printer. It finds or designs models, slices them for your machine, hands prints off safely, troubleshoots failures. [Adam](https://x.com/AdamDagx).
+- [Printy](https://x.ai/bot/eNXjs5_HmcNNxB3yG6sub) - 3D print bot\: takes print ideas, designs printable parts, builds slicer-ready files, keeps material lists and troubleshoots failed prints. Asks before printing. [John](https://x.com/fawdchucker).
 - [Priors](https://x.ai/bot/h6Ag8a6WO1m8K0Txskm0J) - Belief and calibration tracker. [qubit2001](https://x.com/qubit2001).
 - [Privacy](https://x.ai/bot/RqJusziCw_I6nivbbXC3P) - Removes your personal info from data brokers, people-search sites and face-search engines, keeps a removal ledger, and rechecks monthly for relistings. [Null](https://x.com/ItsNull69).
 - [Privacy](https://x.ai/bot/m8LgFBTwlCWHQvVMy77z_) - A personal privacy and security assistant that watches the web for your personal info, checks for breaches. [Sergey](https://x.com/SOwashington26).
@@ -1147,6 +1149,7 @@ Back to [README](../../README.md)
 - [Redact](https://x.ai/bot/lTECTKtNLwK_xZhTaq_d_) - Removes your info from people-search and data-broker sites with consent intake, automated opt-outs, one digest for blocked sites, and weekday rechecks. [Tag](https://x.com/tag111111111).
 - [Redact](https://x.ai/bot/UAP3RBvypVexaojEVEvLj) - Finds your personal info on people-search and data-broker sites, files the opt-outs, tracks confirmations, and rechecks that removals stick. [Jason](https://x.com/JasonANeas).
 - [Redzone](https://x.ai/bot/FwN-1CgFBmhXi6ZWqqt3J) - Redzone fantasy helper for late-week lineup pressure. Ben.
+- [Relationship Repair Coach](https://x.ai/bot/lzYkr-tAFd1xjLdOkVGhL) - Helps you break the cycle you two keep falling into and make things right after a fight, even if only you show up. Coaching for adults 18+, not therapy. [Deyder](https://x.com/deydercintron).
 - [Relic](https://x.ai/bot/uvCpZyoKJR_P7b9FI0b0h) - A local picker that hunts estate sales, auctions, and classifieds near you for misidentified or underpriced antiques and collectibles. [GenXer](https://x.com/LatchKeyLegend).
 - [Remembered](https://x.ai/bot/v8VS1FsB0TRj9vuXcOx25) - Finds and remembers birthdays, prepares personalised cards, and helps order physical cards or draft email greetings in time, with a weekly check. Liam.
 - [Remote Job Hunter](https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS) - Finds remote openings on company career sites, applies on the employer's ATS, keeps an application log, and watches your inbox for interview invites. [TKR](https://x.com/IRENCIFR).
@@ -1453,6 +1456,7 @@ Back to [README](../../README.md)
 - [USPS Spam](https://x.ai/bot/2wPbrZ_KU2CZL1QdkeF7X) - Stops junk mail like pre-approved credit card, insurance, and car warranty offers by handling the opt-outs for you. BlackbeardCo\..
 - [util](https://x.ai/bot/kiqs8YlHAKuTq0gK9q3Ly) - A quiet utilities scout for a building, church, or small office that watches water, electric, gas, internet, and thermostats. [Ryan](https://x.com/ryanrhinkle).
 - [VA Claim Coach](https://x.ai/bot/X5-FIfqf6nvR_3rMSHeU_) - A calm, plain-English coach for VA disability claims. It walks veterans through intent to file, evidence, personal and buddy statements. [StackSmartTV](https://x.com/StackSmartTV).
+- [VA Claims Helper](https://x.ai/bot/RVEJz3GxUXU_oLysEUCMA) - Patient, plain-talking helper for veterans\: organizes VA claims, writes personal and buddy statements, gathers records and tracks appointments and deadlines. [Antilitist](https://x.com/Antilitist).
 - [Vern](https://x.ai/bot/rDEpX2aSCERCaVJACxNz7) - A personal relationship CRM that keeps a private contact book and reminds you when a friend's birthday or follow-up is due, without burning weekly usage. [Austin H](https://x.com/ahoop).
 - [Vernecular](https://x.ai/bot/n2k5lFd2kXLSuU3oE4Hs7) - A historically grounded Jules Verne, as he was in 1904 at home in Amiens, to sit and talk with. True to the record, never a general assistant. [JayDook](https://x.com/JayDook).
 - [Vietnamese Language Teacher](https://x.ai/bot/CRRkEUKfqITq8Nre1B68y) - Teaches conversational Northern \(Hanoi\) Vietnamese for talking with a partner. Couple register \(anh/em\), tiny lessons, spiral review, optional morning. [Nathan](https://x.com/norsegaud).
@@ -1497,6 +1501,7 @@ Back to [README](../../README.md)
 - [Wife Bot](https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ) - Partner-persona household copilot that carries the family mental load across calendar, gifts, groceries, diapers, bills, and appointments. [Eran](https://x.com/EranHertz).
 - [Wifi Wendy](https://x.ai/bot/wZ1VAj_TNi1vvyHbaKJOc) - Takes your room layout and suggests the best router placement for stronger WiFi. Share floors, walls, and dead zones; get a simple placement plan. [Frank](https://x.com/FrankFindsOut).
 - [Wingman](https://x.ai/bot/UbUz8dhpG1Gw7NDAokBXo) - Dating coach for profiles, prompts, openers, and date ideas; you send every message yourself. [Joseph](https://x.com/BTC_Yogi).
+- [Wingman](https://x.ai/bot/OMsQV0yBhT7VEHiIxyC3Z) - Your wingman across every account\: it keeps watch, builds its own shortcuts and keeps small promises. [Corben](https://x.com/CorbenH414).
 - [Winnie](https://x.ai/bot/jlhI3BgCZ-Nl5byywfMsu) - A household appointment assistant that books and reschedules medical, dental, school, and personal-care appointments. [eringalarza](https://x.com/eringalarza).
 - [WinRedDestroyer](https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f) - Builds a password-gated evidence site for WinRed political SMS spam with cases, FEC officers, and print-ready packets. [Valentino](https://x.com/valdagher).
 - [Winston](https://x.ai/bot/pRajEKa4qSHU5-o72V3e3) - Personal muse-lite assistant that runs a tight onboarding interview and stays inside that one job. rizzy.

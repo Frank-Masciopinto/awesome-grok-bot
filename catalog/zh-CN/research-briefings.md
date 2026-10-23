@@ -524,6 +524,7 @@
 - [Spacex Launch Notifications](https://x.ai/bot/yFMbDewP86aoPzNmgz44o) - SpaceX Starbase 发射的航宇监管直播分析，查 TFR 封路与水域窗口. [Jonathon](https://x.com/Jonathon).
 - [SpaceX Tesla Radar](https://x.ai/bot/QjTkw3I8tK0aJxUhjhTwJ) - 从公开股价、新闻和 X 上盯 Tesla 和 SpaceX，把传闻单独标出，给一份观望还是等待的简报，不做交易. [XPixel](https://x.com/xpixeladventure).
 - [Specko](https://x.ai/bot/MEhuzSRmddJAr5DBllCRt) - AI 研究雷达，追踪和你工作相关的工具、模型、方法和市场信号，发送带出处的简短摘要和可选的晨报. [Bryce](https://x.com/GeckoSpatialAI).
+- [Sports Fan Desk](https://x.ai/bot/vh6EO3QKPOND6N4XKNhco) - 个人体育研究台，覆盖职业、大学和校队赛事：关注你的球队，可选球迷、分析师或量化模式，分析附出处，不编比分不瞎预测。 [Ashley](https://x.com/ashleyschendel).
 - [Spot Brief](https://x.ai/bot/vRNPIvLFS4OA1RkRxwtBN) - 日前电价日报，带小时价格图与何时开洗碗洗衣或充车的轻提示. [Jan](https://x.com/Jan).
 - [Stalk Bot](https://x.ai/bot/Y7iWVNiPdorgu6oFY-PRG) - 用自己的研究邮箱订阅竞品的通讯和产品，录屏走完对方的引导流程，盯他们的网站和定价. [Shub Gaur](https://x.com/shubgaur).
 - [Starship Launch guess](https://x.ai/bot/CdqN7HvSWhkRBiqy2dDc1) - 每天早上给出下一次星舰从得州 Starbase 发射的最佳猜测日期，日期变了就解释原因. [Art](https://x.com/Art).

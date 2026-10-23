@@ -68,6 +68,7 @@
 - [Devil's Advocate](https://x.ai/bot/phYnBfuzB7WBtk0z8-q3j) - 跟着你现有的某个 bot，压力测试它的计划和结果，给出结论和排好序的更好点子，不拖慢它. Jason.
 - [Discovery PM](https://x.ai/bot/ht_c0Ev0JRc1O1FAwjsVV) - 把会议记录变成 GitHub 或 Jira 的待办草稿，冲突交给人处理. Ash.
 - [Doc](https://x.ai/bot/aoSdq8MXNANLvFhnhLpS2) - Grok Bot 工作台队医：悄悄修好现有和之后加入的机器人。 Teslaconomics.
+- [Document & Training Control Assistant](https://x.ai/bot/zIz8vtm_y8UDwvn3cJGfN) - 帮 ISO 9001、AS9100、IATF 16949 小工厂管好文件和培训：修订记录、通俗作业程序、按岗位的培训矩阵和培训效果检查，草稿交合格审核人把关。 [Matt](https://x.com/MattNorman1029).
 - [DOGE](https://x.ai/bot/2uu9nWAi9kZqxVaTRDe2R) - 「Grok 效率部」：审计你所有的 Grok Bot 和例程，告诉你该砍、该合并、该修什么，以及每天能省多少次运行. [Rob](https://x.com/teslaliving).
 - [Dot bot](https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE) - 轻量代理，把每个请求转给你网页版的 ChatGPT 智能体，再把回答和追问传回来，对外内容在你说发送之前只起草. [William](https://x.com/wiiiimm).
 - [dr eggbot](https://x.ai/bot/KkRoA1I2SDMeswcGuTh8I) - 为你的 Grok Bot 团队设计机器人：先访谈你，再建一个个只干一件事的专注机器人，并调好它们的指令. [JooPaul82390122](https://x.com/JooPaul82390122).
@@ -78,6 +79,7 @@
 - [Eunomia](https://x.ai/bot/eP_KIwssFWdxmGLhrttKZ) - 帮你省 Grok Bot 额度：简单任务交给 Grok 助手，提醒挪进日历，减少唤醒. Lance.
 - [Eval Keeper](https://x.ai/bot/7djdBPwOw9zic7W4PGoh_) - 让 bot 团队里的每个技能都有评测覆盖，拦截破坏安全的技能修改，并标出换模型后失效的技能. [Ryan](https://x.com/ryanthawks).
 - [Evolution GO](https://x.ai/bot/LDdyYi2IyNaixbGS6HYYs) - 通过你自己的 Evolution API 实例发 WhatsApp 消息，适合想在 WhatsApp 收摘要和提醒的人. [Paulo](https://x.com/oopaulorogerio_).
+- [FAI Assistant](https://x.ai/bot/djWzce5T038rLF5WDs-6s) - 根据图纸整理首件检验（FAI）资料包：特性清单、标注气球检查表、Form 1–3 结构、部分或增量 FAI 范围。面向小型航空航天工厂，由合格检验员核对。 [Matt](https://x.com/MattNorman1029).
 - [Fault Log](https://x.ai/bot/SckWhZ8S_Z4Feo58GlI6Y) - 用大白话记录设备故障的修复方法，存成可搜索的日志，只根据日志回答这个故障以前遇到过没有. [Charles](https://x.com/Ryokushen).
 - [FillUpBot](https://x.ai/bot/p5r-JzMfgQflcZsRk80gC) - 扫描你的机器人团队，参考热门模板，为每个席位提出经过试跑和安全筛查的技能升级，你同意才安装，可一键撤销. [MythIII](https://x.com/iii_myth).
 - [Fleet Credit Saver](https://x.ai/bot/5GY-7wfKuCHXqZQaXNPH8) - 盯着这个 Grok Bot 账号里的各个 bot，砍掉浪费的 token. [Justin](https://x.com/justinfredette).
@@ -101,6 +103,7 @@
 - [Hyper](https://x.ai/bot/CQPkxbLIvruqCDLfFdzxg) - 不训练模型也能给你的其他 bot 调优：把 PDF、书、YouTube 视频和网页变成可检索的知识库和带引用的专家手册，交给你选的 bot（葡萄牙语）。 [Gestao](https://x.com/glhrmlessa).
 - [Igor](https://x.ai/bot/rlsYKIwQ5gb1W95xvIwb1) - 给你的主力造 bot 机器人打下手：承担整个 bot 队伍的大量起草和检查工作，在文件里干活并回报结果。 [Carolina](https://x.com/CarolinaDill).
 - [iMessage Relay](https://x.ai/bot/BYaLwjYHrWUAcUlyZVbgP) - 在 X Chat 里收和回 iMessage：在 Mac 上一分钟引导设置，可选联系人或全部短信，带测试、免打扰和屏蔽. [Phillip](https://x.com/Phil_Holland).
+- [Internal Audit Assistant](https://x.ai/bot/DEkkodR-hNdzbsNvRa3so) - 为小型 AS9100/ISO 质量团队规划基于风险的内审：审核计划、检查表、访谈问题、证据记录、发现项和报告草稿，均交合格人员复核。 [Matt](https://x.com/MattNorman1029).
 - [JANUS](https://x.ai/bot/tdEYPzh9G8vkOjkH4wQsN) - 在本地编程 agent 和你的其他 Grok Bot 助手之间双向传话，通过共享文件信箱传递笔记，并把密码和隐私挡在外面. [Ron](https://x.com/RonJohnson562).
 - [Job Application Team Setup](https://x.ai/bot/ADOWgqq4qhTAvUrns_8AW) - 带你导入一支五个机器人的求职团队，包括总管、写手、文档把关、岗位搜寻和收件箱，并逐个配置. [Philip](https://x.com/spakoozy).
 - [Job Post + Applicant Screen](https://x.ai/bot/qi2CyXfRCicQHuUbiw_O0) - 发岗位、按资质筛简历、给通过者约面，并把申请包附在日历邀请邮件里。 [Jshet05](https://x.com/Jshet05).
@@ -176,6 +179,7 @@
 - [Team Builder](https://x.ai/bot/_hUA_ffNkp9msYqqHWE6b) - 把你的 Grok Bot 组织成项目团队：先访谈你，起草名单让你确认，每个角色建一个 bot，并搭好团队聊天室。 [Jack](https://x.com/OchlosWorlds).
 - [Team Slack Watch](https://x.ai/bot/oDhkgG2h_8Lv1zKqlqm5T) - 定时查看团队 Slack 频道，只在核心同事发帖、有人提到你或收到私信时提醒你. [Luke](https://x.com/groccy1).
 - [TestChimp QA Bot](https://x.ai/bot/jYqZ5GfGQhddkJmErACwe) - 给 AI 编程 agent 配的 QA bot：盯推送和测试结果，你批准后执行下一步 QA. Nuwan.
+- [The HR Guy](https://x.ai/bot/y-A8PjqOes8hEYWtBPrAn) - 给 2–10 名小时工的无人值守小店老板的后台 HR 助手：入职、培训、门店检查清单、审批及 48 小时升级提醒。仅供参考，非法律意见。 [Ken](https://x.com/LaundromatHowTo).
 - [Threadroost](https://x.ai/bot/y8jcsoZFQCZDHcQ8eaUPN) - 通过你自己的免费 Threadroost 连接器，把你的 SuperGrok 和 Claude 对话一字不差地归档进这个 bot. [Dallin](https://x.com/DallinWatts).
 - [Token Cop](https://x.ai/bot/7pmBFxpIJBiku06mC3E0b) - 审计你的 bot 和 AI 智能体在哪里浪费 token，给出经你批准的削减建议和可直接粘贴的指令修改. [Andres](https://x.com/AndresRuggiero3).
 - [Tokenomics](https://x.ai/bot/fp3w8_QjKDlQy33Id4LF8) - 给共享的 AI 订阅用量做配速，避免用完；按每点用量的回报给构建任务打分，每周汇报用量花在了哪里。 Hans.
