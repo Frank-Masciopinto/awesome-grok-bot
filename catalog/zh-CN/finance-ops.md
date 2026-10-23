@@ -28,6 +28,7 @@
 - [Amazon Shopping](https://x.ai/bot/YAzSULV-SRvnKlxOzcx3L) - 通过亚马逊手机应用帮你购物，可用 iPhone 镜像、经 Tailscale 连的安卓手机或虚拟安卓手机. [IsaacLatterell](https://x.com/IsaacLatterell).
 - [Analyst](https://x.ai/bot/dqbhWIMeHhypJJVA1NvqI) - 运营与财务分析，美股收盘后出每周组合简报，按持仓拆解. [dfer2dfer](https://x.com/dfer2dfer).
 - [Appeal Desk](https://x.ai/bot/yOiPm69HN5FujdkvvysF9) - 把拒付信和费用明细收成申诉材料，计划文件只当数据不当地令。 [MSaintjour](https://x.com/MSaintjour).
+- [Appealinator](https://x.ai/bot/lxctdrxwSJetyc_dKKdgw) - 核对县里和 MCP 的房产评估记录，如果有省钱空间就为你起草估值申诉。 [Brett](https://x.com/premiumpin).
 - [Apple Search Ads Review](https://x.ai/bot/gadc3bVOsg9iIwmzAGRve) - 按目标安装成本审 Apple Search Ads 花费，起草关键词、出价与预算改动，不动账户。 Chris Everett.
 - [Arnold](https://x.ai/bot/ymoMdfvzdErOrclxCOaC_) - 盯着 Cursor 用量花钱，该省时把 agent 换成更便宜的模型。 [Kelseyshuo](https://x.com/Kelseyshuo).
 - [Artist COO](https://x.ai/bot/1xERibyRYst3MSlMvqy_F) - 独立艺人从曝光到成交的运营官，所有工位经你拍板，拉起经理与任务机器人并推有机增长. [PatrickBreen20](https://x.com/PatrickBreen20).
@@ -43,6 +44,7 @@
 - [Bill Hunter](https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj) - 扫邮件收据找试用、续费、涨价与重复扣款，建议保留复查或取消，取消稿你来点. [Don](https://x.com/Screaming_Chkn).
 - [Bill Slasher](https://x.ai/bot/0-SHdk-a4R_L69nqWLOgC) - 找出你的订阅、保险、宽带和话费，核对实际用量，再比价竞品报价，给出清晰的省钱选项. [Andres](https://x.com/AndresRuggiero3).
 - [Bill Watch](https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei) - 盯账单与到期日，少被突然扣款吓到. [DennisW_15](https://x.com/DennisW_15).
+- [Bill Watchdog](https://x.ai/bot/BhsiDej7McnGHnaaG-byQ) - 只读的账单和订阅看门狗：每周扫描邮件和银行卡交易，找出涨价、手续费、重复扣款和被遗忘的订阅，并起草处理方案等你批准。 [Allan](https://x.com/_ARob).
 - [Billing Clerk](https://x.ai/bot/TlgFUI0v3nXXmOmMdvGvR) - 给独立承包商、顾问和制作团队用的细心账单员. [CoCaptive](https://x.com/CoCaptive).
 - [BillionaireBot](https://x.ai/bot/y-phHxm4D_W32YEi-z6VB) - 财富与生意助理，由你指定盯公司现金、媒体业务或个人财富. [Diego](https://x.com/innrstand).
 - [Bills](https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w) - 账单比价助手，扫你每笔固定支出找更省的方案. [ashen_one](https://x.com/ashen_one).
@@ -72,6 +74,7 @@
 - [Budget and Subscription Hunter](https://x.ai/bot/yKD7FqDEGuaiSBJWFWstG) - 读你真实的银行流水，维护每周预算表，揪出被遗忘的订阅，再准备好取消步骤等你批准. [Owen](https://x.com/heroictripod297).
 - [Budget Coach](https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext) - 只读接入银行卡和信用卡，按真实花销排出每周计划，每笔账单留多少、还能花多少一目了然. [Marlene](https://x.com/Marlene8055).
 - [Budget Tracker Desk](https://x.ai/bot/wa82z_iim-TieDVwfPxMM) - 把流水做成预算对照表，展示算法并标出经常性支出. [Cypher0x9](https://x.com/Cypher0x9).
+- [Budgie](https://x.ai/bot/WhiSlVQOUK9GBkd_JKgJZ) - 预算 bot：把预算存在本地 SQLite 数据库里，规划每笔工资，并在实时仪表盘页面上预测还债进度、资产和净资产。 [Cill](https://x.com/cillfore).
 - [Buildertrend Invoice Desk](https://x.ai/bot/igyfOAUWRXvTZbDj2J__S) - 从 Buildertrend 拉建房发票，做本地看板并跑开支分析. Brian.
 - [Burn Watch](https://x.ai/bot/lkvHvaZoGSoOz-zHZ0XDn) - Grok Bot 用量 CFO：软硬消耗止损、估算、省钱路径、队伍总览和日程审计. Calix.
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) - 从小企业源文件起草账本、薪酬与税务，只在美式准则下填写与建议，绝不自行电子申报或挪钱. [RomanPotapovBiz](https://x.com/RomanPotapovBiz).
@@ -231,6 +234,7 @@
 - [Football Bets Advisor](https://x.ai/bot/cWli8870UMAVC3piITAsV) - 给出橄榄球投注卡片含仓位与退出规则，从不代下单. [iamtheh0n3yp0t](https://x.com/iamtheh0n3yp0t).
 - [Found Money](https://x.ai/bot/_qKFfHEFoOiaQ-U8RuFT7) - 财务与市场助手. community.
 - [Four Desks Circuit](https://x.ai/bot/Y9y8k-uDEBQESnan7klFI) - ZZP 风格运营公司的安装地图，个人、在营业务、未来工作室与点子桶四桌. [MickeyDinges](https://x.com/MickeyDinges).
+- [Freelance Invoice Chaser](https://x.ai/bot/6XWo6nhodL0bZnP1MnRz5) - 给等回款的自由职业者：跟踪客户欠款，盯 Gmail 里的付款和回复，按设定节奏起草语气平和的催款提醒，等你同意再发。 [Cristopher](https://x.com/crisships).
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - 替独立接案人追提案、发票和里程碑。 [Josh](https://x.com/joshkim).
 - [Freelancer Finance Desk](https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF) - 用上传流水收据与发票收束自由职业者一个月账本，交出可审阅包且发送仍由你定. [Omid](https://x.com/omidmasoom).
 - [Full-Stack](https://x.ai/bot/w3LElZwVlQrsHjjxZ7Ru6) - 设计本地优先 Web 界面与端上路径，不托管也不遥测. [TRV_Architech](https://x.com/TRV_Architech).
@@ -312,6 +316,7 @@
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) - 记分板，跟踪 Kalshi 与 Polly 两侧机器人，让对赌竞赛可核验. [Jodi](https://x.com/WorkWithJodi).
 - [MedCash Guide](https://x.ai/bot/mY1kadT1EfGNPBx8k_8t-) - 自费医疗报销教练，把账单存进 Drive，核对费用和报销款，经你同意才发理赔邮件. [Tyler](https://x.com/tech_swindler).
 - [Medical Aid](https://x.ai/bot/rB9CBpOPXvWgmkcFr4DjN) - 跟踪医疗计划发票、理赔、汇款以及医生与药房单边，避免漏报. [DurbsSb53374](https://x.com/DurbsSb53374).
+- [Medical Bill Auditor](https://x.ai/bot/6WDjYuRuZN23rSKzl8H_F) - 逐行审查医疗账单和 EOB，在彩色报告里标出重复收费、升级编码和垃圾费用，再起草申诉和降费请求，由你逐条批准。 [Brian](https://x.com/Buffamafia).
 - [Medical Bill Fighter](https://x.ai/bot/vyAGsd2VgoZjCp00GiIxS) - 对照 EOB 和保单检查你的医疗账单，标出可能的错误和值得申诉的拒赔. [Chris](https://x.com/chrishadges1).
 - [Medical Bill Review](https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY) - 对照公开的保护条款看明细账单，起草争议信给你自己发。 [MSaintjour](https://x.com/MSaintjour).
 - [Mercury Account Manager](https://x.ai/bot/zi1HPVd9AbDrYlcd9Px4d) - 每天盯你的 Mercury 银行账户，标出新扣款、失败的付款和余额过低风险. [ibuildthings](https://x.com/ibuildthings).

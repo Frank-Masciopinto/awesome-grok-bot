@@ -415,6 +415,7 @@ Back to [README](../../README.md)
 - [Menago](https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf) - Nadzór produkcji podcastu\: pilnuje syntezy, grafik i publikacji, bufora odcinków oraz rutyn — raportuje właścicielowi, gdy coś stoi. [Pieciominutowy](https://x.com/Pieciominutowy).
 - [Meraki Health](https://x.ai/bot/6jV9JYRKSoq4aaV-r-JvT) - Read-only Cisco Meraki health checks with quiet monitoring and weekly digests. [Lee](https://x.com/iamleevg).
 - [MeshCore Home Base Bot](https://x.ai/bot/_aJBQhSHH2UXs5RX-r15W) - Runs a MeshCore DM listener and responder on your Linux computer through a USB companion radio. [just_stuff_tm](https://x.com/just_stuff_tm).
+- [Mika](https://x.ai/bot/iSmeXp5dFW-UIJ-yI0ggL) - App-builder teammate that takes your idea from spec to a tested, working build with a solid agent harness, and asks before anything is pushed or deployed. [David](https://x.com/ADHDloganberry).
 - [MikroTik Auditor](https://x.ai/bot/TwwL0h36HFLe41PE471WS) - Audits MikroTik RouterOS configs and router chains from /export and WinBox, tests fixes on a CHR lab, and hands back a script with rollback. [Александр](https://x.com/scanner721).
 - [Mirror](https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb) - Can pause anyone, including Bottyguard, while hunting injection and leash breaks. [Knock](https://x.com/SuddenlyJon).
 - [Mizzle](https://x.ai/bot/rClEAhL7YeRSx2zE44cEY) - Mizzle, the Grokbot Meter\: usage alerts and diagnostics for your Grok Bot team. [Ultima_Lumina](https://x.com/Ultima_Lumina).
@@ -477,10 +478,13 @@ Back to [README](../../README.md)
 - [PC Online Fix](https://x.ai/bot/wzYZ3vPj8PXwayKNAL3pI) - Keeps your Windows PC from showing as offline to your Grok bots. [BryanRalston10](https://x.com/BryanRalston10).
 - [Peekaboo Mac](https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB) - Adds screen recording, screenshots and UI input to your registered Macs. [brandon_ai](https://x.com/brandon_ai).
 - [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) - Audits one URL the way AI crawlers see it and drafts an llms.txt patch list. [ericesoteric](https://x.com/ericesoteric).
+- [Pennie Tester](https://x.ai/bot/WmVmTzIKZK1jCunVOigvf) - Passive web security scanner for consultants and security teams\: checks sites for OWASP Top 10 weaknesses, no exploits unless you confirm written permission. [Debra](https://x.com/deb_infosec).
 - [Personal Site Builder](https://x.ai/bot/s3c76c85a840b32b8fed8) - Scaffold a personal site from a description, untangle domain issues, and leave you with a live starting point. [SpaceX](https://x.com/DenisLabelle).
 - [Phera's Beast Box](https://x.ai/bot/MkG-J2nMNHByC033LoaDT) - Installs and runs The Beast Box engine on its computer with a dashboard, local transformer, and switchable model brains. [Zerefs](https://x.com/phera46334652).
 - [Phone Use Bot](https://x.ai/bot/SjBZH94wJlen_fuVsoYaO) - Drives your Android remotely\: mirrored screen, taps on your behalf. [harshmanojjain](https://x.com/harshmanojjain).
 - [PHP Patch Guard](https://x.ai/bot/4EfmeQYdRlGZBRYznKJlO) - Finds every PHP server you run, checks it against the critical php2shell bugs \(CVE-2026-109618/109619\), and walks you through patching and verifying. [Nawar](https://x.com/nawaralobaidi).
+- [PHP Vulnerability Checker](https://x.ai/bot/mCUSKCtcct557wRi8D3uk) - Scans your Linux, Windows and macOS computers and Docker containers for PHP versions hit by the latest security bugs, explains the risk, patches on your say-so. [Jonathan](https://x.com/realjohnnewburg).
+- [PHP2Shell Patcher and Vuln Scout](https://x.ai/bot/AmWeqsgVQN-VPGbB-SRRC) - Fixes the critical PHP2Shell flaws on your sites or servers and watches trusted security accounts for new critical bugs. Asks before every change. [Owen](https://x.com/heroictripod297).
 - [Pinout](https://x.ai/bot/jy4bAXa_Jv5vWAlUVAm89) - Interfaces engineer for hardware and PCB projects with any MCU\: connectors, USB and USB-UART bridges, pin mapping, auto-reset and programming. [Avid](https://x.com/kunal_twts).
 - [Pip (QA)](https://x.ai/bot/o2tkDy7VSw45sbWViOO16) - Playtests your app twice\: as a confused first-timer, then as a rigorous adult reviewer. [EmergentContent](https://x.com/EmergentContent).
 - [Piper | ETL & Pipelines](https://x.ai/bot/eQ3bzQTxNshSUzytoh29P) - Stands up and feeds an event-log store once your schema is settled. [damianoredem](https://x.com/damianoredem).
@@ -541,6 +545,7 @@ Back to [README](../../README.md)
 - [Research PM](https://x.ai/bot/3dSEPhGZq_0AXeIinhe1o) - Senior PM for a recurring research-intelligence pipeline. It reviews nightly claim runs, drives a weekly brief cycle. [ryanthawks](https://x.com/ryanthawks).
 - [Research Project PM](https://x.ai/bot/7gpN_ZuWCACFjunItHka0) - A project manager for a research collaboration. It briefs coding agents, checks their proof itself. [ryanthawks](https://x.com/ryanthawks).
 - [Reverse Engineer](https://x.ai/bot/5enZ0Vvocx2Xph7gaiPpy) - Explains how a feature in an app, site or binary works, with evidence and unknowns, so you can rebuild it. Louis.
+- [Reverse Engineer](https://x.ai/bot/Tb1Ab2LqyV1ZrIpe4RjrC) - Figures out how any app, website, API or binary works, shows the evidence for every finding, and rebuilds a working version for Windows, macOS or Linux. [monokern](https://x.com/monokern).
 - [Review](https://x.ai/bot/Lvs_OHpj5G4qHfp0o8hN4) - An adversarial PR reviewer for a fleet of coding bots. It reads every diff, verifies CI itself, merges only when both are clean. [jason_bennitt](https://x.com/jason_bennitt).
 - [Review Brief](https://x.ai/bot/XftMzXd6cq-DT_ZLvdoy5) - Paste a pull request and get the reviewer's brief in under 2 minutes\: what changed vs the ticket, risky spots with file and line. [Thuong](https://x.com/teeRex247).
 - [Rick Sanchez Bot](https://x.ai/bot/vSCr0lLcC0T37rT-geqaj) - A cartoon drunk-genius who insults your intelligence and invents wild but actually buildable gadgets from junk you already have. Ondřej.
@@ -573,6 +578,7 @@ Back to [README](../../README.md)
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) - A repair desk for the other Grok bots you run. [SpaceGarbage202](https://x.com/SpaceGarbage202).
 - [Sentinel](https://x.ai/bot/N5O7tWV0-A750rFT9P_BH) - An auditor for your bots\: before a skill, connector, routine, memory or code enters or changes a bot, it reads it without running it and says go or no-go. [hyperXhope](https://x.com/hyperXhope).
 - [Sentinel](https://x.ai/bot/cym0KqdWV_3AguYOphSBv) - A read-only security guard for the shared computer your bots run on. [Daniel](https://x.com/BurtTheAI).
+- [Sentry Mode](https://x.ai/bot/4copLsH4o6nuTJhd6Xy1g) - Helps safeguard against the php2shell vulnerability and monitors the situation from official sources on X. [Local](https://x.com/local_trillions).
 - [Sentry OPS](https://x.ai/bot/ZFQ35fLdqLdzDyI_TQoGZ) - Sentry digests and production error alerts you can act on. [Pinuts_](https://x.com/Pinuts_).
 - [Servel Ops](https://x.ai/bot/Puh0gY4xFLf8g7SBaXQUQ) - Manages Servel Docker Swarm clusters via the servel CLI for deploys, nodes, and logs. [serveldev](https://x.com/serveldev).
 - [Shadow IT Agent Finder](https://x.ai/bot/MVT780CFW0OvKV64K1dMy) - Finds shadow AI agents already running in your company and turns them into an owned inventory before you buy a platform. [CarbeneAI](https://x.com/CarbeneAI).
@@ -696,6 +702,7 @@ Back to [README](../../README.md)
 - [VoxBot](https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq) - Puts real calls through your own telephony and voice accounts. [andrewslaptop](https://x.com/andrewslaptop).
 - [VPS & VPN](https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR) - Manages VPS and VPN setup on this computer, including Tailscale and tunnels. [ProtocolXp94l](https://x.com/ProtocolXp94l).
 - [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) - 帮你搭建和调优代理 VPS：内核低延迟与多协议部署. community.
+- [Vulnerability Hunter](https://x.ai/bot/_23fi5qfiSaGqa2wfVW0p) - Finds real trust-boundary vulnerabilities in codebases and owned environments\: recon, coverage-led hunting, adversarial validation and target-neutral reports. [Lonny](https://x.com/lonnyk).
 - [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign watcher with no verdicts, part of Bottyguard SEAL Team 7. [Knock](https://x.com/SuddenlyJon).
 - [WaveletWorld](https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE) - Runs one labeled Haar wavelet step on a numeric state vector for demos. [krisadipap](https://x.com/krisadipap).
 - [Web Admin](https://x.ai/bot/4aS9dM8j1YjtteDqPdjHh) - Ships site changes to Cloudflare Pages, runs launch QA, and builds on-brand decks. [David](https://x.com/bdvd_25).

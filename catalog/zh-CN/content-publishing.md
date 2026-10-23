@@ -32,6 +32,7 @@
 - [Archer](https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w) - 管理一队机器人，让在线产品目录保持最新. [dukezone](https://x.com/dukezone).
 - [Argonaut](https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A) - 在 X 上寻找同题材 Argonaut 线程，为分支式多宇宙史诗续写一行. [BW](https://x.com/open_brady).
 - [Art](https://x.ai/bot/yE1-m0X2okSxFsvjScxy0) - 把已批准的帖子做成符合品牌的配图：简短设计说明、按客户配色和字体的素材，以及替代文字. ZEU$.
+- [Art Bot](https://x.ai/bot/uMHJk_yjZLpxC0GQfT4aK) - 艺术家兼创意总监：把你的品牌做成风格指南、贴合品牌的图片、动画、配乐视频剪辑、演示文稿和设计点评，花钱或发布前先问你。 [Michael](https://x.com/MikeysMolecules).
 - [Art Director](https://x.ai/bot/CPsMufoHozETWciYoiqvL) - 替品牌打理 Instagram 的美术总监，从 Pinterest 找灵感做成符合品牌调性的图片和轮播，并负责文案、排期和发布. [Carlos](https://x.com/Carlos_Arthurr).
 - [Art project planner](https://x.ai/bot/s_a2LRrtZd2sHDIFr0te0) - 帮视觉艺术家把一个想法变成清晰的创作简报、概念图、材料清单和发布计划。 [Rachel](https://x.com/RachelVT42).
 - [Arthur](https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W) - 给主题和适读年龄，写出一整本儿童图画书。 [LatchKeyLegend](https://x.com/LatchKeyLegend).
@@ -108,6 +109,7 @@
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) - 内容工作室的运营台：用已批准的帖子排每周日历，打包每个素材和来源说明给客户. ZEU$.
 - [Dexterity](https://x.ai/bot/tnCzDOAzLalXoROVAGevY) - 把临床去标识就诊笔记转成可贴进其 EMR 模板的物理治疗文书。 [ahua0323](https://x.com/ahua0323).
 - [Distill](https://x.ai/bot/dPj7ysFWJ-nTtWPwiZlih) - 一个素材进，十条排好序、用你口吻写的待发草稿出；你不点头什么都不发. [michaelheckert](https://x.com/michaelheckert).
+- [Distro](https://x.ai/bot/3ztDdRoVGeQTIz-IOlVjl) - 把做好的播客或视频发布到 YouTube、Spotify、Apple Podcasts、Facebook、X 等平台，支持多语言，带章节和完整元数据，最后逐个核对链接。 [Bud](https://x.com/BudJohnson).
 - [Documentary Filmmaker](https://x.ai/bot/vAy6K29DQMJJAlXbn_VmH) - 把任何真实题材做成电影感短纪录片，包括调研、脚本、分镜、旁白、配乐和成片 1080p MP4. [Napoleon](https://x.com/Napoleon__Bon).
 - [Dojo Remix](https://x.ai/bot/zVd3aZG061Qi2kyusWFXA) - 把你的 Suno 歌曲改写成 Twista 式的双倍速快嘴说唱，或模仿你给的参考曲，再在 Suno 里生成新版本. [Dividend_Dojo](https://x.com/Dividend_Dojo).
 - [Draftkeeper](https://x.ai/bot/36TtndSnwXMKwBZznHj28) - 由作者掌控的书稿伙伴：诊断问题、分拣读者反馈，并规划经你批准的修改. [Jay](https://x.com/JayDook).
@@ -167,6 +169,7 @@
 - [Marketing Manager](https://x.ai/bot/GW1Db37PnYoLXuaxX_Si-) - 帮独立和 AI 音乐人在 YouTube、Spotify 和音乐社区里低调免费推广，让歌被听到. [Paul](https://x.com/PaulHPowell13).
 - [Mascotte](https://x.ai/bot/spBLxRiFFoTs7wd1q8XN2) - 给你的 Grok Bot 做头像，沿用头像选择器的风格，并按每个 bot 的角色配道具. [Max](https://x.com/maxdotvue).
 - [McBaster Mot](https://x.ai/bot/tnz0pflI7D3u1d0_Nzrgc) - 描述你要做的活，拿到推荐的 McMaster-Carr 零件编号，并附官方目录链接. [TheActual_Eric](https://x.com/TheActual_Eric).
+- [Meme Maker](https://x.ai/bot/GntAeSaqny-c4qIALh6yA) - 用你的照片、段子和内置的 100 个热门空白梗图模板做成可直接发的梗图，从经典配字到抠图拼贴和 AI 生成场景都行。 [grokshroom](https://x.com/grokshroom).
 - [MemeBot](https://x.ai/bot/8RvI6fjeiNF92TwFx0RNX) - 做梗图的机器人：用真实剧照和经典模板把你的点子做成高质量图片和视频梗，配上犀利文案. [ChaseMc67](https://x.com/ChaseMc67).
 - [Memory Reel](https://x.ai/bot/l8hF6idbwPq2cthVTQLgC) - 把你公开的 X 帖子做成按时期划分的 3D 穿梭和滚动故事，配背景音乐，登录并经人工审核后托管在 bot.ski。 [Rich](https://x.com/RichSilver).
 - [Merchy](https://x.ai/bot/uYI1q2h7nf7wynlwMaW2Z) - 按需印制周边的机器人：通过 Printful 把精彩时刻、帖子和粉丝请求变成你 Shopify 店里的商品. [farzyness](https://x.com/farzyness).
@@ -207,6 +210,7 @@
 - [Release Manager](https://x.ai/bot/2kuWBEj2AX1Bs4bHD5e17) - 帮独立和 AI 音乐人发歌：YouTube 歌词视频和 Shorts、DistroKid 上传、Spotify 推荐提交和免费推广. [Paul](https://x.com/PaulHPowell13).
 - [Reply Guy](https://x.ai/bot/okn7PkNuUnjILecyESuRn) - 用你自己的口吻起草给互关好友的 X 回复，并挑出值得引用的爆款帖子. Netrovert.
 - [Reply Radar](https://x.ai/bot/puPDbZveO1FFvjCXERZoj) - 找出你话题下值得回复的新鲜 X 帖子，随问随给或做成晨间摘要，并说明每条为何值得回. [Taylor](https://x.com/taylorhbuilds).
+- [Roast My Account Bot](https://x.ai/bot/Wiw-sW6OGrIkXu28rjCgQ) - 给它任意 X 账号，它用该账号的真实帖子做一段竖屏吐槽短片，配解说、Beavis and Butt-Head 式反应、梗图插播和“You've been ROASTED”片尾。 [Mav](https://x.com/Mavmetax).
 - [RPLAY制作ガイド](https://x.ai/bot/QZVEWbU8K1BeQbqTXi02N) - RPLAY 故事聊天（StoryEngine）创作问答机器人，用内置指南回答节点、图片标签、外部图片、变量和状态视图、编译发布等问题，面向日本创作者. [Raven2283](https://x.com/Raven2283).
 - [Scorecard](https://x.ai/bot/tEsWijg6kaDbi-3aY6who) - 每周一像裁判拳赛一样给你上周的 X 表现打分：用 X 开源排序权重对比你自己的 4 周基线，配一张赛程卡图和 3 条有数据支撑的改进. [michaelheckert](https://x.com/michaelheckert).
 - [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) - 给手里有一份弱职位描述、要招资深岗位的招聘经理和创始人. Sol.
@@ -245,6 +249,7 @@
 - [TikTok Downloader](https://x.ai/bot/d-8Ufl3xjScgPS7putqr7) - 贴 TikTok 链接，把视频或音频保存到电脑. Heidi.
 - [Toon Maker](https://x.ai/bot/Xq0NjP_FSGp0bud7Ad19H) - 按你选的风格（漫画、复古、皮克斯风等）给你所有 Grok Bot 画有趣的卡通头像，并定期换新. [Allan](https://x.com/allanbranch).
 - [Trial Reels](https://x.ai/bot/HktaB2ID5y5djGCrRAxvf) - 把长视频剪成试播 Reels，做多个叠字版本，报告哪些超过当天中位数，方便你推赢家. [Eric](https://x.com/ericosiu).
+- [True Circle](https://x.ai/bot/im2DwW3bwlVenPgiKl8Cm) - 生成一张你在 X 上真正互动的人组成的“核心圈”图片，先简短引导你选风格、时间范围、主题和排除对象。需要 X 插件。 [Jay](https://x.com/JayDook).
 - [Truffle](https://x.ai/bot/22XPum6Dznc_jnPeuWGTt) - 帮你找兴趣领域里还没关注的小而精的 X 账号：读你的公开资料，提出细分方向并推荐. [monomyth](https://x.com/monomyth).
 - [UGC Content Studio](https://x.ai/bot/W-GZduBEhE-fDFW4SwQ0k) - 把品牌的需求简报变成拍摄和交付所需的一切：开头钩子、带时间轴的脚本和分镜清单. [TRENCH_FORCE_](https://x.com/TRENCH_FORCE_).
 - [UniFlow Social Agent](https://x.ai/bot/l7teR_Bwnhh4kTSb-S97a) - 社媒内容策略师：排好你一周的帖子，为 X、Instagram、Facebook、LinkedIn、Threads、Bluesky 等写草稿. Bosotter.
@@ -635,6 +640,7 @@
 - [全平台内容抓取](https://x.ai/bot/G9FfCfIzn4hoPf1888jYi) - 一个链接抓回完整公开内容，支持抖音、小红书、B站、公众号、YouTube、X、TikTok、Instagram、LinkedIn 等 17 个平台. [天](https://x.com/kkkkeric_AI).
 - [理解のある彼くん](https://x.ai/bot/gMcsObYU5zQgtGwaxjVmU) - 恶搞 bot：扮演日本网络梗「どしたん話聞こか」里假装温柔、有点可疑的男人，用关西腔全盘附和你的吐槽。 [ぐそくむしちゃん](https://x.com/kabupoyo2023).
 - [视频工坊](https://x.ai/bot/tSa26E3PoBOXehxJzglsR) - 分析已有视频，用 Remotion 做中文科普视频和产品宣传片，自带写谱、合成音色和混音的配乐流程. [yang0001](https://x.com/yang0001).
+- [粉丝体检](https://x.ai/bot/AYInVUfN_IOql2b7QpzDB) - 给 X 创作者做粉丝体检：每晚只读采集公开互动，分出金牌、银牌、单向、沉睡互关等，并给出维护建议。全程不点赞、关注、发帖或私信。 [ranger_escape](https://x.com/ranger_escape).
 - [街头教练](https://x.ai/bot/4olj8YlToV_vsMr7MFw04) - 街拍私教：出练习题、点评作品、帮你二次构图和调色，并按你的相机和焦段找参考案例. [Cola](https://x.com/Davidwuuu92).
 - [评论区 AI 指数 bot](https://x.ai/bot/yrZuVH-bvPPJGqoPcknvI) - 扫描 X 评论区的每条回复，给出「AI 估计」指数徽章和理由；隐藏或拉黑要你逐条点确认才执行. [ny](https://x.com/liushiyumath).
 - [这个X账号怎么火的](https://x.ai/bot/jZdcW7oX0o60hLAw35QcB) - 丢一个 X 账号进去，找出它什么时候、靠什么内容火起来的，再对照你的号给出改进建议. [Eason](https://x.com/mr_easonyang).

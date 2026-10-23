@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 5468 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
+> 5517 条可预览、可一键 Add 的 Grok Bot 活分享（`x.ai/bot`），外加真人怎么跑的案例。
 
 **本周新进：** 目录几乎每天都在涨；看 [最近提交](https://github.com/majiayu000/awesome-grok-bot/commits/main) 或 [可搜索站点](https://majiayu000.github.io/awesome-grok-bot/) 就知道刚进来了什么。
 
@@ -105,17 +105,17 @@ Bot 共用一台云上的 Linux 电脑（上限 50 个）。那不是你桌上�
 
 | 分类 | 收录数 |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 743 |
+| [Coding & shipping](#coding--shipping) | 750 |
 | [Inbox & calendar](#inbox--calendar) | 219 |
-| [Research & briefings](#research--briefings) | 653 |
-| [Customer & sales](#customer--sales) | 446 |
-| [Finance & ops](#finance--ops) | 622 |
-| [Content & publishing](#content--publishing) | 648 |
-| [Personal admin](#personal-admin) | 1554 |
-| [Teams & handoffs](#teams--handoffs) | 583 |
-| **合计** | **5468** |
+| [Research & briefings](#research--briefings) | 664 |
+| [Customer & sales](#customer--sales) | 449 |
+| [Finance & ops](#finance--ops) | 627 |
+| [Content & publishing](#content--publishing) | 654 |
+| [Personal admin](#personal-admin) | 1565 |
+| [Teams & handoffs](#teams--handoffs) | 589 |
+| **合计** | **5517** |
 
-2026 年 10 月 22 日检查时，5468 个分享页中 5440 个返回 HTTP 200（28 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 5468 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
+2026 年 10 月 23 日检查时，5517 个分享页中 5482 个返回 HTTP 200（35 个旧分享已变 404）。能打开不等于安全或好用。维护者核验状态是 **0 条已核验 / 5517 条已收录**（[catalog.json](catalog.json) 里 `verified: true` 表示维护者已经导入并完成一次安全的首次任务）。
 
 ## 真人案例
 
@@ -253,7 +253,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Coding & shipping
 
-完整列表（743 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
+完整列表（750 条）：[catalog/zh-CN/coding-shipping.md](catalog/zh-CN/coding-shipping.md)
 
 ## Inbox & calendar
 
@@ -261,27 +261,27 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 
 ## Research & briefings
 
-完整列表（653 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
+完整列表（664 条）：[catalog/zh-CN/research-briefings.md](catalog/zh-CN/research-briefings.md)
 
 ## Customer & sales
 
-完整列表（446 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
+完整列表（449 条）：[catalog/zh-CN/customer-sales.md](catalog/zh-CN/customer-sales.md)
 
 ## Finance & ops
 
-完整列表（622 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
+完整列表（627 条）：[catalog/zh-CN/finance-ops.md](catalog/zh-CN/finance-ops.md)
 
 ## Content & publishing
 
-完整列表（648 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
+完整列表（654 条）：[catalog/zh-CN/content-publishing.md](catalog/zh-CN/content-publishing.md)
 
 ## Personal admin
 
-完整列表（1554 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)
+完整列表（1565 条）：[catalog/zh-CN/personal-admin.md](catalog/zh-CN/personal-admin.md)
 
 ## Teams & handoffs
 
-完整列表（583 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
+完整列表（589 条）：[catalog/zh-CN/teams-handoffs.md](catalog/zh-CN/teams-handoffs.md)
 
 ## 技能和工具
 

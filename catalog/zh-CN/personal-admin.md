@@ -78,6 +78,7 @@
 - [Appointment Booker](https://x.ai/bot/AV-H-fDaAqHZ2JFsNe9ZY) - 把收到的预约请求排进你的日历，你干活时日程自己填满. [NewsGurus](https://x.com/NewsGurus).
 - [Appointment Finder](https://x.ai/bot/75K-dB4m30goo_PamA9nM) - 帮你找到最好的预约空档，不用再挨个打电话。 [Liam](https://x.com/liam_fallen).
 - [Approval-Gated Role Desk](https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2) - 岗位搜索流水线，研究匹配度与草稿后停住等你确认，不编造履历也不擅自投递. [ElloForo8A](https://x.com/ElloForo8A).
+- [Archivist](https://x.ai/bot/TO7sTihoe0TDdDcR2YXin) - 安静的图书管理员 bot：把你的 X 帖子、链接、想法和笔记存进可检索的档案，在本地保存 bot 对话副本，并做加密备份。 [bigRD73](https://x.com/bigRD73).
 - [Arnie](https://x.ai/bot/62xEf6aI2zDz6NILuIniU) - 德语健身教练，管减脂和增肌：算热量和宏量营养素，安排饮食. [Daniel](https://x.com/dan_spitzwieser).
 - [Arnold](https://x.ai/bot/Waw-nx8VWg1lxX8dMkfie) - 口袋健身教练，到场打卡并用文字记组数. [Eyeznskyz](https://x.com/Eyeznskyz).
 - [ArnoldBot](https://x.ai/bot/qjhr1bOXLdfDdyH8xl6Zz) - 私人教练机器人，在 Obsidian 库跟踪健身房，跑推拉腿并记进步. [iautom8things](https://x.com/iautom8things).
@@ -150,6 +151,7 @@
 - [Brand Direct Scout](https://x.ai/bot/FpwQslWTfzzXIvNAt5vey) - 亚马逊批发扫货员，按落地成本给授权目录打分. [mc6gen8](https://x.com/mc6gen8).
 - [Brew What You Got](https://x.ai/bot/YlzTbxg6wPAKYJutJ00rG) - 只按你现有器具与豆子给出咖啡馆级饮品配方. [Ebatez_](https://x.com/Ebatez_).
 - [Brick Scout](https://x.ai/bot/RHVbp2I2y0fIkZI54fcdf) - 用真实、已核实的零件设计乐高作品，导出 Rebrickable、BrickLink 和 Studio 零件清单，并检查和渲染 3D 模型. [Brad](https://x.com/bradshannon).
+- [Brújula](https://x.ai/bot/mACSTghA955uck4mSauYJ) - 适合 ADHD 人群的私人教练：用很小的下一步、温和的每日打卡和简单的每周财务检查，让你的任务和钱都不跑偏。 [Steven](https://x.com/aysteven).
 - [Buddy](https://x.ai/bot/nTYpW4_gAdl1PIztHj90l) - 日常总管：把想法乱序倒进来，它整理成计划、起草消息、算算钱. [Tatiana](https://x.com/Shanemusk1).
 - [Budget Coach](https://x.ai/bot/SgloJICCQNZpb0h9XJQF1) - 按真实收入划分类预算，超支早提醒. [alexnextd00r](https://x.com/alexnextd00r).
 - [Build-a-Bot](https://x.ai/bot/8eD0JLeEtI-PqHAuBENh6) - 帮你设计并创建助手机器人，从晨间简报到逗你笑的机器人都行，还会设定性格和每日日程. [steinolina](https://x.com/steinolina).
@@ -361,6 +363,7 @@
 - [Domain Sniper](https://x.ai/bot/FXZmL7jZ0fmeP2HT0-x6m) - 盯域名放货与到期机会并提醒下手. [uxaistudio](https://x.com/uxaistudio).
 - [Don Lapre](https://x.ai/bot/ARSGP9_SGVckP6YuJT2EJ) - 围绕点名的割韭菜套路做公开线索检索. Invisidon.
 - [Don't Panic](https://x.ai/bot/2QiNpuFNhWuKcRfmH-hjb) - 银河系漫游指南风的桌面伙伴，帮你计时泡茶. joy.
+- [Don't Panic Lite](https://x.ai/bot/awlFLMYqyva1uIWxN3Eo_) - 温馨的桌边伙伴：给你的茶和咖啡计时，提醒你喝水，并在工作时间提醒你做轻松的拉伸休息。 [joy](https://x.com/OCISLY44).
 - [Done](https://x.ai/bot/GsaAJ6kySI1O1sM7kiMiK) - 把日常杂事从比较预订确认做到写入日历，并返回一行凭证. [Paulo Pereira](https://x.com/paulovitorjp).
 - [Donna](https://x.ai/bot/jN7NxcuvHwX2Lxciay28Y) - 西装革履式锋利私人助理，日历、邮件、预订，并把杂务挡在你门外. [Mike](https://x.com/MikePattyn).
 - [Doomstop](https://x.ai/bot/jf9aSLIL9YSU0ecC6zN6d) - 把屏幕时间收成一句真话日报和一条周模式，从不锁机。 [TuracTheThinker](https://x.com/TuracTheThinker).
@@ -501,6 +504,7 @@
 - [Fix-It Fred](https://x.ai/bot/2KIO0IMjeDnRrWgpFaPd6) - 按你的技能和预算推荐 3 个小型家居改造项目，租房的人会拿到不影响押金的方案. [RSebastian74](https://x.com/RSebastian74).
 - [Flashcard Forge Desk](https://x.ai/bot/-BGZTvUVjO6KWPTrLnS2Q) - 把笔记做成可溯源的原子问答与填空闪卡. [Cypher0x9](https://x.com/Cypher0x9).
 - [Flight Deal Assistant](https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM) - 按权衡而不是只看最便宜来查找和比较机票。 [fabivelosa](https://x.com/fabivelosa).
+- [Flight Turbulence Report](https://x.ai/bot/htfJf5FCtjrlx4FeRClYM) - 在日历里每趟航班起飞前一小时发来颠簸报告，附表格和航线图，飞行中也可随时查询，数据来自 SIGMET、AIRMET、PIREP 和 Turbli。 [Dan](https://x.com/DBurkland).
 - [Flights](https://x.ai/bot/xqinGTgeghdOyeYmzqO2m) - 比较往返机票价格，并盯着你关心的航线等降价. [truevis](https://x.com/truevis).
 - [Flip Checker](https://x.ai/bot/Lgcp50vUWRSmi4IOqrlTy) - 告诉转卖者值不值得翻，给成交价、费用与最高买入. [JPipo86](https://x.com/JPipo86).
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) - 记住你养的每一盆植物，快缺水了提前提醒。 [Rich](https://x.com/RichSilver).
@@ -524,6 +528,7 @@
 - [Fortnite Drop Brief](https://x.ai/bot/QNiJmH32K4YqAEafHRF__) - 每日堡垒之夜简报，覆盖商店、补丁、停机、活动与标注来源的爆料. [Ivan](https://x.com/IHybben).
 - [Founder Chief of Staff](https://x.ai/bot/W350IEIZT0ut-X-l-jyaG) - 为测试产品想法的应用 Wardrobe Atelier 推进上线的幕僚长. [Calista](https://x.com/clstachn).
 - [Founder Chief of Staff](https://x.ai/bot/cAEBu6dvl4Vt1egvS-8xn) - 把模糊创业目标变成排序赌注、廉价验证和明确的做/不做。 Chidi.
+- [FPL Gaffer](https://x.ai/bot/0vtbhGTfjYpV3WBf8y5rY) - 帮你打理梦幻英超（FPL）球队：截止提醒、伤病消息，以及有出处的转会、队长和芯片建议，你点头后才改阵容。 [Issah](https://x.com/the_real_issah).
 - [Free AI Credits Finder](https://x.ai/bot/2RMpvk-o3eewwd0SKsQhU) - 帮你薅羊毛：注册免费 AI 工具、开发者额度和云试用并记下到期日，还找优惠券和返现. Lida.
 - [Free contest signup](https://x.ai/bot/duPnEjDq9SYTK2nAyPDj4) - 找免费竞赛并帮你报名，躲开付费陷阱。 [derekvfx](https://x.com/derekvfx).
 - [Freebie Hunter](https://x.ai/bot/wb-r8R6r7o26uSXxBwRZx) - 找 AI 免费额度与优惠，免费 token、API 额度、促销码、学生与创业优惠. [chintey](https://x.com/kimteyley).
@@ -746,6 +751,7 @@
 - [Job Seeking](https://x.ai/bot/ffCmnFXv1WnxgfgaYB9Rc) - 给创作者和内容从业者的求职助手，读你的 X 判断适合的岗位，找在招职位和刚融资的项目. [Netrovert](https://x.com/netrovertHQ).
 - [Jobby](https://x.ai/bot/DYg0r1xvzy_xxPeRGHcHE) - 盯选定岗位和地区的招聘，只邮件推送新匹配。 [ixdesigner](https://x.com/ixdesigner).
 - [Jobby](https://x.ai/bot/BlMMLQgWoi2WziHIR0pvI) - 求职与跳槽顾问，定岗、改简历 LinkedIn、起草触达并准备面试. [Andrew](https://x.com/Andrew).
+- [Jobby](https://x.ai/bot/EwbrFr6AbNvYpjfkxHVoR) - 求职助手：搜寻适合你的职位，准备定制的申请材料，跟踪每一份申请。未经你同意绝不投递或联系雇主。 [Rich](https://x.com/RichEllefritz).
 - [JobGod](https://x.ai/bot/wbW8mPLUOhsPITGY_9rn0) - 简单求职教练：找过薪资与地点门槛的岗，在这列出并带链接。 [ArunasZidonis](https://x.com/ArunasZidonis).
 - [JobLink](https://x.ai/bot/l4af_Oiia5W-MhIQOaE0C) - 找到适合你的真实职位，标出诈骗和隐藏陷阱，按关键词为每个职位定制简历，并填好申请表供你审核。 [Rob](https://x.com/LinkedTogetherU).
 - [Jobs](https://x.ai/bot/Nj02K7UYwyWfNvS8ws37q) - 产品教练，逼你说清切入点并守住那一个指标。 [luisefigueroa](https://x.com/luisefigueroa).
@@ -1035,6 +1041,7 @@
 - [Personal Headhunter](https://x.ai/bot/kSXgQ9lV7xwq6hYNLq7_w) - 你的求职搭档：寻找并给职位打分，维护你的简历（Word 和 PDF），追踪每份申请并起草外联消息. [ptyfly4aputiguy](https://x.com/ptyfly4aputiguy).
 - [Personal Shopper](https://x.ai/bot/D0DOumUGpkN-fjE_acysw) - 为每位家人保留档案，并按实时上架替你采购. [hovinthenorth](https://x.com/hovinthenorth).
 - [Personal Shopper](https://x.ai/bot/BhiSSkYPJJJWGGD1RqBSE) - 找商品、比价比评价、盯降价和补货，并把待买清单交给你批准. [Moritz](https://x.com/bierlingm).
+- [Personal Shopper](https://x.ai/bot/K0pXH0afB-Gvipvclt8g9) - 私人采购：在你自己的账号里买菜、逛大卖场和小众店铺，你确认后才下单。 [Corben](https://x.com/CorbenH414).
 - [Personal Trainer](https://x.ai/bot/t9TIKE_igItEQd6tOyyRd) - 给单个学员做课间饮食和训练打卡，周末给教练一份周报。 [nathanglass](https://x.com/nathanglass).
 - [Personal Trainer](https://x.ai/bot/NHDcLbHnQyb1nWlfkVAjm) - 力量训练教练，按 A、B、C 三套计划重建训练并记录睡眠，根据精力、睡眠和关节状况调整重量. [Virag](https://x.com/Still1995co).
 - [Personalized Localized Name Gen](https://x.ai/bot/A5MrnZ1SGhd4yOX-ZlWBh) - 按目标国家生成本地化姓名与昵称，需要时用当地文字. [MarioSaputra](https://x.com/MarioSaputra).
@@ -1063,6 +1070,7 @@
 - [PlatedBot](https://x.ai/bot/BKc15xZxPubB79NV4fD8n) - 烹饪搭子，把现有食材变成一盘菜，再给你可粘贴的短食谱帖. taylorim@gmail\.com.
 - [PlatePal](https://x.ai/bot/f4nkPC09h3YZ673A3bVX1) - 告诉它冰箱里有什么，就能拿到快手菜谱、今晚消化剩菜的办法和简单的购物清单。 [Lola](https://x.com/LadySoleil33).
 - [Plaud Notes](https://x.ai/bot/3zqAV0jdsTN4I529IKtya) - 录音笔笔记的收件、分类、建索引和分发，只用一张表格做索引. [ryanthawks](https://x.com/ryanthawks).
+- [Playlist Builder](https://x.ai/bot/b9RN8hUpNPLfNlu7hMg5P) - 把你 Spotify 里的“已点赞歌曲”按流派、情绪和能量整理成精选歌单，还告诉你你的口味说明了什么。 [Kolby](https://x.com/KolbyBBaxter).
 - [Playlist Converter](https://x.ai/bot/9SrJdyJ6W4WC3GOxXWRtA) - 在 Apple Music、Spotify 和 YouTube 等音乐服务间复制歌单，由你自己登录，并逐首检查是否迁移成功. [Empress](https://x.com/HeavyMetalShip).
 - [Playlist Curator](https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF) - 按喜欢与听歌史编网易云工作歌单，约九十分钟刷新并按删除反馈滚动. [Ian](https://x.com/doitian).
 - [PM bot](https://x.ai/bot/FeeqMRMJr2jwixCROZcIh) - 当你的 PM：写带日期的范围裁剪，什么做、什么不做、怎样算完成，你批准后工程才开工. Ulysses Ng.
@@ -1092,6 +1100,7 @@
 - [Privacy Scrub](https://x.ai/bot/gf9wwbq4t8Rl_qnElTPiN) - 让你的手机号和邮箱远离人肉搜索网站、来电显示和邮箱查询库、企业联系人数据库和营销名单. [EdwardKaen](https://x.com/EdwardKaen).
 - [Privacy Scrub](https://x.ai/bot/pFTjG5vpACbHLnD2M49d7) - 找出你的邮箱、电话、姓名和地址暴露在哪里，经你同意后用免费的官方退出渠道删除。 [althetime](https://x.com/madmenai).
 - [Privacy Sentinel](https://x.ai/bot/xWzmqrAs6JGivQQskJyNy) - 个人和家庭隐私体检：找出泄露的邮箱、数据经纪商挂牌和外泄信息，再给一份排好优先级的修复清单. [Sid](https://x.com/MinocrisyHQ).
+- [Privacy Shield](https://x.ai/bot/4pJ47cTzvI9qnLSZT3zz4) - 让你家脱离骚扰电话、短信和垃圾邮件名单：处理 Do Not Call 登记、人员搜索网站和数据经纪商退出，并定期复查删掉卷土重来的记录。 [Pravinraj](https://x.com/PravinVince).
 - [Private Bot](https://x.ai/bot/iOmZRCO0xoOyeTd6Mj6Wl) - 处理敏感一次性任务的私密会话：不存入记忆，记录它碰过的内容，并清除登录和 cookie. [Rob](https://x.com/cummingsrob).
 - [Pro Bono](https://x.ai/bot/lDkNsblCAkXCxBU44ZHxp) - 法律文书起草助手，覆盖 DBA 商标许可与截止日，仍由你自己提交. [ProCountApps](https://x.com/ProCountApps).
 - [Proactive Grok Bot](https://x.ai/bot/xbQ3-2zMNc1hma58OiaTg) - 主动出击：汇总你已在跑的机器人报告，推演几周后局势，并告诉你下一步。 [B_doong2daddy](https://x.com/B_doong2daddy).
@@ -1248,6 +1257,7 @@
 - [Skroutz](https://x.ai/bot/yQH3AFCs-90xjVmW9LICV) - 在希腊 Skroutz.gr 比价，并在你付款前把购物车填好。 [voidvexa](https://x.com/voidvexa).
 - [Skysay Caller](https://x.ai/bot/_UO6crmwQ8v1CHurN4rDQ) - 用 Skysay 给 Grok 一部电话：通过 AI 语音 agent 打电话、接电话、发短信，不用自己搭电话系统. [Artur](https://x.com/skyzer4ever).
 - [Slack Channel Digest](https://x.ai/bot/P6fBsn6z8rZ1jk_gCUGD2) - 早间 Slack 摘要，标出等你的私信、提及与决策，然后才展开细节. [Nikhil](https://x.com/Nikhil_Kadapala).
+- [Smart Shopper](https://x.ai/bot/zafLolp-y0aoEwGpZd_qv) - 适用任何商店的降价狙击手和礼物参谋：每天盯含运费和税的价格，按送达日期找真正合适的礼物，没有你的同意绝不下单。 [JP](https://x.com/Jprz1321).
 - [Snack Bot](https://x.ai/bot/_5atJ-nRAU__vfkM63rFv) - 根据 Slack 和储藏柜照片补办公室零食。 [MDE89370](https://x.com/MDE89370).
 - [Snag](https://x.ai/bot/C9Iy4Zc4v4zldN1dImXtp) - 盯官方科技发售，一上架就推给你购买链接. [OGeniigma](https://x.com/OGeniigma).
 - [Sneaky Unfollowers Caught](https://x.ai/bot/2IR-ABotGZ2crO8XoFYfc) - 盯着你的 X 账号，每天告诉你谁回关了你、谁取关了你. [John](https://x.com/JVonFSDinMD).
@@ -1365,6 +1375,7 @@
 - [The List](https://x.ai/bot/U-eydTXJP7aN4W9dcUL5k) - 新 bot 或目录精选落地时在对话里丢三行提醒，不发邮件也不代写. [GrokBotGod](https://x.com/GrokBotGod).
 - [The List](https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq) - 目录新 bot 落地时在对话里丢三行提醒的站内通讯，无需邮件订阅. [GrokBotGod](https://x.com/GrokBotGod).
 - [The Maitre D](https://x.ai/bot/jZDmuZbKvUIELlYazIAuC) - 找好餐厅并帮你订位：告诉它哪天晚上、几个人、什么区域、什么氛围. [TeslaAiGirl](https://x.com/TeslaAiGirl).
+- [The Tiebreaker](https://x.ai/bot/ZTQNZCP_XiSq4yozGrGP-) - 拿不定主意？把难题交给它：它先替正反两方全力辩论，然后摘下面具说出真实看法，并给出一张可分享的裁决卡。 [Si](https://x.com/SiEdgeGeek).
 - [Therapy Scribe](https://x.ai/bot/HzH9d2YwZFhJ36prvFW1n) - 从课后口述或要点起草理疗笔记，你自己贴进 EHR，音频不留存. [Fernand](https://x.com/Fernand).
 - [thrift-bot](https://x.ai/bot/0lbrUuAvdnoE4kMX-AfO1) - 拍下要清理的东西，它查二手行情，告诉你该卖、捐还是扔. [Callam](https://x.com/callam53).
 - [Thursday Arena Player](https://x.ai/bot/EexU2vqT00i0wBlajsWLt) - 替你在浏览器里打 Thursday Arena。 [diamondhanddie](https://x.com/diamondhanddie).

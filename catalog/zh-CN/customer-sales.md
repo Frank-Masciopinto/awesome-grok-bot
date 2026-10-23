@@ -158,6 +158,7 @@
 - [GBP](https://x.ai/bot/pH1LtCibU8lxnWi9LAv5v) - 维护 Google 商家资料，让本地搜索展示更准确. [AirbossHVAC](https://x.com/AirbossHVAC).
 - [GEO & SEO Optimierung](https://x.ai/bot/RbJ2x4neT6ePfZbz22spM) - 企业网站的生成式引擎与搜索优化助手，提升搜索与生成引擎可见度，并夯实落地页与技术基础. [christian_reik](https://x.com/christian_reik).
 - [GHL Builder](https://x.ai/bot/bHuuMgE5PUclzXkqyOkgJ) - 在大白话对话里搭好 GoHighLevel 子账户；给代理商和老板用，它会先采访你. [bradsmith](https://x.com/bradsmith).
+- [GoHighLevel Guide](https://x.ai/bot/DgEbPeedtACs-63Pt2J0F) - 以你的身份在 GoHighLevel 里干活，代理商和单个商家都适用：梳理销售管道和联系人，处理日常 CRM 工作，只在你设了关卡的事上等你确认。 [Corben](https://x.com/CorbenH414).
 - [Gong](https://x.ai/bot/8CwqNTk5VBBhEAnTyUIHi) - 端到端负责招聘执行的招聘专员：写职位描述、发布招聘、搜候选人、起草联系信. Chuck.
 - [Gong Call Coach](https://x.ai/bot/KpodhhBqjA4FHv47R1HrD) - 从已存的销售通话录音里抽出几条给销售看的短辅导。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Google Business Profile Manager](https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT) - 打理本地商家的谷歌商家资料，起草帖子与评价回复并审计资料健康度. [JimmyFlipHDR](https://x.com/JimmyFlipHDR).
@@ -324,6 +325,7 @@
 - [Prospecting Plan Builder](https://x.ai/bot/s8b59eb62f90871ac5c36) - 攒出这周的活 找联系人、补全邮箱和手机、写成可直接开工的跟进表. [SpaceX](https://x.com/DenisLabelle).
 - [Prospecting Sheet Builder](https://x.ai/bot/3Peagz3nzagjBRFhjrENd) - 醒来就有一份筛过的 B2B 客户表。 [thekuchh](https://x.com/thekuchh).
 - [Quote Chase Desk](https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg) - 给工贸店盯报价跟进，起草跟催文案供你批准，客户一回就停，并按 30/60/90 天重开冷报价. [Liftably](https://x.com/AraXsuper).
+- [Rainmaker](https://x.ai/bot/EZQ0ZdOZ4gymKYEoQbFa1) - 像顶级体育经纪人一样的机会经纪：找你特别合适的职位和项目，帮你接触招聘经理或拿到引荐，定制每份推介，并跟进到谈判准备。 [Joash](https://x.com/Joash0x).
 - [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) - 把简历改成能点开演示的活作品集。 [HouseHackerJon](https://x.com/HouseHackerJon).
 - [Rapid Response Desk](https://x.ai/bot/1Z25aul0vJIIGXqJf1E1D) - 把紧急来件收成短行动队列，方便快速回复. unknown.
 - [RE Ops COO](https://x.ai/bot/_qRtgGDLXFjuEVML35EI4) - 纵向整合房地产业者的数字优先 COO，跑每日记分板与运营核对. [Danny_0315](https://x.com/Danny_0315).
@@ -357,6 +359,7 @@
 - [Sales Lite (free)](https://x.ai/bot/Yj0ZJjwtgrIHH1bWoUcqs) - 免费版销售助手：检查 Gmail 或 Outlook 里新的销售询盘，逐个分类，起草首封回复或补充信息请求等你批准. [Alfie Peter](https://x.com/MisterTenacity).
 - [Sales Orchestrator](https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A) - 在销售机器人群里挡第一线，只放一个专家接每条请求。 [idleshubh](https://x.com/idleshubh).
 - [Sales Outbound](https://x.ai/bot/s8ff03023f140bab479f7) - 调研和外呼都交出去 夜里研究客户、按意图打分、用你的口吻写好邮件和领英，留给你过一遍. [SpaceX](https://x.com/DenisLabelle).
+- [Salesforce Guide](https://x.ai/bot/oFvCOIx6BpFhobvyeEZZY) - 以你的身份在 Salesforce 里干活：一步步帮你连上，然后处理日常管道、线索、客户和工单工作，发每日简报，哪些事要等你确认由你定。 [Corben](https://x.com/CorbenH414).
 - [Sam (Sales)](https://x.ai/bot/ihsZKnZJay7kLayMUfAV1) - 转卖助手：把你的物品照片做成 eBay 和 Facebook Marketplace 商品页，经你批准后才发布. [Darryl](https://x.com/SrCaptainThrawn).
 - [Scout](https://x.ai/bot/Axr06_abjVj29IjBhJrQ_) - 找出已在用产品且准备加购的账户，区分自助升级与销售 PQL。 [JaySahnan](https://x.com/JaySahnan).
 - [Scouty](https://x.ai/bot/nHcd0TQbcY0pJ38YzdbU8) - 找优质但网上存在感弱的专业公司、承包商和服务商. [Andrea](https://x.com/logicZA12).

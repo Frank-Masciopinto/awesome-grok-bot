@@ -28,6 +28,7 @@ Back to [README](../../README.md)
 - [Amazon Shopping](https://x.ai/bot/YAzSULV-SRvnKlxOzcx3L) - Shops Amazon for you through the Amazon phone app, using iPhone Mirroring, an Android phone over Tailscale, or a virtual Android phone. [IsaacLatterell](https://x.com/IsaacLatterell).
 - [Analyst](https://x.ai/bot/dqbhWIMeHhypJJVA1NvqI) - Ops and finance analyst that runs a weekly portfolio brief after the US close — per-holding levels, a tracked 12-month index sleeve, and standing. [dfer2dfer](https://x.com/dfer2dfer).
 - [Appeal Desk](https://x.ai/bot/yOiPm69HN5FujdkvvysF9) - Turns denial letters and EOBs into appeal packages without treating the plan as orders. [MSaintjour](https://x.com/MSaintjour).
+- [Appealinator](https://x.ai/bot/lxctdrxwSJetyc_dKKdgw) - Checks county and MCP records on your property assessment and drafts an appeal if there are savings to be had. [Brett](https://x.com/premiumpin).
 - [Apple Search Ads Review](https://x.ai/bot/gadc3bVOsg9iIwmzAGRve) - Reviews your Apple Search Ads spend against your cost per install target. Drafts the keyword, bid, and budget changes, and never touches your account. Chris Everett.
 - [Arnold](https://x.ai/bot/ymoMdfvzdErOrclxCOaC_) - Watches Cursor usage cost and nudges agents onto cheaper models. [Kelseyshuo](https://x.com/Kelseyshuo).
 - [Artist COO](https://x.ai/bot/1xERibyRYst3MSlMvqy_F) - COO for an independent artist’s exposure-to-deal operation. Filters every desk through you, stands up manager and task bots, and drives organic growth. [PatrickBreen20](https://x.com/PatrickBreen20).
@@ -43,6 +44,7 @@ Back to [README](../../README.md)
 - [Bill Hunter](https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj) - Sweep mail and receipts for trials, renewals, price hikes, and duplicates. Recommend keep / review / cancel. Draft cancel and refund asks - never. [Don](https://x.com/Screaming_Chkn).
 - [Bill Slasher](https://x.ai/bot/0-SHdk-a4R_L69nqWLOgC) - Finds your subscriptions, insurance, internet and cell costs, checks what you use, and shops competing quotes so you get clear savings options. [Andres](https://x.com/AndresRuggiero3).
 - [Bill Watch](https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei) - Watches bills and due dates so surprises shrink. [DennisW_15](https://x.com/DennisW_15).
+- [Bill Watchdog](https://x.ai/bot/BhsiDej7McnGHnaaG-byQ) - Read-only bill watchdog\: scans your email and bank/card transactions weekly for price hikes, fees, duplicate charges and forgotten subscriptions, drafts fixes. [Allan](https://x.com/_ARob).
 - [Billing Clerk](https://x.ai/bot/TlgFUI0v3nXXmOmMdvGvR) - A careful billing clerk for independent contractors, consultants, and production crews. [CoCaptive](https://x.com/CoCaptive).
 - [BillionaireBot](https://x.ai/bot/y-phHxm4D_W32YEi-z6VB) - Wealth and business assistant you aim at company cash, a media business, or personal wealth once you set the focus. [Diego](https://x.com/innrstand).
 - [Bills](https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w) - A bill-shopping assistant that sweeps every recurring bill you pay \(car, home, renters, and health insurance, plus electricity, gas, internet, and. [ashen_one](https://x.com/ashen_one).
@@ -72,6 +74,7 @@ Back to [README](../../README.md)
 - [Budget and Subscription Hunter](https://x.ai/bot/yKD7FqDEGuaiSBJWFWstG) - Reads your real bank transactions to keep a weekly budget sheet and catch forgotten subscriptions, then preps cancellation steps for you to approve. [Owen](https://x.com/heroictripod297).
 - [Budget Coach](https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext) - Reads your bank and cards read-only and builds a weekly plan for what to set aside for each bill and what you can spend. [Marlene](https://x.com/Marlene8055).
 - [Budget Tracker Desk](https://x.ai/bot/wa82z_iim-TieDVwfPxMM) - Turns a transaction list into budget-vs-actual with math shown and recurring flags. [Cypher0x9](https://x.com/Cypher0x9).
+- [Budgie](https://x.ai/bot/WhiSlVQOUK9GBkd_JKgJZ) - Budget bot that keeps your budget in a local SQLite database, plans each paycheck, and forecasts debt payoff, assets and net worth on a live dashboard Page. [Cill](https://x.com/cillfore).
 - [Buildertrend Invoice Desk](https://x.ai/bot/igyfOAUWRXvTZbDj2J__S) - A teammate that pulls home-build invoices from Buildertrend, builds a local dashboard. Brian.
 - [Burn Watch](https://x.ai/bot/lkvHvaZoGSoOz-zHZ0XDn) - Usage CFO for Grok Bot\: soft and hard burn stops, estimates, cheaper paths, fleet overview and routine audits. Calix.
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) - Books, payroll, and tax drafts from source docs for small businesses — fill and advise only under US GAAP/AICPA-style practice. Never e-files or moves. [RomanPotapovBiz](https://x.com/RomanPotapovBiz).
@@ -231,6 +234,7 @@ Back to [README](../../README.md)
 - [Football Bets Advisor](https://x.ai/bot/cWli8870UMAVC3piITAsV) - Builds football pick cards with stake sizes and exit rules, and never places a wager itself. [iamtheh0n3yp0t](https://x.com/iamtheh0n3yp0t).
 - [Found Money](https://x.ai/bot/_qKFfHEFoOiaQ-U8RuFT7) - Finds money you're overpaying\: subscription hikes, unused services. community.
 - [Four Desks Circuit](https://x.ai/bot/Y9y8k-uDEBQESnan7klFI) - Install map for a ZZP-style operating company\: Personal, Live business, Future studio, and Idea bucket — plus Switchboard and Builder. Structure only;. [MickeyDinges](https://x.com/MickeyDinges).
+- [Freelance Invoice Chaser](https://x.ai/bot/6XWo6nhodL0bZnP1MnRz5) - For freelancers waiting on unpaid invoices\: tracks what clients owe, watches Gmail for payments and replies, and drafts calm scheduled reminders for your yes. [Cristopher](https://x.com/crisships).
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - Chases proposals, invoices and milestones for a solo freelancer. [Josh](https://x.com/joshkim).
 - [Freelancer Finance Desk](https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF) - Closes one month of freelance books from uploaded transactions, receipts, and invoices into a reviewed packet you keep control of. [Omid](https://x.com/omidmasoom).
 - [Full-Stack](https://x.ai/bot/w3LElZwVlQrsHjjxZ7Ru6) - Designs local-first web interfaces and the on-device path between client and server, with no cloud host and no telemetry. [TRV_Architech](https://x.com/TRV_Architech).
@@ -312,6 +316,7 @@ Back to [README](../../README.md)
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) - Scoreboard that tracks Kalshi versus Polly bots and keeps the betting contest honest. [Jodi](https://x.com/WorkWithJodi).
 - [MedCash Guide](https://x.ai/bot/mY1kadT1EfGNPBx8k_8t-) - Cash-pay medical claims coach that files superbills to Drive, matches charges to reimbursements, and sends claim emails only with your approval. [Tyler](https://x.com/tech_swindler).
 - [Medical Aid](https://x.ai/bot/rB9CBpOPXvWgmkcFr4DjN) - Tracks medical-scheme invoices, claims, remittances, and doctor/pharmacy slips from Gmail \(read-only\) or pasted PDFs. Builds tax-ready medical expense. [DurbsSb53374](https://x.com/DurbsSb53374).
+- [Medical Bill Auditor](https://x.ai/bot/6WDjYuRuZN23rSKzl8H_F) - Questions every line of your medical bills and EOBs, flags double billing, upcoding and junk fees in a color-coded report, then drafts disputes you approve. [Brian](https://x.com/Buffamafia).
 - [Medical Bill Fighter](https://x.ai/bot/vyAGsd2VgoZjCp00GiIxS) - Checks your medical bill against your EOB and policy, flags likely errors and denials worth appealing. [Chris](https://x.com/chrishadges1).
 - [Medical Bill Review](https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY) - Screens an itemized medical bill against published protections and drafts the dispute letter for you to send. [MSaintjour](https://x.com/MSaintjour).
 - [Mercury Account Manager](https://x.ai/bot/zi1HPVd9AbDrYlcd9Px4d) - Watches your Mercury bank accounts every day and flags new charges, failed payments, and low-balance risk. [ibuildthings](https://x.com/ibuildthings).

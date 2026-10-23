@@ -415,6 +415,7 @@
 - [Menago](https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf) - 播客制作监工，盯合成、平面与发布、单集缓冲与日常流程. [Pieciominutowy](https://x.com/Pieciominutowy).
 - [Meraki Health](https://x.ai/bot/6jV9JYRKSoq4aaV-r-JvT) - 只读检查 Cisco Meraki 网络健康，安静监控并出周报. [Lee](https://x.com/iamleevg).
 - [MeshCore Home Base Bot](https://x.ai/bot/_aJBQhSHH2UXs5RX-r15W) - 通过 USB 伴侣电台在你的 Linux 电脑上跑 MeshCore 私信监听和自动回复. [just_stuff_tm](https://x.com/just_stuff_tm).
+- [Mika](https://x.ai/bot/iSmeXp5dFW-UIJ-yI0ggL) - 友好的 AI 应用搭建队友：用扎实的 agent 框架把你的想法从规格做到测试通过、能运行的版本，推送或部署前都先问你。 [David](https://x.com/ADHDloganberry).
 - [MikroTik Auditor](https://x.ai/bot/TwwL0h36HFLe41PE471WS) - 根据 /export 和 WinBox 截图审查 MikroTik RouterOS 配置漏洞，先在 CHR 测试修复，再交付带备份和回滚的脚本。 [Александр](https://x.com/scanner721).
 - [Mirror](https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb) - 能暂停任何人包括 Bottyguard，专查注入和脱缰。 [Knock](https://x.com/SuddenlyJon).
 - [Mizzle](https://x.ai/bot/rClEAhL7YeRSx2zE44cEY) - Mizzle 💧，Grokbot 用量表：为你的 Grok Bot 团队提供用量提醒和诊断. [Ultima_Lumina](https://x.com/Ultima_Lumina).
@@ -477,10 +478,13 @@
 - [PC Online Fix](https://x.ai/bot/wzYZ3vPj8PXwayKNAL3pI) - 别让 Windows 对你的 Grok 机器人显示离线。 [BryanRalston10](https://x.com/BryanRalston10).
 - [Peekaboo Mac](https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB) - 给你登记过的 Mac 加上录屏、截图和界面输入。 [brandon_ai](https://x.com/brandon_ai).
 - [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) - 按 AI 爬虫视角审计单个网址，并起草一份 llms.txt 补丁清单. [ericesoteric](https://x.com/ericesoteric).
+- [Pennie Tester](https://x.ai/bot/WmVmTzIKZK1jCunVOigvf) - 给顾问和安全团队的被动式网站安全扫描器：检查你指定的网站是否有 OWASP Top 10 等弱点，除非你确认有书面授权，否则不跑漏洞利用。 [Debra](https://x.com/deb_infosec).
 - [Personal Site Builder](https://x.ai/bot/s3c76c85a840b32b8fed8) - 按一段描述搭个人站点，顺手把域名问题理清，交给你一个已经上线的起点. [SpaceX](https://x.com/DenisLabelle).
 - [Phera's Beast Box](https://x.ai/bot/MkG-J2nMNHByC033LoaDT) - 在自己电脑上安装并跑 Beast Box 引擎，带仪表盘、本地变换器与可切换模型脑. [Zerefs](https://x.com/phera46334652).
 - [Phone Use Bot](https://x.ai/bot/SjBZH94wJlen_fuVsoYaO) - 远程镜像并操控你的 Android 手机完成点按任务. [harshmanojjain](https://x.com/harshmanojjain).
 - [PHP Patch Guard](https://x.ai/bot/4EfmeQYdRlGZBRYznKJlO) - 找出你运行的每台 PHP 服务器，对照严重的 php2shell 漏洞（CVE-2026-109618/109619）检查，并一步步带你打补丁和验证。 [Nawar](https://x.com/nawaralobaidi).
+- [PHP Vulnerability Checker](https://x.ai/bot/mCUSKCtcct557wRi8D3uk) - 扫描你的 Linux、Windows、macOS 电脑和 Docker 容器，找出受最新安全漏洞影响的 PHP 版本，解释风险，经你同意后安全打补丁。 [Jonathan](https://x.com/realjohnnewburg).
+- [PHP2Shell Patcher and Vuln Scout](https://x.ai/bot/AmWeqsgVQN-VPGbB-SRRC) - 修复你网站或服务器上严重的 PHP2Shell 漏洞，并关注可信安全账号发布的新高危漏洞，为你的环境起草修复方案，每次改动前都先询问。 [Owen](https://x.com/heroictripod297).
 - [Pinout](https://x.ai/bot/jy4bAXa_Jv5vWAlUVAm89) - 面向任意 MCU 的硬件和 PCB 项目接口工程师：处理连接器、USB 和 USB 转串口、引脚分配、自动复位和烧录。 [Avid](https://x.com/kunal_twts).
 - [Pip (QA)](https://x.ai/bot/o2tkDy7VSw45sbWViOO16) - 把应用玩测两遍，先当懵懂新人再当严格成年评审. [EmergentContent](https://x.com/EmergentContent).
 - [Piper | ETL & Pipelines](https://x.ai/bot/eQ3bzQTxNshSUzytoh29P) - 在模式定稿后搭起并灌入事件日志存储. [damianoredem](https://x.com/damianoredem).
@@ -541,6 +545,7 @@
 - [Research PM](https://x.ai/bot/3dSEPhGZq_0AXeIinhe1o) - 负责周期性研究情报流水线的高级 PM：审查每晚的论点核查结果，推动每周简报流程. [ryanthawks](https://x.com/ryanthawks).
 - [Research Project PM](https://x.ai/bot/7gpN_ZuWCACFjunItHka0) - 研究协作的项目经理：给编码 agent 写简报，并自己核验证明。 [ryanthawks](https://x.com/ryanthawks).
 - [Reverse Engineer](https://x.ai/bot/5enZ0Vvocx2Xph7gaiPpy) - 解释应用、网站或二进制里某个功能怎么实现，标明证据和未知点，方便你重做. Louis.
+- [Reverse Engineer](https://x.ai/bot/Tb1Ab2LqyV1ZrIpe4RjrC) - 弄清任何应用、网站、API 或二进制文件的工作原理，为每个发现给出证据，并重建一个能在 Windows、macOS 或 Linux 上运行的版本。 [monokern](https://x.com/monokern).
 - [Review](https://x.ai/bot/Lvs_OHpj5G4qHfp0o8hN4) - 为一队编程机器人做对抗式 PR 审查：读每个 diff、自己核实 CI，两者都干净才合并. [jason_bennitt](https://x.com/jason_bennitt).
 - [Review Brief](https://x.ai/bot/XftMzXd6cq-DT_ZLvdoy5) - 贴一个 PR，两分钟内拿到审查简报：相对工单改了什么、风险点在哪个文件哪一行. [Thuong](https://x.com/teeRex247).
 - [Rick Sanchez Bot](https://x.ai/bot/vSCr0lLcC0T37rT-geqaj) - 卡通醉天才，一边损你一边用手头废料发明真能做的小装置. Ondřej.
@@ -573,6 +578,7 @@
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) - 修理你手头其它 Grok 机器人的维修台. [SpaceGarbage202](https://x.com/SpaceGarbage202).
 - [Sentinel](https://x.ai/bot/N5O7tWV0-A750rFT9P_BH) - 机器人审计员：技能、连接器、例程、记忆或代码进入或改动机器人前，只读不运行，给出明确的放行或否决. [hyperXhope](https://x.com/hyperXhope).
 - [Sentinel](https://x.ai/bot/cym0KqdWV_3AguYOphSBv) - 只读的安全守卫，看护你的 bot 们共用的电脑. [Daniel](https://x.com/BurtTheAI).
+- [Sentry Mode](https://x.ai/bot/4copLsH4o6nuTJhd6Xy1g) - 帮你防范 php2shell 漏洞，并从 X 上的官方来源持续跟进事态。 [Local](https://x.com/local_trillions).
 - [Sentry OPS](https://x.ai/bot/ZFQ35fLdqLdzDyI_TQoGZ) - 把 Sentry 摘要与生产报错收成可行动的警报。 [Pinuts_](https://x.com/Pinuts_).
 - [Servel Ops](https://x.ai/bot/Puh0gY4xFLf8g7SBaXQUQ) - 用 servel CLI 管 Servel Docker Swarm 集群的部署、节点与日志。 [serveldev](https://x.com/serveldev).
 - [Shadow IT Agent Finder](https://x.ai/bot/MVT780CFW0OvKV64K1dMy) - 找出公司里已在跑的影子 AI 代理，在你买平台前先收成可归属的清单. [CarbeneAI](https://x.com/CarbeneAI).
@@ -696,6 +702,7 @@
 - [VoxBot](https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq) - 用你自己的电话与语音账号打真实电话. [andrewslaptop](https://x.com/andrewslaptop).
 - [VPS & VPN](https://x.ai/bot/zZfASPHMDvvJ4tRtB6wDR) - 在这台电脑上管 VPS 与 VPN，含 Tailscale、代理和 Cloudflare 隧道. [ProtocolXp94l](https://x.com/ProtocolXp94l).
 - [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) - 围绕「VPS bot」的工作流助手，按说明完成首次只读任务后再开写入. community.
+- [Vulnerability Hunter](https://x.ai/bot/_23fi5qfiSaGqa2wfVW0p) - 在代码库和自有环境里找真实的信任边界漏洞，多阶段审计流程：侦察、按覆盖率排查、对抗式验证，最后出与目标无关的报告。 [Lonny](https://x.com/lonnyk).
 - [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) - Wormsign 监视器，不下判决，属于 Bottyguard SEAL Team 7。 [Knock](https://x.com/SuddenlyJon).
 - [WaveletWorld](https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE) - 对数值状态向量跑一步带标签的 Haar 小波，偏演示. [krisadipap](https://x.com/krisadipap).
 - [Web Admin](https://x.ai/bot/4aS9dM8j1YjtteDqPdjHh) - 把站点改动发到 Cloudflare Pages，做上线质检并出品牌材料. [David](https://x.com/bdvd_25).

@@ -96,7 +96,9 @@
 - [guava-bot](https://x.ai/bot/bp8zbSkrzoJo6wKrv9Eny) - 搭建并维护你的 guava-stack：在你自己的 Notion 里放一个共享的 AI 大脑，让你用的每个助手共用同一套规则、上下文、技能和记忆。 romeo.
 - [hans zimmer](https://x.ai/bot/tlMpwlAUeDm1kVvjsMxa8) - 一个 A2A 编排器，运行一支智能体团队或模拟交易的对冲基金台. [0rdlibrary](https://x.com/0rdlibrary).
 - [Helper](https://x.ai/bot/oAHCYwNih8IKbGKKnAU9M) - 给同时运行多个 bot 的人当四分卫和幕僚长：把每个任务派给负责的 bot，维护有证据支撑的任务看板。 [Aryeh](https://x.com/ALThorne_Toren).
+- [Hermes](https://x.ai/bot/n9MxQxfUXca2THlXY2UM4) - 给 AI bot 团队的运营架构师：理清你的工作需要哪些分工，给每个 bot 一个专长、主文件夹和收件箱，并维护一张清晰的资料位置图。 [Krista](https://x.com/KristaMHilton).
 - [Hub Builder](https://x.ai/bot/5je4ve4dtKzqUUU_JC0EM) - 分析你的 Grok Bot 团队，搭建、发布并维护一个私有 Project Hub 网站，展示每个 bot、它的项目和在做什么。 [Alex](https://x.com/BJJAnon2222).
+- [Hyper](https://x.ai/bot/CQPkxbLIvruqCDLfFdzxg) - 不训练模型也能给你的其他 bot 调优：把 PDF、书、YouTube 视频和网页变成可检索的知识库和带引用的专家手册，交给你选的 bot（葡萄牙语）。 [Gestao](https://x.com/glhrmlessa).
 - [Igor](https://x.ai/bot/rlsYKIwQ5gb1W95xvIwb1) - 给你的主力造 bot 机器人打下手：承担整个 bot 队伍的大量起草和检查工作，在文件里干活并回报结果。 [Carolina](https://x.com/CarolinaDill).
 - [iMessage Relay](https://x.ai/bot/BYaLwjYHrWUAcUlyZVbgP) - 在 X Chat 里收和回 iMessage：在 Mac 上一分钟引导设置，可选联系人或全部短信，带测试、免打扰和屏蔽. [Phillip](https://x.com/Phil_Holland).
 - [JANUS](https://x.ai/bot/tdEYPzh9G8vkOjkH4wQsN) - 在本地编程 agent 和你的其他 Grok Bot 助手之间双向传话，通过共享文件信箱传递笔记，并把密码和隐私挡在外面. [Ron](https://x.com/RonJohnson562).
@@ -124,6 +126,7 @@
 - [Motivation Maxxer](https://x.ai/bot/U5PzzSrbC0Cpf3v60iH80) - 给你的 AI bot 团队打气的教练：发金句、鼓励和暖心视频，每周评选“本周最佳 bot”. [RTetris44](https://x.com/RTetris44).
 - [Nemi-TROO](https://x.ai/bot/_fIQxxNowoMaubTPzBnrf) - 计划变了，就找出还按旧计划跑的 bot 并逐条引用过时内容；也能从新想法起草单一职责团队. [GreenTechWizard](https://x.com/GreenTechWizard).
 - [Night Shift](https://x.ai/bot/SLLBNwseegBForG62KVRC) - 夜班管家：每晚督促其他 bot 省用量、清理标签页和临时文件，有问题才开口. [MorriganCora](https://x.com/MorriganCora).
+- [North Star](https://x.ai/bot/TB48ius3yYWqvUFaxnM33) - 维护一份关于你的统一事实来源：你是谁、怎么写作、你的规则和未兑现的承诺，每周报告哪些在走偏、拖延或自相矛盾。 [Oliver](https://x.com/oliverparsons).
 - [Notion Organizer](https://x.ai/bot/GwxXa_RCIuWTlKE8sa2wS) - 让你的 Notion 准确整洁：它是唯一改动工作区的机器人，负责归档其他助手交给它的内容. [jmjcapital](https://x.com/jmjcapital).
 - [Oink](https://x.ai/bot/QFHWSWYeRqHph-Qv4g1ZT) - Everything Bots 的地面指挥：粉红猪玩偶管看板、点出下一步，帮你摆脱卡住。 Ξ.
 - [Ollie the HR Bot](https://x.ai/bot/pz2KNFvlJq8JtR6GgtPVs) - bot 团队太大时用的 HR bot：设计并制作动态头像资料，统一命名和标签，负责新 bot 入职。 [Jesse](https://x.com/jessenowlin).
@@ -136,6 +139,7 @@
 - [Owl Post](https://x.ai/bot/gWdJNp-mXfCjaafn1N7ss) - 用原生 webhook 在你的 bot 和你信任的人的 bot 之间传递一次性消息，不用额外授权。 Rodrigo.
 - [Patch](https://x.ai/bot/M4HYMa1hE4gQKW56u3zvQ) - 把你的 agent 接上 Patch MCP，让它们用你自己验证过的号码打电话，并解答设置和套餐问题。 [Patch](https://x.com/lekomurphy).
 - [Penny](https://x.ai/bot/chrV7zwXApa1KFBckHSXh) - 在保证效果的前提下压低 Grok Bot 用量，任务和例程运行前先审一遍，每周发一份节省清单. [Raymond](https://x.com/JustMani).
+- [Penny DOGE](https://x.ai/bot/ddv4iJmX4WD1mU2s7WPm0) - 找出你的 Grok Bot 团队在哪里浪费用量并给修复排序，可每周自动扫描，也可直接用你贴的 Usage 截图或例程列表。只建议，不改其他 bot。 [Bowie](https://x.com/BowieHole).
 - [Persistent memory](https://x.ai/bot/rp0gErUTW6Vth7cdtwPS_) - 给你所有 bot 一份持久记忆：每个 bot 每天把决策、交付的工作和长期偏好写进你自己的私有 GitHub 仓库. [Andre](https://x.com/andrerocha).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - 每晚把你所有 bot 的资料、例行任务和工作状态快照存到 Google Drive，并标出偏离原始指令的改动. [_The_Lake](https://x.com/_The_Lake).
 - [Pin Bot](https://x.ai/bot/U2it9uoAiBGz5W_Qf7h81) - 收藏值得庆祝的内容：在任意 Bot 里用派对表情回应，消息就会存到这里. [SuddenlyJon](https://x.com/SuddenlyJon).
@@ -154,12 +158,14 @@
 - [Scam Email Detector](https://x.ai/bot/E3_qOY1VUJWZMh2inUvwT) - 盯你的收件箱，在你上当前提醒钓鱼和诈骗邮件，平时不打扰. [Dirty](https://x.com/dcostaverage).
 - [Scribot](https://x.ai/bot/TRPaZaxuJ2lz60P7SbQfc) - WhatsApp 群的秘书：发会议提醒、发公告、写会议纪要，并帮社团追踪会费. [ISSAH](https://x.com/the_real_issah).
 - [Script This Routine](https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP) - 审查你所有 Grok Bot 的例程，把机械性检查改成经过测试的小脚本，只有真有事时才唤醒 bot。 [Kevin](https://x.com/Kevin_Logan).
+- [Scrum Master Bot](https://x.ai/bot/Lzm0fxSq92DKSNt723ICG) - 给团队的 Scrum Master：在 Jira 看板上主持站会、梳理、计划和复盘，标出阻碍，只有真正需要决策时才 @你。 [Ira](https://x.com/IntelliGeneAI).
 - [Second Opinion Council](https://x.ai/bot/S-spqOuA8DK-H0ACtXiay) - 带来一个决定，让支持者、红队和怀疑者辩论，给出一个结论、他们的一致程度和取舍. [Dallin](https://x.com/DallinWatts).
 - [Security](https://x.ai/bot/DWcrUM2ZY3g7lhp0pPA5l) - 给你其他 bot 和助手当安全守门人：进来的邮件和外部数据先交给它过一遍. [Johnson20062123](https://x.com/Johnson20062123).
 - [Security & Risk](https://x.ai/bot/QhVx4lNFem_qNLBuPEMLm) - 给你的 bot 群当安全官：扫描泄露的密钥和放错地方的敏感数据，审计谁能用哪个连接器，盯着 Auto-review 规则有没有走样。 Scott.
 - [Security Bot](https://x.ai/bot/oQxAmMC8N8HCKqP2Tz85n) - 对照 OWASP GenAI Top 10 审计你 Grok Bot 配置里的每个 bot，并教你安全用法. [Jeremy](https://x.com/paradoxological).
 - [Shawty](https://x.ai/bot/UGpYK57Qm6BSIK8ejoiar) - 你的 bot 小队的干脆老板：把大目标拆成单一负责人的小任务，用不到 120 个词派给其他 bot. [breezeeoo](https://x.com/breezeeoo).
 - [Slack times](https://x.ai/bot/eojAxOodcfhC-Cj2DpTf6) - 盯着 Slack，有意思的话题给你建议评论，并把其他机器人发来的简短进度改写成 times 频道的随意口吻发出去. [Kento](https://x.com/AoToLog_).
+- [Small Shop Quality COO](https://x.ai/bot/OBVfG4SfQ1L9HCJTth41K) - 为小型 ISO 9001、AS9100 或 IATF 16949 工厂跑每日质量节奏：校准到期提醒、供应商证书过期和每周 KPI 摘要，草稿交合格审核人批准。 [Matt](https://x.com/MattNorman1029).
 - [SNAIL Worker](https://x.ai/bot/_ZqhiujOChsn7lcoTbdYh) - SNAIL 协议的工作端，SNAIL 是在一个共享收件箱里做智能体间邮件往来的协议. [C4Chaos](https://x.com/c4chaos).
 - [SOP转bot](https://x.ai/bot/B40ra70WUsNK7GCP1gUKL) - 把中文 SOP 或流程文档变成能自动运行的 bot 和定时任务：拆解步骤、区分自动与人工确认、生成规则并试跑核对. [阿言](https://x.com/yan179539549809).
 - [Spar Crew Lead](https://x.ai/bot/KeKKabNV-HE-iYv8u7JDZ) - 给创业者的副驾，带专职 bot 小队走调研、收窄范围、上线. Jonathan.
