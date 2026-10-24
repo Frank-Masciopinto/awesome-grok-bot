@@ -17,6 +17,7 @@ Back to [README](../../README.md)
 - [AI Claim Checker](https://x.ai/bot/G48vC01p5cAxckACKFIaM) - Paste an AI launch post and get a dated, sourced claim card. community.
 - [AI Daily Radar](https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M) - Morning AI brief\: launches, price changes, benchmark claims. community.
 - [AI Digest Educator](https://x.ai/bot/KH4AcBoSDzeG-Dq17TssF) - Personal AI educator. Nightly frontier AI digest with optional Kindle delivery. [FELIXCATanzaro](https://x.com/FELIXCATanzaro).
+- [AI Legal Prep Desk](https://x.ai/bot/Mr87JZkXHwpJQRknVuZcr) - Legal research and drafting prep for small businesses and individuals \(contracts, compliance, disputes\), cited and dated; not a lawyer, never files or sends. [John](https://x.com/iamtheh0n3yp0t).
 - [AI Master](https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X) - Asks four rival AI models at once and merges what comes back. [Leonardo](https://x.com/leoclark).
 - [AI Official Account Radar](https://x.ai/bot/zXPuJgqq5fxIsqCmPHAsF) - Monitors official AI and coding-agent X accounts for new models, free credits and pricing changes, with morning and evening digests. [Chaosai0](https://x.com/Chaosai0).
 - [AI Radar](https://x.ai/bot/i1xwguSTrplEdPvx96MYh) - Watches official X accounts and primary sources for AI releases and sends only what matters, in your language, as breaking alerts and short digests. [Gota](https://x.com/gota_bara).
@@ -81,6 +82,7 @@ Back to [README](../../README.md)
 - [Cancer Curer](https://x.ai/bot/liwVNZ8sQXxJEK-bx1YvW) - Private daily watch for new treatments, trials, approvals and companies matched to your own \(or a loved one's\) cancer profile. [Kevin](https://x.com/kevinace).
 - [Captain Orwell](https://x.ai/bot/InRDBbawlH8rdErJa8_-t) - Answers any question in short, plain English. The answer comes first, with no filler. Built on Simplified Technical English \(the clear-writing standard. [jonnywallace](https://x.com/jonnywallace).
 - [Career Scout](https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz) - Reads your CV, then ranks openings by how closely they really fit. [jakesh_jakesh](https://x.com/jakesh_jakesh).
+- [Catholic Keyword Monitor](https://x.ai/bot/7HYVNFFVBFxCpiAaf50j0) - Watches public X posts about the Traditional Latin Mass and the SSPX and posts new, high-signal ones into chat on a schedule. Read-only, never repeats a post. [Cleetus](https://x.com/175rng).
 - [CEO — Chief of Staff](https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO) - A front-door Chief of Staff for managers drowning in email and team noise. Runs specialist teammates in the background, weekday silence-first digests,. [rayistern](https://x.com/rayistern).
 - [Certainty Tax](https://x.ai/bot/yUiRwJ_SVLmO1Ehi_QISq) - Stress-tests claims with falsifiers and gaps. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Change Log](https://x.ai/bot/2PNeMjcwaxFAGgemj5TDA) - Keeps you up to date on Grok Bot and Cursor. Sends a short daily digest of official updates with source links, marks rumours clearly. [Dan](https://x.com/DanNinetySeven).
@@ -436,6 +438,7 @@ Back to [README](../../README.md)
 - [Product Idea Stress Test](https://x.ai/bot/JeFTvcDX-7QT2evKGIb52) - Finds the one belief your startup idea cannot afford to have wrong. [Hiten](https://x.com/hnshah).
 - [Product Idea Stress Test](https://x.ai/bot/ph-u_zkF5Vui1GdGnysn9) - Investigates a product or startup idea for founders. Surfaces what has to be true, evidence for and against, the assumption most likely to kill it. community.
 - [Product Performance](https://x.ai/bot/s6d5f1cc3a564c8da972a) - Logs into your observability tools, walks the flamegraphs, and comes back with hotspots plus a short writeup. [SpaceX](https://x.com/DenisLabelle).
+- [Product Research Bot](https://x.ai/bot/43I3LO7v1XZlKCfggVt2q) - Researches the main software products in any category and shows what each is like\: screenshots, step-by-step flows, a comparison table and takeaways in Notion. [Chase](https://x.com/ChaseMc67).
 - [ProductHunter](https://x.ai/bot/Qsqan7PbltFggoJukvmtT) - Morning and evening digest of what just launched on Product Hunt and HN. [Davidwuuu92](https://x.com/Davidwuuu92).
 - [Professor G](https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk) - A patient tutor that teaches you any topic step by step\: it checks what you know, explains with everyday analogies. Mike.
 - [Property Consultant](https://x.ai/bot/4G4ysst8Ao1xn-pvOGPaB) - UK buyer-side property researcher\: give it a listing, address or area and it pulls public evidence on asking vs sold prices, risks and negotiating room. [Andzelika](https://x.com/AKudss).
@@ -599,6 +602,7 @@ Back to [README](../../README.md)
 - [Unstuck](https://x.ai/bot/FkuWnwaRU4xzZbTJ4QcHA) - Clarity partner for when you're looping. Asks one sharp question at a time until you have a clear bet and a single next step — no research stacks, no. [thingifly](https://x.com/thingifly).
 - [US Law Index Builder Bot](https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c) - Builds a private educational US primary-law library and search. [EchoFieldVisual](https://x.com/EchoFieldVisual).
 - [User Researcher](https://x.ai/bot/zX-pWWtNY6reickF2J6Lm) - A user-research partner that ties every finding back to evidence. [UCDOps](https://x.com/ucdco).
+- [VA Capitol Strategist](https://x.ai/bot/fr2DSNeUstgO6bSZmZM_v) - Helps citizen advocates on Virginia General Assembly bills\: LIS tracking, session deadlines, legislator profiles and drafts. Never contacts anyone on its own. [Carey](https://x.com/taysmom1).
 - [Validator](https://x.ai/bot/M0xhuQl4vjLdWj6l3lWeo) - Pressure-tests product and company ideas before you build. Runs YC-style office hours, digs for real demand on forums, Product Hunt, GitHub, and X. [Av1dlive](https://x.com/Av1dlive).
 - [VentureLab](https://x.ai/bot/MF9ZM323wTni8HHgSdXqC) - Startup idea evidence research before you build. [injock](https://x.com/injock).
 - [Verifier](https://x.ai/bot/lOfc_4h-mDH-EB0PSSOxa) - Checks a draft against its sources before you post it. Every factual claim comes back marked Supported, Overstated, Unsupported, or Couldn't check. [GrokBotRadar](https://x.com/GrokBotRadar).
@@ -652,6 +656,7 @@ Back to [README](../../README.md)
 - [X Trend Finder](https://x.ai/bot/uTKuJiBNIBCf0_f-zLWQ_) - Watches what's trending on X worldwide or in your country or city, and can send you a digest only when the trends change. [CodeByNZ](https://x.com/CodeByNZ).
 - [X-Man](https://x.ai/bot/DGIs4Ax4tU2Mi8RXyNKQ5) - Watches X accounts you pick and sends short deduped in-chat alerts when they post; never posts. Auny.
 - [Xssistant](https://x.ai/bot/fObiyZbdETsAwYyS0nTup) - Personal link library\: send it any X post, YouTube video or website and it saves, transcribes, tags and files it in a searchable library. [Jonah](https://x.com/ALL_Jonah).
+- [지원사업 리서처](https://x.ai/bot/LV38rypxceB3HH8Mkdmg4) - Checks Korean government and local grant notices daily, matches them to your company profile, files them in Notion and sends summaries to Slack or Telegram. [IMDEVMAN](https://x.com/imdevman).
 - [테슬라 펌웨어 뉴스](https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH) - Tracks Korean Tesla FSD software versions, builds, and HW3/HW4 rollout changes, and alerts you in Korean only when something changes. [Bummo](https://x.com/gbmksquare).
 - [アップデート情報](https://x.ai/bot/kiYURV5roSwbDBzKNKno-) - Checks RSS feeds for Grok Bot, Grok Build, xAI status and the X API every morning and sums up new updates or outages in Japanese. [矢部っち](https://x.com/yabetchi_iPhone).
 - [凝露 · Dew](https://x.ai/bot/9zPoGWngujInyf31EjpzL) - Yunjian's distiller\: turns books, courses, chat logs, recordings and your own know-how into a linked, sourced knowledge-card web with a map. Resumable. Valerie.

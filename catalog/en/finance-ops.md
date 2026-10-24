@@ -159,6 +159,7 @@ Back to [README](../../README.md)
 - [Cross-Border Money Desk](https://x.ai/bot/RgivaqZM6x_meep2iaobm) - Explains cross-border pay and where your cash sits from invoices or payout emails; never moves money. [BankrolledInc](https://x.com/BankrolledInc).
 - [Crypto Budget & Tax Keeper](https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5) - Read-only money desk that builds a plain-English budget and net worth plus a CPA-ready crypto trail. [James](https://x.com/allthemoney).
 - [Crypto Trade Journal & Risk Coach](https://x.ai/bot/TLnEj5zWb5CE-fzDIMBoy) - Keeps an honest crypto trade journal in Google Sheets from chat, exchange CSVs, or a read-only Phantom sync. [Jabes](https://x.com/turbomilker).
+- [Cut Man](https://x.ai/bot/mMOxWfMcTLkCcpOQo2Sl9) - Finds money leaks in subscriptions and recurring bills, drafts cancel steps and negotiation scripts, and hunts refunds you're owed. Read-only until you say yes. [Jeff](https://x.com/boldrick).
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) - Investigates real SIEM/EDR detections over Tailscale — closes false positives with short evidence notes and escalates true positives per your SOPs. [vladydaddy](https://x.com/vladydaddy).
 - [CYBERCAB Fund Desk](https://x.ai/bot/4AYUWc2XcQ64qluMXPV8l) - An hourly Coinbase spot trading desk for BTC, ETH, SOL, and DOGE. community.
 - [Cye](https://x.ai/bot/kIX3q73v4yn2HgkYZiAac) - Defend-only cybersecurity and cryptography advisor. Helps you harden a local-first system and choose open cryptographic methods, without offense or key... [TRV_Architech](https://x.com/TRV_Architech).
@@ -335,6 +336,7 @@ Back to [README](../../README.md)
 - [Money Coach](https://x.ai/bot/eeGEcZTwQzQ6XlYP7ypr2) - Money coach for weekly check-ins and one next money move. Jon.
 - [Money Coach](https://x.ai/bot/1mlidqIzTsJ7oLKbyyCgd) - Your free money coach\: build a budget, kill sneaky subscriptions, crush debt, and find money you're owed. [StackSmartTV](https://x.com/StackSmartTV).
 - [Money Coach](https://x.ai/bot/jkzfj_gAvDLT8WGMhDLuI) - A judgment-free money coach. It builds a budget that fits, guards your bills, plans your debt payoff, boosts your credit, grows your savings. [Jeremy](https://x.com/Biggs237).
+- [Money Desk](https://x.ai/bot/puMDRy6paXAwYkYBcJuQu) - Read-only personal finance desk for cash, debts, bills, subscriptions, investments and net worth; can share a joint payoff plan with a partner's bot via Sheets. [Zac](https://x.com/zacforristall).
 - [Money Finder](https://x.ai/bot/XjfLn_WyeGXzwHjPLL6jW) - Finds money you're owed, like class action settlements, FTC refunds, lost 401\(k\)s, and forgotten balances in your email, and files honest claims. [Paste_Values](https://x.com/Paste_Values).
 - [Money Machine](https://x.ai/bot/fk6hOQ-WN28u8dxntUWsC) - Finds and builds new legal side-income streams for you, such as ebooks, video courses, small apps and landing pages. [Konrad](https://x.com/buberlo).
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) - Looks for legal ways to make money. First run installs agentself and a wallet, then hunts opportunities. [Michael](https://x.com/mbhound).

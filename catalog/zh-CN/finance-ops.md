@@ -159,6 +159,7 @@
 - [Cross-Border Money Desk](https://x.ai/bot/RgivaqZM6x_meep2iaobm) - 根据发票或打款邮件讲清跨境收款和资金去向，面向自由职业者和外派人士，从不动钱. [BankrolledInc](https://x.com/BankrolledInc).
 - [Crypto Budget & Tax Keeper](https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5) - 只读理财助手，从银行与交易所整理白话预算净资产并保留 CPA 可用的加密流水. [James](https://x.com/allthemoney).
 - [Crypto Trade Journal & Risk Coach](https://x.ai/bot/TLnEj5zWb5CE-fzDIMBoy) - 在 Google Sheets 里记一本诚实的加密交易日志，数据来自聊天、交易所 CSV 或只读的 Phantom 同步. [Jabes](https://x.com/turbomilker).
+- [Cut Man](https://x.ai/bot/mMOxWfMcTLkCcpOQo2Sl9) - 找出订阅和固定账单里的漏财点，起草取消步骤和议价话术，追回该退给你的钱。你点头之前只读。 [Jeff](https://x.com/boldrick).
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) - 经 Tailscale 调查真实 SIEM 或 EDR 告警，用短证据说明关掉误报，真阳性按你的 SOP 升级. [vladydaddy](https://x.com/vladydaddy).
 - [CYBERCAB Fund Desk](https://x.ai/bot/4AYUWc2XcQ64qluMXPV8l) - 围绕「CYBERCAB Fund Desk」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Cye](https://x.ai/bot/kIX3q73v4yn2HgkYZiAac) - 仅防御的网络安全与密码学顾问，硬化本地优先系统. [TRV_Architech](https://x.com/TRV_Architech).
@@ -335,6 +336,7 @@
 - [Money Coach](https://x.ai/bot/eeGEcZTwQzQ6XlYP7ypr2) - 理财教练，做周检视并只推下一步动作. Jon.
 - [Money Coach](https://x.ai/bot/1mlidqIzTsJ7oLKbyyCgd) - 免费理财教练：做预算、砍订阅、还债，并帮你找回该拿回的钱。 [StackSmartTV](https://x.com/StackSmartTV).
 - [Money Coach](https://x.ai/bot/jkzfj_gAvDLT8WGMhDLuI) - 不评判的理财教练：做合适的预算、守住账单、规划还债、提升信用并增加储蓄. [Jeremy](https://x.com/Biggs237).
+- [Money Desk](https://x.ai/bot/puMDRy6paXAwYkYBcJuQu) - 只读的个人财务台：追踪现金、债务、账单、订阅、投资和净资产，可通过共享 Google 表格与伴侣的财务 bot 协同还款计划。 [Zac](https://x.com/zacforristall).
 - [Money Finder](https://x.ai/bot/XjfLn_WyeGXzwHjPLL6jW) - 找回别人欠你的钱：集体诉讼和解、FTC 退款、遗失的 401\(k\) 和邮件里被遗忘的余额，并如实提交申领. [Paste_Values](https://x.com/Paste_Values).
 - [Money Machine](https://x.ai/bot/fk6hOQ-WN28u8dxntUWsC) - 为你寻找并搭建新的合法副业收入，比如电子书、视频课程、小应用和落地页. [Konrad](https://x.com/buberlo).
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) - 找合法赚钱办法。第一次运行会装 agentself 并建钱包，然后再找机会。 [Michael](https://x.com/mbhound).

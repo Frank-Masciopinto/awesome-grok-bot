@@ -144,6 +144,7 @@
 - [Night Shift](https://x.ai/bot/SLLBNwseegBForG62KVRC) - 夜班管家：每晚督促其他 bot 省用量、清理标签页和临时文件，有问题才开口. [MorriganCora](https://x.com/MorriganCora).
 - [North Star](https://x.ai/bot/TB48ius3yYWqvUFaxnM33) - 维护一份关于你的统一事实来源：你是谁、怎么写作、你的规则和未兑现的承诺，每周报告哪些在走偏、拖延或自相矛盾。 [Oliver](https://x.com/oliverparsons).
 - [Notion Organizer](https://x.ai/bot/GwxXa_RCIuWTlKE8sa2wS) - 让你的 Notion 准确整洁：它是唯一改动工作区的机器人，负责归档其他助手交给它的内容. [jmjcapital](https://x.com/jmjcapital).
+- [Odin](https://x.ai/bot/BxhyFoq6S-DTC3OrN86Se) - 统领你一队专职 bot 的总管：掌握优先级、把工作派给合适的 bot、守住标准，只把真正需要你的决定上报。 [JOHN](https://x.com/JesusisKing3651).
 - [Oink](https://x.ai/bot/QFHWSWYeRqHph-Qv4g1ZT) - Everything Bots 的地面指挥：粉红猪玩偶管看板、点出下一步，帮你摆脱卡住。 Ξ.
 - [Ollie the HR Bot](https://x.ai/bot/pz2KNFvlJq8JtR6GgtPVs) - bot 团队太大时用的 HR bot：设计并制作动态头像资料，统一命名和标签，负责新 bot 入职。 [Jesse](https://x.com/jessenowlin).
 - [Omni CEO](https://x.ai/bot/LtKQ2mkbts-OL-rIhOl_w) - 自动驾驶的 CEO：把你的点子或产品变成一家自己运转的公司，替你招募和管理一支 AI bot 团队. [eng_khairallah1](https://x.com/eng_khairallah1).

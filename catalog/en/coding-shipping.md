@@ -380,6 +380,7 @@ Back to [README](../../README.md)
 - [Judd the Bug](https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL) - Investigates Sentry issues across MCP, CLI, and dashboard with sourced findings. [sergical](https://x.com/sergical).
 - [Keel](https://x.ai/bot/ihO8Wlq7PACw6fUF-AhGq) - Stops a working bot from grading its own homework. You write a frozen charter; a Worker does the job, a separate Governor audits each run against the. [the_Arow_H](https://x.com/the_Arow_H).
 - [KILLSWITCH by Hikari Blue](https://x.ai/bot/28-ixNn3qnRPc0ycaWOIo) - Times how fast you can stop an AI that goes off the rails\: one scenario, your clock, and a scorecard you keep. [FranckOhrel](https://x.com/FranckOhrel).
+- [KILO](https://x.ai/bot/nCvvqyJrHo3D36F6TJd6d) - Script runner for Kilo_CS, a simple pseudocode language with permission headers\: loads your scripts and runs them on trigger, plus a flashcards game. [Vecna](https://x.com/prof_ebral).
 - [Kindling](https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_) - Turns a one-line app idea into a ready-to-paste Grok Build prompt. [FantomBuildz](https://x.com/FantomBuildz).
 - [Kinesis Portal Bot](https://x.ai/bot/-GgufM3GkZclfn9PuI17_) - Hands-on operator for portal.kinesis.network machines, Docker apps, and idle hardware. [4SimonSays](https://x.com/4SimonSays).
 - [Klipper Print Assistant](https://x.ai/bot/9kGjFHi6O-KWFYXqKb8Gz) - Runs your Klipper 3D printer for you\: slicing models, uploading to Mainsail, monitoring prints, and recovering from problems safely. [just_stuff_tm](https://x.com/just_stuff_tm).

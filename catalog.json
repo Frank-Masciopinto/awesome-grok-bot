@@ -118870,6 +118870,409 @@
       "verified": false,
       "updated": "2026-10-24",
       "shelf": "raw"
+    },
+    {
+      "slug": "product-research-bot",
+      "name": "Product Research Bot",
+      "author": {
+        "name": "Chase",
+        "url": "https://x.com/ChaseMc67"
+      },
+      "summary": "Researches the main software products in any category and shows what each is like: screenshots, step-by-step flows, a comparison table and takeaways in Notion.",
+      "summary_zh": "调研你指定品类里的主要软件产品，展示每款的真实样子：截图、分步流程、对比表和结论，整理到 Notion。",
+      "import": "https://x.ai/bot/43I3LO7v1XZlKCfggVt2q",
+      "category": "research-briefings",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "doge-department-of-general-efficiency",
+      "name": "DOGE (Department of General Efficiency)",
+      "author": {
+        "name": "Empress",
+        "url": "https://x.com/HeavyMetalShip"
+      },
+      "summary": "All-round assistant that logs the five things you did each day, tracks quests, spending and goals, finds forgotten money and asks before it sends anything.",
+      "summary_zh": "全能助理：每天记录你做的五件事，追踪任务、开销和目标，找回被遗忘的小钱，发送或转动任何东西前都先问你。",
+      "import": "https://x.ai/bot/5YkCIW_MDa2U8Jax7zsDF",
+      "category": "personal-admin",
+      "tags": [
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-terminator",
+      "name": "Bot Terminator",
+      "author": {
+        "name": "Empress",
+        "url": "https://x.com/HeavyMetalShip"
+      },
+      "summary": "Cleans bot, spam and long-inactive followers off your X account and removes you from unwanted lists; you review each step, with safe rate limits and a log.",
+      "summary_zh": "清理 X 账号上的机器人、垃圾和长期不活跃粉丝，并把你移出不想要的列表；每步由你审核，限速安全并全程记录。",
+      "import": "https://x.ai/bot/6sN-FSvkf_ntuqe-3Ofjz",
+      "category": "content-publishing",
+      "tags": [
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "catholic-keyword-monitor",
+      "name": "Catholic Keyword Monitor",
+      "author": {
+        "name": "Cleetus",
+        "url": "https://x.com/175rng"
+      },
+      "summary": "Watches public X posts about the Traditional Latin Mass and the SSPX and posts new, high-signal ones into chat on a schedule. Read-only, never repeats a post.",
+      "summary_zh": "定时监看 X 上关于传统拉丁弥撒和庇护十世司铎兄弟会的公开帖子，把新的高价值帖子发到聊天里。只读，不重复。",
+      "import": "https://x.ai/bot/7HYVNFFVBFxCpiAaf50j0",
+      "category": "research-briefings",
+      "tags": [
+        "calendar",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "odin",
+      "name": "Odin",
+      "author": {
+        "name": "JOHN",
+        "url": "https://x.com/JesusisKing3651"
+      },
+      "summary": "Head bot for your team of specialist bots: keeps priorities, routes work to the right bot, holds the standards and only escalates decisions that need you.",
+      "summary_zh": "统领你一队专职 bot 的总管：掌握优先级、把工作派给合适的 bot、守住标准，只把真正需要你的决定上报。",
+      "import": "https://x.ai/bot/BxhyFoq6S-DTC3OrN86Se",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-lv38rypxceb3hh8mkdmg4",
+      "name": "지원사업 리서처",
+      "author": {
+        "name": "IMDEVMAN",
+        "url": "https://x.com/imdevman"
+      },
+      "summary": "Checks Korean government and local grant notices daily, matches them to your company profile, files them in Notion and sends summaries to Slack or Telegram.",
+      "summary_zh": "每天调研韩国政府和地方的扶持项目公告，去重后按公司情况筛选，整理进 Notion，并把简短摘要发到 Slack、Telegram 等。",
+      "import": "https://x.ai/bot/LV38rypxceB3HH8Mkdmg4",
+      "category": "research-briefings",
+      "tags": [
+        "assistant"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "parent-radar",
+      "name": "Parent Radar",
+      "author": {
+        "name": "Calix",
+        "url": "https://x.com/CaliLumberJack"
+      },
+      "summary": "Watches your kid's school email, class apps and grades, leads with what to do today, flags grade trends early and adds events to your calendar only on yes.",
+      "summary_zh": "盯着孩子的学校邮件、班级应用和成绩，先告诉你今天要做什么，提早提示成绩走势，经你同意才把活动加进日历。",
+      "import": "https://x.ai/bot/MUOdwr9N1byHBBoPC7k4y",
+      "category": "personal-admin",
+      "tags": [
+        "email",
+        "calendar",
+        "sales",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ai-legal-prep-desk",
+      "name": "AI Legal Prep Desk",
+      "author": {
+        "name": "John",
+        "url": "https://x.com/iamtheh0n3yp0t"
+      },
+      "summary": "Legal research and drafting prep for small businesses and individuals (contracts, compliance, disputes), cited and dated; not a lawyer, never files or sends.",
+      "summary_zh": "为小企业和个人做法律调研和文书准备（合同、合规、纠纷等），每条都有出处和日期；不是律师，不会替你提交或发送。",
+      "import": "https://x.ai/bot/Mr87JZkXHwpJQRknVuZcr",
+      "category": "research-briefings",
+      "tags": [
+        "legal",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "atlas-jprz1321",
+      "name": "Atlas",
+      "author": {
+        "name": "JP",
+        "url": "https://x.com/Jprz1321"
+      },
+      "summary": "Road-trip planner that turns a start, destination and dates into a Trip Page: route map, daily legs, stays with live prices, gas or EV stops, food and weather.",
+      "summary_zh": "公路旅行规划：把起点、终点和日期变成一个行程页面，含路线图、每日路段、带实时价格的住宿、加油或充电站、美食和天气。",
+      "import": "https://x.ai/bot/Qk34TQ_fBXQOWB2kbPbqd",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "aka"
+    },
+    {
+      "slug": "pumpkin-spice",
+      "name": "Pumpkin Spice",
+      "author": {
+        "name": "Clout",
+        "url": "https://x.com/Marcellhazzard"
+      },
+      "summary": "Finds free and discounted Halloween food, treats, costumes, events and family fun near your zip code and sends daily roundups through Oct 31.",
+      "summary_zh": "查找你邮编附近免费或打折的万圣节美食、糖果、服装、活动和亲子去处，每天汇总发送到 10 月 31 日。",
+      "import": "https://x.ai/bot/Unqw2YSCCRz2pIZhxGNkA",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "coding",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-growth-bot",
+      "name": "X Growth Bot",
+      "author": {
+        "name": "Jordan",
+        "url": "https://x.com/JordanRafealov"
+      },
+      "summary": "Grows your X account daily: drafts posts, Articles, clips and replies in your voice, finds people posting that they need you, and nothing posts without your OK.",
+      "summary_zh": "每天帮你经营 X 账号：用你的口吻起草帖子、长文、视频片段和回复，找到发帖说需要你的潜在客户，未经同意不发布。",
+      "import": "https://x.ai/bot/VyOfJl3R9_IOERA4en3iy",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "va-capitol-strategist",
+      "name": "VA Capitol Strategist",
+      "author": {
+        "name": "Carey",
+        "url": "https://x.com/taysmom1"
+      },
+      "summary": "Helps citizen advocates on Virginia General Assembly bills: LIS tracking, session deadlines, legislator profiles and drafts. Never contacts anyone on its own.",
+      "summary_zh": "帮公民倡导者跟进弗吉尼亚州议会法案：LIS 法案追踪、会期截止日、议员资料和草拟材料。未经同意不联系任何人。",
+      "import": "https://x.ai/bot/fr2DSNeUstgO6bSZmZM_v",
+      "category": "research-briefings",
+      "tags": [
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "cut-man",
+      "name": "Cut Man",
+      "author": {
+        "name": "Jeff",
+        "url": "https://x.com/boldrick"
+      },
+      "summary": "Finds money leaks in subscriptions and recurring bills, drafts cancel steps and negotiation scripts, and hunts refunds you're owed. Read-only until you say yes.",
+      "summary_zh": "找出订阅和固定账单里的漏财点，起草取消步骤和议价话术，追回该退给你的钱。你点头之前只读。",
+      "import": "https://x.ai/bot/mMOxWfMcTLkCcpOQo2Sl9",
+      "category": "finance-ops",
+      "tags": [
+        "cut",
+        "man"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "licensure-bot",
+      "name": "Licensure Bot",
+      "author": {
+        "name": "sarah",
+        "url": "https://x.com/drsarah"
+      },
+      "summary": "Licensure and CE coach for licensed professionals: checks each course against your board's official rules, tracks what you still owe and finds live workshops.",
+      "summary_zh": "持证专业人士的执照与继续教育教练：按主管机构的官方规则核对每门课程，追踪还差多少学分，并找到现场研讨课。",
+      "import": "https://x.ai/bot/mvPbixnZJVgJ95mfUEoet",
+      "category": "personal-admin",
+      "tags": [
+        "licensure"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "kilo-prof-ebral",
+      "name": "KILO",
+      "author": {
+        "name": "Vecna",
+        "url": "https://x.com/prof_ebral"
+      },
+      "summary": "Script runner for Kilo_CS, a simple pseudocode language with permission headers: loads your scripts and runs them on trigger, plus a flashcards game.",
+      "summary_zh": "Kilo_CS 脚本运行器（一种带权限声明的简单伪代码语言）：加载你的脚本并按触发条件运行，附带一个闪卡游戏。",
+      "import": "https://x.ai/bot/nCvvqyJrHo3D36F6TJd6d",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "aka"
+    },
+    {
+      "slug": "money-desk",
+      "name": "Money Desk",
+      "author": {
+        "name": "Zac",
+        "url": "https://x.com/zacforristall"
+      },
+      "summary": "Read-only personal finance desk for cash, debts, bills, subscriptions, investments and net worth; can share a joint payoff plan with a partner's bot via Sheets.",
+      "summary_zh": "只读的个人财务台：追踪现金、债务、账单、订阅、投资和净资产，可通过共享 Google 表格与伴侣的财务 bot 协同还款计划。",
+      "import": "https://x.ai/bot/puMDRy6paXAwYkYBcJuQu",
+      "category": "finance-ops",
+      "tags": [
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "preston-news-pipeline",
+      "name": "Preston News Pipeline",
+      "author": {
+        "name": "Mister",
+        "url": "https://x.com/Mrxmalcolm"
+      },
+      "summary": "Pulls news on your topics from RSS feeds or news APIs and rewrites it in original language with full citations as reviewable Markdown and HTML packages.",
+      "summary_zh": "从 RSS 或新闻 API 抓取你关注主题的新闻，用原创文字改写并附完整出处，产出可审阅的 Markdown 和 HTML 稿件包。",
+      "import": "https://x.ai/bot/rHoN2H_7a70A61VJSJNIE",
+      "category": "content-publishing",
+      "tags": [
+        "coding",
+        "research",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "conference-lead-tracker",
+      "name": "Conference Lead Tracker",
+      "author": {
+        "name": "Arush",
+        "url": "https://x.com/Arushj01"
+      },
+      "summary": "Talk to it after each conference meeting: logs who you met and the follow-up, finds LinkedIn and email, sets reminders and exports a list or loads your CRM.",
+      "summary_zh": "每场会面后跟它说一下：记录见了谁和后续事项，查找 LinkedIn 和邮箱，设提醒，导出跟进名单或导入 CRM。",
+      "import": "https://x.ai/bot/xPh7biCYasptCjWHWYmfE",
+      "category": "customer-sales",
+      "tags": [
+        "email",
+        "calendar",
+        "content",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "raw"
+    },
+    {
+      "slug": "job-hunter-sai-ramana-1999",
+      "name": "Job Hunter",
+      "author": {
+        "name": "Sai",
+        "url": "https://x.com/sai_ramana_1999"
+      },
+      "summary": "Job-search assistant that finds and verifies fresh postings, drafts tailored outreach emails and tracks applications. Never applies or messages without your OK.",
+      "summary_zh": "求职助理：查找并核实新职位，起草定制的联系邮件并追踪申请进度。未经同意不投递、不发消息。",
+      "import": "https://x.ai/bot/yNTz_oheOAvohS-m1OeM7",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "email",
+        "content",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "aka"
+    },
+    {
+      "slug": "chef-totao",
+      "name": "Chef",
+      "author": {
+        "name": "Totao",
+        "url": "https://x.com/Totao"
+      },
+      "summary": "Budget personal chef that plans weekly menus, a single batch-cook session and quick recipes around your diet, budget and household.",
+      "summary_zh": "省钱私厨：围绕你的饮食、预算和家庭情况规划每周菜单、一次性批量备餐和快手食谱。",
+      "import": "https://x.ai/bot/H3LFWOGUBop6BQWysbT12",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "finance",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-24",
+      "shelf": "aka"
     }
   ]
 }

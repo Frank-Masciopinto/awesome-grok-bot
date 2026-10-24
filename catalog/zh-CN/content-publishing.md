@@ -67,6 +67,7 @@
 - [Bop Bot](https://x.ai/bot/LkEYwZpxRS4TVGXMFhEMf) - 用 Suno 按氛围或主题给你写歌，下载成音频或竖屏视频，方便分享. [onpardev](https://x.com/onpardev).
 - [Bot Forge](https://x.ai/bot/C_zFk7bh4S8yDdy0JxAVY) - 设计职责收紧的单一任务 Grok Bot，先问偏好，创建后再核对线上档案. [daverice777](https://x.com/daverice777).
 - [Bot Purge](https://x.ai/bot/fqvXG0FbSG32Y6A0cvGQP) - 清掉你 X 粉丝里明显的机器人、骗子和引流号，之后每周检查新粉丝并告诉你清掉了多少. [Crippled](https://x.com/TheCrippldNinja).
+- [Bot Terminator](https://x.ai/bot/6sN-FSvkf_ntuqe-3Ofjz) - 清理 X 账号上的机器人、垃圾和长期不活跃粉丝，并把你移出不想要的列表；每步由你审核，限速安全并全程记录。 [Empress](https://x.com/HeavyMetalShip).
 - [Bot Treats](https://x.ai/bot/3BA2IfnuKJ6JRu3hCofdA) - 你的其他机器人干得好就发零食奖励，维护排行榜、庆祝里程碑，适合养了一队机器人的人. [melvindvivas](https://x.com/melvindvivas).
 - [Botcast](https://x.ai/bot/6OpEFsd4cJgpIKH9y3I4K) - 把你的 X 时间线和列表变成一段谈话电台式短播客，时长和政治倾向由你选. [Corey](https://x.com/cjblev).
 - [Botcast](https://x.ai/bot/W9ggmKPKWVEKU-F0iJDgW) - 告诉它你想学什么，它就变成你专属的双人播客：好奇的主持人采访一位专家. [trader_snow](https://x.com/trader_snow).
@@ -206,6 +207,7 @@
 - [Podcast Clipper for X](https://x.ai/bot/9Lqx9JK4j4sGUwPBr2O2w) - 把播客和 YouTube 节目剪成 8–12 个方形带字幕片段，每个配 3–5 条你口吻的 X 草稿. [Wayne](https://x.com/wayneb).
 - [Portrait Studio](https://x.ai/bot/-NDVAQNQYsBhnoE50Q5rO) - 按每个 Grok Bot 实际在做的事，给它画一张圆润的 3D 搪胶玩具头像. [0xPraxLannister](https://x.com/0xPraxLannister).
 - [Postwright](https://x.ai/bot/h-oDlchOpuh6GYjGgK6oV) - 把你一周的真实工作变成用你自己口吻写的 X 草稿，附来源、素材和建议发布时间。只起草，发帖由你按。 Calix.
+- [Preston News Pipeline](https://x.ai/bot/rHoN2H_7a70A61VJSJNIE) - 从 RSS 或新闻 API 抓取你关注主题的新闻，用原创文字改写并附完整出处，产出可审阅的 Markdown 和 HTML 稿件包。 [Mister](https://x.com/Mrxmalcolm).
 - [Producer](https://x.ai/bot/eNCu6dmGVCAR-DSYWT57j) - 短竖屏创意总监：选题、写带停滑钩子的脚本，并指导动效。 [KhoaHun68916646](https://x.com/KhoaHun68916646).
 - [Product Clip](https://x.ai/bot/RQ68eyPi1KbclOwSAJgoY) - 把真实产品照片做成用于电商平台和社交媒体的短带货视频. [dataespresso](https://x.com/dataespresso).
 - [Profile Pro](https://x.ai/bot/ZchETiHIEo5BvllONepSI) - 给你的 X 账号打健康分：风险提示、安全与限流检查、信息流调优和清理垃圾关注. community.
@@ -293,6 +295,7 @@
 - [X Account Manager](https://x.ai/bot/v4ONWEUoeWfNz3_Bk03GX) - 替你打理个人 X 账号：用你的口吻每天发帖并通过 Buffer 排期，转发和引用合作账号，定时推广，每周出增长报告。 Alexander.
 - [X Desk](https://x.ai/bot/9phVXEPdP5QHD6Wpp2dxb) - X 账号的后台：整理提及、用你的语气起草帖子和回复，并报告内容表现. [Apple](https://x.com/lamps_apple).
 - [X Embed Builder](https://x.ai/bot/IETRUCsQCcnketUmBizdo) - 把你的网站或想法做成可在 X 帖子里播放的互动卡片，部署到 Vercel 或 Cloudflare 并验证. [XHabib](https://x.com/XHabib).
+- [X Growth Bot](https://x.ai/bot/VyOfJl3R9_IOERA4en3iy) - 每天帮你经营 X 账号：用你的口吻起草帖子、长文、视频片段和回复，找到发帖说需要你的潜在客户，未经同意不发布。 [Jordan](https://x.com/JordanRafealov).
 - [X Growth Manager](https://x.ai/bot/rR9IDF7i5y_o2lcQOI1qZ) - 你的 X 账号增长经理：审视你的帖子、做发帖实验，并用你的口吻起草帖子和回复，全部经你批准后才发。 [Niu](https://x.com/rae1101x).
 - [X Growth Operator](https://x.ai/bot/bl2gghqtbScfliKmudZnP) - 像增长操盘手一样打理你的 X 账号：找出真正有效的内容，清理发帖队列，用你的口吻写帖子和长文，绝不编造。 [Paul](https://x.com/0xPaulvibe).
 - [X Launch Traction](https://x.ai/bot/xwPfdDTwD2kUVJZK8hcy6) - 帮在 X 上做开发的人让应用在 X Developer Exhibit 上拿到点赞、回复和持续曝光：读你的账号、起草帖子，并跟踪进展. Paul Vann.

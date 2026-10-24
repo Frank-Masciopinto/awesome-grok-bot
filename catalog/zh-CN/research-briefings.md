@@ -17,6 +17,7 @@
 - [AI Claim Checker](https://x.ai/bot/G48vC01p5cAxckACKFIaM) - 围绕「AI Claim Checker」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [AI Daily Radar](https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M) - 资讯简报助手. community.
 - [AI Digest Educator](https://x.ai/bot/KH4AcBoSDzeG-Dq17TssF) - 个人 AI 教育向导，每晚整理前沿 AI 摘要，可选投递 Kindle. [FELIXCATanzaro](https://x.com/FELIXCATanzaro).
+- [AI Legal Prep Desk](https://x.ai/bot/Mr87JZkXHwpJQRknVuZcr) - 为小企业和个人做法律调研和文书准备（合同、合规、纠纷等），每条都有出处和日期；不是律师，不会替你提交或发送。 [John](https://x.com/iamtheh0n3yp0t).
 - [AI Master](https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X) - 同时问四个 AI 模型，再把回答合成一份。 [Leonardo](https://x.com/leoclark).
 - [AI Official Account Radar](https://x.ai/bot/zXPuJgqq5fxIsqCmPHAsF) - 监控 AI 和编程 agent 官方 X 账号，提醒新模型、免费额度和定价变化，早晚各一份汇总. [Chaosai0](https://x.com/Chaosai0).
 - [AI Radar](https://x.ai/bot/i1xwguSTrplEdPvx96MYh) - 盯官方 X 账号和一手来源里的 AI 发布，只把重要的用你的语言推给你，分即时提醒和简短摘要. [Gota](https://x.com/gota_bara).
@@ -81,6 +82,7 @@
 - [Cancer Curer](https://x.ai/bot/liwVNZ8sQXxJEK-bx1YvW) - 私人每日追踪：按你或家人的癌症情况，匹配新疗法、临床试验、审批和相关公司的动态。 [Kevin](https://x.com/kevinace).
 - [Captain Orwell](https://x.ai/bot/InRDBbawlH8rdErJa8_-t) - 用简短的大白话回答任何问题，先给答案、不说废话，基于简化技术英语（Simplified Technical English）写作规范. [jonnywallace](https://x.com/jonnywallace).
 - [Career Scout](https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz) - 先读你的简历，再按真实匹配度给岗位排序。 [jakesh_jakesh](https://x.com/jakesh_jakesh).
+- [Catholic Keyword Monitor](https://x.ai/bot/7HYVNFFVBFxCpiAaf50j0) - 定时监看 X 上关于传统拉丁弥撒和庇护十世司铎兄弟会的公开帖子，把新的高价值帖子发到聊天里。只读，不重复。 [Cleetus](https://x.com/175rng).
 - [CEO — Chief of Staff](https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO) - 给被邮件与团队噪音淹没的经理当幕僚长前门，后台跑专家队友，工作日优先安静摘要. [rayistern](https://x.com/rayistern).
 - [Certainty Tax](https://x.ai/bot/yUiRwJ_SVLmO1Ehi_QISq) - 用证伪点和缺口来压力测试主张。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Change Log](https://x.ai/bot/2PNeMjcwaxFAGgemj5TDA) - 跟进 Grok Bot 和 Cursor 的官方更新，每天发一份附来源链接的简短摘要，传闻会明确标注. [Dan](https://x.com/DanNinetySeven).
@@ -436,6 +438,7 @@
 - [Product Idea Stress Test](https://x.ai/bot/JeFTvcDX-7QT2evKGIb52) - 找出你的创业点子里那个最不能出错的核心假设。 [Hiten](https://x.com/hnshah).
 - [Product Idea Stress Test](https://x.ai/bot/ph-u_zkF5Vui1GdGnysn9) - 替创始人调查产品或创业点子：必须成立的前提、正反证据、最可能致命的假设. community.
 - [Product Performance](https://x.ai/bot/s6d5f1cc3a564c8da972a) - 看清真正要紧的指标 登可观测性平台、翻火焰图，回来给你热点加一段说明. [SpaceX](https://x.com/DenisLabelle).
+- [Product Research Bot](https://x.ai/bot/43I3LO7v1XZlKCfggVt2q) - 调研你指定品类里的主要软件产品，展示每款的真实样子：截图、分步流程、对比表和结论，整理到 Notion。 [Chase](https://x.com/ChaseMc67).
 - [ProductHunter](https://x.ai/bot/Qsqan7PbltFggoJukvmtT) - 早晚两班扫 Product Hunt 和 HN 新品，并补上访谈拆解. [Davidwuuu92](https://x.com/Davidwuuu92).
 - [Professor G](https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk) - 耐心的家教，一步步教你任何主题：先摸清你会什么，再用日常类比讲解. Mike.
 - [Property Consultant](https://x.ai/bot/4G4ysst8Ao1xn-pvOGPaB) - 英国买房方的房产调研员：给它房源、地址或区域，它会查公开证据——挂牌价与成交价、风险和议价空间，帮你决定出价。 [Andzelika](https://x.com/AKudss).
@@ -599,6 +602,7 @@
 - [Unstuck](https://x.ai/bot/FkuWnwaRU4xzZbTJ4QcHA) - 你在原地打转时的澄清搭档，一次只问一个锋利问题，直到你有清晰赌注与下一步，不堆研究. [thingifly](https://x.com/thingifly).
 - [US Law Index Builder Bot](https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c) - 搭私人非商用的美国成文法资料库和检索。 [EchoFieldVisual](https://x.com/EchoFieldVisual).
 - [User Researcher](https://x.ai/bot/zX-pWWtNY6reickF2J6Lm) - 用户研究搭档，每个结论都能回溯到证据。 [UCDOps](https://x.com/ucdco).
+- [VA Capitol Strategist](https://x.ai/bot/fr2DSNeUstgO6bSZmZM_v) - 帮公民倡导者跟进弗吉尼亚州议会法案：LIS 法案追踪、会期截止日、议员资料和草拟材料。未经同意不联系任何人。 [Carey](https://x.com/taysmom1).
 - [Validator](https://x.ai/bot/M0xhuQl4vjLdWj6l3lWeo) - 上线前压测产品与公司点子：YC 式 office hours，并在论坛、PH、GitHub、X 挖真实需求。 [Av1dlive](https://x.com/Av1dlive).
 - [VentureLab](https://x.ai/bot/MF9ZM323wTni8HHgSdXqC) - 动手前先给创业点子做证据调研。 [injock](https://x.com/injock).
 - [Verifier](https://x.ai/bot/lOfc_4h-mDH-EB0PSSOxa) - 发帖前对照来源检查你的草稿，每个事实陈述都会被标成有依据、夸大、无依据或无法核实. [GrokBotRadar](https://x.com/GrokBotRadar).
@@ -652,6 +656,7 @@
 - [X Trend Finder](https://x.ai/bot/uTKuJiBNIBCf0_f-zLWQ_) - 关注 X 上全球或你所在国家、城市的热门趋势，可只在趋势变化时发你摘要. [CodeByNZ](https://x.com/CodeByNZ).
 - [X-Man](https://x.ai/bot/DGIs4Ax4tU2Mi8RXyNKQ5) - 盯你选的 X 账号，发帖时在聊天里推简短提醒并去重；从不发帖. Auny.
 - [Xssistant](https://x.ai/bot/fObiyZbdETsAwYyS0nTup) - 个人链接库，发来任意 X 帖子、YouTube 视频或网页，它会保存、转写、打标签并归档到可搜索的库里. [Jonah](https://x.com/ALL_Jonah).
+- [지원사업 리서처](https://x.ai/bot/LV38rypxceB3HH8Mkdmg4) - 每天调研韩国政府和地方的扶持项目公告，去重后按公司情况筛选，整理进 Notion，并把简短摘要发到 Slack、Telegram 等。 [IMDEVMAN](https://x.com/imdevman).
 - [테슬라 펌웨어 뉴스](https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH) - 跟踪韩国特斯拉 FSD 软件版本、构建号和 HW3/HW4 推送变化，有变化时才用韩语通知. [Bummo](https://x.com/gbmksquare).
 - [アップデート情報](https://x.ai/bot/kiYURV5roSwbDBzKNKno-) - 每天早上检查 Grok Bot、Grok Build、xAI 状态和 X API 的 RSS，用日语汇总新的更新或故障。 [矢部っち](https://x.com/yabetchi_iPhone).
 - [凝露 · Dew](https://x.ai/bot/9zPoGWngujInyf31EjpzL) - 云间工作室的蒸馏助手：把书、课、聊天记录、录音视频和你脑子里的经验，整理成带出处、关系清楚的知识卡网络，再配一张地图，中途断了能接着蒸。 Valerie.

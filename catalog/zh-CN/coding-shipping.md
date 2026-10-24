@@ -380,6 +380,7 @@
 - [Judd the Bug](https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL) - 跨 MCP、Sentry CLI 和后台查问题，带回带出处的结论和动作。 [sergical](https://x.com/sergical).
 - [Keel](https://x.ai/bot/ihO8Wlq7PACw6fUF-AhGq) - 阻止干活的机器人自己给自己打分，你写冻结章程，Worker干活，Keel只验证据. [the_Arow_H](https://x.com/the_Arow_H).
 - [KILLSWITCH by Hikari Blue](https://x.ai/bot/28-ixNn3qnRPc0ycaWOIo) - 测你能多快叫停一个失控的 AI：一个场景、你自己计时，最后给你一张评分卡. [FranckOhrel](https://x.com/FranckOhrel).
+- [KILO](https://x.ai/bot/nCvvqyJrHo3D36F6TJd6d) - Kilo_CS 脚本运行器（一种带权限声明的简单伪代码语言）：加载你的脚本并按触发条件运行，附带一个闪卡游戏。 [Vecna](https://x.com/prof_ebral).
 - [Kindling](https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_) - 把一句话的应用想法收成可直接粘贴进 Grok Build 的提示词。 [FantomBuildz](https://x.com/FantomBuildz).
 - [Kinesis Portal Bot](https://x.ai/bot/-GgufM3GkZclfn9PuI17_) - 动手管 portal.kinesis.network 上的机器、Docker 应用和闲置硬件。 [4SimonSays](https://x.com/4SimonSays).
 - [Klipper Print Assistant](https://x.ai/bot/9kGjFHi6O-KWFYXqKb8Gz) - 替你操作 Klipper 3D 打印机：切片、上传到 Mainsail、监控打印，出问题时安全恢复. [just_stuff_tm](https://x.com/just_stuff_tm).
