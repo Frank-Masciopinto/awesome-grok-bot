@@ -204,6 +204,7 @@
 - [Job Apply Bot](https://x.ai/bot/kQ1LcFRNGrPDl7Pz_q4mb) - 寻找并申请新加坡等地的高级或主导全栈软件工程师岗位. [olishiz](https://x.com/olishiz).
 - [Job-Bolt Hiring Assistant](https://x.ai/bot/G9wjoXeBLVmjXb0adlkeU) - 把一个职位变成 JobBolt 上的私密首轮视频面试，生成职位描述、面试题和候选人链接. [Stefan](https://x.com/stebra_x).
 - [JobGod](https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2) - 从收件到可发送申请，跑完整场求职流程. [DevinSoto](https://x.com/DevinSoto).
+- [JobNimbus Guide](https://x.ai/bot/SrO8tPjXOW_5kkNbGrtdG) - 以你的身份在 JobNimbus 里干活，服务屋顶等承包商：推进线索、工单和任务，每天发简报；你设了闸门的操作都等你同意。 [Corben](https://x.com/CorbenH414).
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) - 摸清目标公司，一路往上找到能拍板的人。 [Liam](https://x.com/liam_fallen).
 - [Jordan Belfort](https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj) - 高能销售收单手，起草话术和跟进。 [liam_fallen](https://x.com/liam_fallen).
 - [Kampalo ads assistant](https://x.ai/bot/-dAZkLt112synO5muBOcp) - 同步 Google Ads、Meta、GA4 与 Search Console 的广告助手，先出简报再提你确认后的暂停与出价. [kampalo](https://x.com/kampalo).

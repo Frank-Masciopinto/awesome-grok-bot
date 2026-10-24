@@ -17,6 +17,7 @@
 - [Chief](https://x.ai/bot/A4haB5wrqQewiNFIukYZ5) - 小老板的幕僚长：盯合规与申报，起草邮件与社媒帖等你拍板。 [TopShelfCapital](https://x.com/TopShelfCapital).
 - [Chief](https://x.ai/bot/OY2K6DPosnK6ijDNpWJL3) - 幕僚长助手：打理你的优先事项、收件箱、日历和一个实时 Notion 优先级看板，并每天发简报. [Empact](https://x.com/Empact).
 - [Chief of Staff](https://x.ai/bot/oN1aIiKSCHA61bJEiycav) - 为忙碌的销售和经理打造的收件箱与日历幕僚长. [David](https://x.com/finaldash_).
+- [Chief of Staff](https://x.ai/bot/3Cp5oc50PPDgwH7n1gBpR) - 晨报、收件箱分拣和会前准备合一：开工前读邮件、日历和 Slack，起草跟进由你发送，标出你可能漏掉的事。 [Rananjay](https://x.com/Rananjay_RajW).
 - [Client Court Date Reminder Emails](https://x.ai/bot/JaZR7E6PQJ_e2xF-Piu4T) - 日历里一出现新的开庭日期，就在邮箱草稿里悄悄起草一封给客户的开庭提醒信，等你审阅。 [Stephanie](https://x.com/accessdefence).
 - [Clock](https://x.ai/bot/o1i1t2DhvfahqIlO5o1gd) - 替代 Clockwise 的 AI 日历助手：找会议时间、保护专注时段、挪动可调整的会议. [naoufal_elh](https://x.com/naoufal_elh).
 - [Comms Secretary](https://x.ai/bot/-GucfzHVWJljNVuyWjFSE) - 清理 Gmail 垃圾邮件文件夹，并在工作日发一份收入和沟通类邮件的优先级摘要. [TheInfinitvov](https://x.com/TheInfinitvov).
@@ -24,6 +25,7 @@
 - [Contacts Cleaner](https://x.ai/bot/z8B20RR44yHuVDcigXHuW) - 在 Google、iCloud 或 Outlook 里找出并小心合并重复联系人，保留每个电话号码，改动前先问你. [DollarsWithDad](https://x.com/DollarsWithDad).
 - [Desk Assistant](https://x.ai/bot/JMqaSYGloYJX5XZrr9Bj0) - 每日桌面助理：晨报、排程、提醒、邮件分拣和附来源的快速调研，只起草，未经你同意不发送. [Kristoffer](https://x.com/vera_desk_asst).
 - [Donna](https://x.ai/bot/GRrmYf9RDCK2DddGYSe6g) - 把短信里的每个计划连夜放进日历：Donna 会抓住遗漏、读懂言外之意，未经你同意绝不发送. [Mohammed](https://x.com/0xmoalo).
+- [Dropped-Ball Scanner](https://x.ai/bot/E-uo4CQ__9GjtWYhWLPQF) - 每晚扫一遍邮件、聊天和短信，找出没回的请求和没下文的承诺，只推新的，每条附一份补救草稿。 [Austen](https://x.com/Austen).
 - [Email Assist](https://x.ai/bot/VawBY-27z2_YTml0jj7fl) - Gmail 助手：分拣清理收件箱，每天只在有重要事情需要你时提醒一次. Lida.
 - [Email Scam Filter](https://x.ai/bot/0iuz7X3hVDGJhJIBWTTZ_) - 每天早上只读扫描 Gmail，参考 FTC 等最新警示给每封可疑邮件打 0–100 的诈骗分并用颜色标出. Brian.
 - [Family Digest](https://x.ai/bot/08NqJQnSWQG27Y1Hm8dmG) - 家庭秘书：把学校、社团、医生和聊天消息收成一份晚间摘要。 Sultanov Ramil.
@@ -50,6 +52,7 @@
 - [Inbox Triage](https://x.ai/bot/lDp666Fm-QgyBGqK7ee4l) - 给小企业主和自由职业者的工作日邮件助手. [crisships](https://x.com/crisships).
 - [Inbox Triage](https://x.ai/bot/RBK79O-MXl4ZRHyuJYag6) - 工作日邮件分拣：分出需回复和仅供参考，写简短回复草稿，未经要求绝不发送. [Markus](https://x.com/SleepyCovfefe).
 - [Inbox Viewer](https://x.ai/bot/dfo7Cc1-VNviSdOGJyA7r) - 为你的 Grok Bot 邮箱提供 Gmail 风格界面，深浅色模式，通过 Tailscale 在手机或电脑上打开. [Sushant](https://x.com/ChaiWithAi).
+- [Inbox Zero](https://x.ai/bot/9UjZlzLTiCHz5iPNilWMd) - 邮件运营助手：分拣整个收件箱、起草回复、跟踪待跟进和截止日期，每天发简报。未经批准不发信也不改邮件。 [Ashley](https://x.com/ashleyschendel).
 - [Inbox Zero Assistant](https://x.ai/bot/u1pK59b5PDjThmgM73UUa) - 帮你清空收件箱：整理 Gmail，标出需要回复的邮件，起草回复，准备批量退订. Sultanov.
 - [Inbox Zero Assistant](https://x.ai/bot/__kznux7HvZOfncVHWIVy) - 用一份简短的晨间简报帮忙碌的老板管住收件箱：哪些要你处理、哪些已用你的口吻起草、哪些已归档. [NewsGurus](https://x.com/NewsGurus).
 - [Inbox Zero Chief of Staff](https://x.ai/bot/-hFhR6u_HxM1mlGX92HK9) - 帮你把收件箱清零并保持：每日分拣、需要你处理的摘要，以及经你批准才发送的回复草稿. [Moritz](https://x.com/bierlingm).

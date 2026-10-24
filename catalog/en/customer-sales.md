@@ -204,6 +204,7 @@ Back to [README](../../README.md)
 - [Job Apply Bot](https://x.ai/bot/kQ1LcFRNGrPDl7Pz_q4mb) - Finds and applies to senior/lead full-stack software engineer roles \(Singapore & Bangkok focus\), tracks submissions, and sends a brief daily recap. [olishiz](https://x.com/olishiz).
 - [Job-Bolt Hiring Assistant](https://x.ai/bot/G9wjoXeBLVmjXb0adlkeU) - Turns a role into a private JobBolt first-round video interview with a job description, questions, and a candidate link. [Stefan](https://x.com/stebra_x).
 - [JobGod](https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2) - Runs your whole job hunt from intake to ready-to-send applications. [DevinSoto](https://x.com/DevinSoto).
+- [JobNimbus Guide](https://x.ai/bot/SrO8tPjXOW_5kkNbGrtdG) - Works inside JobNimbus as you for roofers and contractors\: keeps leads, jobs and tasks moving and sends a daily brief; gated actions wait for your yes. [Corben](https://x.com/CorbenH414).
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) - Maps a target company and works upward until it reaches the decision maker. [Liam](https://x.com/liam_fallen).
 - [Jordan Belfort](https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj) - High-energy sales closer that drafts pitches and follow-ups. [liam_fallen](https://x.com/liam_fallen).
 - [Kampalo ads assistant](https://x.ai/bot/-dAZkLt112synO5muBOcp) - Briefs synced Google Ads, Meta, GA4, and Search Console, then proposes pauses and bids you approve. [kampalo](https://x.com/kampalo).

@@ -2,6 +2,7 @@
 
 返回 [README](../../README.zh-CN.md)
 
+- [1Human - Subscriptions](https://x.ai/bot/6JQfqKJs83VQb15W07y3X) - 把所有订阅放在一处：跟踪免费试用，续费前提醒，定期看看哪些还值得付钱。 [hunghuc](https://x.com/_hungha).
 - [3-Day Notice Validator](https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO) - 逐项检查加州三天缴租或迁出通知，避免送达后才发现硬伤. [SinaiLawFirm](https://x.com/SinaiLawFirm).
 - [402buyer](https://x.ai/bot/wygP8wogrg509aSev5RMF) - 开好 Coinbase Agentic Wallet，从 x402 付费墙和 x402 bazaar 购买. Eric.
 - [9 EMA Pullback](https://x.ai/bot/QgvPQkHy3RwHJ7pPcKdPG) - 扫描自选股的 9 EMA 回踩，给出入场止损与仓位. [rightwingink1](https://x.com/rightwingink1).
@@ -319,6 +320,7 @@
 - [Medical Bill Auditor](https://x.ai/bot/6WDjYuRuZN23rSKzl8H_F) - 逐行审查医疗账单和 EOB，在彩色报告里标出重复收费、升级编码和垃圾费用，再起草申诉和降费请求，由你逐条批准。 [Brian](https://x.com/Buffamafia).
 - [Medical Bill Fighter](https://x.ai/bot/vyAGsd2VgoZjCp00GiIxS) - 对照 EOB 和保单检查你的医疗账单，标出可能的错误和值得申诉的拒赔. [Chris](https://x.com/chrishadges1).
 - [Medical Bill Review](https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY) - 对照公开的保护条款看明细账单，起草争议信给你自己发。 [MSaintjour](https://x.com/MSaintjour).
+- [Medical Bill Second Look](https://x.ai/bot/V3kUu1ClNwmGxOMYn4grP) - 拿保险理赔说明（EOB）核对医疗账单，找重复收费、编码和计算错误，再起草申诉信。 [Thuong](https://x.com/teeRex247).
 - [Mercury Account Manager](https://x.ai/bot/zi1HPVd9AbDrYlcd9Px4d) - 每天盯你的 Mercury 银行账户，标出新扣款、失败的付款和余额过低风险. [ibuildthings](https://x.com/ibuildthings).
 - [Meter](https://x.ai/bot/7ArhuICkrdoCOihWGiZCg) - 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 [Stew Nightingale](https://x.com/stewnight).
 - [Micro Cap Catalyst](https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0) - 美股微型小盘集中仓交易，收盘后筛近端催化剂，买卖提议需你批准才下单. [mintotsai](https://x.com/mintotsai).
@@ -346,6 +348,7 @@
 - [Mr. Scamander](https://x.ai/bot/U-9rdbwRvugphOrC58Ph0) - 理财习惯教练，下一步又小又具体. [TimeCuratorTM](https://x.com/TimeCuratorTM).
 - [My First Budget Bot](https://x.ai/bot/zIYlNQf-bZphORYjo8oEp) - 年轻人的第一个理财教练：做简单月预算、跟踪账单到期日、讲清理财基础. [gilman_trevor](https://x.com/gilman_trevor).
 - [Nessie](https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_) - 协助起草美国全民分红与主权财富方案，锁定下限、工资阶梯和真实筹资来源。 [Alec](https://x.com/AlecSnelling).
+- [Net Worth Page](https://x.ai/bot/EIqxCG4vhOtrWV7aLMRGe) - 一页看清净资产：银行、券商和加密资产余额减去负债，可选每日刷新。只读，从不交易、转账或索要密码。 [Thuong](https://x.com/teeRex247).
 - [News Bot](https://x.ai/bot/q4oVF0beUcMxwVZzHz_Nl) - 资讯简报助手. community.
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) - 增长团队的 PLG 数字台，回答时给出数字、定义、来源查询与限制，只读不瞎估。 [JaySahnan](https://x.com/JaySahnan).
 - [Octavius](https://x.ai/bot/20uVcNTF4_l3n1ZTTk-UB) - 资讯简报助手. community.

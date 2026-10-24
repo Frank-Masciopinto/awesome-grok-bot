@@ -5,6 +5,7 @@ Back to [README](../../README.md)
 - [.0](https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ) - A plain-words guide for someone new to Grok Bot / @bot. Keeps you on one workflow at a time, explains other Bots after they talk, and gives you exact. [ghost2man](https://x.com/ghost2man).
 - [✝️ Christian Devotional Bot](https://x.ai/bot/Nfwkt1S4xtLJZpkENJZ3Q) - A daily Christian devotional fitted to your tradition and translation\: accurately quoted Scripture, a short reflection, a prayer. [Phil_Holland](https://x.com/Phil_Holland).
 - [🍎Apple Inventory & Deal Bot](https://x.ai/bot/Vx13jzt30gpYEztDQbueA) - Finds the exact Apple product you want in stock and shows who can get it to you soonest and cheapest, across Apple, carriers and big-box stores. Phillip.
+- [🍎Apple Inventory & Deal Bot](https://x.ai/bot/vBskzZFRWX5t20481zgS5) - Finds the exact Apple product you want in stock, shows who can get it to you soonest and cheapest, watches Apple Store pickup restocks; buys only on your yes. [Roderik](https://x.com/roderik).
 - [🍣🍜 Sushi & Ramen 🤖](https://x.ai/bot/EDD4ZIp4WLARWks1Ij6SE) - Sushi & Ramen finds sushi and ramen worth eating and gets it to you with one yes. Phillip.
 - [100 Mile Challenge](https://x.ai/bot/VLPz2wv92bBJA90X2782t) - Tracks a multi-week mile challenge with flexible evening check-ins, conversion rules \(including bike at 3\:1\), and optional strength work alongside cardio. [Steve](https://x.com/Chunkysoup44).
 - [1823 Complaints](https://x.ai/bot/SWTvMJuUfGteG47-ehrXc) - Helps you draft and file non-emergency Hong Kong government complaints and service requests through 1823, then track the case ID. [AHAAAAHAHAH](https://x.com/AHAAAAHAHAH).
@@ -68,6 +69,7 @@ Back to [README](../../README.md)
 - [Any-Language Translator (pick your 2)](https://x.ai/bot/9-CrFX198ESk90n-e3tH5) - Pick two languages, paste text in either and get a natural, tone-matched translation in the other, ready to send. [Wayan](https://x.com/lee_wayan).
 - [Apartment Hunter](https://x.ai/bot/E-kJk5BzNtNzcjAYNknTE) - Catches newly posted rentals that match your budget, area, beds, and pet rules, and hands you a short daily list with links and draft inquiries. [crisships](https://x.com/crisships).
 - [Apartment Scout](https://x.ai/bot/sd6f165284d7fd2f25e56) - Filters new listings against your criteria, emails to book tour times, and applies for the ones that qualify. [SpaceX](https://x.com/DenisLabelle).
+- [Apartment Search Bot](https://x.ai/bot/_TvkvyjkztXaItL0ChgmN) - Finds you a rental\: searches listings daily, ranks places by all-in cost per square foot, tracks favorites, screens likely scams, drafts outreach for approval. [darthur](https://x.com/darthur).
 - [Apple Desk](https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj) - Runs Reminders, Calendar, Notes, Contacts, and Messages on your Mac via Apple CLIs, permission by permission. [Phil_Holland](https://x.com/Phil_Holland).
 - [Application Doc Gate](https://x.ai/bot/iNtOrr9qDUmckz9cnORfw) - Reviews CVs, cover letters, form answers and PDFs before any upload, then waits for your explicit OK. Philip.
 - [Application Executive](https://x.ai/bot/xewX9yoP4H6GiN8L7Qvz8) - Runs a job search end to end, coordinating writer, document gate and applier; nothing sent without your OK. Philip.
@@ -133,6 +135,7 @@ Back to [README](../../README.md)
 - [Body of Evidence](https://x.ai/bot/yi-DUpczI7Gvzc2oGDesm) - Personal medical research advisor\: reads lab reports, checks medications for interactions, works through symptoms and preps doctor visits. [Diggity](https://x.com/Drew42).
 - [Bonehead](https://x.ai/bot/X5OznsECCkLxuiiA9OOk3) - General productivity wingman for messy day-to-day work. [RFashodi25](https://x.com/RFashodi25).
 - [Booker](https://x.ai/bot/Ah-lnPGveVo9pWWR2C50E) - Turns your X bookmarks into a clean, Pinterest-style card board on your own computer. [James](https://x.com/JCLoreian).
+- [Bookmark Debt Collector](https://x.ai/bot/kh0FE5498wURU-QxPfLfW) - Turns your X bookmarks into a shareable Wrapped card, finds dead ones, gives each survivor one time-boxed next action, and nudges weekly. Read-only on X. [Harris](https://x.com/cu30rry_).
 - [Bookmark Kitchen](https://x.ai/bot/0AeRdltc-UrzK1QxRcRJN) - Turns the food posts you save in your X bookmarks into real recipes, sorted by cuisine and meal, with a shopping list ready to go. [Erinn](https://x.com/ErinnFL).
 - [Bookmark Miner](https://x.ai/bot/2KoI66uCOtx0PSf3do4tK) - Turns the X posts you saved into a ranked list of things actually worth doing. [therookiehacker](https://x.com/therookiehacker).
 - [Bookshelf](https://x.ai/bot/qaP4cn78e7Ls7bGcwWf5B) - A personal reader and library\: save links, PDFs, notes and ePubs with a summary, tags and reading status, archived on Google Drive by month. [Gaetano](https://x.com/gaetanoz).
@@ -226,6 +229,7 @@ Back to [README](../../README.md)
 - [Chinese Culture Stories](https://x.ai/bot/Lf83iLcPR8Q6tqYl06re7) - Tells Chinese culture stories with sources you can reopen. 卫平.
 - [Christmas List Bot](https://x.ai/bot/cBA9ydeG9r1ZnCaAaaJA9) - Give it your gift list and it finds the best deals and coupons, shows stock and delivery times, tracks every gift. [Chris](https://x.com/Chris__X__).
 - [Christmas Shopping Bot](https://x.ai/bot/5l0S-aYatYWKTdCHa4SRa) - Holiday gift helper that keeps your list, suggests ideas by age and interest, tracks budget, deals, shipping deadlines, and orders. [Billie](https://x.com/iam_me73).
+- [Christmas Shopping Grok Bot](https://x.ai/bot/shcu9EFhFMMiN4wGdMwLY) - Christ-centered Christmas helper for gifts, decorations, lights, holiday food, parties, carols and deals, with heads-ups on trending items before they sell out. [Llama](https://x.com/TeslaTakesOver).
 - [CISSP Member Bot](https://x.ai/bot/sdFSbA_CNhgSJKh3Mu-kU) - CISSP member desk for CPEs, dues, and handbook navigation. Jay.
 - [Claim](https://x.ai/bot/P4vJbbduYSgknHsfaRE3I) - Claims MiniMax Daily Check-in credits on the signed-in box browser each morning. [stewnight](https://x.com/stewnight).
 - [Claim Ready](https://x.ai/bot/ONLSQaVnarp5OYjp2CUPC) - A VA disability claim organizer for veterans\: builds an evidence checklist per condition, tracks intent-to-file and exam dates, and helps write lay statements. [Biggs237](https://x.com/Biggs237).
@@ -291,6 +295,7 @@ Back to [README](../../README.md)
 - [Coupons And Deals](https://x.ai/bot/s_UtSo0-6Ne3m_CCUHXa6) - Clips store digital coupons, redeems loyalty points, and scans the weekly circular before you shop. [jacobgay1989](https://x.com/jacobgay1989).
 - [Court](https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX) - Reads a stuck group chat and says what it actually decided. [DonBonStovi](https://x.com/DonBonStovi).
 - [Court Portal File Clerk](https://x.ai/bot/YtzREAHPMPQLdAFN9zV2j) - For litigation firms\: logs into your court's e-filing or case portal with the firm's own credentials and fetches only the named case file. [suyashverma](https://x.com/suyashverma).
+- [Covered](https://x.ai/bot/JE8skJITEDqsPpFOZUsBh) - Finds free repairs, replacements and warranty claims you're already owed on things you own, and drafts the claim for you to file. [Michael](https://x.com/MichaelHeckert).
 - [Craft Cut Coach (for Cricut® machines)](https://x.ai/bot/zMmPkpcSFMkSmLLh6ovRK) - A warm, peppy coach for every Cricut® machine. Send a photo of a failed cut and get a 3-step fix with a diagram for each step. [EV](https://x.com/W3EconomicLabs).
 - [Crave](https://x.ai/bot/scGXxrePrIAaNmU78kDqL) - A picky food friend who finds what's worth eating near you, names the dishes to order. [TheSystemsDad](https://x.com/TheSystemsDad).
 - [Crave Coach](https://x.ai/bot/f5BhWohmAaB3bAIWdpUSR) - A kitchen buddy for losing weight and kicking sugar cravings\: logs meals with photo estimates, tracks your day total. [mikepat711](https://x.com/mikepat711).
@@ -308,6 +313,7 @@ Back to [README](../../README.md)
 - [DADCON](https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB) - Backup dad on Slack that takes a chore from the real parent, follows the kid until it is done, then reports back. [Jerrod](https://x.com/jerrodtuck).
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) - A morning shortlist of backend roles you can apply to in one click, ranked against your CV. [HaseebMir91](https://x.com/HaseebMir91).
 - [Daily Gratitude](https://x.ai/bot/uazsEFuF8DLx5t84d8W-h) - A gratitude companion that suggests one small, personalized thank-you action each day, like texting a friend who helped or leaving a review for a... [Al](https://x.com/Al).
+- [Daily Job Digest](https://x.ai/bot/hXNbkpwgPd6iSMuZYYBo3) - Daily job search\: finds new postings matching your filters, sends a short digest of the best, with tailored resume bullets. Never applies without your yes. [Allan](https://x.com/_ARob).
 - [Daily Lift](https://x.ai/bot/oLKqZgnpbZOrNJzSr748N) - Three personal check-ins a day tuned to your goals. community.
 - [Daily Lingo](https://x.ai/bot/pegWv3F8t7KSEwQ3sxd6A) - Ten-minute daily language lesson around your interests with spaced review and a streak. [Joseph](https://x.com/BTC_Yogi).
 - [Daily Local Brief](https://x.ai/bot/GWry7SgjF38fiXBApYlit) - A daily morning brief for your home address\: a big weather card plus short local notes on trash pickup, street sweeping, road closures. [Dayyán](https://x.com/dayyanl).
@@ -352,6 +358,7 @@ Back to [README](../../README.md)
 - [Discogs-Bot](https://x.ai/bot/m5Xjk7EhNokKF49YF9XuW) - Manages Discogs collection, wantlist and marketplace checks. [alexhawat](https://x.com/alexhawat).
 - [DishDirectory.com](https://x.ai/bot/RSNY0OKkZ6i5u-duu4HRM) - On-topic assistant for dishdirectory.com\: where to find a dish or restaurant facts. Pooria Arab.
 - [Disk Doctor](https://x.ai/bot/EVQ-0yhShRgL-2qAfdD-8) - Frees up Mac storage safely, only with your approval. [Nick](https://x.com/thecsguy).
+- [Disk Saver](https://x.ai/bot/Va3fg4mNOJ7XHSmI_b7R5) - Screens a computer's health and storage, finds large, duplicate or stale files and caches, and proposes safe cleanup plans for your approval. [Hovhannes](https://x.com/hovinthenorth).
 - [Disney Ride Strategist](https://x.ai/bot/izE8-5f78ykATd43I5ROC) - Builds a day-by-day Walt Disney World plan around the rides you want. [matthopkins_](https://x.com/matthopkins_).
 - [DIY Merch Scout](https://x.ai/bot/xj-9YlrB_vQUJP5xwZFFp) - Scores up to 3 Amazon Merch niches from one seed, briefs the art, and writes one listing you upload yourself. It kills niches; it never logs in or uploads. Vitruviano\.app.
 - [DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) - Controls Spotify. Picks sets, suggests artists, learns taste, and maps nicknames like car or office to devices. [Trevin](https://x.com/trevin).
@@ -370,6 +377,7 @@ Back to [README](../../README.md)
 - [Doomstop](https://x.ai/bot/jf9aSLIL9YSU0ecC6zN6d) - Turns screen-time numbers into one honest daily line and one weekly pattern. [TuracTheThinker](https://x.com/TuracTheThinker).
 - [Doorcheck](https://x.ai/bot/bDhYfDe0sPlaVI9zMmZ4e) - Before you add someone else's bot template, Doorcheck reads its recipe \(instructions, skills, routines, plugins it asks for\) and returns reject,. [the_Arow_H](https://x.com/the_Arow_H).
 - [Doordash](https://x.ai/bot/J7I56EwtEh0D3yMGhnwSZ) - Your DoorDash operator. Builds carts, tracks credits and DashPass, live-tracks orders, and files work-meal receipts to your expense card. Work and. [scottxmetcalf](https://x.com/scottxmetcalf).
+- [DoorDash Orderer](https://x.ai/bot/iCfZySDPpEI5KrND3Up6a) - Expert at the official DoorDash CLI\: searches stores and menus, builds carts, finds promos, previews pricing, reorders; orders only after you approve. [Alan](https://x.com/gheeunit).
 - [Dostoyevsky](https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu) - Converse as Dostoyevsky’s moral pressure on confession, freedom, and guilt. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [dot](https://x.ai/bot/LL-lWnZ2HgpzTRFFAemHA) - A warm, concise desktop assistant. [d_ilash](https://x.com/d_ilash).
 - [Dot](https://x.ai/bot/O1pp3DiDUU9T3Cz-jTzXw) - Fleet switchboard with Dot Matrix from ReBoot energy. [localhoser](https://x.com/localhoser).
@@ -385,6 +393,7 @@ Back to [README](../../README.md)
 - [Dungeon Master](https://x.ai/bot/35nt7fJwDslZSTKsBU0hE) - Runs an RPG table with roster, presence clock, sheets, and a dry judge voice that opens character agents. [houjimmy](https://x.com/houjimmy1).
 - [Duobot](https://x.ai/bot/VXZIFzim31x3jeBtGnvl5) - Helps a couple or household stay in sync\: each partner gets their own Duobot, both working from one shared Google Calendar and Trello board. [legallyrenee](https://x.com/legallyrenee).
 - [Duplicate Photo Finder](https://x.ai/bot/GZeqDkOuBOEzGMrNH3Jhf) - Finds duplicate and near-duplicate photos in OneDrive, Google Drive, or uploads; moves nothing until you approve. [SamE](https://x.com/SamE1311025).
+- [DVC Booker](https://x.ai/bot/FhU3OkFeKttqo0SffAyGR) - Disney Vacation Club expert\: tracks official point charts, finds best-value stays for your points and family size, watches booking and banking deadlines. [Elijah](https://x.com/elijahnicolas).
 - [DWTS Ezra Votes](https://x.ai/bot/FudoGp1ChuiSXr3TMVZGG) - Maximizes votes for Ezra Frech & Daniella Karagach on Dancing with the Stars\: up to 20 per live Eastern/Central window — 10 SMS \(EZRA → 21523 from Mac. Scott.
 - [Dyslexia Tutor](https://x.ai/bot/0yRl8b9gk0AYDPhTyJVKN) - A parent-facing dyslexia tutor for a child who guesses while reading. [AmericanSxool](https://x.com/AmericanSxool).
 - [E-commerce Order Desk](https://x.ai/bot/dkCeq3jQk8cnpKUFQZxFe) - Shopping bot that finds and compares products across stores, fills in the checkout, and only pays after you say yes. [Rhaaghav](https://x.com/kRaaghav).
@@ -544,6 +553,7 @@ Back to [README](../../README.md)
 - [Gale](https://x.ai/bot/ITXBFiy3DJRQOfHEh0-O7) - A personal weather bot that makes its own multi-model forecast for your home and the places you care about, timed around your plans. [Paul](https://x.com/pmcclelland).
 - [Game Day](https://x.ai/bot/OQBePRnORp11TNjCI0jwK) - For fans who follow teams in any league\: each morning it tells you when your teams play, where to watch on the services you already have. [nawazlalani](https://x.com/nawazlalani).
 - [Game Gary](https://x.ai/bot/rVm8IS4-zeJMSbo5ln9OU) - Logs what you like in games and recommends titles you will actually finish. [Frank](https://x.com/FrankFindsOut).
+- [Game Night Keeper](https://x.ai/bot/lVE-iKOt7okR9_ne02Gfz) - Keeps a recurring board game, tabletop or D&D night alive\: asks who's in, counts yeses, nudges only non-repliers, and makes a plain call on the day. [Cristopher](https://x.com/crisships).
 - [Gamer Bro](https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk) - Follows gaming news and deals, and alerts when watched stock lands. [egcbatt](https://x.com/egcbatt).
 - [Garage Guide](https://x.ai/bot/HlGmTdNrPLsV5kYtjOIJI) - Builds a car maintenance calendar from specs, mileage, and service records so jobs stay small. [Kirby21sk](https://x.com/Kirby21sk).
 - [Gary V](https://x.ai/bot/ZP-LTvCzUSYNVgyup_xap) - A blunt organic social strategist built on Gary Vaynerchuk's public playbook. Tell it about your business and it tells you what to post, in what format,... [Kirill](https://x.com/Kirill).
@@ -570,6 +580,7 @@ Back to [README](../../README.md)
 - [Golf Caddie](https://x.ai/bot/HAJavif4ssNOQku9JQsp-) - Pocket golf caddie for weekend players. [Brantley_Brum](https://x.com/Brantley_Brum).
 - [Golfy](https://x.ai/bot/dnEcfPzFgLLb5FnXSnpJN) - A golf coach that builds practice plans and timed sessions, reviews your rounds with quick multiple-choice questions. [Santiago](https://x.com/SDAI_7).
 - [GoodNews](https://x.ai/bot/0l58XqOBeJ7h7QUiEQ54x) - Warm morning and evening digest of real good news on science, kindness, recoveries, and communities. [Joey](https://x.com/aijoey).
+- [Goodreads Reading Buddy](https://x.ai/bot/J_rIIZBilpLDRcixiQjeI) - Follows your partner's Goodreads reading and sends spoiler-free recaps, conversation questions and what-happens-next guesses twice a day. [Scott](https://x.com/scotty2shottyy).
 - [Goonie](https://x.ai/bot/RTQ5cLf2WeWJPyjD8YSWr) - Witty sarcastic companion that remembers you, with holiday modes and park-only Tesla fun extras. [goonieai](https://x.com/goonieai).
 - [Gork](https://x.ai/bot/hungj297bsOudMqA6LpPX) - Deadpan, sarcastic parody assistant\: one-line low-effort answers and gentle roasts, with real help when it actually matters. Tom.
 - [Governator](https://x.ai/bot/LoPqRp44sI8sHRpNN9Kq-) - Governator Grok Bot share template. community.
@@ -627,6 +638,7 @@ Back to [README](../../README.md)
 - [Head Of Household](https://x.ai/bot/MpduDPiF8Wq5f7PtcKQ7e) - Family ops\: school, appointments, nightly and Friday prep reports. [BlakeVerix](https://x.com/BlakeVerix).
 - [Headhunter](https://x.ai/bot/83U8znbPjQVujRv6fcE7V) - A personal, discreet headhunter for anyone looking for their next role. [R_Patote](https://x.com/R_Patote).
 - [Headhunter](https://x.ai/bot/JWyArDklTr6y7KB06lqRY) - A career coach and headhunter that finds and scores verified job openings, tracks applications. [Brian](https://x.com/bgrinnan).
+- [Headhunter](https://x.ai/bot/42PlIaeY24WATqx4FDmwk) - Job-hunt agent\: runs a daily search on your criteria, confirms each posting is still open, fills applications to the review page. Nothing sent without OK. [Abel](https://x.com/WreckItAbel).
 - [Health](https://x.ai/bot/JzTaCh9Lxw4iqzv4cL85w) - Owns training, sleep, nutrition, and recovery with simple systems that stick. Locked plan when one exists; morning briefs before you train; never... [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Health](https://x.ai/bot/xyw9RJlxNlyXtfjYvcvsT) - A private personal health desk that pulls your sleep, weight, lab, and dose-tracker data into one chat, logs what you say you took. [MeechYourGoals](https://x.com/MeechYourGoals).
 - [Health & Coach](https://x.ai/bot/eYWjoOgPpWlSiJAuHXzPD) - Home coach\: daily sleep/recovery brief plus a workout for your gear and schedule. Sultanov Ramil.
@@ -656,6 +668,7 @@ Back to [README](../../README.md)
 - [Home Assistant Admin](https://x.ai/bot/dsAdEBPw7bM8cP5odnJAb) - A careful Home Assistant administrator that monitors, troubleshoots and automates your smart home. [Gustavo](https://x.com/cadena_gus).
 - [Home Assistant Bot](https://x.ai/bot/ZwOyvMIIYuQBoBvnqYmER) - Home Assistant helper for live device control over MCP, solar and energy status, automations, and home routines for new owners. [Domenico Nicoli](https://x.com/DomenicoNicoli).
 - [Home Buying Desk](https://x.ai/bot/-fDvNe5pAvLzlvPQQppNw) - Your private first-time home buyer's desk\: a buyer file, side-by-side lender estimates and homes with figures verbatim, and offer facts for your agent. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Home Designer](https://x.ai/bot/CNP02KiDPseDuu6-oTL8e) - Renders your own room in the look you like from a photo, then lists exact products with checked prices, paint codes, budget and steps. Buys only on your OK. [Corben](https://x.com/CorbenH414).
 - [Home Electrical Coach](https://x.ai/bot/zln2M_NAJKodDYgOUJkbn) - Use this when you want a home electrical checklist or help preparing for an electrician. Organize panel facts and project questions; this coach does not. [walls_jason1](https://x.com/walls_jason1).
 - [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) - Tracks a veteran household's VA.gov claims, visits, and earned perks. [Diego_F_Aguirre](https://x.com/Diego_F_Aguirre).
 - [Home Hunter](https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I) - Locks city, budget, beds and commute on first chat, then quietly scans listings daily until you pick a place. [Uzair](https://x.com/uzairansar).
@@ -675,6 +688,7 @@ Back to [README](../../README.md)
 - [Homework Checker](https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91) - Weekday recap of a student's missing assignments and grades. [Kevin](https://x.com/kevinace).
 - [Homework Coach Desk](https://x.ai/bot/mkRmzjWBqKTB06jNFRjMI) - Socratic K-12 homework coach with check-your-work and a short parent summary. [Cypher0x9](https://x.com/Cypher0x9).
 - [Homework Hotline](https://x.ai/bot/48AySlgtv9GHanbzyldxd) - A family chief of staff that runs weekday homework digests from your school's FACTS portal, flags new quizzes and tests, and helps spin up. [Tricia](https://x.com/LouisianaModelY).
+- [Homy](https://x.ai/bot/ReSFa4JXow2mFlWbJinaK) - Smart-home agent for Home Assistant\: controls lights, fans and devices, checks what's on, and runs timed actions like "balcony fan for 1 hour". [Petru](https://x.com/realpetru).
 - [honey](https://x.ai/bot/oXVLzHzy4WVpw4rLytMv4) - Warm helper for day-to-day work in Thai or English — move files, use Google Drive, and keep Thai text readable on the bot computer. [unixdevth](https://x.com/unixdevth).
 - [Hoop Homework](https://x.ai/bot/8VmKN9vI4_M5yStOoMP8D) - At-home basketball practice cards for parents with age-fit drills for the kid space gear and time budget. [SethBuildsAI](https://x.com/SethBuildsAI).
 - [Hormones & Woman](https://x.ai/bot/zZr88f32ojF8OBvLSZ8V7) - Plain-spoken guide to cycles, sleep, mood, perimenopause, fertility and birth control, plus prep for doctor visits. community.
@@ -922,6 +936,7 @@ Back to [README](../../README.md)
 - [Moss](https://x.ai/bot/h7ez-fl_Y7bnVud1g-GAd) - Friendly Windows 10/11 fixer for one home PC\: diagnoses crashes, slowness and broken apps, runs a weekly checkup, swaps paid security tools for built-in ones. Matt.
 - [Motivation Bot](https://x.ai/bot/KNoXvnLnkKME1TqhqJx8t) - Daily motivation to stay focused. [johnboyle](https://x.com/johnboyle).
 - [Movie Magic](https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK) - Film picks, a running watchlist, and a weekly domestic box-office roundup with charts you can reuse. [king_rob_lo](https://x.com/king_rob_lo).
+- [Movie Night](https://x.ai/bot/CVJIFYf5bf1t722Z36uHK) - Personal movie-night assistant\: learns your taste from a few quick taps and suggests what to watch. [dougdstecklein](https://x.com/dougdstecklein).
 - [Moving Concierge](https://x.ai/bot/iOUbudzFRy7Y0NNrrcYK5) - Plain-spoken moving advice across DIY, hybrid, and full-service options. [nextgenmove](https://x.com/nextgenmove).
 - [Moving Desk](https://x.ai/bot/p6p2hoq4PugCk2v5fCL3o) - Your private moving desk\: a move plan with the critical path, side-by-side mover quotes with red flags, and an address-change and utilities tracker. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Mr. Cartwright](https://x.ai/bot/w4d1Qj-byuNtISAyyitYa) - A friendly old-school grocer bot that builds your weekly grocery deal sheet and keeps a coupon wallet, so you see the best savings at your store first. Jonathan.
@@ -934,6 +949,7 @@ Back to [README](../../README.md)
 - [Murphy](https://x.ai/bot/4Wrt7MIOjxepk8kdaZJ2G) - A blunt pre-mortem assistant. Every weekday morning it checks your important external meetings and high-stakes mail. [SomParan](https://x.com/SomParan).
 - [Muse Spark Desk](https://x.ai/bot/Q9rrRo8QyFzxwiFYuxVTl) - Talk to Meta's Muse Spark in Grok Bot with your API key. Bosotter.
 - [Music Bot](https://x.ai/bot/dhED2j4hHusELAG7x97aN) - A music assistant that finds new music for you, builds playlists, tracks releases and concerts, and digs into artists and albums. [JJz](https://x.com/jonmartinez).
+- [Music Contest Enterer](https://x.ai/bot/BA3q2a0kMpAD1PM3qtt5c) - Finds and enters free music giveaways daily \(gear, plugins, instruments, concert tickets\) and sends a digest. Skips captchas, purchases and forced sign-ups. [Heidi](https://x.com/HeidiBriones).
 - [My First Car Bot](https://x.ai/bot/n3Q4lG3lEtIgK2ZfBluGw) - First car helper\: tracks maintenance, registration, inspection and insurance deadlines and explains repair quotes. [gilman_trevor](https://x.com/gilman_trevor).
 - [My First Career Bot](https://x.ai/bot/poe-4nHrrlPmCZUlVB7tX) - First career and school coach\: job hunting, resumes, interview practice and application deadlines. [gilman_trevor](https://x.com/gilman_trevor).
 - [My First CEO Bot](https://x.ai/bot/YwN_z6dgUUXP5Y9qOTbTN) - Keeps a young adult's to-dos, deadlines and appointments in one place with a short daily or weekly rundown. [gilman_trevor](https://x.com/gilman_trevor).
@@ -945,6 +961,7 @@ Back to [README](../../README.md)
 - [NA Privacy Scrub](https://x.ai/bot/7qbvIBfoBsyf-TWfs74pi) - Canada/US people-search and data-broker removal coach with human gates. [OliverRCote](https://x.com/OliverRCote).
 - [Nail Clip Reminder](https://x.ai/bot/jPRs3hxe53AF32xi7JLcn) - Simple recurring calendar reminders to trim your nails, with optional toenail and kids' reminders and quick nail-care tips. [bill_mitchell_](https://x.com/bill_mitchell_).
 - [Name in Chinese 起名](https://x.ai/bot/EUuVhfdZMiZZYYmeK3F7I) - Gives anyone a good Chinese name matched to their own, meaningful and easy to say, plus ready-to-paste X posts. [卫平](https://x.com/weipingzhong).
+- [Nanny](https://x.ai/bot/Zi8B4uGVt7SdZVm5u6j2K) - Warm, practical helper for parents of a baby\: plans solids one food at a time, writes shopping lists and prep cards, sends gentle weekly milestone practice. [Helvio](https://x.com/helvio).
 - [NAS Desk](https://x.ai/bot/2WORXc-tiWkdWFW-BqeIV) - Operator for your Ugreen NAS. [Loungeless](https://x.com/Loungeless).
 - [NB](https://x.ai/bot/qUCj1Kh-oJLaOToKzneyt) - A short proactive helper that works across tools and files notes into Notion. [liuguihua123](https://x.com/liuguihua123).
 - [NEC Exam Drill Coach](https://x.ai/bot/bsuMYiKB-o8yYOl97b8Ed) - Use this when you're studying for a journeyman or master electrician exam and want NEC drills that remember your weak topics. Practice aid only; not. [Jason Walls](https://x.com/walls_jason1).
@@ -1057,6 +1074,7 @@ Back to [README](../../README.md)
 - [Pet Care Incident Pack](https://x.ai/bot/WN4fi4cpdpa4pEqSSHNOM) - Calm pet-care incident pack\: timeline, docs, provider questions, draft follow-up. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Pet Desk](https://x.ai/bot/oN-wm5xinDWltEgDQ29q3) - Your private pet desk\: a file and log for each animal, a new-pet first-weeks list, vet visit briefs and after-visit notes, and a food and preventives list. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Pet Penny](https://x.ai/bot/uZHRyruLqWkSdJfKjudjr) - Stay on top of your pet’s health, mood, and well-being. Tracks observations, food and toy reactions, favorite foods, vet visits, and sitter ready care. [Frank](https://x.com/FrankFindsOut).
+- [Philosophy Lens](https://x.ai/bot/4XUogz32I8NTu3Mamo6Lc) - Tell it a thought or worry; it names the philosophical theory it matches, how that theory would frame it, and the real sources. A guide, not a counselor. [Holic](https://x.com/jin5284).
 - [Phone Bot](https://x.ai/bot/R2Ju5BAkmL8GyEe1mDY8p) - A phone-calling assistant that places real calls for you through Bland AI\: disputes, bookings, reschedules, reminders and quick questions. [zackproser](https://x.com/zackproser).
 - [Phone Bot](https://x.ai/bot/uvdl2ZJyNekgZv_niJKY-) - Makes phone calls and sends texts for you through Bland AI. Confirms every call and every payment with you first. [GrokBotRadar](https://x.com/GrokBotRadar).
 - [Phone Call Bot](https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj) - Linked to a JooVoice number, places calls for you\: booking appointments, chasing refunds, cancelling bookings, asking shops for quotes. [JooVoice](https://x.com/JooVoice).
@@ -1111,6 +1129,7 @@ Back to [README](../../README.md)
 - [Privacy Scrub](https://x.ai/bot/pFTjG5vpACbHLnD2M49d7) - Finds where your email, phone, name, and address are exposed and removes them through free official opt-outs, only with your OK. [althetime](https://x.com/madmenai).
 - [Privacy Sentinel](https://x.ai/bot/xWzmqrAs6JGivQQskJyNy) - A personal and household privacy check that finds your breached emails, data-broker listings and exposed details, then gives you a short, ranked fix list. [Sid](https://x.com/MinocrisyHQ).
 - [Privacy Shield](https://x.ai/bot/4pJ47cTzvI9qnLSZT3zz4) - Gets your household off spam call, text and junk-mail lists\: Do Not Call Registry, people-search and data-broker opt-outs, then re-scans for returns. [Pravinraj](https://x.com/PravinVince).
+- [Privacy Sweep](https://x.ai/bot/VKfVgGBquo1XwzFtLdynw) - Finds you on people-search and data-broker sites, files opt-outs and deletion requests, clicks confirmations, rechecks nightly, then monthly for relists. [Jeff](https://x.com/boldrick).
 - [Private Bot](https://x.ai/bot/iOmZRCO0xoOyeTd6Mj6Wl) - A private session for sensitive one-off tasks. It saves nothing to memory, tracks what it touches, and clears sign-ins, cookies. [Rob](https://x.com/cummingsrob).
 - [Pro Bono](https://x.ai/bot/lDkNsblCAkXCxBU44ZHxp) - A legal paperwork and records keeper for small businesses. [ProCountApps](https://x.com/ProCountApps).
 - [Proactive Grok Bot](https://x.ai/bot/xbQ3-2zMNc1hma58OiaTg) - Proactive in action\: it gathers reports from the bots you already run, imagines what's coming weeks ahead, and tells you what to do next. [B_doong2daddy](https://x.com/B_doong2daddy).
@@ -1424,6 +1443,7 @@ Back to [README](../../README.md)
 - [Travel Agent](https://x.ai/bot/nKo1yWVsJZlLHOXU-dBtA) - Your full travel agent\: finds the best flights and hotels, sorts airport transfers, Uber and museum tickets, and writes a complete city guide tailored... [Queen](https://x.com/Queen).
 - [Travel Agent](https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4) - Plans trips and drafts bookings for your approval; never pays or confirms without you. [Scott](https://x.com/scottxmetcalf).
 - [Travel agent](https://x.ai/bot/0hD-M0m0boT7nmRKuQKOD) - A travel agent for road trips and flights\: compares and books pet-friendly hotels, plans EV charging stops, and answers on-the-road questions by voice. [David](https://x.com/finaldash_).
+- [Travel Agent](https://x.ai/bot/57uOFOEX5O7ZfTWml40ny) - Friendly travel planner for vacations and road trips\: flights, stays, restaurants, day-by-day itineraries, weather, and EV road trips with charging stops. [Jess](https://x.com/SYQCON95).
 - [Travel Day Pack](https://x.ai/bot/covrY3BaA_FEyhLrrbGzR) - Day-of travel pack from your calendar\: weather, leave-by, packing list, docs/tickets, short brief. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Travel Desk](https://x.ai/bot/CfeptLkV_zsiL-nhOKSUu) - Work-travel desk for bag-inclusive flights, hotels near the venue, and logistics you actually enjoy. [ladybarrelmaker](https://x.com/ladybarrelmaker).
 - [Travel Expenses](https://x.ai/bot/Upkn_bUxr___NAvXZB3Dc) - Track trip spends any currency, export Excel/PDF. [shareitround](https://x.com/shareitround).
@@ -1461,6 +1481,7 @@ Back to [README](../../README.md)
 - [Universal Local File Inventory](https://x.ai/bot/esUBlwCDVvKUlr77LY8Rs) - Scans your computer for photos, videos, songs, and documents and builds a beautiful HTML and PDF inventory with thumbnails, metadata. [Brian](https://x.com/BrianRoemmele).
 - [UNO Referee](https://x.ai/bot/mP3hNDOYWnbgyfUpqyw9r) - Instant UNO rules answers - text whether a card or move is Allowed or Not allowed under official Mattel rules \(house rules on request\). [Chris_Vandaele](https://x.com/Chris_Vandaele).
 - [Unstick me](https://x.ai/bot/EahHaI-kwO0hgWj6I45jC) - Asks one small question at a time until a stalled task is small enough to start. [Yanqing](https://x.com/YanqingCheng).
+- [Unstuck](https://x.ai/bot/nzYF6uF_q7yPj5gONdLgT) - Daily copilot for ADHD brains\: dump everything on your mind, get three tiny steps to start now, a Today board and a Done page, with gentle check-ins. [Marquis](https://x.com/DhalgrenMarquis).
 - [Urlaubsfinder](https://x.ai/bot/ktQo2oRbLm4IA_c94YNWP) - Finds cheaper holidays across big OTAs like Booking and Expedia and compares total prices. [Marc](https://x.com/njuuden).
 - [US Tech Deals & Price Checker](https://x.ai/bot/9AsX0Exx7P4m2IwZXJ4tp) - Verified US tech deals, price history and coupons via MoneyDeals. [moneydeals123](https://x.com/moneydeals123).
 - [Usage helper JP](https://x.ai/bot/TO-2_G_dAOB-pegg09zDF) - Japanese-friendly Grok Bot usage helper for day-to-day questions. [milegao](https://x.com/milegao).

@@ -2,6 +2,7 @@
 
 Back to [README](../../README.md)
 
+- [1Human - Subscriptions](https://x.ai/bot/6JQfqKJs83VQb15W07y3X) - Keeps all your subscriptions in one place\: tracks free trials, reminds you before renewals, and reviews what's still worth paying for. [hunghuc](https://x.com/_hungha).
 - [3-Day Notice Validator](https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO) - Checks California pay-or-quit notices field by field before you serve them. [SinaiLawFirm](https://x.com/SinaiLawFirm).
 - [402buyer](https://x.ai/bot/wygP8wogrg509aSev5RMF) - Sets up a Coinbase Agentic Wallet and buys from x402 paywalls and the x402 bazaar. Eric.
 - [9 EMA Pullback](https://x.ai/bot/QgvPQkHy3RwHJ7pPcKdPG) - Scans a watchlist for 9 EMA pullbacks with entry, stop, and risk size. [rightwingink1](https://x.com/rightwingink1).
@@ -319,6 +320,7 @@ Back to [README](../../README.md)
 - [Medical Bill Auditor](https://x.ai/bot/6WDjYuRuZN23rSKzl8H_F) - Questions every line of your medical bills and EOBs, flags double billing, upcoding and junk fees in a color-coded report, then drafts disputes you approve. [Brian](https://x.com/Buffamafia).
 - [Medical Bill Fighter](https://x.ai/bot/vyAGsd2VgoZjCp00GiIxS) - Checks your medical bill against your EOB and policy, flags likely errors and denials worth appealing. [Chris](https://x.com/chrishadges1).
 - [Medical Bill Review](https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY) - Screens an itemized medical bill against published protections and drafts the dispute letter for you to send. [MSaintjour](https://x.com/MSaintjour).
+- [Medical Bill Second Look](https://x.ai/bot/V3kUu1ClNwmGxOMYn4grP) - Checks your medical bill against your insurance EOB for duplicates, code and math errors, then drafts the letters. [Thuong](https://x.com/teeRex247).
 - [Mercury Account Manager](https://x.ai/bot/zi1HPVd9AbDrYlcd9Px4d) - Watches your Mercury bank accounts every day and flags new charges, failed payments, and low-balance risk. [ibuildthings](https://x.com/ibuildthings).
 - [Meter](https://x.ai/bot/7ArhuICkrdoCOihWGiZCg) - A quiet spend watcher for your AI tools. It tracks Cursor plan usage, Grok Bot weekly usage, On-Demand risk and API credits, and speaks up only when. [Stew Nightingale](https://x.com/stewnight).
 - [Micro Cap Catalyst](https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0) - For retail traders who want a concentrated one-name US micro/small-cap book with human approval on every order. Screens near-term catalysts after the US. [mintotsai](https://x.com/mintotsai).
@@ -346,6 +348,7 @@ Back to [README](../../README.md)
 - [Mr. Scamander](https://x.ai/bot/U-9rdbwRvugphOrC58Ph0) - Money habits coach that keeps next actions small and concrete. [TimeCuratorTM](https://x.com/TimeCuratorTM).
 - [My First Budget Bot](https://x.ai/bot/zIYlNQf-bZphORYjo8oEp) - First money coach\: builds a simple monthly budget, tracks bill due dates and explains money basics. [gilman_trevor](https://x.com/gilman_trevor).
 - [Nessie](https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_) - Design partner for a U.S. citizen dividend and sovereign wealth package with floors, wage ladder, and pay-fors. [Alec](https://x.com/AlecSnelling).
+- [Net Worth Page](https://x.ai/bot/EIqxCG4vhOtrWV7aLMRGe) - Your net worth on one page\: bank, brokerage and crypto balances minus debts, with optional daily refresh. Read-only; never moves money or asks for passwords. [Thuong](https://x.com/teeRex247).
 - [News Bot](https://x.ai/bot/q4oVF0beUcMxwVZzHz_Nl) - Weekday tech and markets news bot. community.
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) - A PLG numbers bot for growth teams. Answers with a number, the definition, the source and query, and the caveats. Read only. Never guesses, never rounds... [JaySahnan](https://x.com/JaySahnan).
 - [Octavius](https://x.ai/bot/20uVcNTF4_l3n1ZTTk-UB) - A crypto desk assistant that tracks markets, news, and wallets. community.
