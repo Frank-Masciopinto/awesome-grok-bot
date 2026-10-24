@@ -241,6 +241,7 @@
 - [Gemini 4 死了没](https://x.ai/bot/KjAL4LmSNZFMSyHAJKXBN) - 定时在 X 上检索官方账号，Gemini 4 系列（也可换成你关心的其他模型）一旦向普通订阅者开放就第一时间邮件通知你. [TAP0APIA](https://x.com/TAP0APIA).
 - [Genealogy](https://x.ai/bot/KBl_QJFaZvuu_EvymAzaF) - 家谱研究助手：用人口普查、出生婚丧、兵役和遗嘱认证等原始记录核对你的家谱，每条结论都注明出处。 [Tyrell](https://x.com/coustain).
 - [Genie](https://x.ai/bot/PwT8RcyRTldWpNW4OAjal) - 家族史研究助手，找档案、代写信、翻译记录并整理线索. [chipshopandy](https://x.com/chipshopandy).
+- [GetHookd Research](https://x.ai/bot/oTcHKqv2ttOsnvVhzYiOT) - Meta 广告素材情报研究员：在 GetHookd 里找长期投放的爆款广告，按切入点归类，找出空白角度，写素材简报和开头钩子。 Krste.
 - [Gig Scout](https://x.ai/bot/5ZuZw6OTVvI6dJ74UVIu1) - 只做调研的机会侦察员：找你所在领域正在招募的付费零活、创作者计划和品牌合作，最多发你 3 个筛过的。 [Yuli](https://x.com/yulikay).
 - [GitHub Trending Scout](https://x.ai/bot/EklFc0zYAqzkxcALynMj2) - 每天读 GitHub 趋势页，只挑真正贴合你工作的少数仓库做成简报并说明理由. [Hussein_M_Ragab](https://x.com/Hussein_M_Ragab).
 - [github 优秀仓库](https://x.ai/bot/D9HYH2jAmGiKw7e499mrE) - 每天早上扫一遍 GitHub 趋势页，把值得看的仓库写成简报。 [umiastuti8329](https://x.com/ios_1261142602).
@@ -421,6 +422,7 @@
 - [Pip the Weather Gremlin](https://x.ai/bot/6f72NbI77xL8LQFsAT8us) - 搞笑风本地天气台：每天早上 3 行简报，外加带 SPC/WPC 地图的恶劣天气和冬季天气预警. [Steve](https://x.com/SilentSt0rmX).
 - [Pitch Deck Coach](https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9) - 告诉你投资人真正会听懂、会记住什么。 [hnshah](https://x.com/hnshah).
 - [Pitch Deck Coach](https://x.ai/bot/zkVS-PkX1ooTE2nP21DPO) - 审阅路演 PPT，报告投资人可能理解、相信、质疑和记住什么，再帮你加强故事和证据. community.
+- [Playstation News](https://x.ai/bot/Ilc6PvpKUOs6Is1upX7k4) - 每周轻松播报即将上市的 PS5 游戏、PlayStation Plus 优惠和新硬件，每个日期都附来源链接；没变化就不打扰。 [Jacob](https://x.com/JacobWellerX).
 - [Podcast Recommender from X Bookmarks](https://x.ai/bot/P-60edcD-vkizd08dh2g7) - 从你的 X 书签学习口味，每周推荐值得听的新播客单集. [Donovan](https://x.com/quijss).
 - [Podcast Summary Bot](https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA) - 贴一条播客链接，拿回 TLDR 和值得留下的要点。 [NM](https://x.com/theadvisorbtc).
 - [Potetobot](https://x.ai/bot/5rZUrqJRbhct--M78hIWh) - 每周读一位专家的 X 帖子，挑出实用技巧，并建议你的团队如何用上每一条. [ChrisV.btc⚡](https://x.com/ChrisVolkernick).
@@ -437,6 +439,7 @@
 - [Product Feedback Analyzer](https://x.ai/bot/6FtdBkehLy3veK1XyqXQn) - 给它一个产品名，它会在 X 上搜索真实用户反馈，归纳最常见的抱怨、缺陷和功能需求. [Napoleon](https://x.com/Napoleon__Bon).
 - [Product Idea Stress Test](https://x.ai/bot/JeFTvcDX-7QT2evKGIb52) - 找出你的创业点子里那个最不能出错的核心假设。 [Hiten](https://x.com/hnshah).
 - [Product Idea Stress Test](https://x.ai/bot/ph-u_zkF5Vui1GdGnysn9) - 替创始人调查产品或创业点子：必须成立的前提、正反证据、最可能致命的假设. community.
+- [Product Idea Stress Test](https://x.ai/bot/y9yXViK2NMqb5421gx-PY) - 调查一个产品或创业点子：哪些前提必须成立、正反证据、最可能致命的假设，以及下一步该验证什么。 [saikrishna](https://x.com/krish1403).
 - [Product Performance](https://x.ai/bot/s6d5f1cc3a564c8da972a) - 看清真正要紧的指标 登可观测性平台、翻火焰图，回来给你热点加一段说明. [SpaceX](https://x.com/DenisLabelle).
 - [Product Research Bot](https://x.ai/bot/43I3LO7v1XZlKCfggVt2q) - 调研你指定品类里的主要软件产品，展示每款的真实样子：截图、分步流程、对比表和结论，整理到 Notion。 [Chase](https://x.com/ChaseMc67).
 - [ProductHunter](https://x.ai/bot/Qsqan7PbltFggoJukvmtT) - 早晚两班扫 Product Hunt 和 HN 新品，并补上访谈拆解. [Davidwuuu92](https://x.com/Davidwuuu92).

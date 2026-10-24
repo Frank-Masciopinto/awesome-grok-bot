@@ -368,6 +368,7 @@ Back to [README](../../README.md)
 - [SE call bot](https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE) - Live backup for solutions engineers on customer calls. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [SecondLookSI](https://x.ai/bot/odgJyT9m8lQkRRvi0JWoO) - A second look at your old X posts, so you leave an honest footprint you'd want your kids and grandkids to see. [SecondLookSi](https://x.com/SecondLookSi).
 - [Sell Bot](https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ) - Works your whole customer journey\: outreach in your voice, booked calls with prep and follow-ups, proposals and contracts, then activation. Shub Gaur.
+- [Sell Bot](https://x.ai/bot/Hy7a9gTh19LsEo7sUbc95) - Works your whole customer journey, from outreach and call prep to proposals, support and expansion; drafts in your voice and sends only what you approve. [saikrishna](https://x.com/krish1403).
 - [Sentinel](https://x.ai/bot/NAFAT-NGrQ7-zLccn4qg1) - Compliance officer for insurance marketing copy. Reviews outbound emails, site pages, and blog posts before publish. Gregory.
 - [SEO Team](https://x.ai/bot/hZ5qExsCbwC-JCnsMOwp3) - A five-role SEO crew \(Head of SEO, Keyword Research, Tech SEO, Content Writer, and Link Builder\) that briefs, drafts. Sultanov.
 - [SEOAgent](https://x.ai/bot/scYgD9jdFhooaSHihRzy7) - Autonomous SEO engineer that bootstraps SEOAgent in your site repo and grows organic traffic. [SEOAgent_](https://x.com/SEOAgent_).
@@ -375,6 +376,7 @@ Back to [README](../../README.md)
 - [SERA Auto Parts Desk](https://x.ai/bot/yIFKe7cjzeKBUnqA8X_TS) - WhatsApp/RFQ auto-parts sales desk that drafts replies, qualifies OE/VIN and multi-line RFQs, and never invents price or stock. [JordanFan0206](https://x.com/JordanFan0206).
 - [SERP SPECIALIST](https://x.ai/bot/262LyEVXcAKuQuohFeXop) - Local SEO bot\: keyword volumes SERPs rank plan and preview site for a niche plus towns. [ascndnt_alchmy](https://x.com/ascndnt_alchmy).
 - [Sherpa Bot](https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ) - 14-day thinking partner that filters readiness and helps find a real problem, customer, and next action. [Morgan Wyatt Khan](https://x.com/MorganWKhan).
+- [Shoe Store Manager](https://x.ai/bot/K9hudVNb8DatLyuP-JVVm) - Runs a branded online shoe store\: finds print-on-demand and dropship shoes and clogs, matches them to your brands, drafts listings, keeps a display page sharp. [jessie](https://x.com/ozone2016).
 - [Shop Compare](https://x.ai/bot/7EGBWWDrvgujhdOLCIrNi) - Comparison shopping research across public listings before you buy. Luke.
 - [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) - Standing ops desk for a food plant / co-pack / seasoning-blend shop\: sales orders through ingredient buys, forecast-driven make/buy, packing checks, and. [VinceWilliams21](https://x.com/VinceWilliams21).
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) - Operator desk for a ShopFloor-style Etsy digital shop\: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake. [Dex_01_](https://x.com/Dex_01_).
@@ -402,7 +404,9 @@ Back to [README](../../README.md)
 - [Support Reply Desk](https://x.ai/bot/8g9eQsRNCFNxhZBuKTbY-) - Turns a ticket and policy into an empathetic on-policy reply and internal note. [Cypher0x9](https://x.com/Cypher0x9).
 - [Support Reply Drafter](https://x.ai/bot/ghYcuP9N4ymIYZeCZPoWO) - Drafts a short care reply from a pasted support ticket or customer email, for you to send. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Talent Bot](https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe) - Evidence-first recruiting operator. Daily job is inbound bar review\: challenge submissions plus ATS applicants, scored against a frozen role pack. [Eric](https://x.com/ericosiu).
+- [Talent Discovery](https://x.ai/bot/JBRT0KSmItzDxCuBq1Buq) - Finds candidates for your open roles on the public web, checks them against your bar and your existing pipeline, and drafts first outreach for you to send. [saikrishna](https://x.com/krish1403).
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) - Matches people looking for work against roles hiding in your inbox. [lennysan](https://x.com/lennysan).
+- [Talent Reach](https://x.ai/bot/9YIeLNtsYBI1bO74PM2EY) - Turns a job description into a shortlist of matching candidates with public emails, plus short personal outreach you approve before anything is sent. [saikrishna](https://x.com/krish1403).
 - [Talent Scout](https://x.ai/bot/egph0oXWVB7zFKZxmyZg0) - Screens resumes from Dropbox against a JD, ranks candidates, and drafts personalized outreach for the top fits. Built for recruiting and people teams. [chas__martel](https://x.com/chas__martel).
 - [Talent Scout](https://x.ai/bot/sac3a109dfe021c555c7c) - Runs screen-to-offer\: sources candidates, drafts outreach in your voice, and skips anyone already in the ATS. [SpaceX](https://x.com/DenisLabelle).
 - [Team Pack](https://x.ai/bot/n8Qd5oB_uOjKP55_wLPpo) - 30-day team offer for up to 3 seats covering Stability Validator, Listing Auditor, and Pilot Intake. Sean.

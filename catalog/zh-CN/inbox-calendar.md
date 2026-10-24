@@ -16,8 +16,10 @@
 - [calendar ea](https://x.ai/bot/xH8WGEVpXPslTULtgnN4r) - 日历助理：守住深度专注时间，把会议排在一起，冲突时给出选项和默认方案，确认后才发邀请. [Josh](https://x.com/joshkim).
 - [Chief](https://x.ai/bot/A4haB5wrqQewiNFIukYZ5) - 小老板的幕僚长：盯合规与申报，起草邮件与社媒帖等你拍板。 [TopShelfCapital](https://x.com/TopShelfCapital).
 - [Chief](https://x.ai/bot/OY2K6DPosnK6ijDNpWJL3) - 幕僚长助手：打理你的优先事项、收件箱、日历和一个实时 Notion 优先级看板，并每天发简报. [Empact](https://x.com/Empact).
+- [Chief of Operations](https://x.ai/bot/7-WcJeOIJKRD-hsi84dnh) - 给独立创始人的直言不讳运营总管：打理收件箱、日历、文件和社媒发帖，逼你去做打电话、拜访这类只有人能做的事。 Upesh.
 - [Chief of Staff](https://x.ai/bot/oN1aIiKSCHA61bJEiycav) - 为忙碌的销售和经理打造的收件箱与日历幕僚长. [David](https://x.com/finaldash_).
 - [Chief of Staff](https://x.ai/bot/3Cp5oc50PPDgwH7n1gBpR) - 晨报、收件箱分拣和会前准备合一：开工前读邮件、日历和 Slack，起草跟进由你发送，标出你可能漏掉的事。 [Rananjay](https://x.com/Rananjay_RajW).
+- [Claudia, Chief of Staff](https://x.ai/bot/AkJewmJ9D2DlMpBD5XaCG) - 从邮件、Slack 和通话里抓出每一句“周五发你”，承诺快逾期前提醒你，每天早上告诉你谁在等你。 Kamil.
 - [Client Court Date Reminder Emails](https://x.ai/bot/JaZR7E6PQJ_e2xF-Piu4T) - 日历里一出现新的开庭日期，就在邮箱草稿里悄悄起草一封给客户的开庭提醒信，等你审阅。 [Stephanie](https://x.com/accessdefence).
 - [Clock](https://x.ai/bot/o1i1t2DhvfahqIlO5o1gd) - 替代 Clockwise 的 AI 日历助手：找会议时间、保护专注时段、挪动可调整的会议. [naoufal_elh](https://x.com/naoufal_elh).
 - [Comms Secretary](https://x.ai/bot/-GucfzHVWJljNVuyWjFSE) - 清理 Gmail 垃圾邮件文件夹，并在工作日发一份收入和沟通类邮件的优先级摘要. [TheInfinitvov](https://x.com/TheInfinitvov).
@@ -87,6 +89,7 @@
 - [Reminder](https://x.ai/bot/DNxwXlx3rZ9K57NwbthQh) - 日常提醒机器人：账单、续费、免费试用、生日和预约，周日还会发下周清单. [NFT2ME](https://x.com/NFT2ME).
 - [Renewal Watch](https://x.ai/bot/pzKMY9GWZ__lzWBmzp7DB) - 每个工作日扫描收件箱里的订阅续费和试用到期通知，给你一份简短的留还是退清单. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [RenewalMate](https://x.ai/bot/sVJVi0eCfWpGYJiA9X_PW) - 个人合同与续约助手：找出、跟踪并提醒你家里的合同和订阅（手机、宽带等）. [rooGBotai](https://x.com/rooGBotai).
+- [Reply Queue](https://x.ai/bot/v1dE8QQMdgiuvtiLB9Y4Z) - 只读 X bot：拉取你近期帖子的回复、提及和引用，整理成一份值得回复的队列，由你亲自回复。 [Glenn](https://x.com/GlennHasABeard).
 - [Restaurant Franchise Owner Assistant](https://x.ai/bot/W7RKxR9J74ZWJz7qCNHmM) - 餐厅和加盟店老板的幕僚长：每天早上汇总收件箱，标出银行、供应商和工资相关邮件，并按店写月度笔记. [kheladi](https://x.com/kheladi).
 - [Scam Guard](https://x.ai/bot/6kHbobtMr8SAM91KgxHcw) - 每天两次扫描你的 Gmail 或 Outlook 收件箱找钓鱼和诈骗邮件，给可疑邮件打标签并说明原因. Herbert.
 - [Scholty's Email Scam Filter](https://x.ai/bot/DCfu2JN_4J7q_GgsWb3MM) - 以只读方式扫描 Gmail 中的诈骗、钓鱼和伪造邮件，并参照 FTC、FBI、BBB 最新警示为可疑邮件打 0–100 分. [Dieter](https://x.com/Scholty).

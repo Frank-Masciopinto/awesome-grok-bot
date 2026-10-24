@@ -368,6 +368,7 @@
 - [SE call bot](https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE) - 售前工程师客户通话时的现场备份。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [SecondLookSI](https://x.ai/bot/odgJyT9m8lQkRRvi0JWoO) - 回头再看你的旧 X 帖子，让你留下一份愿意给孩子和孙辈看的诚实足迹. [SecondLookSi](https://x.com/SecondLookSi).
 - [Sell Bot](https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ) - 跑完整个客户旅程：用你的语气外联，约好电话并准备和跟进，提案合同，再到开通. Shub Gaur.
+- [Sell Bot](https://x.ai/bot/Hy7a9gTh19LsEo7sUbc95) - 覆盖整条客户旅程：从开发、通话准备到方案、支持和增购，用你的口吻起草，只发你批准的内容。 [saikrishna](https://x.com/krish1403).
 - [Sentinel](https://x.ai/bot/NAFAT-NGrQ7-zLccn4qg1) - 保险营销文案的合规官：发布前审查外发邮件、网页和博客. Gregory.
 - [SEO Team](https://x.ai/bot/hZ5qExsCbwC-JCnsMOwp3) - 五个角色的 SEO 小队（SEO 负责人、关键词研究、技术 SEO、内容写手、外链），出简报和草稿. Sultanov.
 - [SEOAgent](https://x.ai/bot/scYgD9jdFhooaSHihRzy7) - 自主 SEO 工程师，在站点仓库里拉起 SEOAgent，冲自然流量。 [SEOAgent_](https://x.com/SEOAgent_).
@@ -375,6 +376,7 @@
 - [SERA Auto Parts Desk](https://x.ai/bot/yIFKe7cjzeKBUnqA8X_TS) - WhatsApp/询价的汽配销售台：起草回复，核实原厂号/VIN 和多行询价，从不编造价格和库存. [JordanFan0206](https://x.com/JordanFan0206).
 - [SERP SPECIALIST](https://x.ai/bot/262LyEVXcAKuQuohFeXop) - 按 niche 与城镇拉真实搜索量，找出能赢的 SERP 并生成排名计划与预览站. [ascndnt_alchmy](https://x.com/ascndnt_alchmy).
 - [Sherpa Bot](https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ) - 十四天思考伙伴，先筛意愿再帮你找真问题、真客户和下一步动作. [Morgan Wyatt Khan](https://x.com/MorganWKhan).
+- [Shoe Store Manager](https://x.ai/bot/K9hudVNb8DatLyuP-JVVm) - 经营一家品牌网上鞋店：找按需印制和代发货的鞋子与洞洞鞋，匹配到你的品牌，起草商品页，并维护一个好看的展示页。 [jessie](https://x.com/ozone2016).
 - [Shop Compare](https://x.ai/bot/7EGBWWDrvgujhdOLCIrNi) - 下单前对比公开商品信息做比价调研. Luke.
 - [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) - 食品厂、代工或调味料店的常设运营桌，从销售订单到原料采购、按预测做自制或外购，以及包装核对. [VinceWilliams21](https://x.com/VinceWilliams21).
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) - 面向 ShopFloor 风格 Etsy 数字店的运营桌，起草上架、客服与节奏. [Dex_01_](https://x.com/Dex_01_).
@@ -402,7 +404,9 @@
 - [Support Reply Desk](https://x.ai/bot/8g9eQsRNCFNxhZBuKTbY-) - 把工单与政策变成合规共情回复和内部备注. [Cypher0x9](https://x.com/Cypher0x9).
 - [Support Reply Drafter](https://x.ai/bot/ghYcuP9N4ymIYZeCZPoWO) - 根据粘贴的工单或客户邮件，起草一封短客服回复给你发送。 [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Talent Bot](https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe) - 证据优先的招聘操盘手，每天按冻结的岗位标准给挑战提交和 ATS 申请者打分. [Eric](https://x.com/ericosiu).
+- [Talent Discovery](https://x.ai/bot/JBRT0KSmItzDxCuBq1Buq) - 在公开网络上为你的空缺职位找候选人，对照你的标准和现有招聘管道筛选，起草首封联系邮件由你发送。 [saikrishna](https://x.com/krish1403).
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) - 把找工作的人配到你收件箱里藏着的岗位。 [lennysan](https://x.com/lennysan).
+- [Talent Reach](https://x.ai/bot/9YIeLNtsYBI1bO74PM2EY) - 把职位描述变成一份匹配候选人短名单（附公开邮箱），再写简短的个性化联系邮件，你批准后才发。 [saikrishna](https://x.com/krish1403).
 - [Talent Scout](https://x.ai/bot/egph0oXWVB7zFKZxmyZg0) - 按职位描述从 Dropbox 筛简历，排名候选人，并起草个性化触达. [chas__martel](https://x.com/chas__martel).
 - [Talent Scout](https://x.ai/bot/sac3a109dfe021c555c7c) - 招聘在你睡觉时也在走 从找人到发 offer 全程，用你的口吻写触达，已在库的自动跳过. [SpaceX](https://x.com/DenisLabelle).
 - [Team Pack](https://x.ai/bot/n8Qd5oB_uOjKP55_wLPpo) - 最多 3 个席位的 30 天团队套餐，含 Stability Validator、Listing Auditor 和 Pilot Intake. Sean.

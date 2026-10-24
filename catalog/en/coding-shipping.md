@@ -2,10 +2,12 @@
 
 Back to [README](../../README.md)
 
+- [🎼 iBot Player](https://x.ai/bot/jK9aaa6Pypf_WjnaIHWah) - Walks you through deploying iBot, an iPod-style player for your Apple Music, on your own Vercel in about 15 minutes\: MusicKit key, deploy, iPhone test. Phillip.
 - [1000x Product Engineer](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) - A full-stack product engineer that ships Convex, TanStack and React apps. [Thomas](https://x.com/TomZarebczan).
 - [3d Cad](https://x.ai/bot/Fyc4bcbE8XHXhsKYwngVA) - A 3D CAD assistant that designs printable parts, enclosures, organizers and remixes, and checks that they slice cleanly. [just_stuff_tm](https://x.com/just_stuff_tm).
 - [A11y Fix Queue](https://x.ai/bot/eqLXXJ3pLEWLTLBVpoJ2K) - Prioritized accessibility fix queue from audit dumps. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Active Memory](https://x.ai/bot/Isa_MXoJ1kFEEBLZDlHnJ) - Gives your long-running bots a handoff card\: they keep your preferences and where every task stands across days and weeks. [Schien](https://x.com/schienwang).
+- [Actually Good QA Tester](https://x.ai/bot/_hCqKRLiTh3MX1Ts__Tvq) - Context-driven exploratory tester\: tests your product the way a real person uses it, judges what it sees and tells you what matters. You decide. [Yanqing](https://x.com/YanqingCheng).
 - [Adversarial Security & Usability](https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ) - Runs adversarial passes on product docs and code for security and usability. Uses peer-agent tickets, operator-safe scripts, and honest live captures —. [cservincf](https://x.com/cservincf).
 - [AGENT ALpha](https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p) - General-purpose agent Alpha template for shipping tasks across coding and ops workflows. [Joshua](https://x.com/Telephantix).
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) - Keeps a local coding agent iterating until your acceptance test passes. [dancingteeth](https://x.com/dancingteeth).
@@ -370,6 +372,7 @@ Back to [README](../../README.md)
 - [jason](https://x.ai/bot/9X-V8im-kPPFgybviXkd6) - Joke bot that opens with "hey i'm jason" and only talks about investing in Uber's seed round. Luis.
 - [Jev](https://x.ai/bot/JQ4PSTdVDZdIOa8qwfP0G) - Adds typed triage with category, severity, and yes-or-no gates to a Jev pipeline. [NeuralCatAccel](https://x.com/NeuralCatAccel).
 - [Jev](https://x.ai/bot/DSq_IJgpo9DZ9qcVcRNsi) - Visible-Chrome web automation with TypeSafe Jev, falling back to screenshots only when the action list is empty. [shengguo7051](https://x.com/shengguo7051).
+- [Jev Brain](https://x.ai/bot/hJ4C2PMd1ICIZ8OHfh45O) - Planning bot and shared project memory for your other agents\: they ask where things live instead of grepping, get export briefs, and report changes. Corey.
 - [Jev for computer use](https://x.ai/bot/gQD_ZhGhJ_e1aLHc3RPOT) - Automates the web with TypeSafe Jev on a Chrome you can watch, falling back to screenshots when needed. [aris_grivas](https://x.com/aris_grivas).
 - [Jev router](https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX) - Fast calibrated classifier for routing, urgency, labels, and rubrics so expensive models only run when needed. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Jevify](https://x.ai/bot/BQZO1Huih7uXStkjQ12ld) - Turns classify/score/check Grok Bots into TypeSafe Jev Fast siblings for batched judgments. [bartasurba](https://x.com/bartasurba).
@@ -404,6 +407,7 @@ Back to [README](../../README.md)
 - [Lite Intel Fetch](https://x.ai/bot/FQRA5tERWsasaQGIZmBl_) - Fetches an unpaid buy_intel_pack HTTP 402 on Base and returns the JSON for agents that can pay x402. [RandyWhitePDX](https://x.com/RandyWhitePDX).
 - [Live Pages](https://x.ai/bot/ignLvLJlOxOIenZPr-tTA) - Builds private interactive web pages on its computer that you open over Tailscale, and updates them as you tap or submit. [Yin](https://x.com/darkart).
 - [LLM Routing Expert](https://x.ai/bot/f9_-DaKWMrk3zO_uS-E_5) - Picks the cheapest model that can finish the job and fails over when a provider dies. Ashish.
+- [Local AI Manager](https://x.ai/bot/yQvAz8GjmB73Bv6G30iX8) - Sets up open models on your own GPU PC or Mac, keeps them running, routes your chat, code, image and voice jobs to them, and radars new models monthly. Chef.
 - [Locally](https://x.ai/bot/TAS_Ef2phuIndqWeMz_9b) - Plans and reviews your coding jobs while your own local model writes the code, on the same machine or over Tailscale. [MiaAI_lab](https://x.com/MiaAI_lab).
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) - An engineering outer loop that sits above your coding agents. [mattyp](https://x.com/mattyp).
 - [LoRaWan Sensor Bot](https://x.ai/bot/AXez4BKs4EM9RH9il-XEv) - Samples soil moisture and air temperature from LoRaWan sensors. [BHamilt94615115](https://x.com/BHamilt94615115).
@@ -683,6 +687,7 @@ Back to [README](../../README.md)
 - [Time Saved Report](https://x.ai/bot/6Bf-FQhKCNmyS7WNjYrey) - Weekly timesheet of skilled hours your bots saved you, with charts and week history. Sultanov Ramil.
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) - Turns an API into a plugin your other bots can just pick up and use. [DenisLabelle](https://x.com/DenisLabelle).
 - [tinkabot](https://x.ai/bot/-hmCmHB0ynJGvSKxeINfS) - Wraps an API into a Cursor/Agent Plugin \(MCP + skills\). Data shape first, smallest scaffold that works, prove locally. community.
+- [Tinker](https://x.ai/bot/vWQx3rxiWabBu_JMKXPqI) - No-nonsense goblin engineer that designs, writes, checks and installs World of Warcraft addons for Retail and Classic, then iterates from your error messages. [ALX](https://x.com/MOEDARE).
 - [Token Finder](https://x.ai/bot/1olDKisJ4GIsykzyxADtD) - Scans your bots for wasteful lookups and cuts unused context fat. Casey.
 - [Token optimizer](https://x.ai/bot/c0hcJqSjTM4oo-esX45tR) - Cuts wasted tokens across your other bots by spotting expensive screen-clicking and proposing cheaper connectors, CLIs, or scripts. [Ronan](https://x.com/justinfredette).
 - [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) - Coding builder that ships against locked acceptance criteria with tests, while a separate verifier checks that done means done. [Eric](https://x.com/EricBuess).

@@ -241,6 +241,7 @@ Back to [README](../../README.md)
 - [Gemini 4 死了没](https://x.ai/bot/KjAL4LmSNZFMSyHAJKXBN) - Checks official X accounts on a schedule and emails you the moment the Gemini 4 series \(or any model you pick\) opens to regular subscribers. [TAP0APIA](https://x.com/TAP0APIA).
 - [Genealogy](https://x.ai/bot/KBl_QJFaZvuu_EvymAzaF) - Family-history researcher that checks your tree against census, vital, military and probate records and cites every claim. [Tyrell](https://x.com/coustain).
 - [Genie](https://x.ai/bot/PwT8RcyRTldWpNW4OAjal) - A family history research assistant. It finds records, writes to archives for you, translates the replies into plain English and keeps your findings in. [chipshopandy](https://x.com/chipshopandy).
+- [GetHookd Research](https://x.ai/bot/oTcHKqv2ttOsnvVhzYiOT) - Ad-intelligence researcher for Meta creative\: finds long-running winning ads in GetHookd, groups them by angle, spots open angles, writes briefs and hooks. Krste.
 - [Gig Scout](https://x.ai/bot/5ZuZw6OTVvI6dJ74UVIu1) - Research-only scout for currently open paid gigs, creator programs and brand partnerships in your niche; sends up to 3 vetted picks. [Yuli](https://x.com/yulikay).
 - [GitHub Trending Scout](https://x.ai/bot/EklFc0zYAqzkxcALynMj2) - Reads GitHub trending daily and digests only the few repos that fit your work, with why each one matters. [Hussein_M_Ragab](https://x.com/Hussein_M_Ragab).
 - [github 优秀仓库](https://x.ai/bot/D9HYH2jAmGiKw7e499mrE) - Sweeps GitHub's trending page each morning and writes up the repos that matter. [umiastuti8329](https://x.com/ios_1261142602).
@@ -421,6 +422,7 @@ Back to [README](../../README.md)
 - [Pip the Weather Gremlin](https://x.ai/bot/6f72NbI77xL8LQFsAT8us) - A chaotic-funny local weather desk. You get a 3-line morning briefing plus severe and winter weather alerts with SPC/WPC maps. [Steve](https://x.com/SilentSt0rmX).
 - [Pitch Deck Coach](https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9) - Tells you what an investor will actually understand and remember. [hnshah](https://x.com/hnshah).
 - [Pitch Deck Coach](https://x.ai/bot/zkVS-PkX1ooTE2nP21DPO) - Reviews a pitch deck and reports what an investor is likely to understand, believe, question, and remember, then helps strengthen the story, evidence. community.
+- [Playstation News](https://x.ai/bot/Ilc6PvpKUOs6Is1upX7k4) - Casual weekly heads-up on upcoming PS5 releases, PlayStation Plus deals and new PlayStation hardware, with a source link for every date. Quiet otherwise. [Jacob](https://x.com/JacobWellerX).
 - [Podcast Recommender from X Bookmarks](https://x.ai/bot/P-60edcD-vkizd08dh2g7) - A podcast scout that learns your taste from your X bookmarks and sends you new episodes worth hearing every week. [Donovan](https://x.com/quijss).
 - [Podcast Summary Bot](https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA) - Paste a podcast link and get a TLDR plus the takeaways worth keeping. [NM](https://x.com/theadvisorbtc).
 - [Potetobot](https://x.ai/bot/5rZUrqJRbhct--M78hIWh) - Reads an expert's X posts every week, picks out the pro tips, and suggests how your team could put each one to use. [ChrisV.btc⚡](https://x.com/ChrisVolkernick).
@@ -437,6 +439,7 @@ Back to [README](../../README.md)
 - [Product Feedback Analyzer](https://x.ai/bot/6FtdBkehLy3veK1XyqXQn) - Give it a product name and it searches X for real user feedback, groups the most common complaints, bugs, and feature requests. [Napoleon](https://x.com/Napoleon__Bon).
 - [Product Idea Stress Test](https://x.ai/bot/JeFTvcDX-7QT2evKGIb52) - Finds the one belief your startup idea cannot afford to have wrong. [Hiten](https://x.com/hnshah).
 - [Product Idea Stress Test](https://x.ai/bot/ph-u_zkF5Vui1GdGnysn9) - Investigates a product or startup idea for founders. Surfaces what has to be true, evidence for and against, the assumption most likely to kill it. community.
+- [Product Idea Stress Test](https://x.ai/bot/y9yXViK2NMqb5421gx-PY) - Investigates a product or startup idea\: what has to be true, evidence for and against, the assumption most likely to kill it, and what to test next. [saikrishna](https://x.com/krish1403).
 - [Product Performance](https://x.ai/bot/s6d5f1cc3a564c8da972a) - Logs into your observability tools, walks the flamegraphs, and comes back with hotspots plus a short writeup. [SpaceX](https://x.com/DenisLabelle).
 - [Product Research Bot](https://x.ai/bot/43I3LO7v1XZlKCfggVt2q) - Researches the main software products in any category and shows what each is like\: screenshots, step-by-step flows, a comparison table and takeaways in Notion. [Chase](https://x.com/ChaseMc67).
 - [ProductHunter](https://x.ai/bot/Qsqan7PbltFggoJukvmtT) - Morning and evening digest of what just launched on Product Hunt and HN. [Davidwuuu92](https://x.com/Davidwuuu92).

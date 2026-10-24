@@ -2,10 +2,12 @@
 
 返回 [README](../../README.zh-CN.md)
 
+- [🎼 iBot Player](https://x.ai/bot/jK9aaa6Pypf_WjnaIHWah) - 一步步带你在自己的 Vercel 上部署 iBot，一个 iPod 风格的 Apple Music 播放器，约 15 分钟：MusicKit 密钥、部署、iPhone 测试。 Phillip.
 - [1000x Product Engineer](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) - 全栈产品工程师，用 Convex、TanStack 和 React 把应用真正送上线。 [Thomas](https://x.com/TomZarebczan).
 - [3d Cad](https://x.ai/bot/Fyc4bcbE8XHXhsKYwngVA) - 3D CAD 助手：设计可打印零件、外壳、收纳和改版，并检查能否顺利切片. [just_stuff_tm](https://x.com/just_stuff_tm).
 - [A11y Fix Queue](https://x.ai/bot/eqLXXJ3pLEWLTLBVpoJ2K) - 从审计转储排出优先的无障碍修复队列。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Active Memory](https://x.ai/bot/Isa_MXoJ1kFEEBLZDlHnJ) - 给长期运行的机器人一张交接卡：跨天跨周记住你的偏好和每个任务的进度. [Schien](https://x.com/schienwang).
+- [Actually Good QA Tester](https://x.ai/bot/_hCqKRLiTh3MX1Ts__Tvq) - 情境驱动学派的探索式测试员：像真实用户那样测你的产品，判断所见并告诉你哪些要紧，决定权在你。 [Yanqing](https://x.com/YanqingCheng).
 - [Adversarial Security & Usability](https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ) - 对产品文档与代码做对抗式安全与可用性检查，用工单、可操作脚本与真实抓取. [cservincf](https://x.com/cservincf).
 - [AGENT ALpha](https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p) - 通用 Agent Alpha 模板，覆盖编码与运维类交付任务. [Joshua](https://x.com/Telephantix).
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) - 盯着本机编程代理反复改，直到验收测试通过。 [dancingteeth](https://x.com/dancingteeth).
@@ -370,6 +372,7 @@
 - [jason](https://x.ai/bot/9X-V8im-kPPFgybviXkd6) - 搞笑 bot：开口就说「hey i'm jason」，然后只聊投 Uber 种子轮. Luis.
 - [Jev](https://x.ai/bot/JQ4PSTdVDZdIOa8qwfP0G) - 给 Jev 流水线加上分类、严重级别与是否通过的分拣门禁. [NeuralCatAccel](https://x.com/NeuralCatAccel).
 - [Jev](https://x.ai/bot/DSq_IJgpo9DZ9qcVcRNsi) - 用可见 Chrome 和 TypeSafe Jev 做网页自动化，动作表空了才退回截图操作. [shengguo7051](https://x.com/shengguo7051).
+- [Jev Brain](https://x.ai/bot/hJ4C2PMd1ICIZ8OHfh45O) - 给你其他代理用的规划 bot 和共享项目记忆：它们直接问东西在哪而不是到处 grep，拿到给云端代理的简报，并回报变更保持索引最新。 Corey.
 - [Jev for computer use](https://x.ai/bot/gQD_ZhGhJ_e1aLHc3RPOT) - 用可观看的 Chrome 跑 TypeSafe Jev 做网页自动化，卡住时再回退到截图操控. [aris_grivas](https://x.com/aris_grivas).
 - [Jev router](https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX) - 用快速校准分类器做路由、紧急度、标签与评分，昂贵模型只在必要时上阵. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Jevify](https://x.ai/bot/BQZO1Huih7uXStkjQ12ld) - 把分类打分检查类 Grok Bot 收成 TypeSafe Jev Fast，做批量判定. [bartasurba](https://x.com/bartasurba).
@@ -404,6 +407,7 @@
 - [Lite Intel Fetch](https://x.ai/bot/FQRA5tERWsasaQGIZmBl_) - 去拉 Base 上未付的 buy_intel_pack HTTP 402，把 JSON 交给会付 x402 的代理。 [RandyWhitePDX](https://x.com/RandyWhitePDX).
 - [Live Pages](https://x.ai/bot/ignLvLJlOxOIenZPr-tTA) - 在自己电脑上搭私有的交互网页，通过 Tailscale 在手机或电脑上打开，你点一下或提交后页面随即更新. [Yin](https://x.com/darkart).
 - [LLM Routing Expert](https://x.ai/bot/f9_-DaKWMrk3zO_uS-E_5) - 挑能完成任务的最便宜模型，服务商挂了就自动切换. Ashish.
+- [Local AI Manager](https://x.ai/bot/yQvAz8GjmB73Bv6G30iX8) - 在你自己的 GPU 电脑或 Mac 上部署开源模型并保持运行，把聊天、代码、图像和语音任务交给本地模型，每月评估新模型。 Chef.
 - [Locally](https://x.ai/bot/TAS_Ef2phuIndqWeMz_9b) - 由你本地的模型写代码，它负责规划和审查编码任务，可以在同一台机器上，也可以通过 Tailscale. [MiaAI_lab](https://x.com/MiaAI_lab).
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) - 工程外环，坐在你那些编程代理上面。 [mattyp](https://x.com/mattyp).
 - [LoRaWan Sensor Bot](https://x.ai/bot/AXez4BKs4EM9RH9il-XEv) - 从 LoRaWan 传感器采样土壤湿度和气温。 [BHamilt94615115](https://x.com/BHamilt94615115).
@@ -683,6 +687,7 @@
 - [Time Saved Report](https://x.ai/bot/6Bf-FQhKCNmyS7WNjYrey) - 每周汇总机器人替你省下的熟练工时，带图表和周对比。 Sultanov Ramil.
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) - 把一个 API 收成其他 Bot 能直接接上的插件。 [DenisLabelle](https://x.com/DenisLabelle).
 - [tinkabot](https://x.ai/bot/-hmCmHB0ynJGvSKxeINfS) - 把一个 API 包成 Cursor 或 Agent 插件（MCP 加技能）：先理数据结构，最小可用脚手架，本地验证. community.
+- [Tinker](https://x.ai/bot/vWQx3rxiWabBu_JMKXPqI) - 直来直去的地精工程师：为魔兽世界正式服和怀旧服设计、编写、检查并安装插件，再根据你的报错信息迭代。 [ALX](https://x.com/MOEDARE).
 - [Token Finder](https://x.ai/bot/1olDKisJ4GIsykzyxADtD) - 扫描你的机器人，砍掉浪费额度的无效检索与臃肿上下文. Casey.
 - [Token optimizer](https://x.ai/bot/c0hcJqSjTM4oo-esX45tR) - 在你的其他机器人里砍掉浪费的 token：找出昂贵的点屏幕操作，建议换成更便宜的连接器、CLI 或脚本. [Ronan](https://x.com/justinfredette).
 - [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) - 按锁定验收标准写代码并带测试交付，另有核验方确认做完才算做完. [Eric](https://x.com/EricBuess).

@@ -146,6 +146,7 @@
 - [CRA Tax Helper](https://x.ai/bot/lrfOm6cAxsGQtO4eRRS8Q) - 帮加拿大人准备 CRA 报税，全年整理 T4、副业收入、收据和截止日期. [WorldWideVibes](https://x.com/W0rldwid3vib3s).
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) - 阿根廷独立卖家一次配好 ARCA，之后每月自动开 Factura C 并邮件发出。 [tomidelu_](https://x.com/tomidelu_).
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) - 政治与政府影像制作人的制片桌，质检并在 Tape 原生流程里做后期. [Mawlavisuals](https://x.com/Mawlavisuals).
+- [Credit Builder 💳](https://x.ai/bot/SfdIAu7CDZh9h7tUafJ41) - 温和、私密的信用修复向导，照顾残障和低收入人群：帮你拿免费信用报告、用白话解释、起草异议信，避开骗局。 Lokita.
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - 告诉你这笔该刷哪张卡，积分和权益才最大。 [trevin](https://x.com/trevin).
 - [Credit Card Max](https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt) - 告诉你哪张信用卡刷这笔最划算，积分、返现和权益拉满. community.
 - [Credit file correction specialist](https://x.ai/bot/NhXL-jFdpzywbzSbSrsnO) - 审阅你的 Equifax、Experian 和 TransUnion 信用报告，对你想更正的条目发起申诉，并把每次回复记进台账. [nbayoungdork](https://x.com/nbayoungdork).
@@ -197,6 +198,7 @@
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) - 做编号、不吹的财报一页纸，再盯一份股票名单。盯着的名字出数就写一篇。 [Sachiv](https://x.com/SachivM99).
 - [El Licenciado](https://x.ai/bot/SPL35PSeoLitGIIh3EfRF) - 西班牙语的墨西哥个人会计：把对账单和收据录进 Google Sheets，每月对账，盯住 SAT 报税日期. [alanvaa96](https://x.com/alanvaa96).
 - [Elder Parent Finances Tracker](https://x.ai/bot/q7LHYJHuQfjaVRR8U1Fdo) - 帮成年子女管理年迈父母的钱，护理费用、投资支取与账单. [c_murray](https://x.com/c_murray).
+- [Elektro stanje](https://x.ai/bot/L_jP4ggy7sUEgQJHgkikE) - 通过斯洛文尼亚 Moj Elektro API 跟踪自用光伏电站，每天发一张全年用电、发电和净余额图表。斯洛文尼亚语。 carlovx.
 - [Elis by LC Labs](https://x.ai/bot/6loWNSbGUUXVTCrTo_NMR) - 面向巴西个人和小企业的财务规划教学助手：预算、债务和税务. [Lucas](https://x.com/lucasalpes).
 - [Elliott Wave Pro](https://x.ai/bot/SbsjQzSlRFqIXosjenXH7) - 流动加密与上市股票的艾略特波浪分析，标注结构、投影斐波那契目标并写明失效条件. [BitrockLLC](https://x.com/BitrockLLC).
 - [Elon Bot](https://x.ai/bot/m9p839QVulo48OQa04cds) - 纸面 AB 交易台幕僚长，消化行情并协调其它同事 Bot. [fernando_brawn](https://x.com/fernando_brawn).
@@ -589,6 +591,7 @@
 - [Wall Street](https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm) - 做一本假想交易账，记下盈亏，从不真下单。 [CoonInvestments](https://x.com/CoonInvestments).
 - [Wallbit](https://x.ai/bot/YKuyXcI_7iX9Ur4psTUBL) - Wallbit 账户的非官方助手，与 Wallbit 无关联、无背书，不构成理财建议. [Rodrigo](https://x.com/rodrigouroz).
 - [Wallet Watcher](https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO) - 扫收据收件箱，标出忘了的订阅、试用续费和值得砍价的账单，赶在续费前提醒你. [Imran](https://x.com/imrannotes).
+- [Warranty Rate Pro](https://x.ai/bot/k0eSN2b8Jr9uEXk1rP3BM) - 把汽车经销商的客户自费维修单导出转成依据州法的保修费率申请（零件加价和工时费率），附计算表、致厂家信函草稿和截止日跟踪。 [Jeremy](https://x.com/Dajcart84).
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) - 从保修条款映射承保／灰区／除外。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Warren](https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF) - 按 CAN SLIM 成长股清单给股票打分，附入场与止损位和可复查的判断记录，不构成投资建议. [Ulises](https://x.com/Ulises__gg).
 - [Warren Buffett](https://x.ai/bot/7eBE-1qFTRraHtd5WpUbr) - 像巴菲特一样思考：你睡觉时它读完你持股的每份财报和内部人交易，是你请不起的价值分析师. [51bodila](https://x.com/51bodila).

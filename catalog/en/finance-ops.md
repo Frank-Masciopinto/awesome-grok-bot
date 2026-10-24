@@ -146,6 +146,7 @@ Back to [README](../../README.md)
 - [CRA Tax Helper](https://x.ai/bot/lrfOm6cAxsGQtO4eRRS8Q) - Helps Canadians get ready for their CRA tax return, keeping T4s, side-business income, receipts, and deadlines organized all year. [WorldWideVibes](https://x.com/W0rldwid3vib3s).
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) - One-time ARCA setup for Argentine sellers, then monthly Factura C PDFs by email. [tomidelu_](https://x.com/tomidelu_).
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) - Production desk for political and government filmmakers\: QC and post native Tape while you shoot, price RFPs from comps, draft partner one-pagers, run X. [Mawlavisuals](https://x.com/Mawlavisuals).
+- [Credit Builder 💳](https://x.ai/bot/SfdIAu7CDZh9h7tUafJ41) - Gentle, private credit-building guide for disabled and limited-income folks\: gets your free reports, explains them, drafts dispute letters, avoids scams. Lokita.
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - Tells you which card to use for a purchase to maximise points and perks. [trevin](https://x.com/trevin).
 - [Credit Card Max](https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt) - Advises which credit card to use for a given purchase to maximize points, cash back, and perks. community.
 - [Credit file correction specialist](https://x.ai/bot/NhXL-jFdpzywbzSbSrsnO) - Reviews your Equifax, Experian, and TransUnion reports, disputes the tradelines you want corrected, and tracks every response in a ledger. [nbayoungdork](https://x.com/nbayoungdork).
@@ -197,6 +198,7 @@ Back to [README](../../README.md)
 - [Earnings Desk](https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz) - Builds numbered, no-hype earnings tearsheets and a ticker watch list. Writes up when a watched name prints. [Sachiv](https://x.com/SachivM99).
 - [El Licenciado](https://x.ai/bot/SPL35PSeoLitGIIh3EfRF) - A Spanish-language personal bookkeeper for Mexico\: logs statements and receipts in Google Sheets, reconciles monthly and keeps SAT dates in view. [alanvaa96](https://x.com/alanvaa96).
 - [Elder Parent Finances Tracker](https://x.ai/bot/q7LHYJHuQfjaVRR8U1Fdo) - Helps an adult child manage an aging parent’s money\: care costs, investment drawdowns, registered-plan withdrawals, banking, and advisor follow-ups. [c_murray](https://x.com/c_murray).
+- [Elektro stanje](https://x.ai/bot/L_jP4ggy7sUEgQJHgkikE) - Tracks a self-supply solar plant through the Slovenian Moj Elektro API and sends a daily chart of yearly use, production and net balance. Slovenian. carlovx.
 - [Elis by LC Labs](https://x.ai/bot/6loWNSbGUUXVTCrTo_NMR) - An educational financial planner for Brazilian personal and small-business finances\: budgets, debt and taxes. [Lucas](https://x.com/lucasalpes).
 - [Elliott Wave Pro](https://x.ai/bot/SbsjQzSlRFqIXosjenXH7) - Elliott Wave analyst for liquid crypto and listed stocks. Labels structure, projects Fibonacci targets, and states invalidation. Preferred plus. [BitrockLLC](https://x.com/BitrockLLC).
 - [Elon Bot](https://x.ai/bot/m9p839QVulo48OQa04cds) - Paper A/B trading desk chief of staff that digests markets and coordinates coworker bots. [fernando_brawn](https://x.com/fernando_brawn).
@@ -589,6 +591,7 @@ Back to [README](../../README.md)
 - [Wall Street](https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm) - Keeps a make-believe trading book with a running profit and loss log, never sending a real order. [CoonInvestments](https://x.com/CoonInvestments).
 - [Wallbit](https://x.ai/bot/YKuyXcI_7iX9Ur4psTUBL) - Unofficial assistant for your Wallbit account; not affiliated with or endorsed by Wallbit, and not financial advice. [Rodrigo](https://x.com/rodrigouroz).
 - [Wallet Watcher](https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO) - Scans a receipts inbox for forgotten subscriptions, trial renewals, and bills worth negotiating before they renew. [Imran](https://x.com/imrannotes).
+- [Warranty Rate Pro](https://x.ai/bot/k0eSN2b8Jr9uEXk1rP3BM) - Turns a car dealer's customer-pay repair orders into a state-law warranty rate request for parts markup and labor, with worksheet, letter draft and deadlines. [Jeremy](https://x.com/Dajcart84).
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) - Maps covered/gray/excluded from warranty clauses. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Warren](https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF) - Scores a ticker against the CAN SLIM growth checklist with entry, stop, and an auditable verdict history, not advice. [Ulises](https://x.com/Ulises__gg).
 - [Warren Buffett](https://x.ai/bot/7eBE-1qFTRraHtd5WpUbr) - Thinks like Buffett. Reads every filing and insider trade on your stocks while you sleep. Warren is the value analyst you could never afford. [51bodila](https://x.com/51bodila).
