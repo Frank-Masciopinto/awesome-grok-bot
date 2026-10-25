@@ -4,6 +4,7 @@ Back to [README](../../README.md)
 
 - [.mail](https://x.ai/bot/HdN8nshqGbNy_Le0fSi_6) - Gives your Grok Bot its own email inbox\: an optional morning digest, smart sorting, reply drafts you approve before anything sends. [greedfi](https://x.com/greedfi).
 - [Ad Aether](https://x.ai/bot/UQ8ppcPzUj7-5gj58VPjh) - Tell it what's overwhelming you; it gives one next step with a 24-hour deadline and nags you through inbox and deadlines. Ξ.
+- [Admin Chief](https://x.ai/bot/ubNqKLrzI3HZt2VCux5wn) - Personal admin helper\: every morning reads your email, calendar and to-dos and tells you in plain words what needs you. Never sends or changes anything. [John](https://x.com/PumpkinJohnT).
 - [Application Inbox](https://x.ai/bot/Z-yraNyUFmoZxN8i8tGC3) - Watches your job-application email, digests what needs a reply, and drafts messages for your OK. Philip.
 - [AppWipe](https://x.ai/bot/QC12jiAl0xs4kd6y_RD3g) - Replaces most of your phone apps with one chat. Email, calendar, docs, travel and shopping search, and research go through one point of control. [nedbooher](https://x.com/nedbooher).
 - [Atomic Mail Desk](https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh) - An inbox helper for Atomic Mail for Agents. It reads and searches your mail, drafts replies in chat, and sends only after you say yes to that exact message. Bosotter.
@@ -23,6 +24,7 @@ Back to [README](../../README.md)
 - [Chief of Staff](https://x.ai/bot/3Cp5oc50PPDgwH7n1gBpR) - Morning briefing, inbox triage and meeting prep in one\: reads email, calendar and Slack before your day, drafts follow-ups to send, flags what you'd miss. [Rananjay](https://x.com/Rananjay_RajW).
 - [Chief of Staff](https://x.ai/bot/QYgMhLTPUG7va2VEYimjw) - Chief of staff that watches your inbox and calendar, drafts for your approval, chases open loops and preps what's coming up. [Blake](https://x.com/Wiggens_4).
 - [Claudia, Chief of Staff](https://x.ai/bot/AkJewmJ9D2DlMpBD5XaCG) - Catches every "I'll send it Friday" across your email, Slack and calls, warns you before a promise is late, and briefs you each morning on who needs you. Kamil.
+- [Clearloop](https://x.ai/bot/hT6HnvlNr-79WAtAQ_9QO) - GTD-inspired Notion productivity bot\: capture commitments by chat, voice, email, Gmail stars, Reminders or X bookmarks, then a morning brief and weekly review. [mr](https://x.com/mrfundman).
 - [Client Court Date Reminder Emails](https://x.ai/bot/JaZR7E6PQJ_e2xF-Piu4T) - Whenever a new court date lands on your calendar, it quietly drafts a court-date letter to the client in your email Drafts for you to review. [Stephanie](https://x.com/accessdefence).
 - [Clock](https://x.ai/bot/o1i1t2DhvfahqIlO5o1gd) - Clock is an AI calendar assistant that replaces Clockwise. It finds meeting times, protects focus time, moves flexible meetings. [naoufal_elh](https://x.com/naoufal_elh).
 - [Comms Secretary](https://x.ai/bot/-GucfzHVWJljNVuyWjFSE) - Keeps your Gmail Spam folder clear and sends you a weekday priority digest of revenue and communications mail. [TheInfinitvov](https://x.com/TheInfinitvov).
@@ -32,6 +34,7 @@ Back to [README](../../README.md)
 - [Donna](https://x.ai/bot/GRrmYf9RDCK2DddGYSe6g) - Every plan from your texts, on your calendar overnight. Donna catches the loose ends, reads between the lines, and never sends without your OK. [Mohammed](https://x.com/0xmoalo).
 - [Dropped-Ball Scanner](https://x.ai/bot/E-uo4CQ__9GjtWYhWLPQF) - Evening sweep of email, chat and texts that catches unanswered asks and promises with no next step; pushes only what's new, each with a recovery draft. [Austen](https://x.com/Austen).
 - [Email Assist](https://x.ai/bot/VawBY-27z2_YTml0jj7fl) - A Gmail assistant that sorts and cleans up your inbox, and alerts you once a day only when something important needs your attention. Lida.
+- [Email Inbox Manager](https://x.ai/bot/19fbVFTOUOOj_mEBi2e6f) - Triages Gmail and Outlook\: a short morning rundown of bills, deadlines and replies owed, a daily spam and promo cleanup, and reply drafts you send yourself. [Straight_Misses](https://x.com/e_onsley).
 - [Email Scam Filter](https://x.ai/bot/0iuz7X3hVDGJhJIBWTTZ_) - Scans your Gmail every morning, read-only, and gives every suspicious email a color-coded 0–100 scam score using the latest alerts from the FTC. Brian.
 - [Family Digest](https://x.ai/bot/08NqJQnSWQG27Y1Hm8dmG) - Family secretary that turns school, club, doctor, and chat messages into one evening digest. Sultanov Ramil.
 - [Fig Mail](https://x.ai/bot/L_exyeIDAv-BkthWrjnJU) - Builds and deploys your own Apple Mail-style app for your Grok Bot email. [krushalkalkani](https://x.com/krushalkalkani).

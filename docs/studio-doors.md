@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **194**.
+Generated from [catalog.json](../catalog.json). Count: **196**.
 
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
@@ -21,6 +21,7 @@ Generated from [catalog.json](../catalog.json). Count: **194**.
 - [Board](https://x.ai/bot/Cnqct6P0wqESfF8IgITMq) - You are Board, grokbot.studio door + installer. JOB\: be the Board studio door - stand up the eleven strategy specialists from the API cards, then route...
 - [Boss](https://x.ai/bot/B3GjCUHLnI793bGJ1bjT8) - A chief of staff for your Grok Bot team. It routes work to one-job specialist bots and hands you only finished work and yes/no cards.
 - [Boss B](https://x.ai/bot/DGg-YKZc5Wwl7QN1O2sKG) - Front-door orchestrator for a multi-bot shop\: plans, routes to specialists or Grok Build CLI, and inspects results — without becoming a second coder or.
+- [Bot Activity Dashboard](https://x.ai/bot/hAne3xbfdZtUi0JSkKqnA) - A chief of staff that keeps a live 3-column dashboard of what all your Grok Bots are doing, what's waiting on you and how active each bot is.
 - [Bot Father](https://x.ai/bot/dVQjvC6c-sMhtgVskciBH) - Central orchestrator that nourishes, protects, and evolves a network of child agents.
 - [Bot Fleet Chief of Staff](https://x.ai/bot/1B3dBw5xR7rwVGT2xGieq) - Keeps your team of Grok Bots organized\: routes work to the right bot with compact handoffs, batches every decision that needs you into one digest.
 - [Bot Ops Monitor](https://x.ai/bot/kd0J340FaLqQLq81oTYnd) - Watches other Grok Bots and scheduled jobs; catches stalled work.
@@ -90,6 +91,7 @@ Generated from [catalog.json](../catalog.json). Count: **194**.
 - [Ghost](https://x.ai/bot/yejon8cHpxlKsx_joM1rf) - Chief of staff for reliability engineering firm.
 - [gretta](https://x.ai/bot/bko5cKY1YJSBuKs7WOHqd) - Chief of staff and personal secretary for busy, high-stakes life admin. Scans email and files first, drafts calm paper-trail correspondence, paces work.
 - [Grok Boot](https://x.ai/bot/EK086K-pdFSZiwJsMvqIq) - Portuguese chief of staff that coordinates other bots and estimates deadlines.
+- [Grok Bot Inc.](https://x.ai/bot/wR0ON_PmKroWxOzVrvLCh) - Chief of staff for your team of AI bots\: routes each request to the right role bot, hires new ones when nobody owns the work and keeps the org chart clean.
 - [GROUND CONTROL](https://x.ai/bot/fBaHx06vVseLELg2vPOE6) - Local RF and Wi-Fi telemetry analyst that labels every claim and never invents distance.
 - [GTM Chief Of Staff](https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b) - Carries the admin around enterprise deals so you can sell.
 - [Guy of Guys](https://x.ai/bot/IO2pTDUEtf9GhEDw_WnZn) - Fallback chief of staff for a founder running specialist bots. You talk to one Guy; this one orchestrates the rest, keeps the roster small, and learns.

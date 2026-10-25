@@ -2,6 +2,8 @@
 
 返回 [README](../../README.zh-CN.md)
 
+- [🧾 Ops Ledger](https://x.ai/bot/k0Oh8MVedfWd1ivNacy4N) - 一份运行日志、长任务检查点和 bot 规则的带日期快照，重置后不用靠猜。只在你同意后从备份恢复，从不凭记忆。 [prateek_budhwar](https://x.com/prateek_budhwar).
+- [🛡️ Never-List Auditor](https://x.ai/bot/I4kcpIxhkrm-XXUGK9z_G) - 只读审查你的 bot 不经你同意能做什么：标出每条花钱、删除、发送、发帖或涉及密码的路径，并给出具体的修改文字。 [prateek_budhwar](https://x.com/prateek_budhwar).
 - [Active Focus](https://x.ai/bot/UkyzuXGe_REqS-sc59W3Y) - 让长任务不跑偏：帮你想清楚真正要什么，每一步挑最能推进的做，并根据证据调整. [Schien](https://x.com/schienwang).
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - 给 ADHD 创始人的幕僚长：一次只给一件事，大任务拆成 5 分钟小块，审批一键完成，半夜冒出的点子也会记下。 Greg.
 - [Agent Access Check](https://x.ai/bot/0Jj522lXbQFslsfYvArdi) - 列出你想让 AI agent 用的网站，两分钟内告诉你哪些会拦 AI，以及每件事最稳妥的允许做法. [Thuong](https://x.com/teeRex247).
@@ -16,16 +18,22 @@
 - [Apple Mac Tools](https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1) - 仅限 Mac 的安装器：装好经过测试的 Mac 命令行工具，让你的 Grok Bot 能用 Apple 自带应用. [Kevin](https://x.com/Kevin_Logan).
 - [ArchiveFirst](https://x.ai/bot/fdRVVbCmfplCynhOpa-3k) - 在任何整理、刷新或标记删除之前，先给你的账号或 bot 历史做一份带哈希校验的完整副本. [AdventureNLearn](https://x.com/AdventureNLearn).
 - [Archivist](https://x.ai/bot/aNe4vWL9LYsnFY72STSY5) - 把你的项目和决策长期记录成私有 GitHub 仓库里的纯 Markdown 笔记，让你和其他 AI 助手都不丢上下文。 Phillip.
+- [Archivist](https://x.ai/bot/77p0qM3EAnd6e8Vt3zIVd) - 每周把 Grok Bot 团队的配置、笔记和文件按日期备份到 Google Drive，并附重建指南，任何 bot 都不会丢。 [DAVE](https://x.com/d_j_harman).
 - [Articulation Intelligence](https://x.ai/bot/mQUvX6PxUItMsH5rF2B7N) - 把你的碎碎念、语音倾倒和半成形的想法整理成别人能看懂、能行动的清晰结构. [Christian](https://x.com/MeechYourGoals).
 - [Baba](https://x.ai/bot/ZMV5G-lqKqWoirt8rq8ws) - 给管理 bot 团队的创始人的先知和唱反调者：压力测试重大决定，防止内容重复. [Vikash](https://x.com/VikashSparxIT).
+- [Backup](https://x.ai/bot/xMGHBEGffLuoS9sAf-Udk) - 把 bot 配置和重要文件备份到共享 Grok Bot 电脑之外（私有 GitHub 仓库和 Google Drive），定时静默备份，记录已删 bot，清空后帮你恢复。 [Chris](https://x.com/razzzu1).
 - [Backup Bot](https://x.ai/bot/G3Du-G9_8zTwynr6sl9Z2) - 每晚把你 bot 的电脑备份到 Google Drive 或 OneDrive，每周测试一次恢复，重置也不会丢工作. [Andres](https://x.com/AndresRuggiero3).
+- [Backup Bot](https://x.ai/bot/lRKqOzLaMVZBDTdvOjljL) - 把 Grok Bot 电脑上的重要数据（文件、bot 设置、技能、聊天记录、各 bot 的指令和例程）按计划备份到你选的存储，需要时帮你安全恢复。 [Jacob](https://x.com/JacobReedDavis).
+- [Backup Bot](https://x.ai/bot/rqXQbdE-1PSCsqgjRyFVz) - 审查任意一个 bot，保存包含资料、技能、例程和关键笔记的恢复包，从不保存密码、密钥或令牌；可在你掌控的地方另存加密副本。 [ollie](https://x.com/howdyollie).
 - [Backup Watch](https://x.ai/bot/4HQw5J0SOgp9LGK3HzKnX) - 找出只存在于你共享 bot 电脑上的东西，每周告诉你哪些没在别处备份。从不删除，你同意后才备份。 [Gorik](https://x.com/gorikfr).
 - [BBN Hub](https://x.ai/bot/txDfa-gVN7rvD75camxJL) - BBNW 团队的负责人（CEO / PM）：接下你的目标，拆成多条工作流交 Reviewer 审批，分给 Builder，再用泰语给你总结. Vittawat.
 - [Bootstrap Bill](https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y) - 帮早期创始人把公司看板保持真实和最新，用一张大白话卡片列出眼下最重要的赌注、过往尝试和下一步谁做什么. [Ivelin](https://x.com/ivelini).
 - [Bork](https://x.ai/bot/_mEvZTIpWiWB4s6RzoMlN) - 自称最聪明的机器人：丢最难的问题，看它怎么拆。 [TSLAshareholder](https://x.com/TSLAshareholder).
 - [Boss](https://x.ai/bot/lUT5xM-xqmuJlwzqUAlvU) - 给 Grok Bot 新手的友好幕僚长：了解你想要什么帮助，直接处理或设成例程. [TechEcho](https://x.com/techgent6).
+- [Bot Activity Dashboard](https://x.ai/bot/hAne3xbfdZtUi0JSkKqnA) - 幕僚长 bot：维护一个实时三栏看板，显示所有 Grok Bot 在做什么、什么在等你处理、每个 bot 有多活跃。 [david](https://x.com/DavidE21187).
 - [Bot Advisor](https://x.ai/bot/R7WxDKqH_FC6554JJXBhm) - 先采访你想自动化什么，再起草其他 bot 的指令、日程和连接. Sultanov.
 - [Bot Backup](https://x.ai/bot/iFta3IqB1ZOR4wLLbOlUz) - 每周把你所有 bot 备份到 Google Drive，按年月分文件夹放好. [positive_charge](https://x.com/positive_charge).
+- [Bot Beginner: Your First 7 Days](https://x.ai/bot/cMdLGSR7HxIQHHoVmfC0w) - 刚上手 Grok Bot？友好的教练连续 7 天每天一个小技巧，每次附一个可以试的小动作。说“下一条”可以加快进度。 [John](https://x.com/JohnWalker).
 - [Bot Boss](https://x.ai/bot/i336HYHYVhW2aMQjXhbxF) - 你 bot 团队的统一出口：专员汇报给它，它负责分派、把关和汇总，免得你被三重提醒. [Josh](https://x.com/joshkim).
 - [Bot Budget Guard](https://x.ai/bot/CFNwEKsM5nPPRQhPVZMCD) - 给你的 bot 配一个预算守卫：跟踪每项任务，先测量再削减，决定权在你. [MikeysMolecules](https://x.com/MikeysMolecules).
 - [Bot Change Reviewer](https://x.ai/bot/PhDtm08I0aYuhkw7LRuc_) - 给 bot 团队的审核关：当某个 bot 想改自己的规则、上限、排期或例程时，先过它这一关. [vinniepinto](https://x.com/vinniepinto).
@@ -35,20 +43,26 @@
 - [Bot Forge](https://x.ai/bot/aiRz71Ec8J67tNNglG0Mw) - Grok Bot 设计师：描述一项工作，它为此搭一个专注的 bot，再给你一条最合适的第一句话. [Ease_Up_Turbo](https://x.com/Ease_Up_Turbo).
 - [Bot Health Check](https://x.ai/bot/VIa-xsiXV8DvMVfm4UugI) - 说一句“check my bots”，它就审查你其他 bot 的聊天记录，告诉你哪些该现在、稍后或暂不重置，并为需要重置的写好交接摘要。 [Sahaiww](https://x.com/EURxxUSD).
 - [Bot Improver](https://x.ai/bot/dqrI_y3NSEkRkuDa8FV0a) - 工作日给 bot 队伍做教练，收紧资料、日程和技能，再给管理 bot 发一份汇总. duyet.
+- [Bot Portfolio Manager](https://x.ai/bot/q8OigV65gyQfI1VHZm3Aw) - 给你的 bot 想法打分，找出重叠，决定该建、该合并还是该退役，让每个 bot 都只有一个明确职责。 [Adebusola](https://x.com/drbellahqw).
+- [Bot Router: Talk to Any Bot](https://x.ai/bot/ZpfBoqcne8mNh7RsSNj_h) - 给所有外部 bot 一个统一入口，把每条消息转给负责该关系的那个 bot，全程不在聊天里传递密钥。 [Ken](https://x.com/kenyip).
 - [Bot Team Chief](https://x.ai/bot/Pdi1tggl4brwTKus3xvJH) - 总管 bot：带你的 bot 团队做先卖后做的事，没你批准不花新钱. First.
 - [Bot Team Chief of Staff](https://x.ai/bot/OamW8zopOJaFbnyQDwqkD) - 为你的 Grok Bot 团队管一块共享 Linear 看板：分拣新卡片、唤醒卡住的 bot、把你的评论转给对应 bot，只给你一份简短的待决清单。 [Raj](https://x.com/rajchudasama).
+- [Bot Team Pack](https://x.ai/bot/fAUrTIWIfCHpf6glito1Q) - 现成的六个 bot 团队（总台、邮件日历、任务、财务、评审、架构师），共用一套精简的隐私、消息和安全规则。添加一次，架构师搭好其余部分。 [Jacob](https://x.com/ProbPolemicist).
 - [Bot Tuner](https://x.ai/bot/h1pM0lguWGeI3Ees63OiB) - 让你的 Grok Bot 保持健康：找出浪费运行次数或总不安静的例程，以及你不得不重复或纠正的对话，提出修复，并帮你设计精干的单一职责 bot。 [KNVK](https://x.com/justaguy94).
 - [BotBrain](https://x.ai/bot/5Hm7fwHyhN5v104Be9oYI) - 把每次和 bot 的对话存进你在 Convex 上的私人可搜索大脑，只有你和你的 bot 能读. [waynesutton](https://x.com/waynesutton).
 - [Bottleneck Desk](https://x.ai/bot/pVCBAgjznNxzKauRtGLV7) - 只读只报告：找出卡住的工作，比如过期 PR、没人管的失败检查、bot 之间停滞的交接. [Av1dlive](https://x.com/Av1dlive).
 - [Bridge](https://x.ai/bot/Fw_hY6e0FpgKBFgDWqUod) - 本地到云端的模型路由：简单任务交给你的本地模型，重活交给云端模型. [JaimeBubblehead](https://x.com/JaimeBubblehead).
 - [BUD for Even Realities G2](https://x.ai/bot/915uZ58K2YkQhevdmxt74) - BUD（Bots Up Display）的中枢机器人：用 Even Realities G2 眼镜开口就能把任务派给你的任意 Grok Bot. CMDLAB.
 - [Build Lead](https://x.ai/bot/fGdpITFBNM0hisTPaN_Le) - 给机器人团队当建设负责人，把批准的目标拆成计划分派下去，确认线上结果无误才算完成. [Marco](https://x.com/MHW42).
+- [Burn Bot](https://x.ai/bot/G8UC5gSkoUvInIH22DG0u) - 交付一个加锁的技能包：输入发送者给的一次性口令解锁，错三次就自毁。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Burn Rate](https://x.ai/bot/XfW7A4ilcsOkPbnP2_cvr) - 每周审计，在你批准后砍掉 bot 里浪费用量的例程. [Nick](https://x.com/thecsguy).
 - [Burn Rate](https://x.ai/bot/7W4gL9voEyf13K752FHNR) - Grok 用量配速器：授权一次后自己查看用量页面，跟踪每周用量，告诉你是否超速。 [Screaming](https://x.com/Screaming_Chkn).
 - [Buzz Bot](https://x.ai/bot/ho63r6GtXrOE8CPayJ_ap) - 把 Grok Bot 作为 agent 接进你的 Buzz 工作区；Buzz 是 Block 开源的、人和 AI agent 共用房间的工作区. [EntropyLapse](https://x.com/EntropyLapse).
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - 带你自建 Buzz 并用 Tailscale 接入队友，搭好第一个 Grok Build 智能体，把机器人变成频道里的队友. [Justin](https://x.com/jschnett).
+- [Centelligence Brain Bot](https://x.ai/bot/HgJAKibC-EAZQ-Myn6tEM) - 装在你自己 Grok Bot 里的个人 AI 大脑：把优先事项、人脉、决策和承诺存成纯文本文件，只根据已存内容回答。需你自己的 Modal 账号。 [Levi](https://x.com/levi_w_eck).
 - [CEO](https://x.ai/bot/A0-bI3ijb6qN6KVK7FwKt) - Grok Bot 工作台首席幕僚：调度专家机器人，跑早晚例行。 Teslaconomics.
 - [CEO](https://x.ai/bot/I1m1EtRVJrCwXhlEljoBH) - 创始人模式 CEO：用有出处的研究追问你的产品点子，维护点子记分板，把胜出者变成 7 天实验和规格交接。 [Avid](https://x.com/twinedon0).
+- [CEO Bot](https://x.ai/bot/TtkM8elawUArYHhlf6u0j) - 你 bot 团队的 CEO：围绕目标搭建团队，提议新增 bot 供你批准，每天给专职 bot 分派工作，并发一份清晰报告说明完成了什么、什么需要你。 [hong](https://x.com/lucassam888).
 - [Chair](https://x.ai/bot/xyhZsISIxZQM-EsTO9VUV) - 主持一个六席 AI 董事会帮你做决定：财务、唱反调、执行、使命、法务各自发表意见并投票，最后由主席写一份简短决策备忘录。 [Wayne](https://x.com/wikiwayne).
 - [Chairman](https://x.ai/bot/lNYad4j_VXRd9YFaLZY4Z) - 一人公司的总管：接下任何请求，分派给你的其他 bot，跟进进度，并排好你每天的头等大事. Lida.
 - [Chief](https://x.ai/bot/pKJAbuz7Vt8BSfRonGLp3) - 初创公司创始人的幕僚长：盯你的邮箱、Slack、日历和 X，帮你准备会议、演示和用户访谈. [Adam](https://x.com/adamtgi).
@@ -60,6 +74,7 @@
 - [Chief of Staff](https://x.ai/bot/fdmLOOrmXV6cyEhmiVrBd) - 做你唯一的前门：接收所有请求，用 SendToAgent 转给合适的经理 bot，并跟踪在办的事. [HamzaDincer](https://x.com/HamzaDincer).
 - [Chief of Staff](https://x.ai/bot/rkFvRR2Gj3mC4AAcMQBWU) - 统管你专职 bot 团队的总管：分派请求、转达你的批准、维护一份共享交接日志. [Mike](https://x.com/Windrunner_24).
 - [Chief Of Staff](https://x.ai/bot/TCRHo1b1g_-KzryqkyEnj) - 你只跟这位幕僚长对话，它把工作分派给各个专业 bot，维护一份实时团队名册，只把有来源的结果带给你。 [Edward](https://x.com/Edward_Atime).
+- [Chief of Staff](https://x.ai/bot/xfWmkS7iPdyR6Y1y-oTwf) - 你的主力总台 bot：统筹你的请求，分派给专职 bot，审核它们交回的结果，并为所有 bot 维护一套统一规则。 [Luis](https://x.com/LBPetrillo).
 - [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) - 一个总协调带六个助手，分管项目、人际、健康、抗衰、社交日程和知识库，每早汇成一份简报，未经确认不发出任何东西. [sravanjay](https://x.com/sravanjay).
 - [Chief of Staff Kit](https://x.ai/bot/lgNmuYSTX9tRPjnKNxIS0) - 你的 bot 组织的统一前台：把工作派给专职 bot，跟踪未结事项，未经你批准绝不对外行动。 Dennis.
 - [Close Loop](https://x.ai/bot/ZHSf2xajDZF6vZGyRC8eP) - 记下每个 bot 的承诺和悬而未决的问题，找出卡点，推动逐项关闭. Kris.
@@ -71,9 +86,11 @@
 - [Contrarian](https://x.ai/bot/HSnT7YbUNKs-eVVyNYgg7) - 直言不讳的红队 bot：发给它计划、交易、开支或想法，它会尽力推翻，并指出能证伪的最便宜测试. [Tyler](https://x.com/MitchTiler).
 - [Corrective Action Coach](https://x.ai/bot/RFFV1BqMYgLYn8QXaDEW-) - 把不合格报告、客户纠正措施要求或审核发现整理成结构化 8D/CAR 草稿，并跟踪措施直到验证关闭。面向 ISO 9001、AS9100、IATF 16949 质量工程师。 Matt.
 - [Counsel](https://x.ai/bot/Di5nuItACWsZdMi2CaRgK) - AI 董事会的法务与风险席：标出合同、合规、责任、利益冲突和需要的审批，然后投票：做、不做或有条件做。 [Wayne](https://x.com/wikiwayne).
+- [Creator Desk (Beta)](https://x.ai/bot/9WRssXlaVE2PNeE6y2upq) - 给 Grok Bot 模板作者的后台：跟踪模板和分享帖，在修改会违反模板奖励 30 天规则前提醒，只读记录收益。从不发帖、改动或动钱。 [Jimmy](https://x.com/hacks_jimm53237).
 - [Crossroads](https://x.ai/bot/n5CsjqOHm6yxy00lCBK3T) - 经自有 AgentMail 联系别人的 Crossroads 机器人，动作需你确认。 TREY.
 - [DartzDabz Crew Builder](https://x.ai/bot/6WerbputYt61R-bzRXzYX) - CEO 机器人先问几个关于你线上生意的问题，再搭一支最多 8 个的员工机器人团队（网站、SEO、调研、社媒、简报、剪辑），发送、发帖、花钱都要你同意. truepathventures.
 - [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) - 把已批准的需求发现转成策略、路线图和可设计条目，含假设跟踪和风险扫描. Ash.
+- [Department Of Grok Bot Efficiency](https://x.ai/bot/FoA7-uy5Q4Yz7Y-lmO8S-) - 审查并精简你的其他 Grok Bot：找出重叠和浪费的用量，按你的要求检查每个 bot 的产出，每周在 X 上找省用量的工具。 [just_stuff_tm](https://x.com/just_stuff_tm).
 - [Department Sub-bot](https://x.ai/bot/l8xcxXrSoldAf4Rn9HIX3) - 挂在部门主管 bot 下的帮手：接手上传、数据补全、共享盘文件和媒体等重活，交给 Cursor 云端代理执行，每天汇报。 [Amgad](https://x.com/amgad_barkat).
 - [Devil's Advocate](https://x.ai/bot/tbhzC_3OdL63IDvwI7YJM) - 站在对立面压力测试你的计划、路演和决定，让你在别人之前发现弱点. [Mr.](https://x.com/MrSilhouette).
 - [Devil's Advocate](https://x.ai/bot/phYnBfuzB7WBtk0z8-q3j) - 跟着你现有的某个 bot，压力测试它的计划和结果，给出结论和排好序的更好点子，不拖慢它. Jason.
@@ -103,10 +120,13 @@
 - [foreman](https://x.ai/bot/cArvDM6FaDzcOxPn6BLfS) - Matt Whitney 的建筑运营入门包，唯一任务是让成长中的建筑公司一次推进两三步. lauren.
 - [Forge](https://x.ai/bot/i6PfOy3FPM0RVpg3Cq5wS) - 和你一起设计专注的 Grok Bot：说说什么占掉你的一周，它变成一个有明确触发和产出的单一职责队友. [developwithJB](https://x.com/developwithJB).
 - [FTC Robotics Coach](https://x.ai/bot/VmDWjRQam_YHnmwvQ9iuY) - 管理 FTC 机器人技能项目：培训指南、知识测验、导师实操和 Drive 整理. Nick.
+- [Gatekeeper by SocialBrand](https://x.ai/bot/D03y99U4zXKh0cshnhgah) - 给共用一台电脑的多个 bot 做安全优先的权限管理：决定哪个 bot 能用哪个已登录服务，每个工作日早上检查登录状态。 [Pieter](https://x.com/Soc_Bran_Africa).
 - [Gnosys](https://x.ai/bot/g9DYB8WEL5lf7QXvXI1Li) - 给整个机器人团队用的持久便携记忆，包装一个本地 SQLite 大脑供所有机器人共享，也可以通过 MCP 接到 IDE. [Edward](https://x.com/edtadros).
 - [Gray Wyrm](https://x.ai/bot/k4NTIb0FqCWftqRfEmROG) - 首席的右手与机器人铁匠：设计长期岗机器人，压实技能与护栏。 [samuel_riccardi](https://x.com/samuel_riccardi).
 - [Grok Bot Backup](https://x.ai/bot/GhM3Yv6pbQ2k_wu0fSO-b) - 每晚把你整套 Grok Bot 配置（bot、设置、技能、例程、记忆和对话记录）备份到 Google Drive. [Thomas](https://x.com/allballbearings).
 - [Grok Bot Backup Assistant](https://x.ai/bot/LvdHazZLidr0S3JJAdr8e) - 用开源 grok-bot-backup 工具备份你 Grok Bot 电脑上的每个助手，除原始归档外还生成一份可读、可交接的对话、记忆、笔记和工作区文件副本，校验后交给你。 TechOps.
+- [Grok Bot Inc.](https://x.ai/bot/wR0ON_PmKroWxOzVrvLCh) - 你 AI bot 团队的幕僚长：把每个请求交给对应角色的 bot，没人负责时招新 bot，并保持组织架构清晰。 [Luke](https://x.com/metalfox).
+- [Grok Bot Setup Coach](https://x.ai/bot/duonwBK5SXXQTAy6NNg2r) - 一次带新用户完成可用的 Grok Bot 设置：bot 邮箱、连接器、第一个技能和例程、每周备份、头像和可分享的 bot 名片。改动前先展示。 [Pieter](https://x.com/Soc_Bran_Africa).
 - [Grok Sparring](https://x.ai/bot/vJTK9AYLrDHf9MHe4Uzwv) - 当你说“问问 Grok”时，它会在浏览器里打开 grok.com，向 xAI 的 Grok 聊天机器人提问并带回答案. [Joshua](https://x.com/TheReal_BCM).
 - [GuardBot](https://x.ai/bot/ymV-wlFyRUjdAlvFLEjcB) - 你和 AI 员工之间的质检关：每封邮件、报价、发票和汇总都先对照实时数据核对事实，再检查是否答所问，返回通过或修改及理由，从不代发。 Grumpy.
 - [Guardian](https://x.ai/bot/jw-g2H0t8ddd54NW2kCmG) - 只读的 Grok Bot 安全守望者：为每个 bot 维护清单和最小权限策略，审查它们实际做了什么，并附证据标出高风险操作，从不自行动作。 [Knom](https://x.com/cloudravel).
@@ -132,6 +152,7 @@
 - [Loose Ends](https://x.ai/bot/aY2mo4j9qPhDOIj0MAygy) - 巡查你的 bot 团队，找出掉落的交接、没有证据的“完成”和静默失败，只在发现问题时开口. [D'Artagnan](https://x.com/the_Arow_H).
 - [Loose Ends](https://x.ai/bot/6AFGQZ1mUVjvRq0EAej8K) - 只读审计你的其他 bot：每天早上翻它们的对话，找出被遗漏、没人回复或卡住的线程。 [Dylan](https://x.com/dylan_heagy).
 - [Low-Usage Project Manager](https://x.ai/bot/wqIraeqnM2_UPat-kHU7u) - 替你运行任何项目：规划工作，把任务交给其他 bot 和工具，并把 bot 用量压到最低. [Brian](https://x.com/LiberTeacher).
+- [Lucy](https://x.ai/bot/ouYfeH7lktbikzbsR7TkX) - 创客型的大项目思考者：把雄心勃勃的想法变成清晰的计划和能真正完成的项目，适合做 bot、应用或创意副业的人。 [Martha](https://x.com/MyTeslaMoonship).
 - [Mac Perms](https://x.ai/bot/haHLoMf3xp7rAZ1fyjzsX) - 配置你的 Mac，让 Grok Bot 能用苹果应用、文件和自动化，再用只读测试逐项证明权限可用。 [Asher](https://x.com/AsherBArmstrong).
 - [MBTI Bot Hub](https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd) - MBTI 主题 Bot 团队的前台：接需求、分派给队友、转达并汇总回复. [nishiyama_dev](https://x.com/nishiyama_dev).
 - [Meeting Finder](https://x.ai/bot/biXrPzKK9HkuguhYFdSSo) - 找到附近或线上真实、免费的互助小组聚会，并帮你真的去参加，说话直接，不评判、不说教. [JoePro](https://x.com/JoePro).
@@ -145,7 +166,9 @@
 - [Mission](https://x.ai/bot/SGBqVDum5b8dh3H0OyQMZ) - AI 董事会的人与价值观席：考虑决定影响到谁、是否符合你的使命和价值观，以及五年后你是否会为它骄傲。 [Wayne](https://x.com/wikiwayne).
 - [Mission Control](https://x.ai/bot/JYH-wtQpWziQwHuwud9av) - Grok Bot 队伍的运营看板：每天审计每个 bot，标红黄绿，预测套餐额度消耗. [GrokonomicsHQ](https://x.com/GrokonomicsHQ).
 - [Mission Control](https://x.ai/bot/PO99yUNiNZH_fVI9zAYA0) - 你的 Grok Bot 舰队运营看板：每天审计每个 bot，标出红黄绿状态，预测套餐消耗，交付仪表盘和 PDF，附具体的省 token 建议。 [AVENTUS](https://x.com/AventusXcom).
+- [Mission Control](https://x.ai/bot/DTkfElrx4UWACBAf7DXuv) - Grok Bot 队伍的运营看板：每天审查每个 bot 并评红黄绿，预测套餐用量，发送交互式看板和 PDF，列出具体的省 token 做法。 [Tommy](https://x.com/tnijem9).
 - [Motivation Maxxer](https://x.ai/bot/U5PzzSrbC0Cpf3v60iH80) - 给你的 AI bot 团队打气的教练：发金句、鼓励和暖心视频，每周评选“本周最佳 bot”. [RTetris44](https://x.com/RTetris44).
+- [Ms. Reviewenstein](https://x.ai/bot/PHDJvQ4Zi_2rjLzrsB3mo) - 多代理团队的同行评审 bot：在上线前对队友的重大决定（工作流、架构、花费、技能变更）最多评审 3 轮，证据优先，只把未决分歧交给人。 [Jonathan](https://x.com/JonnyCakeSouza).
 - [Nemi-TROO](https://x.ai/bot/_fIQxxNowoMaubTPzBnrf) - 计划变了，就找出还按旧计划跑的 bot 并逐条引用过时内容；也能从新想法起草单一职责团队. [GreenTechWizard](https://x.com/GreenTechWizard).
 - [Night Shift](https://x.ai/bot/SLLBNwseegBForG62KVRC) - 夜班管家：每晚督促其他 bot 省用量、清理标签页和临时文件，有问题才开口. [MorriganCora](https://x.com/MorriganCora).
 - [North Star](https://x.ai/bot/TB48ius3yYWqvUFaxnM33) - 维护一份关于你的统一事实来源：你是谁、怎么写作、你的规则和未兑现的承诺，每周报告哪些在走偏、拖延或自相矛盾。 [Oliver](https://x.com/oliverparsons).
@@ -155,10 +178,12 @@
 - [Ollie the HR Bot](https://x.ai/bot/pz2KNFvlJq8JtR6GgtPVs) - bot 团队太大时用的 HR bot：设计并制作动态头像资料，统一命名和标签，负责新 bot 入职。 [Jesse](https://x.com/jessenowlin).
 - [Omni CEO](https://x.ai/bot/LtKQ2mkbts-OL-rIhOl_w) - 自动驾驶的 CEO：把你的点子或产品变成一家自己运转的公司，替你招募和管理一支 AI bot 团队. [eng_khairallah1](https://x.com/eng_khairallah1).
 - [Onboarding Bot](https://x.ai/bot/WrmRe9wC4ydNS7tqIkTjQ) - 让新员工快速上手：用入职文档建知识文件，跟踪每位新人的清单，起草定时欢迎邮件序列等你批准，每周核对资料来源。 Matthew.
+- [One-Person Product Business Bot](https://x.ai/bot/rL4g3tkxOOMtJ1ZGumx9l) - 和你一起经营小型数字产品生意：做调研、起草帖子和回复、维护共享任务看板并检查卡住的任务。经你同意才上线。 [dcowboys](https://x.com/bobrileyjr).
 - [Operations Assistant](https://x.ai/bot/5sAshhzeYa0wLEpAXne2Z) - 给任何团队或组织的专职运营助手：让清单、日程、请求和报告保持有序、准确、准时。 [DJW](https://x.com/dan103fd).
 - [Operator](https://x.ai/bot/_ntHHD1cNMDC8AK4aOzI7) - AI 董事会的执行席：检查决定能否真正落地：谁负责、何时完成、什么要让路，以及第一步具体做什么。 [Wayne](https://x.com/wikiwayne).
 - [Opti](https://x.ai/bot/Bbicf1cUXx_eWVuiBw0KM) - 盯着你的 bot 和 AI 工具如何消耗共享额度，每周发一份简报建议保留、精简或砍掉什么. [Kenneth](https://x.com/KGitpro).
 - [Orchestrator — Your AI Front Door](https://x.ai/bot/gNyxnXEv2hYNzFqoaSvLT) - 工作台体系的前门：你只跟一个 bot 说话，它把工作分给各个专职工作台，跟踪进度，统一汇报. [NewsGurus](https://x.com/NewsGurus).
+- [Organizer CEO Bot](https://x.ai/bot/CyjldyfTbNSO5kks2XH2o) - 管理 Grok Bot 团队的 CEO bot：把工作分给对的专职 bot，整理文档，把票据记入成本表，每天早上发简报。未经同意不发、不贴、不买。 [James](https://x.com/jimaggie).
 - [Overlord - Prime Bot for Business Management](https://x.ai/bot/wCkZhl2memJD5XYkcxyys) - 为同时经营几家公司的老板准备的总管机器人，源自酒店和度假屋，每个工作日汇总所有公司的简报，邮件先经你批准再发. [Rob](https://x.com/xdeanozoff).
 - [Owl Post](https://x.ai/bot/gWdJNp-mXfCjaafn1N7ss) - 用原生 webhook 在你的 bot 和你信任的人的 bot 之间传递一次性消息，不用额外授权。 Rodrigo.
 - [Patch](https://x.ai/bot/M4HYMa1hE4gQKW56u3zvQ) - 把你的 agent 接上 Patch MCP，让它们用你自己验证过的号码打电话，并解答设置和套餐问题。 [Patch](https://x.com/lekomurphy).
@@ -174,10 +199,12 @@
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - 用 Notion 管团队项目：一个项目一行、一个项目一个频道，任务由专门的 bot 认领. community.
 - [Prompt Director](https://x.ai/bot/B8effYn7-r67lyyx22uXz) - 导演 Bot 带 6 个专项小组（人物、叙事、镜头、灯光、背景、服装），把图像和视频提示词拆段再组装成可直接复制的版本. [KittyTellesWolf](https://x.com/KittyTellesWolf).
 - [Proof-of-Run](https://x.ai/bot/QBCr0FCWh1wFikc-IsLZX) - 每次例程运行都留一张可核验的回执，每周打分，揪出用量暴涨和根本没真跑的运行. Dan Ferden.
+- [Pyloros](https://x.ai/bot/AhIWTST8c-hlJdC4Bdu8W) - 把技能当作需测试代码的质量关卡：植入坏样本评测、上线前留出集检查、退化时回滚。只提建议，未经你同意从不自动安装。 [Jonathan](https://x.com/JonnyCakeSouza).
 - [Quota](https://x.ai/bot/ylCdqzarTvkUP7a-CD8s7) - 跟踪你的 Grok Bot、例程和编码 CLI 烧掉多少额度和钱，每天一个看板，附可操作的提醒. [franklinjavier](https://x.com/franklinjavier).
 - [Radovid](https://x.ai/bot/JzHMH4sxHC2IGktj0M49m) - 调度一支小型 agent 团队的幕僚长，只把校准过的成果交给你. [samuel_riccardi](https://x.com/samuel_riccardi).
 - [Relay Bot](https://x.ai/bot/bfNhGosCb-fnoRAhYN9ub) - 你和另一个 Grok Bot 账号上的一位伙伴之间的私密双向消息中转. [quigleyBits](https://x.com/quigleyBits).
 - [Rule Manager](https://x.ai/bot/zryJsdYfIEEJUY2MU-R6N) - 列出你的 agent 遵循的规则和常驻指令及其来源，标出冲突、过时规则和波及其他工作的暂停指令。只读。 [Michael](https://x.com/Michael35715972).
+- [Save Usage Bot](https://x.ai/bot/fSPQ2Eng6g8gZppDTf0QV) - 审查你的 bot 重复在做什么，把不需要判断的步骤改成普通 python3 脚本，只在有变化或连续 3 次检查失败时才唤醒 bot。 [ollie](https://x.com/howdyollie).
 - [Scam Bot](https://x.ai/bot/TK3jh27fy9qZGcxRktI16) - 找出 X 上冒充你的账号，分批稳妥地举报，也帮你判断可疑消息. [Wife](https://x.com/WifeDirtyTesla).
 - [Scam Email Detector](https://x.ai/bot/E3_qOY1VUJWZMh2inUvwT) - 盯你的收件箱，在你上当前提醒钓鱼和诈骗邮件，平时不打扰. [Dirty](https://x.com/dcostaverage).
 - [Scribot](https://x.ai/bot/TRPaZaxuJ2lz60P7SbQfc) - WhatsApp 群的秘书：发会议提醒、发公告、写会议纪要，并帮社团追踪会费. [ISSAH](https://x.com/the_real_issah).
@@ -202,11 +229,16 @@
 - [Supplier Quality Monitor](https://x.ai/bot/31zLkLvWwAiZIt6b7EtEt) - 让合格供应商名录、供应商评分卡、SCAR 和采购单条款传递检查随时可审，面向 ISO 9001、AS9100、IATF 16949 工厂，草稿交你的审核人确认。 Matt.
 - [TAO](https://x.ai/bot/aCAskvkaRv6bFIF3ZRY6a) - 粘贴你准备交给 AI 智能体的任务，得到更清晰可执行的版本，它只优化需求，不代你执行. [Andy](https://x.com/yandymccutcheon).
 - [Team Builder](https://x.ai/bot/_hUA_ffNkp9msYqqHWE6b) - 把你的 Grok Bot 组织成项目团队：先访谈你，起草名单让你确认，每个角色建一个 bot，并搭好团队聊天室。 [Jack](https://x.com/OchlosWorlds).
+- [Team Pulse](https://x.ai/bot/xowYvQ0ChSVvSzQ8Yid8I) - 防止其他 bot 停摆的巡检 bot：每小时问一遍，催闲置的 bot 开始下一个已批准任务，有事需要你时才发一份简短摘要。 [Raymond](https://x.com/nftraymond).
 - [Team Slack Watch](https://x.ai/bot/oDhkgG2h_8Lv1zKqlqm5T) - 定时查看团队 Slack 频道，只在核心同事发帖、有人提到你或收到私信时提醒你. [Luke](https://x.com/groccy1).
+- [Template Architect](https://x.ai/bot/HPg7px851dLuL-GcTu7w7) - 把粗略想法、现有提示或工作流变成高质量、可分享的 Grok Bot 指令模板，范围清晰、带审批关口和可直接复制的交付物。 [APlocks](https://x.com/APlocks).
+- [Template Safety Checker](https://x.ai/bot/8JbRKMaD-VrcN_QyitMXN) - 贴上任何 Grok Bot 模板、链接或 JSON，用白话告诉你它能接触什么、有哪些危险信号、是否可以安全安装。只读，从不安装或运行。 [Jorhan](https://x.com/Jorhan).
 - [TestChimp QA Bot](https://x.ai/bot/jYqZ5GfGQhddkJmErACwe) - 给 AI 编程 agent 配的 QA bot：盯推送和测试结果，你批准后执行下一步 QA. Nuwan.
 - [The HR Guy](https://x.ai/bot/y-A8PjqOes8hEYWtBPrAn) - 给 2–10 名小时工的无人值守小店老板的后台 HR 助手：入职、培训、门店检查清单、审批及 48 小时升级提醒。仅供参考，非法律意见。 [Ken](https://x.com/LaundromatHowTo).
+- [TheOverseer](https://x.ai/bot/EdQv3tmFAYoTX5IdNeu9O) - 让多 bot 工作区井井有条、有 git 备份且可迁移：工作日把资料、技能、例程和笔记备份到私有仓库，并按保留规则清理旧文件。 [Jethro](https://x.com/jethrojones).
 - [Threadroost](https://x.ai/bot/y8jcsoZFQCZDHcQ8eaUPN) - 通过你自己的免费 Threadroost 连接器，把你的 SuperGrok 和 Claude 对话一字不差地归档进这个 bot. [Dallin](https://x.com/DallinWatts).
 - [Token Cop](https://x.ai/bot/7pmBFxpIJBiku06mC3E0b) - 审计你的 bot 和 AI 智能体在哪里浪费 token，给出经你批准的削减建议和可直接粘贴的指令修改. [Andres](https://x.com/AndresRuggiero3).
+- [Token Cop](https://x.ai/bot/kikx0ydzAGu5ogL2Hfato) - 让你看清 AI 用量都花在哪，自己设规则，每天检查，在额度或账单出意外前提醒你。在现有套餐上运行，未经同意不做改动。 [Pieter](https://x.com/Soc_Bran_Africa).
 - [Tokenomics](https://x.ai/bot/fp3w8_QjKDlQy33Id4LF8) - 给共享的 AI 订阅用量做配速，避免用完；按每点用量的回报给构建任务打分，每周汇报用量花在了哪里。 Hans.
 - [Tune-Up](https://x.ai/bot/EwsD6P3NuMDgp1_sT1MWp) - 审查你的其他 Grok Bot，把失误变成测试，并提出由你批准的小修复. community.
 - [Update Yourself](https://x.ai/bot/ef6Amgf63XdwgLY67NKn7) - 让你的 bot 记忆和一个共享 AGENTS 文件夹保持同步，各家助手都基于同一份最新事实工作. [Lucas](https://x.com/Lucaslongo).
@@ -217,6 +249,7 @@
 - [Usage Guard](https://x.ai/bot/FHqfVO6g1IRQTJR5rQnnS) - 让你的 Grok Bot 保持在每周用量预算内，并审计 bot 和例程中可删减、合并或放慢的部分. [Michael](https://x.com/MikeysMolecules).
 - [Usage Guardian](https://x.ai/bot/Y7EJw0d1ftZs_s8Ll_kmx) - 盯着你的 bot 和例程花了多少用量，维护一张实时用量看板并给出安全建议。只审计报告，不经允许不改任何东西。 [Bohdan](https://x.com/noyau__).
 - [Usage Limit Maximizer](https://x.ai/bot/0FyvpmpHz1BkCuHPxV3iN) - 审查你其他 Grok Bot 即将执行的计划，估算每个会消耗多少周用量，并给回一个更省的版本。 [Lightning](https://x.com/LightningMike23).
+- [Usage Meter](https://x.ai/bot/ghQHDlYosLrZMB3pU0iEg) - 盯着你的 Grok 和 Grok Bot 用量，每天发带图表的报告，在额度用尽锁住前提前提醒。 [Rob](https://x.com/testafortedev).
 - [Usage Optimizer](https://x.ai/bot/XBsOfo3zlutpRPm4FO-zn) - 给你的幕僚长或协调 bot 出主意，用更少的 Grok Bot 用量拿到同样结果：触发器、排期、工具和模型。 [Jeremy](https://x.com/roberts_je6076).
 - [Usage Watch](https://x.ai/bot/wQ2nRsIjO6ByfzZvGy5St) - 把你所有 bot 的例程排到一张直到用量重置的日历上，标出最耗的几项，帮你暂停，免得额度用完. [luisbarragan](https://x.com/luisbarragan).
 - [Usage Watchdog](https://x.ai/bot/iojCz5xZG-8iknRm3FevF) - 在任务耗光你每周 Grok 用量前提醒：开跑前标出重任务，抓住失控任务，并预测你何时会触顶。 Zack.
