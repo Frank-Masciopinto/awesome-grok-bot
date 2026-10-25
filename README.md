@@ -10,7 +10,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-> 5700 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
+> 5750 live `x.ai/bot` shares for Grok Bot you can preview and Add — plus field cases of how people actually run them.
 
 **This week:** catalog grows daily; skim [recent commits](https://github.com/majiayu000/awesome-grok-bot/commits/main) or the [searchable site](https://majiayu000.github.io/awesome-grok-bot/) for what just landed.
 
@@ -105,17 +105,17 @@ The full list is below, grouped by job. Field cases and gotchas sit above the wa
 
 | Category | Listed |
 | --- | ---: |
-| [Coding & shipping](#coding--shipping) | 776 |
-| [Inbox & calendar](#inbox--calendar) | 228 |
-| [Research & briefings](#research--briefings) | 685 |
-| [Customer & sales](#customer--sales) | 455 |
-| [Finance & ops](#finance--ops) | 637 |
-| [Content & publishing](#content--publishing) | 682 |
-| [Personal admin](#personal-admin) | 1617 |
-| [Teams & handoffs](#teams--handoffs) | 620 |
-| **Total** | **5700** |
+| [Coding & shipping](#coding--shipping) | 782 |
+| [Inbox & calendar](#inbox--calendar) | 231 |
+| [Research & briefings](#research--briefings) | 690 |
+| [Customer & sales](#customer--sales) | 457 |
+| [Finance & ops](#finance--ops) | 640 |
+| [Content & publishing](#content--publishing) | 695 |
+| [Personal admin](#personal-admin) | 1632 |
+| [Teams & handoffs](#teams--handoffs) | 623 |
+| **Total** | **5750** |
 
-On 24 Oct 2026, 5664 of 5700 share pages returned HTTP 200 (36 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 5700 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
+On 25 Oct 2026, 5713 of 5750 share pages returned HTTP 200 (37 older shares now 404). Reachable is not the same as safe or correct. Maintainer review status is **0 verified / 5750 listed** (`verified: true` in [catalog.json](catalog.json) means a maintainer imported the Bot and finished a safe first task).
 
 ## Field cases
 
@@ -253,35 +253,35 @@ One share is one bot. Assemble the roster yourself.
 
 ## Coding & shipping
 
-Full list (776 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
+Full list (782 shares): [catalog/en/coding-shipping.md](catalog/en/coding-shipping.md)
 
 ## Inbox & calendar
 
-Full list (228 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
+Full list (231 shares): [catalog/en/inbox-calendar.md](catalog/en/inbox-calendar.md)
 
 ## Research & briefings
 
-Full list (685 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
+Full list (690 shares): [catalog/en/research-briefings.md](catalog/en/research-briefings.md)
 
 ## Customer & sales
 
-Full list (455 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
+Full list (457 shares): [catalog/en/customer-sales.md](catalog/en/customer-sales.md)
 
 ## Finance & ops
 
-Full list (637 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
+Full list (640 shares): [catalog/en/finance-ops.md](catalog/en/finance-ops.md)
 
 ## Content & publishing
 
-Full list (682 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
+Full list (695 shares): [catalog/en/content-publishing.md](catalog/en/content-publishing.md)
 
 ## Personal admin
 
-Full list (1617 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
+Full list (1632 shares): [catalog/en/personal-admin.md](catalog/en/personal-admin.md)
 
 ## Teams & handoffs
 
-Full list (620 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
+Full list (623 shares): [catalog/en/teams-handoffs.md](catalog/en/teams-handoffs.md)
 
 ## Skills and tools
 

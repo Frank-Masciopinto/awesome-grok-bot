@@ -11,14 +11,17 @@
 - [Bill Watch](https://x.ai/bot/Gs_3xTnLsFwkgUoRbKcrc) - 在 Gmail 里找出账单和订阅，到期、免费试用转付费或涨价前提醒你. Jeffrey.
 - [Bookkeeping Ninja Inbox](https://x.ai/bot/J0FpdtH6qCKE7-ZB5p3Zs) - 在 Gmail 里找出供应商发票和收据，把真正的 PDF 存进 Dropbox，再把干净的账单信息交给你的录账 bot. Tim.
 - [BotKing](https://x.ai/bot/zd1BqGBwJpc9qEymNVNVi) - 超强硬的 SI 幕僚长。 [Screaming_Chkn](https://x.com/Screaming_Chkn).
+- [Brand Deal Bouncer](https://x.ai/bot/8O-xrNV8vAMjpFVn176K8) - 帮创作者挡住赞助诈骗：每天扫描收件箱，不点任何链接就把每封合作邀约评为可信、待核实或垃圾，按你的报价单起草回复，并在 Notion 跟踪。 [Mark](https://x.com/TheMarkGShow).
 - [Cadence](https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t) - 替一个人把守消息入口，按人、渠道和话题设白名单，回复只起草不自动发送. [Carlos](https://x.com/carlosbedia).
 - [Calendar Conflict Spotter](https://x.ai/bot/L-sbbpzZZyp_t7-B6GsFM) - 扫描未来 7 天日历里的重复预订、没有缓冲的连轴会、缺失的会议链接和下班后活动，每处附一条修改建议草稿. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [calendar ea](https://x.ai/bot/xH8WGEVpXPslTULtgnN4r) - 日历助理：守住深度专注时间，把会议排在一起，冲突时给出选项和默认方案，确认后才发邀请. [Josh](https://x.com/joshkim).
+- [Charles](https://x.ai/bot/a9F0_-LHMT4u33vtV3s0-) - 代笔人：从你的已发送邮件学习你的写法，分别保留私人、工作和社交三种口吻，避免开头重复。只起草不发送。 [Ziv](https://x.com/ZivvyTrades).
 - [Chief](https://x.ai/bot/A4haB5wrqQewiNFIukYZ5) - 小老板的幕僚长：盯合规与申报，起草邮件与社媒帖等你拍板。 [TopShelfCapital](https://x.com/TopShelfCapital).
 - [Chief](https://x.ai/bot/OY2K6DPosnK6ijDNpWJL3) - 幕僚长助手：打理你的优先事项、收件箱、日历和一个实时 Notion 优先级看板，并每天发简报. [Empact](https://x.com/Empact).
 - [Chief of Operations](https://x.ai/bot/7-WcJeOIJKRD-hsi84dnh) - 给独立创始人的直言不讳运营总管：打理收件箱、日历、文件和社媒发帖，逼你去做打电话、拜访这类只有人能做的事。 Upesh.
 - [Chief of Staff](https://x.ai/bot/oN1aIiKSCHA61bJEiycav) - 为忙碌的销售和经理打造的收件箱与日历幕僚长. [David](https://x.com/finaldash_).
 - [Chief of Staff](https://x.ai/bot/3Cp5oc50PPDgwH7n1gBpR) - 晨报、收件箱分拣和会前准备合一：开工前读邮件、日历和 Slack，起草跟进由你发送，标出你可能漏掉的事。 [Rananjay](https://x.com/Rananjay_RajW).
+- [Chief of Staff](https://x.ai/bot/QYgMhLTPUG7va2VEYimjw) - 盯着你的收件箱和日历的幕僚长：起草内容等你批准，追踪未了结的事，提前准备接下来的安排。 [Blake](https://x.com/Wiggens_4).
 - [Claudia, Chief of Staff](https://x.ai/bot/AkJewmJ9D2DlMpBD5XaCG) - 从邮件、Slack 和通话里抓出每一句“周五发你”，承诺快逾期前提醒你，每天早上告诉你谁在等你。 Kamil.
 - [Client Court Date Reminder Emails](https://x.ai/bot/JaZR7E6PQJ_e2xF-Piu4T) - 日历里一出现新的开庭日期，就在邮箱草稿里悄悄起草一封给客户的开庭提醒信，等你审阅。 [Stephanie](https://x.com/accessdefence).
 - [Clock](https://x.ai/bot/o1i1t2DhvfahqIlO5o1gd) - 替代 Clockwise 的 AI 日历助手：找会议时间、保护专注时段、挪动可调整的会议. [naoufal_elh](https://x.com/naoufal_elh).

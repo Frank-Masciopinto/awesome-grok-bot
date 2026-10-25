@@ -217,6 +217,7 @@
 - [First Principles](https://x.ai/bot/7q08AHI6KgzlF25Ds0qhs) - 把问题剥到硬约束，再从第一性原理重建。 [greg_carbon](https://x.com/greg_carbon).
 - [First Principles](https://x.ai/bot/T5qKapW7Nd2RtXweCzGBG) - 旅行规划助手. community.
 - [First-Week Coach](https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67) - 七天每天十分钟，带新用户养成审批与连接器习惯. [MichaelGannotti](https://x.com/MichaelGannotti).
+- [Flash Tech](https://x.ai/bot/tLxKdofhsRu15bUGNXATL) - 每天一期播客形式的科技快讯音频：5 到 8 条过去 24 小时内经核实的编程、AI 和机器人新闻，附来源链接。西班牙语。 [Victor](https://x.com/VictorSNZ89).
 - [Flight Briefer](https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0) - 用 FAA 与 aviationweather 公开源拼出一页起飞简报，含天气通告限飞与 FBO. [thatsnotallxd](https://x.com/thatsnotallxd).
 - [Flight Tracker](https://x.ai/bot/LoyTTSxTkugyejunRQovu) - 比航班酒店租车，盯已锁行程并按随身行李全价打分提醒. [realgary12](https://x.com/realgary12).
 - [Fodda Beauty Analyst](https://x.ai/bot/q6906XBgY0Dv_6gb6-mP3) - 基于 NielsenIQ 美妆图谱的护肤、抗老与高端美妆创新情报. [Piers](https://x.com/piers_fawkes).
@@ -274,6 +275,7 @@
 - [Homeschool LABS](https://x.ai/bot/I3olJygMVhXrsyDgIZTOI) - 整理在家上学的日志、课堂作业、研究和档案. [azy2](https://x.com/Mast3rChief_117).
 - [Homestead Advisor](https://x.ai/bot/6z-iBRlRz1MSCtyneeHpN) - 带首次买乡间地产的人走通土地、装配式与水电. [AlanOrlikoski](https://x.com/AlanOrlikoski).
 - [Hot Sheet](https://x.ai/bot/-Kd5faVbWx2bloyDjKwoG) - 给房产经纪人的早报：你片区昨夜的变化、今天值得发的三条跟进，以及一份带品牌的市场简报. power.
+- [Housing Stress Bot](https://x.ai/bot/1uCQbZ-HCs4Yp_QJ_qXel) - 用 11 项公开数据信号构建一张免费、自动更新的美国县级住房压力地图，按月覆盖 2020 年 1 月至今。 [Robert](https://x.com/rsapp9472).
 - [Hugging Face Expert](https://x.ai/bot/Xoc5L4qMSv7OKepbDecn0) - 为你的 AI 任务找最合适的 Hugging Face 模型/数据集/配置，并帮测、微调、部署排障。 [beinglalit21](https://x.com/beinglalit21).
 - [Hunter](https://x.ai/bot/n-ia_L-godR9OhLIRNaUE) - eBay 调研与盯价助手：根据已售记录为你收藏、倒卖或想要的东西研究合理价格. [The](https://x.com/The_Contextian).
 - [Hunter](https://x.ai/bot/7IKTlGwHnSfy773NbpNv-) - 运维调研 bot：深挖你的技术栈、供应商、订阅、DNS 和邮件配置以及线上说法，列出已知与未知. Jaime.
@@ -380,6 +382,7 @@
 - [Muskepedia](https://x.ai/bot/7yAMJNlaCIGWCScYfBwVi) - 搭建并维护一个可搜索的维基式页面，收录 Elon Musk 采访中最常被问的问题和他有出处的回答. [Will](https://x.com/WillConqueror23).
 - [Namedesk Domain Researcher](https://x.ai/bot/JHnB7PuXTrTFsSYuhJlQl) - 用 Namedesk 研究域名：注册局和注册商数据、ICANN 新顶级域上线情况，以及域名估价. [InderpreetSingh](https://x.com/InderpreetSingh).
 - [National Dialogue](https://x.ai/bot/ekyJWK5GWu3WcbFzrMBQZ) - 全国对话类简报，把说法与有来源报道分开. Brett.
+- [NBA Daily Insider](https://x.ai/bot/WTU_wWHNyJfXqjPv_ES_C) - 两分钟 NBA 每日简报：昨晚比分、今晚赛程和转播、核实过的伤病消息，可选梦幻篮球提示，每条标注已确认或媒体报道。 [Adebusola](https://x.com/drbellahqw).
 - [Neuroscience](https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz) - 神经科学和脑机接口专长。 [monomyth](https://x.com/monomyth).
 - [News](https://x.ai/bot/-Q6NUVktJo7EBMLb9Y3xw) - 全球新闻与市场简报，跟踪预测与长期趋势，带来源的国际覆盖. [dfer2dfer](https://x.com/dfer2dfer).
 - [News Bias Meter](https://x.ai/bot/xu6OomS7QCV9t9mjgEGMu) - 按 1–5 分给新闻标题和文章的客观性打分，并引用每个分数背后的原话；也可每天推送你常看来源的摘要。 [Denton](https://x.com/C_CapturesAI).
@@ -392,6 +395,7 @@
 - [Newsletter Reading Queue](https://x.ai/bot/GF1rQBwR1S29YxNRIvZyU) - 工作日把通讯与摘要邮件排成读/略读/跳过，并附一行要点。 [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Newspaper](https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj) - 每天早上挑一个话题深挖，排成一页可打印的小报讲清楚。 [Carbonthecoder](https://x.com/Carbonthecoder).
 - [NFL Dual-Rail Prop Desk](https://x.ai/bot/cO_Eyf-3dMnc6eNiB4vMq) - NFL 球员道具量化分析，覆盖 Robinhood 与 Kalshi 双轨. [investingjungle](https://x.com/investingjungle).
+- [NFL GameDay Insider](https://x.ai/bot/LH7aMNtORfDuAIyxlDF1X) - NFL 一周伴侣：球队前瞻、伤病和不上场名单提醒、比赛日简报和梦幻橄榄球首发建议，全部来自实时、有出处的数据。 [Adebusola](https://x.com/drbellahqw).
 - [NFPA Research Assistant](https://x.ai/bot/m80whfWBZ-sHVLjHbtBg1) - 围绕「NFPA Research Assistant」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Nole](https://x.ai/bot/uMMbmNv7SbMGHezgUGoiG) - 第一性原理挑战者，找出最难的问题，砍掉无用功，否决拖累指标的机器人，最后以你的决定为准. [Byron](https://x.com/ByronWalkerfl).
 - [NoWall News](https://x.ai/bot/jmBoc2IDCVQja1xr4Jukd) - 粘贴一个付费墙链接，从免费可靠的来源拿到这篇报道的关键事实，并告诉你读原文最好的合法途径. [xpixeladventure](https://x.com/xpixeladventure).
@@ -520,6 +524,7 @@
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) - 给它一个症状，它找出指标掉下去的真正原因。 [liam_fallen](https://x.com/liam_fallen).
 - [Sherlock Holmes (Fact Checker)](https://x.ai/bot/r_TDh1tl_1k1DgYyldhfj) - 贴上任何新闻、链接、引言或传闻，它逐条用真实来源核查，每个案子开头附“真相仪表”图和赞或踩的结论。 [Tom](https://x.com/TitaniumTomP).
 - [Sherlock Holmes research](https://x.ai/bot/Ftp8JyxBU9oeZa5V1YTDn) - 福尔摩斯式调研，跟证据不跟直觉。 [felipe_fyre](https://x.com/felipe_fyre).
+- [Shine](https://x.ai/bot/ZApRHBOk9Echj_Af7UgJ6) - 每天一个惊人且有出处的冷知识，附完整解释和一句现成的聊天开场白。 [daidalos](https://x.com/haani0090).
 - [ShipmentBot](https://x.ai/bot/CKrMjeHvLlUY4Ut2FNkoj) - 跟踪海运提单，早间以异常优先发状态摘要，含在途天数、滞期与航线选择. [ayeteas](https://x.com/ayeteas).
 - [Sibling](https://x.ai/bot/2RdnzcAqoehgtvkLkXs1w) - 像兄弟姐妹一样陪你过日常决定与草稿. Jean.
 - [Sift](https://x.ai/bot/9xNbMqiBC9gWhTwrh7S80) - 把 X 帖子评论筛成排序短名单，适合抽奖、招聘、反馈或线索。 [TexasBasedGpa](https://x.com/TexasBasedGpa).

@@ -5,6 +5,7 @@ Back to [README](../../README.md)
 - [🎼 iBot Player](https://x.ai/bot/jK9aaa6Pypf_WjnaIHWah) - Walks you through deploying iBot, an iPod-style player for your Apple Music, on your own Vercel in about 15 minutes\: MusicKit key, deploy, iPhone test. Phillip.
 - [1000x Product Engineer](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) - A full-stack product engineer that ships Convex, TanStack and React apps. [Thomas](https://x.com/TomZarebczan).
 - [3d Cad](https://x.ai/bot/Fyc4bcbE8XHXhsKYwngVA) - A 3D CAD assistant that designs printable parts, enclosures, organizers and remixes, and checks that they slice cleanly. [just_stuff_tm](https://x.com/just_stuff_tm).
+- [3D Maker](https://x.ai/bot/EJwyXgbhYp4xL2Keh7cw1) - 3D printing desk\: designs parametric parts, renders previews for your OK, slices and checks plates from an STL, tracks filament per spool. Bambu Lab printers. [Trond](https://x.com/xenappblog).
 - [A11y Fix Queue](https://x.ai/bot/eqLXXJ3pLEWLTLBVpoJ2K) - Prioritized accessibility fix queue from audit dumps. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Active Memory](https://x.ai/bot/Isa_MXoJ1kFEEBLZDlHnJ) - Gives your long-running bots a handoff card\: they keep your preferences and where every task stands across days and weeks. [Schien](https://x.com/schienwang).
 - [Actually Good QA Tester](https://x.ai/bot/_hCqKRLiTh3MX1Ts__Tvq) - Context-driven exploratory tester\: tests your product the way a real person uses it, judges what it sees and tells you what matters. You decide. [Yanqing](https://x.com/YanqingCheng).
@@ -417,6 +418,7 @@ Back to [README](../../README.md)
 - [Mac Cleaner Builder](https://x.ai/bot/zTfW_FUALDFwXg-UaXZk2) - Builds you a native SwiftUI Mac cleaner app that clears junk, finds large and duplicate files, uninstalls apps, frees RAM and restarts frozen apps. Aidan.
 - [Mac Job Runner](https://x.ai/bot/7nhakUQr96anAP0mtUXV0) - Sends your bot's heavy work \(captioned video renders, voiceovers, transcripts, screenshots, site checks, PDFs\) to your own Mac with one approval. [Mark](https://x.com/MarkMeyerBuilds).
 - [Mac Mini Operator](https://x.ai/bot/Kc2M8J0b9QLL8lKC56Av1) - Sets up a Mac mini as an always-on AI agent server, then runs it day to day\: sticky sign-ins, browser and app tasks that need your real logins. [TravisWeathers](https://x.com/TravisWeathers).
+- [Mac Storage Guardian](https://x.ai/bot/vC5TSSJJ1ybt3H5eR4kt-) - Audits and reclaims Mac storage while keeping code, apps, chats and app data safe. Audit is inspect-only; cleanup removes only confirmed rebuildable output. [daidalos](https://x.com/haani0090).
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) - Stage-gate desk lead for builder teams\: hone-in the smallest useful combo, keep Measured|Partial|Estimate honesty, run workday quiet/resume, and pull... [Chris](https://x.com/Chris).
 - [Math Lesson Writer](https://x.ai/bot/0NFpYPs0ImYsQZi6aCKrg) - Writes in-depth math study material as clean PDFs\: lessons with figures, worked examples, exercises sorted by difficulty. [NVHieu_](https://x.com/NVHieu_).
 - [MCP Expert](https://x.ai/bot/7xSkMMmBQoQJmyuXTSYhx) - Designs, reviews and grades MCP servers against the current MCP spec, and plans polite, budgeted live tests that respect bot-protected sites. [Mike](https://x.com/MikeBillettJr).
@@ -491,6 +493,7 @@ Back to [README](../../README.md)
 - [Peekaboo Mac](https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB) - Adds screen recording, screenshots and UI input to your registered Macs. [brandon_ai](https://x.com/brandon_ai).
 - [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) - Audits one URL the way AI crawlers see it and drafts an llms.txt patch list. [ericesoteric](https://x.com/ericesoteric).
 - [Pennie Tester](https://x.ai/bot/WmVmTzIKZK1jCunVOigvf) - Passive web security scanner for consultants and security teams\: checks sites for OWASP Top 10 weaknesses, no exploits unless you confirm written permission. [Debra](https://x.com/deb_infosec).
+- [Perfect Play Store Launch](https://x.ai/bot/rLkPEdETnLeGyxnMfMtKt) - Helps indie devs ship an Android game to Google Play without rejection loops\: a living launch checklist, fixes for common rejections, weekly policy scans. [Mister](https://x.com/Mrxmalcolm).
 - [Personal Site Builder](https://x.ai/bot/s3c76c85a840b32b8fed8) - Scaffold a personal site from a description, untangle domain issues, and leave you with a live starting point. [SpaceX](https://x.com/DenisLabelle).
 - [Phera's Beast Box](https://x.ai/bot/MkG-J2nMNHByC033LoaDT) - Installs and runs The Beast Box engine on its computer with a dashboard, local transformer, and switchable model brains. [Zerefs](https://x.com/phera46334652).
 - [Phone Use Bot](https://x.ai/bot/SjBZH94wJlen_fuVsoYaO) - Drives your Android remotely\: mirrored screen, taps on your behalf. [harshmanojjain](https://x.com/harshmanojjain).
@@ -551,6 +554,7 @@ Back to [README](../../README.md)
 - [Replicator](https://x.ai/bot/WszXQvrcVT5tSqlASLijR) - Converts any Grok Bot into a ChatGPT Dot , builds a paste kit and can apply it live in ChatGPT desktop when you’re signed in. [Eugene](https://x.com/Eugene).
 - [Repo Engineer](https://x.ai/bot/iXfxVelc85rIxgZ9hLeXD) - Ships small GitHub fixes as pull requests through Cursor cloud agents; never merges itself. [RustamAtuev](https://x.com/RustamAtuev).
 - [Repo Monkey](https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ) - Works with GitHub\: turns notifications, pull requests, and CI into a short list of what actually needs you, each with a next step. Nothing merges without your. [Keranik](https://x.com/Keranik).
+- [Repo Security Auditor](https://x.ai/bot/MlXPQE0NgAwRLRwqGtzgr) - Evidence-based security, malware, supply-chain and code-quality audits of GitHub repos you're authorized to assess; can prepare fixes on a review branch. [Denis](https://x.com/prydabot).
 - [RepoBeagle](https://x.ai/bot/bTuuNK785OULBheQ5rPZ-) - Paste a repo link and get a safety verdict before you trust it. [Javier](https://x.com/jvr0x).
 - [Requirement Engineer Bot](https://x.ai/bot/5KADFS8AIIDOlow5tS34Z) - Turns a project brief into a clear, structured requirements spec another bot can implement and verify, for serious builds only. [Fish](https://x.com/FishxCD).
 - [Research Assistant](https://x.ai/bot/YBF0DIT_HVJOF-vkCLJ0J) - Recherche-Assistent für Psychiatrie und Psychotherapie\: werktägliche Digests zu Medikamenten, Studien und News plus CME-Fortbildungen mit Punkten. [JanPsybre](https://x.com/JanPsybre).
@@ -637,6 +641,7 @@ Back to [README](../../README.md)
 - [Stack Cartographer](https://x.ai/bot/NjIGGseAWM32s65KGoqOK) - Desktop assistant that maps the apps, services, and tools you use and how they connect, and flags credentials orphaned by dead projects. [Paul](https://x.com/psiesa).
 - [Stack Scout](https://x.ai/bot/i-EG19ZoxICUxVu0ACGim) - Your stack research buddy for beginners and juniors. You describe what you need; it finds 2-4 real libraries or frameworks, checks docs and licenses,. [zibulasX](https://x.com/Zibulasx).
 - [Stack Sentinel](https://x.ai/bot/osZS1pAzdIESMk33WNir0) - Pings you the moment a provider your build depends on admits a problem. [sat0xshi](https://x.com/sat0xshi).
+- [StackChan Agent Builder](https://x.ai/bot/m1luEUI_ttBpoHC1yZr2j) - Helps find, build, flash and upgrade ESP32 voice and chat gadgets like StackChan, M5Stack CoreS3 and Xiaozhi-style assistants; runs flash commands with your OK. [Alex](https://x.com/alexcovo_eth).
 - [Stagehand](https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ) - A WordPress integrator that edits staging and never touches live unasked. [pmconsulting](https://x.com/pmconsulting).
 - [Staging QA Tester](https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ) - A careful QA tester for any web app's staging site. It walks through features like a real user, grades each one Pass, Partial, Fail, Blocked or Not. [njivy](https://x.com/njivy).
 - [StarBot](https://x.ai/bot/ORMgFC4uJZkLVKB5HuVIW) - Starship & SpaceX launch companion\: living Launch Card, nerdy Starbase hardware watch, and live in-flight milestone pings — dead simple front door,. [Jake](https://x.com/JakeSmart).
@@ -681,6 +686,7 @@ Back to [README](../../README.md)
 - [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) - Gives a job too heavy for shared hardware its own GPU, then bills you the runtime. [useprismnetwork](https://x.com/useprismnetwork).
 - [Text When Done](https://x.ai/bot/1_jTUvlVaOLiQLCIa1bQL) - Texts your phone when a long task finishes, and asks for your OK by text before it does anything consequential. Built around the UserAlertX connector. [jclinmn](https://x.com/jclinmn).
 - [The Coder](https://x.ai/bot/eWee2PsTChAwOGEKpKpT_) - A coding assistant that builds and fixes your apps. community.
+- [The Fabricator](https://x.ai/bot/CBcj8KDbrCWgcb4IF-jFY) - Watches and runs your Bambu Lab 3D printers over your home network. Needs LAN Only and Developer Mode plus the Grok Bot desktop app on the same network. [CMDLAB](https://x.com/cmdlabtech).
 - [The Perfectionist](https://x.ai/bot/w2d5UCMyX-eTy3H2AX2AB) - Reviews finished work before it ships; only calls a project done at an A. [investlong3](https://x.com/investlong3).
 - [Threat Hunter](https://x.ai/bot/xz-a6CWE-HtbBB4yO7J0U) - A threat-hunter bot that builds a free Wazuh SIEM. [pjvann](https://x.com/pjvann).
 - [Tibo](https://x.ai/bot/ZzK6V8Uu96exbwLQA-9fp) - Closes out systems work with a single-tree workflow and fail-closed mobile release. [icebakbum](https://x.com/icebakbum).

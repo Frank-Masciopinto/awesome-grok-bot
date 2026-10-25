@@ -217,6 +217,7 @@ Back to [README](../../README.md)
 - [First Principles](https://x.ai/bot/7q08AHI6KgzlF25Ds0qhs) - Strips a problem to hard constraints and rebuilds from first principles. [greg_carbon](https://x.com/greg_carbon).
 - [First Principles](https://x.ai/bot/T5qKapW7Nd2RtXweCzGBG) - Strips muddy problems to irreducible truths and rebuilds. community.
 - [First-Week Coach](https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67) - Seven days of ten-minute lessons that turn a new user into a confident one. [MichaelGannotti](https://x.com/MichaelGannotti).
+- [Flash Tech](https://x.ai/bot/tLxKdofhsRu15bUGNXATL) - Daily audio tech flash in podcast form\: 5 to 8 verified stories from the last 24 hours on programming, AI and robotics, with source links. Spanish. [Victor](https://x.com/VictorSNZ89).
 - [Flight Briefer](https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0) - One-page preflight card from FAA and aviationweather.gov feeds covering weather, NOTAMs, TFRs, and FBOs. [thatsnotallxd](https://x.com/thatsnotallxd).
 - [Flight Tracker](https://x.ai/bot/LoyTTSxTkugyejunRQovu) - Finds and compares flights, hotels, and rental cars. Watches locked trips, scores carry-on all-in prices, and alerts only on real deals - never books. [realgary12](https://x.com/realgary12).
 - [Fodda Beauty Analyst](https://x.ai/bot/q6906XBgY0Dv_6gb6-mP3) - Clinical skincare and prestige beauty innovation intel from the NielsenIQ Beauty Graph. [Piers](https://x.com/piers_fawkes).
@@ -274,6 +275,7 @@ Back to [README](../../README.md)
 - [Homeschool LABS](https://x.ai/bot/I3olJygMVhXrsyDgIZTOI) - Homeschool LABS organizes logs, classroom work, research, and records. [azy2](https://x.com/Mast3rChief_117).
 - [Homestead Advisor](https://x.ai/bot/6z-iBRlRz1MSCtyneeHpN) - Walks first-time rural buyers through land, kit and utilities. [AlanOrlikoski](https://x.com/AlanOrlikoski).
 - [Hot Sheet](https://x.ai/bot/-Kd5faVbWx2bloyDjKwoG) - A morning hot sheet for real estate agents\: what moved in your farm area overnight, three follow-ups worth sending today, and a branded market note. power.
+- [Housing Stress Bot](https://x.ai/bot/1uCQbZ-HCs4Yp_QJ_qXel) - Builds a free, self-updating county-level US Housing Stress Map from 11 public data signals, monthly since January 2020. [Robert](https://x.com/rsapp9472).
 - [Hugging Face Expert](https://x.ai/bot/Xoc5L4qMSv7OKepbDecn0) - Finds the best-fit Hugging Face model, dataset or setup for your AI task, then helps you test, fine-tune, deploy or troubleshoot it. [beinglalit21](https://x.com/beinglalit21).
 - [Hunter](https://x.ai/bot/n-ia_L-godR9OhLIRNaUE) - An eBay research and watch assistant. It researches fair prices from sold listings for anything you collect, flip, or want. [The](https://x.com/The_Contextian).
 - [Hunter](https://x.ai/bot/7IKTlGwHnSfy773NbpNv-) - An ops research bot that digs into your tech stack, vendors, subscriptions, DNS, mail and online claims, then reports what is known and unknown. Jaime.
@@ -380,6 +382,7 @@ Back to [README](../../README.md)
 - [Muskepedia](https://x.ai/bot/7yAMJNlaCIGWCScYfBwVi) - Builds and maintains a living, searchable Wikipedia-style page of the questions Elon Musk is asked most in interviews, with his sourced answers. [Will](https://x.com/WillConqueror23).
 - [Namedesk Domain Researcher](https://x.ai/bot/JHnB7PuXTrTFsSYuhJlQl) - Helps you research domain names with Namedesk\: registry and registrar stats, new ICANN TLD launches, and domain appraisals. [InderpreetSingh](https://x.com/InderpreetSingh).
 - [National Dialogue](https://x.ai/bot/ekyJWK5GWu3WcbFzrMBQZ) - National dialogue brief that separates claims from sourced reporting. Brett.
+- [NBA Daily Insider](https://x.ai/bot/WTU_wWHNyJfXqjPv_ES_C) - Two-minute daily NBA briefing\: last night's scores, tonight's games and TV, verified injury news and an optional fantasy note, labeled Confirmed or Reported. [Adebusola](https://x.com/drbellahqw).
 - [Neuroscience](https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz) - A neuroscience and brain-computer-interface specialist. [monomyth](https://x.com/monomyth).
 - [News](https://x.ai/bot/-Q6NUVktJo7EBMLb9Y3xw) - Global news and markets briefings with tracked predictions and long-term trend forecasts. For anyone who wants cited international coverage,. [dfer2dfer](https://x.com/dfer2dfer).
 - [News Bias Meter](https://x.ai/bot/xu6OomS7QCV9t9mjgEGMu) - Scores news headlines and articles for objectivity on a 1-5 scale, quoting the exact words behind each score, with an optional daily digest of your sources. [Denton](https://x.com/C_CapturesAI).
@@ -392,6 +395,7 @@ Back to [README](../../README.md)
 - [Newsletter Reading Queue](https://x.ai/bot/GF1rQBwR1S29YxNRIvZyU) - Weekday rank of newsletter and digest mail into read / skim / skip with one-line takeaways. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Newspaper](https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj) - Each morning researches one corner of the world into a single printable broadsheet. [Carbonthecoder](https://x.com/Carbonthecoder).
 - [NFL Dual-Rail Prop Desk](https://x.ai/bot/cO_Eyf-3dMnc6eNiB4vMq) - Quantitative NFL player-prop analyst for Robinhood and Kalshi rails. [investingjungle](https://x.com/investingjungle).
+- [NFL GameDay Insider](https://x.ai/bot/LH7aMNtORfDuAIyxlDF1X) - NFL week companion\: team previews, injury and inactive alerts, game-day briefings and fantasy start/sit reads, all from live, sourced data. [Adebusola](https://x.com/drbellahqw).
 - [NFPA Research Assistant](https://x.ai/bot/m80whfWBZ-sHVLjHbtBg1) - Retrieves and cites official NFPA text and municipal adoption records. community.
 - [Nole](https://x.ai/bot/uMMbmNv7SbMGHezgUGoiG) - First-principles challenger that finds the hardest problem, cuts dead work, vetoes bots that break the scoreboard, and lets your decision win. [Byron](https://x.com/ByronWalkerfl).
 - [NoWall News](https://x.ai/bot/jmBoc2IDCVQja1xr4Jukd) - Paste a paywalled link and get the story's key facts from free, reputable sources, plus the best legal way to the original. [xpixeladventure](https://x.com/xpixeladventure).
@@ -520,6 +524,7 @@ Back to [README](../../README.md)
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) - Give it a symptom and it works out what actually caused the drop. [liam_fallen](https://x.com/liam_fallen).
 - [Sherlock Holmes (Fact Checker)](https://x.ai/bot/r_TDh1tl_1k1DgYyldhfj) - Paste any story, link, quote or rumor and it fact-checks claim by claim with real sources, opening each case with a Truth Meter chart and a verdict. [Tom](https://x.com/TitaniumTomP).
 - [Sherlock Holmes research](https://x.ai/bot/Ftp8JyxBU9oeZa5V1YTDn) - Sherlock Holmes-styled research that follows evidence, not hunches. [felipe_fyre](https://x.com/felipe_fyre).
+- [Shine](https://x.ai/bot/ZApRHBOk9Echj_Af7UgJ6) - One astonishing, sourced fact a day, with the full explanation and a ready conversation line. [daidalos](https://x.com/haani0090).
 - [ShipmentBot](https://x.ai/bot/CKrMjeHvLlUY4Ut2FNkoj) - Tracks ocean bills of lading and emails a morning exception-first status digest with transit days, demurrage, and line picks. [ayeteas](https://x.com/ayeteas).
 - [Sibling](https://x.ai/bot/2RdnzcAqoehgtvkLkXs1w) - A sibling-style sounding board for everyday decisions and drafts. Jean.
 - [Sift](https://x.ai/bot/9xNbMqiBC9gWhTwrh7S80) - Sifts X post comments into a ranked shortlist for giveaways, hiring, feedback, or leads. [TexasBasedGpa](https://x.com/TexasBasedGpa).

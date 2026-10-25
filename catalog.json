@@ -120033,6 +120033,1002 @@
       "verified": false,
       "updated": "2026-10-24",
       "shelf": "raw"
+    },
+    {
+      "slug": "job-finder-brycerambach",
+      "name": "Job Finder",
+      "author": {
+        "name": "Bryce",
+        "url": "https://x.com/brycerambach"
+      },
+      "summary": "Finds roles from founder hiring posts and job boards, tracks applications and interviews, drafts applications and cold DMs in your voice. Sends nothing unasked.",
+      "summary_zh": "从创始人招聘帖和招聘网站找职位，跟踪申请和面试，用你的口吻起草申请和陌生私信，未经你同意不提交也不发送。",
+      "import": "https://x.ai/bot/WD8zpAN1xP5V3LU8vv9vn",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "aka"
+    },
+    {
+      "slug": "food-logger",
+      "name": "Food Logger",
+      "author": {
+        "name": "Marlon",
+        "url": "https://x.com/drmarlonperalta"
+      },
+      "summary": "Send a menu, food photo or quick text and it estimates the macros and logs the meal to your Cronometer diary. For people who track calories and macros.",
+      "summary_zh": "发来菜单、食物照片或一句话，它估算宏量营养素并把这餐记进你的 Cronometer 日记。给记录热量和宏量的人。",
+      "import": "https://x.ai/bot/ceVK7pI62KFTzjvRGZUJM",
+      "category": "personal-admin",
+      "tags": [
+        "meals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "3d-maker",
+      "name": "3D Maker",
+      "author": {
+        "name": "Trond",
+        "url": "https://x.com/xenappblog"
+      },
+      "summary": "3D printing desk: designs parametric parts, renders previews for your OK, slices and checks plates from an STL, tracks filament per spool. Bambu Lab printers.",
+      "summary_zh": "3D 打印工作台：设计参数化零件、渲染预览等你确认、对上传的 STL 切片并检查打印板、按卷跟踪耗材。适配拓竹打印机。",
+      "import": "https://x.ai/bot/EJwyXgbhYp4xL2Keh7cw1",
+      "category": "coding-shipping",
+      "tags": [
+        "maker"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ghost-gambrill",
+      "name": "Ghost",
+      "author": {
+        "name": "Dave",
+        "url": "https://x.com/gambrill"
+      },
+      "summary": "Removes your home address, phones and emails from people-search and data-broker sites with free opt-outs, keeps a log and rechecks for reappearances.",
+      "summary_zh": "用免费退出流程把你的住址、电话和邮箱从人员搜索和数据经纪网站上删掉，记录日志，并定期复查是否又出现。",
+      "import": "https://x.ai/bot/852IE_26SAlD0C02ZUoDR",
+      "category": "personal-admin",
+      "tags": [
+        "email",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "aka"
+    },
+    {
+      "slug": "voice-clone",
+      "name": "Voice Clone",
+      "author": {
+        "name": "Mav",
+        "url": "https://x.com/Mavmetax"
+      },
+      "summary": "Clones your speaking voice from your show, podcast or X Spaces recordings and makes promos, test lines and voiceovers that sound like you.",
+      "summary_zh": "用你的节目、播客或 X Spaces 录音克隆你的声音，制作听起来就是你本人的宣传片、试读和配音。",
+      "import": "https://x.ai/bot/Bv1-VWUR2VsJmJ-y300_k",
+      "category": "content-publishing",
+      "tags": [
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "somm",
+      "name": "Somm",
+      "author": {
+        "name": "Sean",
+        "url": "https://x.com/FogelmanSean"
+      },
+      "summary": "Personal sommelier that learns your taste from the wines you log, picks the best-value bottle from any restaurant wine list and sends a monthly list to try.",
+      "summary_zh": "私人侍酒师：从你记录的酒里学习口味，在任何餐厅酒单上挑出最值的一瓶，每月发一份新酒尝试清单。",
+      "import": "https://x.ai/bot/IGes3WLXEWYdhZ1ndbPHJ",
+      "category": "personal-admin",
+      "tags": [
+        "meals",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "the-fabricator",
+      "name": "The Fabricator",
+      "author": {
+        "name": "CMDLAB",
+        "url": "https://x.com/cmdlabtech"
+      },
+      "summary": "Watches and runs your Bambu Lab 3D printers over your home network. Needs LAN Only and Developer Mode plus the Grok Bot desktop app on the same network.",
+      "summary_zh": "通过家庭网络监控和操作你的拓竹 3D 打印机。需要打开局域网模式和开发者模式，并在同一网络的电脑上运行 Grok Bot 桌面应用。",
+      "import": "https://x.ai/bot/CBcj8KDbrCWgcb4IF-jFY",
+      "category": "coding-shipping",
+      "tags": [
+        "bots",
+        "coding",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "charles",
+      "name": "Charles",
+      "author": {
+        "name": "Ziv",
+        "url": "https://x.com/ZivvyTrades"
+      },
+      "summary": "Ghostwriter that learns how you write from your Sent mail, keeps separate personal, professional and social voices, avoids repeat openers. Draft-only.",
+      "summary_zh": "代笔人：从你的已发送邮件学习你的写法，分别保留私人、工作和社交三种口吻，避免开头重复。只起草不发送。",
+      "import": "https://x.ai/bot/a9F0_-LHMT4u33vtV3s0-",
+      "category": "inbox-calendar",
+      "tags": [
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "doctor-visit-prep-for-women",
+      "name": "Doctor Visit Prep for Women",
+      "author": {
+        "name": "Adebusola",
+        "url": "https://x.com/drbellahqw"
+      },
+      "summary": "For women tired of being brushed off by doctors: turns your age, concerns and history into a one-page prep note with questions, pushback lines and follow-up.",
+      "summary_zh": "给总被医生敷衍的女性：把你的年龄、担忧和病史整理成一页就诊准备单，附该问的问题、据理力争的话术和后续跟进。",
+      "import": "https://x.ai/bot/djlVFbW-J-pFXRdpIq0mP",
+      "category": "personal-admin",
+      "tags": [
+        "doctor",
+        "visit",
+        "prep"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mom-journey",
+      "name": "Mom Journey",
+      "author": {
+        "name": "Adebusola",
+        "url": "https://x.com/drbellahqw"
+      },
+      "summary": "Short, calm check-ins from the first positive test through age 5, with questions to bring to your next visit.",
+      "summary_zh": "从验孕阳性一直到孩子 5 岁的简短、平静的定期问候，附下次就诊可以问的问题。",
+      "import": "https://x.ai/bot/hWr0h1qyoDRLr5mB6ZW6C",
+      "category": "personal-admin",
+      "tags": [
+        "mom",
+        "journey"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "dr-sonaegg",
+      "name": "Dr. SonaEgg",
+      "author": {
+        "name": "Jonathan",
+        "url": "https://x.com/WallyX716"
+      },
+      "summary": "Mad-scientist persona engineer: designs tight single-purpose Grok Bots (one job, anti-jobs, voice, wake behavior) and audits your fleet for overlap and bloat.",
+      "summary_zh": "疯狂科学家人设的 bot 工程师：设计精干的单一职责 Grok Bot（职责、禁区、口吻、唤醒方式），并审查你的 bot 队伍有无重叠和臃肿。",
+      "import": "https://x.ai/bot/7DcLeToUXp9XG2Yd91BDw",
+      "category": "teams-handoffs",
+      "tags": [
+        "jobs",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "stream-night-producer",
+      "name": "Stream Night Producer",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/TheMarkGShow"
+      },
+      "summary": "Turns a finished Twitch, YouTube, Kick or TikTok LIVE stream into a content pack: best-moment timestamps, hooks, captions, scheduled posts and a weekly recap.",
+      "summary_zh": "把刚结束的 Twitch、YouTube、Kick 或 TikTok 直播变成内容包：高光时间戳、开头钩子、文案、定时帖子和每周回顾。",
+      "import": "https://x.ai/bot/AOKZSCcTiE2lcv6EaRGWJ",
+      "category": "content-publishing",
+      "tags": [
+        "calendar",
+        "video",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "nba-daily-insider",
+      "name": "NBA Daily Insider",
+      "author": {
+        "name": "Adebusola",
+        "url": "https://x.com/drbellahqw"
+      },
+      "summary": "Two-minute daily NBA briefing: last night's scores, tonight's games and TV, verified injury news and an optional fantasy note, labeled Confirmed or Reported.",
+      "summary_zh": "两分钟 NBA 每日简报：昨晚比分、今晚赛程和转播、核实过的伤病消息，可选梦幻篮球提示，每条标注已确认或媒体报道。",
+      "import": "https://x.ai/bot/WTU_wWHNyJfXqjPv_ES_C",
+      "category": "research-briefings",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "chief-of-staff-wiggens-4",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "Blake",
+        "url": "https://x.com/Wiggens_4"
+      },
+      "summary": "Chief of staff that watches your inbox and calendar, drafts for your approval, chases open loops and preps what's coming up.",
+      "summary_zh": "盯着你的收件箱和日历的幕僚长：起草内容等你批准，追踪未了结的事，提前准备接下来的安排。",
+      "import": "https://x.ai/bot/QYgMhLTPUG7va2VEYimjw",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "aka"
+    },
+    {
+      "slug": "visit-ready",
+      "name": "Visit Ready",
+      "author": {
+        "name": "Adebusola",
+        "url": "https://x.com/drbellahqw"
+      },
+      "summary": "Walk into any appointment ready: a short list of questions built around your age, body and history, plus help following up afterward.",
+      "summary_zh": "每次看医生都有准备：根据你的年龄、身体和病史列一份简短问题清单，看完后帮你跟进。",
+      "import": "https://x.ai/bot/j-fWXj5KKAe7rNUTezGC0",
+      "category": "personal-admin",
+      "tags": [
+        "visit",
+        "ready"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "podcast-booker",
+      "name": "Podcast Booker",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/TheMarkGShow"
+      },
+      "summary": "Podcast producer: finds guests who fit your show, writes personal pitches, tracks follow-ups, preps each guest with a brief and turns episodes into show notes.",
+      "summary_zh": "播客制作人：找适合你节目的嘉宾，写个性化邀约，跟踪每次跟进，为每位嘉宾准备调研简报，并把每期节目整理成节目笔记和推广帖。",
+      "import": "https://x.ai/bot/WlP9evowgZU7_-byLSttT",
+      "category": "content-publishing",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "stackchan-agent-builder",
+      "name": "StackChan Agent Builder",
+      "author": {
+        "name": "Alex",
+        "url": "https://x.com/alexcovo_eth"
+      },
+      "summary": "Helps find, build, flash and upgrade ESP32 voice and chat gadgets like StackChan, M5Stack CoreS3 and Xiaozhi-style assistants; runs flash commands with your OK.",
+      "summary_zh": "帮你选型、搭建、烧录和升级 ESP32 语音聊天小设备，如 StackChan、M5Stack CoreS3 和小智类助手；经你同意后在电脑上执行烧录命令。",
+      "import": "https://x.ai/bot/m1luEUI_ttBpoHC1yZr2j",
+      "category": "coding-shipping",
+      "tags": [
+        "stackchan",
+        "agent",
+        "builder"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "lexy",
+      "name": "Lexy",
+      "author": {
+        "name": "Petru",
+        "url": "https://x.com/realpetru"
+      },
+      "summary": "Household legal and admin helper for any country: consumer rights, warranties, bills, leases, privacy requests and fines, with official citations and drafts.",
+      "summary_zh": "适用任何国家的家庭法律与行政助手：消费者权益、保修、账单、租约、隐私请求和罚单，附本国官方依据，草稿经你批准才发出。",
+      "import": "https://x.ai/bot/DkHvWCLMU2k2qN9lfPoP_",
+      "category": "personal-admin",
+      "tags": [
+        "legal",
+        "security",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "shopping-agent",
+      "name": "Shopping Agent",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/mag_minnesota"
+      },
+      "summary": "Builds your staples and weekly lists, fills carts at Walmart, Amazon and other online stores, and plans store trips with local prices and aisles. You confirm.",
+      "summary_zh": "整理常备品和每周购物清单，在 Walmart、Amazon 等网店装好购物车，用本地价格、周广告和货架位置规划到店采购，购买前由你确认。",
+      "import": "https://x.ai/bot/0hvGU2tKpk__HjUgxDS7S",
+      "category": "personal-admin",
+      "tags": [
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bill-organizer",
+      "name": "Bill Organizer",
+      "author": {
+        "name": "Justin",
+        "url": "https://x.com/justinclayton"
+      },
+      "summary": "Checks your bills against what posts at your bank and card, and every Friday says what you can safely spend, what's due before payday and what to pay on debt.",
+      "summary_zh": "把账单和银行卡实际入账对照，每周五告诉你可以放心花多少、发薪前要付什么、该还多少卡债。只读，从不动钱。",
+      "import": "https://x.ai/bot/hadN6BVs77GWlwPzytqaB",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bitter-butter-bot",
+      "name": "Bitter Butter Bot",
+      "author": {
+        "name": "Lightning",
+        "url": "https://x.com/LightningMike23"
+      },
+      "summary": "One funny made-up recipe a day starring \"bitter butter\", butter with a grudge: punny titles, absurd steps and a Chef's note punchline. Family-friendly.",
+      "summary_zh": "每天一道搞笑的虚构菜谱，主角是“记仇黄油”：双关菜名、荒诞步骤，结尾一句主厨点评当笑点。老少皆宜。",
+      "import": "https://x.ai/bot/ZCcHS5oo7MqbDLZD3QYij",
+      "category": "content-publishing",
+      "tags": [
+        "meals",
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "review-reply-desk-themarkgshow",
+      "name": "Review Reply Desk",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/TheMarkGShow"
+      },
+      "summary": "Answers every Google and Yelp review for a local business in the owner's voice, flags 1-3 star reviews the same day and sends a weekly trends report.",
+      "summary_zh": "帮本地小店用店主口吻回复每条 Google 和 Yelp 评价，当天标出 1-3 星差评，在 Notion 记录并每周汇报主题和评分趋势。",
+      "import": "https://x.ai/bot/-aDV4wi34U-bnLV-mXDG6",
+      "category": "customer-sales",
+      "tags": [
+        "review",
+        "reply",
+        "desk"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "aka"
+    },
+    {
+      "slug": "mac-storage-guardian",
+      "name": "Mac Storage Guardian",
+      "author": {
+        "name": "daidalos",
+        "url": "https://x.com/haani0090"
+      },
+      "summary": "Audits and reclaims Mac storage while keeping code, apps, chats and app data safe. Audit is inspect-only; cleanup removes only confirmed rebuildable output.",
+      "summary_zh": "审查并回收 Mac 存储空间，同时保住代码、应用、聊天记录和重要数据。审查只读；清理只删确认可重建的产物和闲置包缓存。",
+      "import": "https://x.ai/bot/vC5TSSJJ1ybt3H5eR4kt-",
+      "category": "coding-shipping",
+      "tags": [
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "backup-watch",
+      "name": "Backup Watch",
+      "author": {
+        "name": "Gorik",
+        "url": "https://x.com/gorikfr"
+      },
+      "summary": "Finds what exists only on your shared bot computer and tells you weekly what isn't backed up anywhere else. Never deletes; backs up only after your OK.",
+      "summary_zh": "找出只存在于你共享 bot 电脑上的东西，每周告诉你哪些没在别处备份。从不删除，你同意后才备份。",
+      "import": "https://x.ai/bot/4HQw5J0SOgp9LGK3HzKnX",
+      "category": "teams-handoffs",
+      "tags": [
+        "backup",
+        "watch"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "nfl-gameday-insider",
+      "name": "NFL GameDay Insider",
+      "author": {
+        "name": "Adebusola",
+        "url": "https://x.com/drbellahqw"
+      },
+      "summary": "NFL week companion: team previews, injury and inactive alerts, game-day briefings and fantasy start/sit reads, all from live, sourced data.",
+      "summary_zh": "NFL 一周伴侣：球队前瞻、伤病和不上场名单提醒、比赛日简报和梦幻橄榄球首发建议，全部来自实时、有出处的数据。",
+      "import": "https://x.ai/bot/LH7aMNtORfDuAIyxlDF1X",
+      "category": "research-briefings",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "privacy-cleaner",
+      "name": "Privacy Cleaner",
+      "author": {
+        "name": "Nostratomas",
+        "url": "https://x.com/NostraTomas"
+      },
+      "summary": "Finds your listings on people-search and data-broker sites, submits the opt-outs you approve, logs every request and sets recheck routines.",
+      "summary_zh": "找出你在人员搜索和数据经纪网站上的信息，提交你批准的删除请求，记录每一条并设定复查例程。",
+      "import": "https://x.ai/bot/5xaVi-TUgqQaWyFyuyidS",
+      "category": "personal-admin",
+      "tags": [
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "darija-ad-studio",
+      "name": "Darija Ad Studio",
+      "author": {
+        "name": "Oussama",
+        "url": "https://x.com/AIrisgpt"
+      },
+      "summary": "Paste a product link and get Moroccan Darija, Tunisian or Egyptian TikTok ad scripts, hooks and captions, ready to turn into video without a shoot.",
+      "summary_zh": "贴一个商品链接，得到摩洛哥达里贾语、突尼斯语或埃及方言的 TikTok 广告脚本、钩子和文案，无需拍摄即可做成视频。",
+      "import": "https://x.ai/bot/Ap9trGQ-R9Ie7UmzGm33P",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "flipper",
+      "name": "Flipper",
+      "author": {
+        "name": "ashen",
+        "url": "https://x.com/ashen_one"
+      },
+      "summary": "Graded Pokémon card and collectibles pricing, resale flip advice, and restock and ticket-drop alerts across eBay, Goldin, Best Buy, Walmart, IMAX and more.",
+      "summary_zh": "评级宝可梦卡牌和收藏品估价、转卖建议，以及 eBay、Goldin、Best Buy、Walmart、IMAX 等处的补货和放票提醒。",
+      "import": "https://x.ai/bot/mbjhO8FJAqVUu4ujHHcxg",
+      "category": "finance-ops",
+      "tags": [
+        "shopping",
+        "stocks"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "usage-doctor",
+      "name": "Usage Doctor",
+      "author": {
+        "name": "adrian",
+        "url": "https://x.com/MKLAMBDA"
+      },
+      "summary": "Audits your Grok Bot fleet for token waste: chatty bots, routines that run too often, checks a script could do. Fixes the safe ones and asks about the rest.",
+      "summary_zh": "审查你的 Grok Bot 队伍有没有浪费 token：话多的 bot、跑得太勤的例程、脚本就能做的检查。安全的直接修，其余先问你。",
+      "import": "https://x.ai/bot/IOgcDjrtCRSuyHudPI39d",
+      "category": "teams-handoffs",
+      "tags": [
+        "usage",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "designer",
+      "name": "Designer",
+      "author": {
+        "name": "BCLA3YS",
+        "url": "https://x.com/EntangledMatter"
+      },
+      "summary": "The maker in a small bot design studio: turns your info, references and images into finished pieces and fixes every issue the Critic bot finds.",
+      "summary_zh": "小型 bot 设计工作室里的执行者：把你的信息、参考和图片做成成品，并修好评审 bot 指出的每个问题，从不对外发布。",
+      "import": "https://x.ai/bot/ldtKInoAegZrnITRspqs2",
+      "category": "content-publishing",
+      "tags": [
+        "designer"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "brand-layout",
+      "name": "Brand & Layout",
+      "author": {
+        "name": "BCLA3YS",
+        "url": "https://x.com/EntangledMatter"
+      },
+      "summary": "Keeps a design portfolio consistent in style, type, colour and framing and builds the final layout and PDF, alongside Creative Director, Designer and Critic.",
+      "summary_zh": "让整套设计作品集在风格、字体、配色和构图上保持一致，并完成最终排版和 PDF，与创意总监、设计师和评审 bot 配合。",
+      "import": "https://x.ai/bot/mPmIl31W6u_9bl_NfeTi-",
+      "category": "content-publishing",
+      "tags": [
+        "stocks"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "creative-director",
+      "name": "Creative Director",
+      "author": {
+        "name": "BCLA3YS",
+        "url": "https://x.com/EntangledMatter"
+      },
+      "summary": "Creative director for a bot design studio: pitches two or three directions per brief, writes the captions and keeps the Designer on the direction you chose.",
+      "summary_zh": "bot 设计工作室的创意总监：每份需求提出两三个方向，撰写文案，并让设计师 bot 按你选定的方向执行。",
+      "import": "https://x.ai/bot/ll0U_wqcuDG6gx0q4DzJq",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "original-content-thieves",
+      "name": "Original Content Thieves",
+      "author": {
+        "name": "Mila",
+        "url": "https://x.com/Milajoy"
+      },
+      "summary": "Finds X accounts that copy your original posts without credit, with links to each copy and your original.",
+      "summary_zh": "找出在 X 上抄你原创帖却不注明出处的账号，附上每条抄袭帖和你原帖的链接。",
+      "import": "https://x.ai/bot/7ZYfm739pWDNMzZIMbCSC",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "story-shorts",
+      "name": "Story Shorts",
+      "author": {
+        "name": "matt",
+        "url": "https://x.com/mattchavezreal"
+      },
+      "summary": "Makes 60-second vertical animated survival-story videos as 5-part series with narration and captions, and can post them to TikTok and YouTube Shorts.",
+      "summary_zh": "制作 60 秒竖屏动画求生故事视频（“如果你在某地时发生某灾难…”），5 集一组，带旁白和字幕，可定时发到 TikTok 和 YouTube Shorts。",
+      "import": "https://x.ai/bot/3qzAXqd6knwM1aP-c3i6Q",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "flash-tech",
+      "name": "Flash Tech",
+      "author": {
+        "name": "Victor",
+        "url": "https://x.com/VictorSNZ89"
+      },
+      "summary": "Daily audio tech flash in podcast form: 5 to 8 verified stories from the last 24 hours on programming, AI and robotics, with source links. Spanish.",
+      "summary_zh": "每天一期播客形式的科技快讯音频：5 到 8 条过去 24 小时内经核实的编程、AI 和机器人新闻，附来源链接。西班牙语。",
+      "import": "https://x.ai/bot/tLxKdofhsRu15bUGNXATL",
+      "category": "research-briefings",
+      "tags": [
+        "flash",
+        "tech"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "repo-security-auditor",
+      "name": "Repo Security Auditor",
+      "author": {
+        "name": "Denis",
+        "url": "https://x.com/prydabot"
+      },
+      "summary": "Evidence-based security, malware, supply-chain and code-quality audits of GitHub repos you're authorized to assess; can prepare fixes on a review branch.",
+      "summary_zh": "对你有权评估的 GitHub 仓库做有证据的安全、恶意代码、供应链和代码质量审计，可在审查分支上准备修复；从不宣称仓库绝对安全。",
+      "import": "https://x.ai/bot/MlXPQE0NgAwRLRwqGtzgr",
+      "category": "coding-shipping",
+      "tags": [
+        "security",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "my-x-account-ratings",
+      "name": "My X Account Ratings",
+      "author": {
+        "name": "Mila",
+        "url": "https://x.com/Milajoy"
+      },
+      "summary": "Rates your X account daily out of 10 with key numbers, your best and worst posts, and tips to grow reach and avoid Community Notes.",
+      "summary_zh": "每天给你的 X 账号打分（满分 10），附关键数据、最好和最差的帖子，以及扩大触达、避免社区笔记的建议。",
+      "import": "https://x.ai/bot/R9809cBkCkmBcldl9z0JP",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "brand-deal-bouncer",
+      "name": "Brand Deal Bouncer",
+      "author": {
+        "name": "Mark",
+        "url": "https://x.com/TheMarkGShow"
+      },
+      "summary": "Guards creators from sponsorship scams: scans your inbox daily, scores each pitch Legit, Verify or Trash without clicking, drafts replies from your rate card.",
+      "summary_zh": "帮创作者挡住赞助诈骗：每天扫描收件箱，不点任何链接就把每封合作邀约评为可信、待核实或垃圾，按你的报价单起草回复，并在 Notion 跟踪。",
+      "import": "https://x.ai/bot/8O-xrNV8vAMjpFVn176K8",
+      "category": "inbox-calendar",
+      "tags": [
+        "shopping",
+        "email",
+        "security",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "qualify-for-monetization",
+      "name": "Qualify For Monetization",
+      "author": {
+        "name": "Mila",
+        "url": "https://x.com/Milajoy"
+      },
+      "summary": "Keeps X creators eligible for Original Content Rewards by flagging thin quote-posts, borrowed video, promo plugs and engagement bait, with a fix for each.",
+      "summary_zh": "帮 X 创作者保持原创内容奖励资格：标出空洞的引用帖、搬运视频、推广植入和互动诱饵，每条附一句修改建议。",
+      "import": "https://x.ai/bot/M2whAtqInvGpjA_XxuxXW",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "shine",
+      "name": "Shine",
+      "author": {
+        "name": "daidalos",
+        "url": "https://x.com/haani0090"
+      },
+      "summary": "One astonishing, sourced fact a day, with the full explanation and a ready conversation line.",
+      "summary_zh": "每天一个惊人且有出处的冷知识，附完整解释和一句现成的聊天开场白。",
+      "import": "https://x.ai/bot/ZApRHBOk9Echj_Af7UgJ6",
+      "category": "research-briefings",
+      "tags": [
+        "shine"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bones-casino-craps-strategy-tutor",
+      "name": "Bones — Casino & Craps Strategy Tutor",
+      "author": {
+        "name": "Bill",
+        "url": "https://x.com/wjenson"
+      },
+      "summary": "Table-games math and strategy tutor: craps press ladders and place math, blackjack basic strategy, baccarat, video poker, etiquette and bankroll planning.",
+      "summary_zh": "赌桌游戏数学与策略老师：花旗骰加注梯度和下注数学、21 点基本策略、百家乐、视频扑克、牌桌礼仪和资金规划。",
+      "import": "https://x.ai/bot/TLuBDv4tdpbPjtxjSTX-g",
+      "category": "personal-admin",
+      "tags": [
+        "finance",
+        "video",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "wardrobe-closet-and-outfit-planner",
+      "name": "Wardrobe: Closet and Outfit Planner",
+      "author": {
+        "name": "Cat",
+        "url": "https://x.com/dittiedat"
+      },
+      "summary": "Catalogs your closet from photos, reads your colour palette from a selfie, plans each week's outfits around calendar and weather, and spots real gaps.",
+      "summary_zh": "从照片给衣橱建档，用自拍判断适合你的色系，每周按日历和天气搭配穿搭、避免对同一群人重复，并找出真正缺的单品，从不代买。",
+      "import": "https://x.ai/bot/GXjRtJa-fu5ZDHoBTEnk8",
+      "category": "personal-admin",
+      "tags": [
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "persuasion-negotiation-coach",
+      "name": "Persuasion & Negotiation Coach",
+      "author": {
+        "name": "Craig",
+        "url": "https://x.com/CJS_52"
+      },
+      "summary": "Coaches ethical persuasion and negotiation from Cialdini, Voss and free B2B frameworks, with short daily drills and reviews of your own sales or founder calls.",
+      "summary_zh": "基于西奥迪尼、沃斯和免费 B2B 框架教你合乎道德的说服与谈判，每天短练习，并复盘你自己的销售或创始人通话。",
+      "import": "https://x.ai/bot/RfYI3ccrErQKK1uuEZ-O4",
+      "category": "customer-sales",
+      "tags": [
+        "persuasion",
+        "negotiation",
+        "coach"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "privacy-bot",
+      "name": "Privacy Bot",
+      "author": {
+        "name": "Mister",
+        "url": "https://x.com/Mrxmalcolm"
+      },
+      "summary": "Finds your name, phone, address and old emails on people-search sites, data brokers, forums and old accounts, submits removals you approve, rechecks in 30 days.",
+      "summary_zh": "找出你的姓名、电话、住址和旧邮箱在人员搜索、数据经纪、论坛和旧账号上的痕迹，提交你批准的删除请求，30 天后复查。",
+      "import": "https://x.ai/bot/0F2cyISYl_QvYQAHnACgC",
+      "category": "personal-admin",
+      "tags": [
+        "email",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "eddie-fantasy-football-gm",
+      "name": "Eddie — Fantasy Football GM",
+      "author": {
+        "name": "Bill",
+        "url": "https://x.com/wjenson"
+      },
+      "summary": "Fantasy football GM for Fantrax, Sleeper, ESPN or Yahoo: daily roster and FAAB syncs, waiver and trade analysis, pregame injury and weather checks.",
+      "summary_zh": "梦幻橄榄球总经理，支持 Fantrax、Sleeper、ESPN、Yahoo：每日阵容和 FAAB 同步、自由球员与交易分析、赛前伤病和天气检查，每次调整都需你批准。",
+      "import": "https://x.ai/bot/J5Dsc4MCyILO40ejMMELk",
+      "category": "personal-admin",
+      "tags": [
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "perfect-play-store-launch",
+      "name": "Perfect Play Store Launch",
+      "author": {
+        "name": "Mister",
+        "url": "https://x.com/Mrxmalcolm"
+      },
+      "summary": "Helps indie devs ship an Android game to Google Play without rejection loops: a living launch checklist, fixes for common rejections, weekly policy scans.",
+      "summary_zh": "帮独立开发者把安卓游戏顺利上架 Google Play、少走被拒循环：持续更新的上架清单、常见拒审的修复办法，以及每周政策变化扫描。",
+      "import": "https://x.ai/bot/rLkPEdETnLeGyxnMfMtKt",
+      "category": "coding-shipping",
+      "tags": [
+        "perfect",
+        "play",
+        "store"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "housing-stress-bot",
+      "name": "Housing Stress Bot",
+      "author": {
+        "name": "Robert",
+        "url": "https://x.com/rsapp9472"
+      },
+      "summary": "Builds a free, self-updating county-level US Housing Stress Map from 11 public data signals, monthly since January 2020.",
+      "summary_zh": "用 11 项公开数据信号构建一张免费、自动更新的美国县级住房压力地图，按月覆盖 2020 年 1 月至今。",
+      "import": "https://x.ai/bot/1uCQbZ-HCs4Yp_QJ_qXel",
+      "category": "research-briefings",
+      "tags": [
+        "housing",
+        "stress"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "trucking-bot",
+      "name": "Trucking Bot",
+      "author": {
+        "name": "Lila",
+        "url": "https://x.com/JamzTransport"
+      },
+      "summary": "Bookkeeping for owner-operators and lease drivers: logs loads, fuel, trip meters and maintenance, imports weekly settlements, keeps totals ready for taxes.",
+      "summary_zh": "给自有车司机和挂靠司机的记账助手：记录货单、油费、里程和保养，导入每周承运商结算，随时备好周、月、年合计用于报税。",
+      "import": "https://x.ai/bot/k4PY9Nsi04bm8pjnb-FHe",
+      "category": "finance-ops",
+      "tags": [
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bookworm-synk556",
+      "name": "Bookworm",
+      "author": {
+        "name": "Synk556",
+        "url": "https://x.com/Synk556"
+      },
+      "summary": "Adds new books to your Calibre library with full metadata, sends them to your Kindle, and watches your authors and series for releases and deals.",
+      "summary_zh": "个人书籍管家：把新书连同完整元数据加入 Calibre 书库、推送到 Kindle，并关注你追的作者和系列的新书、预售和优惠。",
+      "import": "https://x.ai/bot/6P8spN6KhyUKNm4UH-meW",
+      "category": "personal-admin",
+      "tags": [
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "aka"
+    },
+    {
+      "slug": "x-growth-coach",
+      "name": "X Growth Coach",
+      "author": {
+        "name": "Marcio",
+        "url": "https://x.com/Preda2005"
+      },
+      "summary": "Weekly X growth coach: your X Score (0-100) and a checklist, then top posts, best posting times and 5 drafts. Never posts or touches your account.",
+      "summary_zh": "每周的 X 成长教练：先给出账号 X 分数（0-100）和待办清单，再列出热门帖、最佳发帖时间和 5 条可用草稿。从不发帖，也不碰你的账号。",
+      "import": "https://x.ai/bot/l1mPZU0mTr9pX5B21urS-",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-25",
+      "shelf": "raw"
     }
   ]
 }

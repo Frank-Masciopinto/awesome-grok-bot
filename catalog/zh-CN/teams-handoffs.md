@@ -19,6 +19,7 @@
 - [Articulation Intelligence](https://x.ai/bot/mQUvX6PxUItMsH5rF2B7N) - 把你的碎碎念、语音倾倒和半成形的想法整理成别人能看懂、能行动的清晰结构. [Christian](https://x.com/MeechYourGoals).
 - [Baba](https://x.ai/bot/ZMV5G-lqKqWoirt8rq8ws) - 给管理 bot 团队的创始人的先知和唱反调者：压力测试重大决定，防止内容重复. [Vikash](https://x.com/VikashSparxIT).
 - [Backup Bot](https://x.ai/bot/G3Du-G9_8zTwynr6sl9Z2) - 每晚把你 bot 的电脑备份到 Google Drive 或 OneDrive，每周测试一次恢复，重置也不会丢工作. [Andres](https://x.com/AndresRuggiero3).
+- [Backup Watch](https://x.ai/bot/4HQw5J0SOgp9LGK3HzKnX) - 找出只存在于你共享 bot 电脑上的东西，每周告诉你哪些没在别处备份。从不删除，你同意后才备份。 [Gorik](https://x.com/gorikfr).
 - [BBN Hub](https://x.ai/bot/txDfa-gVN7rvD75camxJL) - BBNW 团队的负责人（CEO / PM）：接下你的目标，拆成多条工作流交 Reviewer 审批，分给 Builder，再用泰语给你总结. Vittawat.
 - [Bootstrap Bill](https://x.ai/bot/NfURVcmf2bx9QyoljkJ7Y) - 帮早期创始人把公司看板保持真实和最新，用一张大白话卡片列出眼下最重要的赌注、过往尝试和下一步谁做什么. [Ivelin](https://x.com/ivelini).
 - [Bork](https://x.ai/bot/_mEvZTIpWiWB4s6RzoMlN) - 自称最聪明的机器人：丢最难的问题，看它怎么拆。 [TSLAshareholder](https://x.com/TSLAshareholder).
@@ -83,6 +84,7 @@
 - [Dot bot](https://x.ai/bot/pMTGVrJ-btY1F4p4cBNaE) - 轻量代理，把每个请求转给你网页版的 ChatGPT 智能体，再把回答和追问传回来，对外内容在你说发送之前只起草. [William](https://x.com/wiiiimm).
 - [dr eggbot](https://x.ai/bot/KkRoA1I2SDMeswcGuTh8I) - 为你的 Grok Bot 团队设计机器人：先访谈你，再建一个个只干一件事的专注机器人，并调好它们的指令. [JooPaul82390122](https://x.com/JooPaul82390122).
 - [dr eggbot](https://x.ai/bot/lD68GP-hQBD0X5LWg5vU2) - 问几个偏好问题就设计出精干的高质量 Grok Bot 并直接创建，还每周做效率体检，让你的 bot 队伍保持精简。 RealRusty.
+- [Dr. SonaEgg](https://x.ai/bot/7DcLeToUXp9XG2Yd91BDw) - 疯狂科学家人设的 bot 工程师：设计精干的单一职责 Grok Bot（职责、禁区、口吻、唤醒方式），并审查你的 bot 队伍有无重叠和臃肿。 [Jonathan](https://x.com/WallyX716).
 - [Drive Vault](https://x.ai/bot/aFTVbLfYRPhj3V3NfYltq) - 把旧文件安全移到 Google Drive，防止 bot 共用的电脑空间耗尽，还能把任意文件变成 Drive 链接。 [tetumemo](https://x.com/tetumemo).
 - [Elon](https://x.ai/bot/rbJkQAWks3FSiHpV0qR-z) - 西班牙语的第一性原理助手：审视你的计划和项目，砍掉不必要的，攻真正的瓶颈. [Alejandro](https://x.com/Alejand0363).
 - [ElonBot: WWED?](https://x.ai/bot/q4olioUt37xi36P3MFGyI) - 问「Elon 会怎么做？」，用马斯克的风格给出直白、第一性原理的职业和商业建议，并附有出处的原话. [Rushabh](https://x.com/RushabhShah).
@@ -210,6 +212,7 @@
 - [Update Yourself](https://x.ai/bot/ef6Amgf63XdwgLY67NKn7) - 让你的 bot 记忆和一个共享 AGENTS 文件夹保持同步，各家助手都基于同一份最新事实工作. [Lucas](https://x.com/Lucaslongo).
 - [Urgenta](https://x.ai/bot/y7DRih96Sk_Y6qHddWfID) - 为运营团队跑应急流程：盯着 Slack 和邮件里的宕机或缺件，推动应急负责人行动. [Shai](https://x.com/beneli_massoud).
 - [Usage Budget Guard](https://x.ai/bot/Di1Pd3rXW3cxCcyUv-KdX) - 避免 bot 在简单任务上烧额度：标出最耗用量的例程，并建议更省的设置. [Jared](https://x.com/dcostaverage).
+- [Usage Doctor](https://x.ai/bot/IOgcDjrtCRSuyHudPI39d) - 审查你的 Grok Bot 队伍有没有浪费 token：话多的 bot、跑得太勤的例程、脚本就能做的检查。安全的直接修，其余先问你。 [adrian](https://x.com/MKLAMBDA).
 - [Usage Forecaster](https://x.ai/bot/ZuZSjs5wHL_KkYaaDynqY) - 预测重置前你会用掉 Grok 或 xAI 订阅每周用量池的多少，并扫描你各个 agent 的排期. [BarrrOmer](https://x.com/BarrrOmer).
 - [Usage Guard](https://x.ai/bot/FHqfVO6g1IRQTJR5rQnnS) - 让你的 Grok Bot 保持在每周用量预算内，并审计 bot 和例程中可删减、合并或放慢的部分. [Michael](https://x.com/MikeysMolecules).
 - [Usage Guardian](https://x.ai/bot/Y7EJw0d1ftZs_s8Ll_kmx) - 盯着你的 bot 和例程花了多少用量，维护一张实时用量看板并给出安全建议。只审计报告，不经允许不改任何东西。 [Bohdan](https://x.com/noyau__).

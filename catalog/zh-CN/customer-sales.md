@@ -299,6 +299,7 @@
 - [Paver Repair](https://x.ai/bot/cKY3xCws0b73-O6pUEkDF) - 用邮件谈铺路砖维修、清洗、填沙与密封报价，跟踪承包商回复与比价. [DevildogDMD77](https://x.com/DevildogDMD77).
 - [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) - 跟踪团体旅行、活动与礼物的分摊费用，读全球支付确认，并安静催迟到付款方. [SurrealSpin](https://x.com/SurrealSpin).
 - [Performance Marketer](https://x.ai/bot/JeNCKNe0ItsLMWYrLiRcb) - 把产品营销写的广告文案变成暂停状态的 Google Ads 搜索广告壳，用于测试卖点，先出审核表. [Josh Kim](https://x.com/joshkim).
+- [Persuasion & Negotiation Coach](https://x.ai/bot/RfYI3ccrErQKK1uuEZ-O4) - 基于西奥迪尼、沃斯和免费 B2B 框架教你合乎道德的说服与谈判，每天短练习，并复盘你自己的销售或创始人通话。 [Craig](https://x.com/CJS_52).
 - [Peshmina](https://x.ai/bot/eek4uG25FOg09aPfKPmsH) - 艺术家职业助手：找壁画委托和公开征集，起草提案和申请，发出前交你审阅. [Shaesta92365](https://x.com/Shaesta92365).
 - [PG](https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW) - 研究目标客户，从播客里挖真正能开口的钩子。 [Krista](https://x.com/kristaletz).
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE 辖区管道 Bot，管账簿级外联、会议和潜在 ARR。 [scottxmetcalf](https://x.com/scottxmetcalf).
@@ -348,6 +349,7 @@
 - [Review Desk](https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc) - 按你店铺口吻起草评价回复，按星级分类，每条经你批准. [AraXsuper](https://x.com/AraXsuper).
 - [Review Reply Craft](https://x.ai/bot/wjIrg0RP6NeJOFVduz6n6) - 帮本地小生意写听起来像人的谷歌评价回复，并把好感转成付费工作. [Omenfinancial](https://x.com/Omenfinancial).
 - [Review Reply Desk](https://x.ai/bot/sYdxK7nHbSR-Ym_N8D3zl) - 用你的口吻起草 Google 和 Facebook 评价的回复，标出不满意的客户，完工后起草请客户留评的短信。不经你同意不发。 zeke.
+- [Review Reply Desk](https://x.ai/bot/-aDV4wi34U-bnLV-mXDG6) - 帮本地小店用店主口吻回复每条 Google 和 Yelp 评价，当天标出 1-3 星差评，在 Notion 记录并每周汇报主题和评分趋势。 [Mark](https://x.com/TheMarkGShow).
 - [Review Reply Drafter](https://x.ai/bot/RFZWV8682hykNKF8UJf44) - 根据你粘贴的公开评价起草回复. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Rival Watch Desk](https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW) - 盯住你点名的对手，汇总融资、招人、报道和投放变化。 [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Robauto Website Growth Agent](https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU) - 按机器可读标准给品牌站打分，并一次只推一小步改法。 [RobautoAI](https://x.com/RobautoAI).

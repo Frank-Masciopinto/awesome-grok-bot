@@ -299,6 +299,7 @@ Back to [README](../../README.md)
 - [Paver Repair](https://x.ai/bot/cKY3xCws0b73-O6pUEkDF) - Negotiates paver repair, clean, sand, and seal quotes by email—tracks contractor replies, pushes polymeric options and warranty, and brings back the. [DevildogDMD77](https://x.com/DevildogDMD77).
 - [PaySplit](https://x.ai/bot/RaGMQSYjhYObHyGSKlEvn) - Tracks shared costs for group trips, events, and gifts - reads payments confirmations from apps worldwide, and quietly nudges late payers. Can also. [SurrealSpin](https://x.com/SurrealSpin).
 - [Performance Marketer](https://x.ai/bot/JeNCKNe0ItsLMWYrLiRcb) - A performance marketer that turns Product Marketer ad copy into paused Maximize-clicks Google Ads Search shells for messaging tests — review sheets first. [Josh Kim](https://x.com/joshkim).
+- [Persuasion & Negotiation Coach](https://x.ai/bot/RfYI3ccrErQKK1uuEZ-O4) - Coaches ethical persuasion and negotiation from Cialdini, Voss and free B2B frameworks, with short daily drills and reviews of your own sales or founder calls. [Craig](https://x.com/CJS_52).
 - [Peshmina](https://x.ai/bot/eek4uG25FOg09aPfKPmsH) - Artist-career assistant that finds mural commissions and open calls and drafts pitches for your review. [Shaesta92365](https://x.com/Shaesta92365).
 - [PG](https://x.ai/bot/fcJJMM58AdXSTBdW3xWyW) - Researches accounts and mines podcasts for a real outreach hook. [Krista](https://x.com/kristaletz).
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) - AE territory pipeline bot for book-level outreach, meetings, and potential ARR. [scottxmetcalf](https://x.com/scottxmetcalf).
@@ -348,6 +349,7 @@ Back to [README](../../README.md)
 - [Review Desk](https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc) - Drafts review replies in your shop's own voice, star-sorted, with you approving each one. [AraXsuper](https://x.com/AraXsuper).
 - [Review Reply Craft](https://x.ai/bot/wjIrg0RP6NeJOFVduz6n6) - Helps small local businesses write human-sounding Google review replies and turn goodwill into paid reply packs. [Omenfinancial](https://x.com/Omenfinancial).
 - [Review Reply Desk](https://x.ai/bot/sYdxK7nHbSR-Ym_N8D3zl) - Drafts honest replies to Google and Facebook reviews in your voice, flags unhappy customers, and drafts review requests after jobs. Never posts without you. zeke.
+- [Review Reply Desk](https://x.ai/bot/-aDV4wi34U-bnLV-mXDG6) - Answers every Google and Yelp review for a local business in the owner's voice, flags 1-3 star reviews the same day and sends a weekly trends report. [Mark](https://x.com/TheMarkGShow).
 - [Review Reply Drafter](https://x.ai/bot/RFZWV8682hykNKF8UJf44) - Draft replies to public reviews from paste. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Rival Watch Desk](https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW) - Standing watch on named rivals for funding, hiring, press, and paid campaigns. [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Robauto Website Growth Agent](https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU) - Gets a brand site ready for the machines that will shop on it. [RobautoAI](https://x.com/RobautoAI).

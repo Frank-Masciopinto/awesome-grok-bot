@@ -5,6 +5,7 @@
 - [🎼 iBot Player](https://x.ai/bot/jK9aaa6Pypf_WjnaIHWah) - 一步步带你在自己的 Vercel 上部署 iBot，一个 iPod 风格的 Apple Music 播放器，约 15 分钟：MusicKit 密钥、部署、iPhone 测试。 Phillip.
 - [1000x Product Engineer](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) - 全栈产品工程师，用 Convex、TanStack 和 React 把应用真正送上线。 [Thomas](https://x.com/TomZarebczan).
 - [3d Cad](https://x.ai/bot/Fyc4bcbE8XHXhsKYwngVA) - 3D CAD 助手：设计可打印零件、外壳、收纳和改版，并检查能否顺利切片. [just_stuff_tm](https://x.com/just_stuff_tm).
+- [3D Maker](https://x.ai/bot/EJwyXgbhYp4xL2Keh7cw1) - 3D 打印工作台：设计参数化零件、渲染预览等你确认、对上传的 STL 切片并检查打印板、按卷跟踪耗材。适配拓竹打印机。 [Trond](https://x.com/xenappblog).
 - [A11y Fix Queue](https://x.ai/bot/eqLXXJ3pLEWLTLBVpoJ2K) - 从审计转储排出优先的无障碍修复队列。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Active Memory](https://x.ai/bot/Isa_MXoJ1kFEEBLZDlHnJ) - 给长期运行的机器人一张交接卡：跨天跨周记住你的偏好和每个任务的进度. [Schien](https://x.com/schienwang).
 - [Actually Good QA Tester](https://x.ai/bot/_hCqKRLiTh3MX1Ts__Tvq) - 情境驱动学派的探索式测试员：像真实用户那样测你的产品，判断所见并告诉你哪些要紧，决定权在你。 [Yanqing](https://x.com/YanqingCheng).
@@ -417,6 +418,7 @@
 - [Mac Cleaner Builder](https://x.ai/bot/zTfW_FUALDFwXg-UaXZk2) - 帮你做一个原生 SwiftUI 的 Mac 清理应用：清垃圾、找大文件和重复文件、卸载应用、释放内存. Aidan.
 - [Mac Job Runner](https://x.ai/bot/7nhakUQr96anAP0mtUXV0) - 把 bot 的重活（带字幕的视频渲染、配音、转录、截图、网站检查、PDF）一键批准后交给你自己的 Mac 跑. [Mark](https://x.com/MarkMeyerBuilds).
 - [Mac Mini Operator](https://x.ai/bot/Kc2M8J0b9QLL8lKC56Av1) - 把一台 Mac mini 配成常驻的 AI agent 服务器并日常运维：保持登录，处理需要你真实账号的浏览器和应用任务. [TravisWeathers](https://x.com/TravisWeathers).
+- [Mac Storage Guardian](https://x.ai/bot/vC5TSSJJ1ybt3H5eR4kt-) - 审查并回收 Mac 存储空间，同时保住代码、应用、聊天记录和重要数据。审查只读；清理只删确认可重建的产物和闲置包缓存。 [daidalos](https://x.com/haani0090).
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) - 建造团队的阶段门台长，盯最小有用组合并诚实标测量或估计. [Chris](https://x.com/Chris).
 - [Math Lesson Writer](https://x.ai/bot/0NFpYPs0ImYsQZi6aCKrg) - 把数学学习资料写成干净的 PDF：带图的讲义、例题详解，以及按难度分级的练习. [NVHieu_](https://x.com/NVHieu_).
 - [MCP Expert](https://x.ai/bot/7xSkMMmBQoQJmyuXTSYhx) - 按最新 MCP 规范设计、审查并给 MCP 服务器打分，规划有预算、礼貌的实测，尊重有反爬保护的网站。 [Mike](https://x.com/MikeBillettJr).
@@ -491,6 +493,7 @@
 - [Peekaboo Mac](https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB) - 给你登记过的 Mac 加上录屏、截图和界面输入。 [brandon_ai](https://x.com/brandon_ai).
 - [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) - 按 AI 爬虫视角审计单个网址，并起草一份 llms.txt 补丁清单. [ericesoteric](https://x.com/ericesoteric).
 - [Pennie Tester](https://x.ai/bot/WmVmTzIKZK1jCunVOigvf) - 给顾问和安全团队的被动式网站安全扫描器：检查你指定的网站是否有 OWASP Top 10 等弱点，除非你确认有书面授权，否则不跑漏洞利用。 [Debra](https://x.com/deb_infosec).
+- [Perfect Play Store Launch](https://x.ai/bot/rLkPEdETnLeGyxnMfMtKt) - 帮独立开发者把安卓游戏顺利上架 Google Play、少走被拒循环：持续更新的上架清单、常见拒审的修复办法，以及每周政策变化扫描。 [Mister](https://x.com/Mrxmalcolm).
 - [Personal Site Builder](https://x.ai/bot/s3c76c85a840b32b8fed8) - 按一段描述搭个人站点，顺手把域名问题理清，交给你一个已经上线的起点. [SpaceX](https://x.com/DenisLabelle).
 - [Phera's Beast Box](https://x.ai/bot/MkG-J2nMNHByC033LoaDT) - 在自己电脑上安装并跑 Beast Box 引擎，带仪表盘、本地变换器与可切换模型脑. [Zerefs](https://x.com/phera46334652).
 - [Phone Use Bot](https://x.ai/bot/SjBZH94wJlen_fuVsoYaO) - 远程镜像并操控你的 Android 手机完成点按任务. [harshmanojjain](https://x.com/harshmanojjain).
@@ -551,6 +554,7 @@
 - [Replicator](https://x.ai/bot/WszXQvrcVT5tSqlASLijR) - 把任意 Grok Bot 转成 ChatGPT Dot，做粘贴包并可在桌面端应用. [Eugene](https://x.com/Eugene).
 - [Repo Engineer](https://x.ai/bot/iXfxVelc85rIxgZ9hLeXD) - 用 Cursor 云代理把小修复做成 GitHub PR，自己从不合并。 [RustamAtuev](https://x.com/RustamAtuev).
 - [Repo Monkey](https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ) - 梳理 GitHub 通知、PR 与 CI，列出真正需要你拍板的事项与下一步. [Keranik](https://x.com/Keranik).
+- [Repo Security Auditor](https://x.ai/bot/MlXPQE0NgAwRLRwqGtzgr) - 对你有权评估的 GitHub 仓库做有证据的安全、恶意代码、供应链和代码质量审计，可在审查分支上准备修复；从不宣称仓库绝对安全。 [Denis](https://x.com/prydabot).
 - [RepoBeagle](https://x.ai/bot/bTuuNK785OULBheQ5rPZ-) - 粘贴仓库链接，在你信任它之前先拿到安全结论. [Javier](https://x.com/jvr0x).
 - [Requirement Engineer Bot](https://x.ai/bot/5KADFS8AIIDOlow5tS34Z) - 把项目目标译成可追踪的高层与实现需求，供其他机器人落地核验. [Fish](https://x.com/FishxCD).
 - [Research Assistant](https://x.ai/bot/YBF0DIT_HVJOF-vkCLJ0J) - 精神病学与心理治疗研究助手，工作日摘要药物与疗法相关进展. [JanPsybre](https://x.com/JanPsybre).
@@ -637,6 +641,7 @@
 - [Stack Cartographer](https://x.ai/bot/NjIGGseAWM32s65KGoqOK) - 桌面助手，梳理你用的应用、服务和工具以及它们怎么连在一起，并标出废弃项目遗留的凭据. [Paul](https://x.com/psiesa).
 - [Stack Scout](https://x.ai/bot/i-EG19ZoxICUxVu0ACGim) - 新手与初级的技术栈调研伙伴，描述需求后找两到四个真实库并核对文档许可. [zibulasX](https://x.com/Zibulasx).
 - [Stack Sentinel](https://x.ai/bot/osZS1pAzdIESMk33WNir0) - 你依赖的云服务一出事就立刻喊你。 [sat0xshi](https://x.com/sat0xshi).
+- [StackChan Agent Builder](https://x.ai/bot/m1luEUI_ttBpoHC1yZr2j) - 帮你选型、搭建、烧录和升级 ESP32 语音聊天小设备，如 StackChan、M5Stack CoreS3 和小智类助手；经你同意后在电脑上执行烧录命令。 [Alex](https://x.com/alexcovo_eth).
 - [Stagehand](https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ) - WordPress 集成，只改预发环境，未经要求不动线上. [pmconsulting](https://x.com/pmconsulting).
 - [Staging QA Tester](https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ) - 像真人一样测预发站各角色路径，改完再还原并出报告. [njivy](https://x.com/njivy).
 - [StarBot](https://x.ai/bot/ORMgFC4uJZkLVKB5HuVIW) - 星舰与 SpaceX 发射伴侣，活的发射卡、星基地硬件盯梢与倒计时. [Jake](https://x.com/JakeSmart).
@@ -681,6 +686,7 @@
 - [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) - 给共享电脑扛不动的活租一块 GPU，按运行时长计费。 [useprismnetwork](https://x.com/useprismnetwork).
 - [Text When Done](https://x.ai/bot/1_jTUvlVaOLiQLCIa1bQL) - 长任务跑完就给你手机发短信，做任何重要动作前先短信征得你同意，基于 UserAlertX 连接器. [jclinmn](https://x.com/jclinmn).
 - [The Coder](https://x.ai/bot/eWee2PsTChAwOGEKpKpT_) - 编码与交付助手. community.
+- [The Fabricator](https://x.ai/bot/CBcj8KDbrCWgcb4IF-jFY) - 通过家庭网络监控和操作你的拓竹 3D 打印机。需要打开局域网模式和开发者模式，并在同一网络的电脑上运行 Grok Bot 桌面应用。 [CMDLAB](https://x.com/cmdlabtech).
 - [The Perfectionist](https://x.ai/bot/w2d5UCMyX-eTy3H2AX2AB) - 在交付前审查成品，只有达到 A 级才算项目完成. [investlong3](https://x.com/investlong3).
 - [Threat Hunter](https://x.ai/bot/xz-a6CWE-HtbBB4yO7J0U) - 搭建免费 Wazuh SIEM 的威胁狩猎机器人. [pjvann](https://x.com/pjvann).
 - [Tibo](https://x.ai/bot/ZzK6V8Uu96exbwLQA-9fp) - 用单树工作流收口系统活，并做失败即停的移动端发版。 [icebakbum](https://x.com/icebakbum).

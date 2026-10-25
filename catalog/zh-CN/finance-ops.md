@@ -43,6 +43,7 @@
 - [Bill Cutter](https://x.ai/bot/6Wj9I0x3isY9ebhadg9rW) - 上传一张家庭账单，它找出该要的价格，写好挽留电话话术和带日期竞品报价的聊天消息. [teeRex247](https://x.com/teeRex247).
 - [Bill Haggler](https://x.ai/bot/pneY1d0cfHEJPaLyK7Zqu) - 找出家里的账单和续约，提前 30 天标出涨价和到期的优惠，每通电话都备好真实的竞品报价. [heroictripod297](https://x.com/heroictripod297).
 - [Bill Hunter](https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj) - 扫邮件收据找试用、续费、涨价与重复扣款，建议保留复查或取消，取消稿你来点. [Don](https://x.com/Screaming_Chkn).
+- [Bill Organizer](https://x.ai/bot/hadN6BVs77GWlwPzytqaB) - 把账单和银行卡实际入账对照，每周五告诉你可以放心花多少、发薪前要付什么、该还多少卡债。只读，从不动钱。 [Justin](https://x.com/justinclayton).
 - [Bill Slasher](https://x.ai/bot/0-SHdk-a4R_L69nqWLOgC) - 找出你的订阅、保险、宽带和话费，核对实际用量，再比价竞品报价，给出清晰的省钱选项. [Andres](https://x.com/AndresRuggiero3).
 - [Bill Watch](https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei) - 盯账单与到期日，少被突然扣款吓到. [DennisW_15](https://x.com/DennisW_15).
 - [Bill Watchdog](https://x.ai/bot/BhsiDej7McnGHnaaG-byQ) - 只读的账单和订阅看门狗：每周扫描邮件和银行卡交易，找出涨价、手续费、重复扣款和被遗忘的订阅，并起草处理方案等你批准。 [Allan](https://x.com/_ARob).
@@ -233,6 +234,7 @@
 - [Flat hunter](https://x.ai/bot/amNEjElPIlHuan3BCbOT2) - 伦敦租房猎人，多门户短名单并硬性要求现代浴室，再确认看房. [0xashrk](https://x.com/0xashrk).
 - [Fleet Efficiency](https://x.ai/bot/n3BVWJO3mwIVW2NMF_-2L) - 帮你少花每周Grok Bot用量，修剪浪费并把合适任务派给更省的机器人. [socalfsd](https://x.com/socalfsd).
 - [Flip](https://x.ai/bot/cgaQkN_5O5NtWep6-c0Ll) - 域名翻转操作员，把停放域名快速做成窄场景上线页，再跑 SEO 与转化直到出金. [cmcdonnell04](https://x.com/cmcdonnell04).
+- [Flipper](https://x.ai/bot/mbjhO8FJAqVUu4ujHHcxg) - 评级宝可梦卡牌和收藏品估价、转卖建议，以及 eBay、Goldin、Best Buy、Walmart、IMAX 等处的补货和放票提醒。 [ashen](https://x.com/ashen_one).
 - [Flippy](https://x.ai/bot/OfHECnXmPPavf-l_rZufo) - 每天盯着 OpenSea 铸造进度，提醒各钱包现在能打哪一阶段，并抓取相关热帖。 [DIEGO](https://x.com/diegoarmandoAD).
 - [Fomo Live Bot](https://x.ai/bot/4fmde5VhCGJGeCiqn96D3) - 按小时纸面跟单你已关注的 FOMO 交易员，进出规则锁定，确认后才切实盘。 [The Advisor.btc](https://x.com/theadvisorbtc).
 - [Football Bets Advisor](https://x.ai/bot/cWli8870UMAVC3piITAsV) - 给出橄榄球投注卡片含仓位与退出规则，从不代下单. [iamtheh0n3yp0t](https://x.com/iamtheh0n3yp0t).
@@ -567,6 +569,7 @@
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) - 从你枢纽机场找真旅行优惠，对齐空档日历，价格诚实不编「原价」. [natillie](https://x.com/natillie).
 - [travel guru](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) - 按你家机场、积分和会籍来排积分出行。 [congressdj](https://x.com/congressdj).
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) - Trade-with-Tray 交易工作台。 [Ortix008](https://x.com/Ortix008).
+- [Trucking Bot](https://x.ai/bot/k4PY9Nsi04bm8pjnb-FHe) - 给自有车司机和挂靠司机的记账助手：记录货单、油费、里程和保养，导入每周承运商结算，随时备好周、月、年合计用于报税。 [Lila](https://x.com/JamzTransport).
 - [Unclaimed Money Finder](https://x.ai/bot/dP8GqGwcRv2waTtluguj6) - 找出别人欠你的钱，比如州无人认领财产、旧 401\(k\)、IRS 退税、和解金和押金. [Jeremy](https://x.com/Biggs237).
 - [Unclaimed Property Miner](https://x.ai/bot/X3qkXCOhFoMdk7bXGza2D) - 给出姓名和美国州名，它去该州官方无人认领财产网站查有没有待领的钱. [Mike](https://x.com/SoryNotaBot).
 - [Uncle Dave](https://x.ai/bot/xJnF0xp0j_8lDe-TVYwJy) - 本地捡漏高手：盯拍卖、Craigslist、Facebook Marketplace 和 eBay 上你收藏或需要的东西. [patrickirvin](https://x.com/patrickirvin).
