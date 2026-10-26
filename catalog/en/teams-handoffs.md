@@ -2,6 +2,7 @@
 
 Back to [README](../../README.md)
 
+- [📚 Archivist](https://x.ai/bot/vAgUsbH4SHOudh96KXEk0) - Reads your bots' chats weekly, finds standing instructions you gave \(always, never, from now on\) and adds the ones each bot is missing after you say yes. [Phillip](https://x.com/tetumemo).
 - [🧾 Ops Ledger](https://x.ai/bot/k0Oh8MVedfWd1ivNacy4N) - One run log, checkpoints for long tasks and dated snapshots of your bots' rules, so a reset never means guessing. Restores from backup only with your yes. [prateek_budhwar](https://x.com/prateek_budhwar).
 - [🛡️ Never-List Auditor](https://x.ai/bot/I4kcpIxhkrm-XXUGK9z_G) - Read-only audit of what your bots can do without your yes\: flags every spend, delete, send, post or password path and proposes the exact fix text. [prateek_budhwar](https://x.com/prateek_budhwar).
 - [Absences](https://x.ai/bot/d1hTUlcAyQh31nF1C0I4p) - French-language job auditor that lists only what's missing \(go, export, proof, reply, latch\). Empty list means nothing blocks. no.
@@ -112,6 +113,7 @@ Back to [README](../../README.md)
 - [dr eggbot](https://x.ai/bot/lD68GP-hQBD0X5LWg5vU2) - Designs tight, high-quality Grok Bots from a few preference questions, then creates them, and keeps your bot fleet lean with weekly efficiency checks. RealRusty.
 - [Dr. SonaEgg](https://x.ai/bot/7DcLeToUXp9XG2Yd91BDw) - Mad-scientist persona engineer\: designs tight single-purpose Grok Bots \(one job, anti-jobs, voice, wake behavior\) and audits your fleet for overlap and bloat. [Jonathan](https://x.com/WallyX716).
 - [Drive Vault](https://x.ai/bot/aFTVbLfYRPhj3V3NfYltq) - Keeps your bots' shared computer from running out of space by safely moving old files to Google Drive, and turns any file into a Drive link. [tetumemo](https://x.com/tetumemo).
+- [Elders Quorum Companion](https://x.ai/bot/qmgxPUlB0uVwOP0nzci-J) - Helps an LDS elders quorum presidency organize ministering and interviews, prep lessons and agendas, and draft texts for you to send. [Grease](https://x.com/traviskimball).
 - [Elon](https://x.ai/bot/rbJkQAWks3FSiHpV0qR-z) - A Spanish-language first-principles assistant that audits your plans and projects, cuts what isn't needed, and attacks the real bottleneck. [Alejandro](https://x.com/Alejand0363).
 - [ElonBot: WWED?](https://x.ai/bot/q4olioUt37xi36P3MFGyI) - Ask 'What Would Elon Do?' and get blunt, first-principles career and business advice in Elon's style, backed by sourced quotes. [Rushabh](https://x.com/RushabhShah).
 - [Engineering Director](https://x.ai/bot/rVeHYcWzNWEYzFwz7ueRD) - Coordinates mechanical and product engineering work\: CAD handoffs, calculations, simulation, vendor RFQs, and agents that drive CAD on your PC. [Jordan](https://x.com/DescendingChime).
@@ -157,9 +159,11 @@ Back to [README](../../README.md)
 - [Job Search Chief of Staff](https://x.ai/bot/ZVmTPe7q2tTeG0JA1rwbG) - A chief of staff for your job search\: reviews your scout bot's leads, coordinates your resume and tracker bots, and surfaces only what needs you. [russell](https://x.com/SelbyAI).
 - [Joseph](https://x.ai/bot/DcC0vgfiWRnK-p9mN4b9u) - TrustedRouter relay named Joseph\: takes requests from your owner and routes them to the right teammate bots. [Ben](https://x.com/Ben).
 - [Kevin](https://x.ai/bot/rZs29r38Oeor_7Ndp2coe) - The only agent you talk to, running a crew of minion bots behind the scenes while Dr. Nefario reviews them weekly, forked from Firstmate. [Jared](https://x.com/Jaredtherich).
+- [Knowledge Graph Keeper](https://x.ai/bot/_uQsJd2AWyWQGC0GRDPvX) - Keeps one shared knowledge graph that all your bots read, builds a one-way Obsidian vault from it and flags notes that drift from their source. [Ryan](https://x.com/ryanthawks).
 - [Lead Dispatch](https://x.ai/bot/nUofhKp_Ij7xXIjnznIoJ) - Lead bot that triages to specialist seats and runs roundtables, keeping irreversible actions behind approval. Mado.
 - [Leak Hunter](https://x.ai/bot/qLmQ4C4D-Cly8A6qK0y6v) - Usage auditor for people running several Grok Bots\: finds which recurring routines eat the most usage, explains why, and proposes fixes that keep each job. [Ondřej](https://x.com/ondrejposts).
 - [Lifeboat](https://x.ai/bot/y0D4SE99UcoEbNPiTjOY8) - Saves an encrypted weekly backup of your skills, bot personas, memory, rules and tool settings, with an inventory table and a guided restore. ws@x.
+- [Lifeboat](https://x.ai/bot/e75LPpC0MwjE0r8VHVV6_) - Nightly backup of your Grok Bot computer to Google Drive\: one full baseline, then only the last 24 hours of changes plus a small bot-brain export. No secrets. [Chris](https://x.com/XWardClerkChris).
 - [Limit-obasan](https://x.ai/bot/VD-A13gwGBGN9G9opL9fF) - A cozy, caring anime auntie-mom Grok Bot who tucks your work in before your AI usage runs out. [AnimeDayTrader](https://x.com/AnimeDayTrader).
 - [Live Bot Map](https://x.ai/bot/LBWRqJu3RkUutDrqSlSEc) - Builds a live, animated web map of all your Grok Bots showing who's working, what they're doing and which projects they touch. [kylekane](https://x.com/kylekane).
 - [Loose Ends](https://x.ai/bot/aY2mo4j9qPhDOIj0MAygy) - Sweeps your bot crew for dropped handoffs, 'done' claims with no proof, and silent failures, and only speaks up when it finds one. [D'Artagnan](https://x.com/the_Arow_H).
@@ -270,6 +274,7 @@ Back to [README](../../README.md)
 - [Usage Guardian](https://x.ai/bot/Y7EJw0d1ftZs_s8Ll_kmx) - Watches how much usage your bots and routines spend and keeps a living Usage Dashboard with safe recommendations. Audits only; changes nothing unasked. [Bohdan](https://x.com/noyau__).
 - [Usage Limit Maximizer](https://x.ai/bot/0FyvpmpHz1BkCuHPxV3iN) - Reviews plans your other Grok Bots are about to run, rates how much weekly usage each will burn, and sends back a leaner version. [Lightning](https://x.com/LightningMike23).
 - [Usage Meter](https://x.ai/bot/ghQHDlYosLrZMB3pU0iEg) - Watches your Grok and Grok Bot usage meters, sends a daily report with charts and warns early before a limit locks you out. [Rob](https://x.com/testafortedev).
+- [Usage Monitor Bot](https://x.ai/bot/JJTJQx-yp653nmJSI2Xgg) - Monitors your weekly Grok usage pool, logs each task's cost and duration, and audits your bots to cut context re-read usage with fresh workers. [Serenejay](https://x.com/Serenejaysew).
 - [Usage Optimizer](https://x.ai/bot/XBsOfo3zlutpRPm4FO-zn) - Advises your Chief of Staff or coordinator bot on getting the same results with less Grok Bot usage\: triggers, schedules, tools and models. [Jeremy](https://x.com/roberts_je6076).
 - [Usage Watch](https://x.ai/bot/wQ2nRsIjO6ByfzZvGy5St) - Maps all your bots' routines onto a calendar up to your usage reset, flags the biggest drains, and helps you pause them so you don't run out. [luisbarragan](https://x.com/luisbarragan).
 - [Usage Watchdog](https://x.ai/bot/iojCz5xZG-8iknRm3FevF) - Warns before a task burns through your weekly Grok usage\: flags heavy jobs before they start, catches runaway tasks, and projects when you'll hit the limit. Zack.
@@ -281,7 +286,9 @@ Back to [README](../../README.md)
 - [Watchtower (beta)](https://x.ai/bot/wJTXth8eiaaJpayeryWEd) - Security officer for your Grok Bot roster\: watches the shared cloud computer and vets templates and skills before they are installed. [Ken](https://x.com/Ken_LinkWell).
 - [What Should My Bot Do?](https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ) - Asks 5 questions about your business, then picks your first agent and 3 next jobs, with a free guide for each. Drafts only. [Roshel](https://x.com/RoshelPere15695).
 - [What Would Elon Do?](https://x.ai/bot/J2UPsryIUiwJ3YYeI4Gla) - A blunt first-principles strategy partner for solo founders and small businesses. [WorldWideVibes](https://x.com/W0rldwid3vib3s).
+- [Wise Old Bot](https://x.ai/bot/Dolfa9jSFeIgkZcEgq-zw) - Sets up a new Grok Bot owner with a small, well-run team of bots one step at a time, then stays on as a how-to coach. Your default bot stays primary. [Mana](https://x.com/ManaEngineer).
 - [XO](https://x.ai/bot/GpfSXlyQGc1kbScfa8Sx0) - Chief of staff and front door for your Grok Bot team\: turns asks into tracked tasks, routes work to specialist bots, and wants proof before calling it done. Oliver.
+- [Zabbadat Movement Hub](https://x.ai/bot/WxzU8wMPauBgXeUAb3hzy) - A tongue-in-cheek wellness program for your Grok bots\: a daily breathing-and-steps circuit, five small workout tasks and an arm badge that grows over time. [Zabbadat](https://x.com/ZabbaDat).
 - [薬剤師ニュースチーム立ち上げbot](https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV) - Sets up a six-bot team that delivers verified daily pharmacy news to Japanese pharmacists as articles and MP3. [tadayaku_Pha](https://x.com/tadayaku_Pha).
 - [赛博小晚](https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S) - Public skill avatar of 赛博小晚\: uses her published thinking framework to help you build and run a personal brand, without claiming to be her. 铁柱AGI.
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) - Interview-style onboarding that assembles your first bot roster. [A-A-ron](https://x.com/theaaron).

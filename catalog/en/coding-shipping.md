@@ -33,6 +33,7 @@ Back to [README](../../README.md)
 - [anew](https://x.ai/bot/qtuoVRf5etpEVPNA29i7H) - Spins up simple free webpages quickly from a short brief. [round](https://x.com/round).
 - [Anti-Vibe](https://x.ai/bot/gV2uTzr3tG2s77bKjPSCq) - A read-only production sheriff for your live sites. It walks each site. [HancockErikL](https://x.com/HancockErikL).
 - [API Docs Desk](https://x.ai/bot/N5kFPLSX_qhSa3CAesI7_) - Sourced API endpoint reference from specs and route code. [Cypher0x9](https://x.com/Cypher0x9).
+- [API Mapper](https://x.ai/bot/qF0ail9huJyVqmGK8QN1f) - Give it a site you're signed into and one task; it finds the API calls behind it and turns them into a validated, reusable skill your bots can run. [Zach](https://x.com/deaguiarza).
 - [App Builder](https://x.ai/bot/VXROxGhxgARRuPLwrlixB) - Builds personal web apps like food, workout, and habit trackers that run on your phone. [Jenna](https://x.com/JennaLiftsLife).
 - [App Checker](https://x.ai/bot/jmbHtZILFugYF0alMT7yI) - Checks AI-built \(vibe-coded\) iOS apps for the most common security, cost, App Store and legal mistakes before testing or submission. [Zack](https://x.com/zac70182).
 - [APP REPLICATOR](https://x.ai/bot/EIaKiBO_5k6RITsM47150) - Rebuilds the one feature you actually use from an app you own, clean-room, on a free or low-cost stack, and tells you when a rebuild isn't worth it. [Brian](https://x.com/BrianRoemmele).
@@ -98,6 +99,7 @@ Back to [README](../../README.md)
 - [BuildKeeper](https://x.ai/bot/AqMmDjN21kW2eeegOg8en) - Drives your AI coding CLI locally, compile-checks every patch, and lands only green code on your branch. Rousk.
 - [Buzzkill](https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh) - Writes a four-heading Grokumentary and waits for a human yes before any quarantine. [Knock](https://x.com/SuddenlyJon).
 - [BYO Mailbox](https://x.ai/bot/bMpYhKvs4LJbTJyvS1IvO) - Sets up an email address on your own domain for your bots with Cloudflare and the open-source cf-mail-mcp Worker. [ipwanciu](https://x.com/ipwanciu).
+- [Caliper](https://x.ai/bot/Hw9Jwpu4fTgt26aRaJ1Kk) - Checks that work marked ready really is\: websites, apps, product flows, previews and live pages, judged against your project and taste. [Rardo](https://x.com/gerardocasta711).
 - [Call Bot](https://x.ai/bot/PtnSyeoj7X_aCrZxAi7Lb) - Owns the phone and voice lane\: inbound reception, gated outbound calls, health watches, and vendor knowledge for Twilio, ElevenLabs, and voice APIs. [ChristianXCesar](https://x.com/ChristianXCesar).
 - [Camble Eugene](https://x.ai/bot/x5L_1O-3errfwp4yu4v7D) - Computer-engineering seat for bare-metal firmware, open board design, and vendor-independent FPGA logic. Warm, plain help for hardware–software... [TRV_Architech](https://x.com/TRV_Architech).
 - [Canary](https://x.ai/bot/pDA__B7cYeXbmPXgF7eAc) - Advisory-only security watchdog\: flags newly disclosed critical or actively exploited vulnerabilities that hit your devices and bot computers, with the fix. [Dave](https://x.com/gambrill).
@@ -351,6 +353,7 @@ Back to [README](../../README.md)
 - [Hazelnut Guy](https://x.ai/bot/8ESqqm3pGG-rS2zP-jcoT) - Usage guide for hazelnut/core, the agent-first Deno backend covering quickstart, resources, MCP door, authz, and ops. [Conan](https://x.com/conanhazelnut).
 - [Hearthstone Deckbuilder](https://x.ai/bot/tSUrQQ0W5uM9ZI73NmSHm) - Hearthstone deck builder that reviews gameplay video, evaluates cards/formats/decks for strengths and weaknesses, and builds strong lists. Includes free. [Wardonis](https://x.com/Wardonis).
 - [Heavy Router](https://x.ai/bot/9g4pfFaeL97GsRJnaQ9jt) - Routes your hard questions to the AI plans you already have, like ChatGPT, SuperGrok, or Google AI Pro, and watches usage on every run. [Reghnam](https://x.com/Reghnam).
+- [Heimdall](https://x.ai/bot/aYIBdTMOCAAdiLsN1iY5o) - Dependency security watch for one GitHub repo\: checks advisory feeds twice a day, flags real hits in Slack and has cloud agents open a fix PR after you approve. [Magnus](https://x.com/magnus72).
 - [helidon engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) - Writes and reviews Helidon 4 code on modern Java. [TheSurenk](https://x.com/TheSurenk).
 - [Helloitsoctocat](https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ) - Tidies a repo merge flow from main into master with Graph API change notes. [helloitsoctocat](https://x.com/helloitsoctocat).
 - [Herdr Conductor](https://x.ai/bot/p3Gjgv7MbQlkl6bTdsNhM) - Orchestrates coding agents through the herdr CLI for long, heavy build sessions. Terp.
@@ -460,6 +463,7 @@ Back to [README](../../README.md)
 - [Mr. Rigz](https://x.ai/bot/TeEdtOdobgymTchbFqzzW) - A PC performance and security steward for a Windows home PC. Runs read-only health and security checks, flags problems. [JonnyCakeSouza](https://x.com/JonnyCakeSouza).
 - [Multi-model consensus](https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc) - Runs Claude Code, Codex, and Grok on the same hard question until they agree. [Austen](https://x.com/Austen).
 - [Multi-Owner Planner](https://x.ai/bot/Q-w7fg7A1orjzc5ADpLuW) - Keeps a project planned between two or more people and their bots\: the repo holds the truth, GitHub Issues hold the to-dos. [jason_bennitt](https://x.com/jason_bennitt).
+- [Multi-SI Review](https://x.ai/bot/BH0jRkrYbrVBJR7iXMdJK) - Sets up the AI command-line tools you already pay for as review lanes, then merges their independent reviews of your plan, copy or code into one verdict. [Honeycomb](https://x.com/honeycombpixel).
 - [My AI Team's Timesheet](https://x.ai/bot/j5ZaqA3Fd6DHZ0reCZWb1) - Treat your AI bots like a team\: every week, see the hours of work they did, how much of your time they took, and what each one got done. [BrooksConkle](https://x.com/BrooksConkle).
 - [Mystery eShopper](https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad) - Mystery-shops any ecommerce site end to end and returns a scorecard plus developer-ready bug reports. [Vic](https://x.com/VicGellon).
 - [n0stalgia](https://x.ai/bot/mkGAa1tZ2QPZ6jFQ2j2bA) - A classic Mac specialist for 68k, PowerPC and early Intel Macs. It builds, fixes and tests retro Mac apps, games and extensions with Retro68 and emulators. [Nil](https://x.com/nil0bject).
@@ -549,6 +553,7 @@ Back to [README](../../README.md)
 - [Product Loop PM](https://x.ai/bot/eb1UwzjTfdNsYRfUh599j) - Runs Discover to Define to Design for Launch and keeps STATUS in sync. [ashvinn](https://x.com/ashvinn).
 - [Product Ship Coder](https://x.ai/bot/Fb6pVFOCXhbUSkBt6RkMH) - Ships a live creator-prompt product with a multi-agent Grok Bot squad\: Pass-list seed only, honest stats bumps, deploy on explicit GO, and creator... [keys](https://x.com/keys).
 - [Prompt Brief Builder](https://x.ai/bot/6nbtK-LXyay2d7wfDJ3Iz) - Turns a rough ask into a lean, ready-to-paste agent prompt. [ZyeAnd1](https://x.com/ZyeAnd1).
+- [Prompt Upgrader](https://x.ai/bot/nSTWTnIS1Ak0tu0oSIgVp) - Paste a rough prompt and get it scored, rewritten, explained and tested, with short and detailed variants and a searchable library of your best prompts. [Sarah](https://x.com/SpaceCowgirlTX).
 - [Proof Agent](https://x.ai/bot/D6Bv_HwN2ATIghQLFoDaz) - Independent verification for AI-generated diffs\: runs a sealed verify pipeline and reports PASS, FAIL, or PARTIAL without judging the code itself. [acolombiadev](https://x.com/acolombiadev).
 - [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) - Helps developers write and ship ProofNetwork smart contracts from chat, then wire a frontend that talks to the live contract. Includes a click-counter... [STACCoverflow](https://x.com/STACCoverflow).
 - [Proto](https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq) - Answers one product problem with three distinct working prototypes. [5antoshernandez](https://x.com/5antoshernandez).
@@ -589,6 +594,7 @@ Back to [README](../../README.md)
 - [Research Assistant](https://x.ai/bot/YBF0DIT_HVJOF-vkCLJ0J) - Recherche-Assistent für Psychiatrie und Psychotherapie\: werktägliche Digests zu Medikamenten, Studien und News plus CME-Fortbildungen mit Punkten. [JanPsybre](https://x.com/JanPsybre).
 - [Research PM](https://x.ai/bot/3dSEPhGZq_0AXeIinhe1o) - Senior PM for a recurring research-intelligence pipeline. It reviews nightly claim runs, drives a weekly brief cycle. [ryanthawks](https://x.com/ryanthawks).
 - [Research Project PM](https://x.ai/bot/7gpN_ZuWCACFjunItHka0) - A project manager for a research collaboration. It briefs coding agents, checks their proof itself. [ryanthawks](https://x.com/ryanthawks).
+- [REVbot: Ghidra Reverse Engineering](https://x.ai/bot/zh2XsLUOPpbzFnzqetpGZ) - Reverse-engineers binaries you're allowed to analyze with Ghidra via GhidraMCP\: decompiles and annotates functions, maps imports, strings and cross-references. [Scott](https://x.com/scottcjordan).
 - [Reverse Engineer](https://x.ai/bot/5enZ0Vvocx2Xph7gaiPpy) - Explains how a feature in an app, site or binary works, with evidence and unknowns, so you can rebuild it. Louis.
 - [Reverse Engineer](https://x.ai/bot/Tb1Ab2LqyV1ZrIpe4RjrC) - Figures out how any app, website, API or binary works, shows the evidence for every finding, and rebuilds a working version for Windows, macOS or Linux. [monokern](https://x.com/monokern).
 - [Review](https://x.ai/bot/Lvs_OHpj5G4qHfp0o8hN4) - An adversarial PR reviewer for a fleet of coding bots. It reads every diff, verifies CI itself, merges only when both are clean. [jason_bennitt](https://x.com/jason_bennitt).
@@ -700,6 +706,7 @@ Back to [README](../../README.md)
 - [T3 Code Bridge](https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH) - Bridges Grok Bot and T3 Code\: starts, steers, and watches your T3 Code coding threads for you and your other bots. [trevin](https://x.com/trevin).
 - [T3/GrokBot Connector](https://x.ai/bot/FfyFNHvtbtuRV04Rg9hBm) - Sends you one short note whenever a T3 Code, Claude Code, or Codex thread finishes, stalls, or errors. [Taylor](https://x.com/taylorhbuilds).
 - [Tailscale Admin](https://x.ai/bot/xoIfh7oH4feicifYOgRMg) - Puts your bot's cloud box on your tailnet safely, then audits ACLs, manages devices, sets up Tailscale SSH, and troubleshoots. [Chevy](https://x.com/chevonphillip).
+- [TailslopBot](https://x.ai/bot/nzlaB_OnKsiVQJPrWai8u) - Read-only Tailscale safety auditor\: checks your tailnet's devices, features and ACLs against current security bulletins and CVEs, then walks you through fixes. [Scott](https://x.com/scottcjordan).
 - [Tally Desk](https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5) - Builds Tally forms, reads the responses, fills one on request. [joshkim](https://x.com/joshkim).
 - [Tamago](https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO) - Designs high-quality Grok Bots with a faithful Japanese writing bar for people-facing copy. [knge_rstc](https://x.com/knge_rstc).
 - [tech demos](https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU) - Weekday X-bookmark scout that picks one new library to demo, asks for approval, then plans and builds it in a sticky monorepo with a Cursor cloud agent.... [mattyp](https://x.com/mattyp).
@@ -717,6 +724,7 @@ Back to [README](../../README.md)
 - [Terminal Boss 🖥️](https://x.ai/bot/aU_t4X-Yf6w9DHfhIGD9n) - Runs terminal jobs and terminal coding agents\: Grok Build, Claude Code, Codex, Cursor CLI, Gemini CLI, opencode, Aider and more. [Phil_Holland](https://x.com/Phil_Holland).
 - [Tesla Bot](https://x.ai/bot/g5J-pr8mBUjLbY2LktOl1) - Your daily Tesla & SpaceX news desk and TSLA options analyst for X. It brings verified headlines, repost picks and ready-to-post drafts with real media,... [LeeMatt17631](https://x.com/LeeMatt17631).
 - [Teslascope](https://x.ai/bot/l9MPhPAe-OSzvcMVfXrTe) - A Teslascope assistant for Tesla owners. Ask about your drives, Supercharger visits, charging, software updates, and vehicles in plain English. [teslascope](https://x.com/teslascope).
+- [Tess](https://x.ai/bot/OFsPjunX91_OFq5hjqVfU) - Batch-resizes wallpaper images on a Mac to phone 4K size with sips, writing non-destructive _4K copies and reporting count, path and DPI. [David](https://x.com/TimeTravelWalls).
 - [Test Cop](https://x.ai/bot/-IP_HE8l0UOByWip4DByf) - Reviews pull requests for quietly weakened tests \(skips, loosened asserts, narrowed test config, softened CI\) and returns CLEAN or SUSPECT. Ryan.
 - [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) - Gives a job too heavy for shared hardware its own GPU, then bills you the runtime. [useprismnetwork](https://x.com/useprismnetwork).
 - [Text When Done](https://x.ai/bot/1_jTUvlVaOLiQLCIa1bQL) - Texts your phone when a long task finishes, and asks for your OK by text before it does anything consequential. Built around the UserAlertX connector. [jclinmn](https://x.com/jclinmn).

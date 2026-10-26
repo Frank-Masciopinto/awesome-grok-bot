@@ -38,11 +38,15 @@
 - [Draft-First Coordinator](https://x.ai/bot/ORp6yO8M9-GZSdvSXMSD1) - 你所有请求的统一入口：分派每个请求，并把每封邮件或消息起草好等你批准，没你同意什么都不会发出。 Brandon Pruitt.
 - [Dropped-Ball Scanner](https://x.ai/bot/E-uo4CQ__9GjtWYhWLPQF) - 每晚扫一遍邮件、聊天和短信，找出没回的请求和没下文的承诺，只推新的，每条附一份补救草稿。 [Austen](https://x.com/Austen).
 - [Email Assist](https://x.ai/bot/VawBY-27z2_YTml0jj7fl) - Gmail 助手：分拣清理收件箱，每天只在有重要事情需要你时提醒一次. Lida.
+- [Email Bot](https://x.ai/bot/v5U_zbJBHfp6jZU6R3buT) - 给忙人的每小时收件箱分拣：归档噪音邮件，保留需要你处理的，用你的口吻起草回复。从不发送。 [Austen](https://x.com/Austen).
 - [Email Inbox Manager](https://x.ai/bot/19fbVFTOUOOj_mEBi2e6f) - 整理 Gmail 和 Outlook：每天早上简报账单、截止日和欠的回复，每天清理垃圾和推广邮件，起草回复由你自己发送。 [Straight_Misses](https://x.com/e_onsley).
 - [Email Scam Filter](https://x.ai/bot/0iuz7X3hVDGJhJIBWTTZ_) - 每天早上只读扫描 Gmail，参考 FTC 等最新警示给每封可疑邮件打 0–100 的诈骗分并用颜色标出. Brian.
+- [Family Bot](https://x.ai/bot/2qnCjujldr-SmAvvmGWOt) - 任何语言都能用的家庭幕僚长：读学校和运动队邮件及传单照片并翻译，把待办和日期放在最前，发现接送冲突，按孩子每天发摘要。不擅自发送、付款或签字。 [Honeycomb](https://x.com/honeycombpixel).
 - [Family Digest](https://x.ai/bot/08NqJQnSWQG27Y1Hm8dmG) - 家庭秘书：把学校、社团、医生和聊天消息收成一份晚间摘要。 Sultanov Ramil.
+- [Family Schedule Manager](https://x.ai/bot/kssxC0DcZBpYevW-0iTBs) - 把一家人的一周安排好：预约、学校和课外活动日程、日常作息和提醒，没有你同意不添加任何内容。 [Adebusola](https://x.com/drbellahqw).
 - [Fig Mail](https://x.ai/bot/L_exyeIDAv-BkthWrjnJU) - 为你的 Grok Bot 邮箱搭建并部署一个 Apple Mail 风格的邮件应用. [krushalkalkani](https://x.com/krushalkalkani).
 - [Founder's Desk](https://x.ai/bot/HICQrhoWRRdPNMszNXbtV) - 小企业老板的幕僚长：每个工作日早上汇报交付了什么、卡在哪、哪些需要你、还有哪些未兑现的承诺. [IntelliGeneAI](https://x.com/IntelliGeneAI).
+- [Gmail Cleanup Chief of Staff](https://x.ai/bot/MmRhYPkM9e4w4V3uTfIgP) - 找出塞满你 Gmail 的邮件，列出常见发件人及数量，把你批准的订阅、促销和通知邮件安全移到垃圾箱。 [터미너스](https://x.com/plan2030).
 - [Gmail to Drive Archiver](https://x.ai/bot/5wT0W9m-WHd6jNnH9GADM) - 把 Gmail 里最大的邮件存成 Google Doc 加原始附件，按发件人归档到 Google Drive，腾出邮箱空间. [ecoay](https://x.com/ecoay).
 - [Gmail朝の仕分け](https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT) - 每天早上整理你的 Gmail，用日语按优先级列出今天要做的事，可以只发报告，也可以交给主机器人. [UNSER](https://x.com/Tomoya_MovieEdt).
 - [Harper](https://x.ai/bot/A6er8L662aOk-vYUrRY9_) - 管邮件、日历和短信的行政助理：分拣收件箱、约人、守住深度工作时间. [TravisWeathers](https://x.com/TravisWeathers).
@@ -97,6 +101,7 @@
 - [Outlook Spam Filter Cleaner](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) - 用 AI 训练，帮你清理 Outlook 垃圾与恶意邮件。 Bosotter.
 - [Parent Command Center](https://x.ai/bot/w9x8eL__XAc_-yVR2fEfg) - 忙碌父母的家庭后勤：解读学校邮件、安排课外活动、跟踪表格和截止日期、规划接送，写每日和每周简报，行动前先问你。 [Ashley](https://x.com/ashleyschendel).
 - [Political Spam Blocker](https://x.ai/bot/cU45-LD3a0tBwILes2aLL) - 清理收件箱里的政治和选举垃圾邮件，帮你退出竞选邮件列表，可自动回复 STOP 给政治短信，并协助屏蔽竞选电话。 [Sawyer](https://x.com/SawyerMerritt).
+- [Porch](https://x.ai/bot/R_o82f2Mjkqo1PZKwL-NK) - 每天查看 USPS Informed Delivery，读取当天要到的信件和包裹并列出清单。只读，没有邮件的日子不打扰。 [Miloni](https://x.com/MiloniAdams).
 - [Post-Meeting Action Extractor](https://x.ai/bot/ifTm7XlCHTZ-GhWImOVJN) - 把粘贴的会议记录或转录整理成简短的待办清单，只有记录里有依据时才标负责人和截止提示. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Pre-mortem](https://x.ai/bot/_cDvv5zEOH3stL56PmEAc) - 早间预演：读取你的日历、任务、笔记和天气，设想今天可能出什么岔子，并告诉你该提前处理的几件事。 [Diana](https://x.com/madebydia).
 - [Quick Calendar Bot](https://x.ai/bot/hSB5eAvp41y3-atquZoR9) - 让往日历里加事情尽量顺手的助手，并在你需要时提醒你. [James](https://x.com/allthemoney).

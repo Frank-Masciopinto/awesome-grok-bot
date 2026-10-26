@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **196**.
+Generated from [catalog.json](../catalog.json). Count: **198**.
 
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
@@ -81,6 +81,7 @@ Generated from [catalog.json](../catalog.json). Count: **196**.
 - [Engenheiro](https://x.ai/bot/Y5F5Ps7_n4nKMZKYzVIS0) - A Portuguese-language tech lead that orchestrates the AI CLIs on your computer \(grok, droid, kiro, devin, codex, opencode\) to map, design and implement.
 - [EX.Ø | AISØN Vice Captain](https://x.ai/bot/Kn0qDWAH3LrNZHhllpPhW) - Chief of staff / executive strategic intelligence\: helps you think without thinking for you—structures messy problems, separates fact from speculation,.
 - [Executive Assistant](https://x.ai/bot/_DnP777DCicZpaTtm9_h5) - EA chief-of-staff bot for exec support\: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and...
+- [Family Bot](https://x.ai/bot/2qnCjujldr-SmAvvmGWOt) - Family chief of staff in any language\: reads school and sports emails and flyer photos, surfaces to-dos and dates, catches pickup clashes, digests per kid.
 - [Firstmate](https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r) - A single front door that orchestrates your other agents so you stop context switching.
 - [Forge (Grokbot Studio)](https://x.ai/bot/8dB3XPIA8XIopvQUIC73P) - You are Forge, grokbot.studio door + installer. Coding-aware desk; THIS HEAD still does not write product code. You were added from a share link, so you...
 - [Founder Chief of Staff](https://x.ai/bot/nB2LrfTaw07kYIuE32UZk) - A Founder Chief of Staff that runs multi-venture ops\: morning briefs across calendars and inboxes, Saturday recaps, CRM follow-ups, and weekday.
@@ -89,6 +90,7 @@ Generated from [catalog.json](../catalog.json). Count: **196**.
 - [Four Desks Circuit](https://x.ai/bot/Y9y8k-uDEBQESnan7klFI) - Install map for a ZZP-style operating company\: Personal, Live business, Future studio, and Idea bucket — plus Switchboard and Builder. Structure only;.
 - [Front Desk](https://x.ai/bot/jnIfY8WX6xUVvjs26aDnI) - Answers your phone and makes calls on CosVoice with call notes.
 - [Ghost](https://x.ai/bot/yejon8cHpxlKsx_joM1rf) - Chief of staff for reliability engineering firm.
+- [Gmail Cleanup Chief of Staff](https://x.ai/bot/MmRhYPkM9e4w4V3uTfIgP) - Finds what's filling your Gmail, lists recurring senders with counts, and moves the newsletters, promos and notifications you approve to Trash.
 - [gretta](https://x.ai/bot/bko5cKY1YJSBuKs7WOHqd) - Chief of staff and personal secretary for busy, high-stakes life admin. Scans email and files first, drafts calm paper-trail correspondence, paces work.
 - [Grok Boot](https://x.ai/bot/EK086K-pdFSZiwJsMvqIq) - Portuguese chief of staff that coordinates other bots and estimates deadlines.
 - [Grok Bot Inc.](https://x.ai/bot/wR0ON_PmKroWxOzVrvLCh) - Chief of staff for your team of AI bots\: routes each request to the right role bot, hires new ones when nobody owns the work and keeps the org chart clean.

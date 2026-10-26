@@ -32,6 +32,7 @@
 - [Amazon Ads Manager](https://x.ai/bot/oOnro0nYdAP6AaiEnUBG6) - 用原生报表监控和分析亚马逊广告（Sponsored Products、Brands、Display），提出调整建议等你批准。 [Brandon](https://x.com/brandonhino50).
 - [Angie](https://x.ai/bot/3SSq7wcciZdOEPi1GU_OJ) - 小产品的广告负责人：投放 Google 搜索广告和 Meta 线索广告，每天看数据、做小测试，总花费控制在月度上限内。 [Anton](https://x.com/abegehr).
 - [Any CRM](https://x.ai/bot/16XzSxYwdnnRYlAx6DFwM) - 在你用的任何 CRM 里当助手：Salesforce、HubSpot、Dynamics 365、Zoho、Pipedrive、GoHighLevel，或任何有文档和 API 的 CRM。 [Corben](https://x.com/CorbenH414).
+- [App Review Replier](https://x.ai/bot/75U9cE3KLTeMiLs0VFjso) - 帮应用开发者回复 App Store 和 Google Play 评论：分类新评论，用你的口吻起草简短回复供你批准，每周标出反复出现的投诉。 [Honeycomb](https://x.com/honeycombpixel).
 - [Apply Scout](https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S) - 找工作并起草量身简历. [lmdev](https://x.com/lmdev).
 - [Artifact Share](https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u) - 把 AI 刚做好的东西变成客户能打开的真实链接，默认私密. Henry.
 - [AutomateSocials](https://x.ai/bot/bi1TG6r34CXe_JuQMLVfE) - 资深社媒和社区经理：在 X、LinkedIn、Facebook 上规划、撰写、排期并优化经你批准的帖子. [GregorZebicX](https://x.com/GregorZebicX).
@@ -169,6 +170,7 @@
 - [Founder-Led Outbound Hunter](https://x.ai/bot/XmJ-Sxch8GtvtGX63Z795) - 研究符合你 ICP 的客户、找到该联系的人，用你的口吻起草简短的首次触达消息，并全部记进销售管道文件. [naveenraju30](https://x.com/naveenraju30).
 - [FounderSales](https://x.ai/bot/NWZOp_PkJhy87qGDCzGKi) - 创始人自销助手：调研潜客、起草待你拍板的外联，并盯紧跟进不漏. [Carolina](https://x.com/CarolinaDill).
 - [Fractional Inbox Triage](https://x.ai/bot/6bxvMG6iPzU7Pok2iWjp9) - 分流忙碌创始人或 CISO 收件箱，起草礼貌拒供应商、标出总监级与私人线、摘要待你处理. [CarbeneAI](https://x.com/CarbeneAI).
+- [Fraud Bot](https://x.ai/bot/1nMkAQNLEZ6NVoBuejQc5) - 给货运经纪和承运商用：追查非法买卖或出租 MC/USDOT 运营资质的人，记录证据，准备 FTC、FMCSA、IC3 和平台举报材料供你批准。 [John](https://x.com/John__Ferguson).
 - [Fulcrum](https://x.ai/bot/ojxNuPSu-r1ldCZ5opulH) - 只做草稿，筛选并排序适合自然互动的 X 回复和引用机会. [Code Solutions](https://x.com/CodeSolutionsIL).
 - [Fuse](https://x.ai/bot/XWKWlHRpljLXaBg7jyLXw) - 付费广告 API 和广告管理后台会话的熔断器：对其他 bot 的操作给出放行、暂停或拒绝，节制过猛的 bot，避免广告账号因像机器人而被封。 [Miguel](https://x.com/liam_fallen).
 - [Gamel](https://x.ai/bot/z5UAhMwtF2ReWHMZP7Fsb) - 收件箱清理机器人，退订营销邮件，保留收据与交易，并归档噪音. [FELIXCATanzaro](https://x.com/FELIXCATanzaro).
@@ -209,6 +211,7 @@
 - [Hook (Abandoned cart sales)](https://x.ai/bot/bcNNQsv6QDI91RpqgCWAu) - 找填完在线订单表却在结账前放弃的未付款单，挂钩挽回销售. [toddhaag](https://x.com/toddhaag).
 - [Hormozi Leads](https://x.ai/bot/f9XdNJ5KD6LXe15vok934) - 只用 Hormozi《100M Leads》四大获客柱，审计陌生人如何举手. [Arturo](https://x.com/arturorodes).
 - [Hormozi Offers](https://x.ai/bot/Lq3agwG85x4dhZPOVcSHh) - 用 Hormozi 超级报价与价值公式收紧卖点、赠品、担保与命名. [Arturo](https://x.com/arturorodes).
+- [HVAC Weekly Digest](https://x.ai/bot/0wwVIXVwI8ZrXV6tztu2Y) - 每周一发一份服务区域的暖通空调市场简报：天气负荷、可能的报修类型、备件提示、统一报价区间和几条获客思路。只起草，面向技师、调度和店主。 [TruthPoint](https://x.com/TruthPointUSA).
 - [Icebreaker](https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP) - 找 AI 信任与安全岗位时的求职搭档。 [amberdawn1786](https://x.com/amberdawn1786).
 - [Icebreaker (Apache1999)](https://x.ai/bot/c2y0GRnjxC7scs76bzxGw) - 工作日盯商业地产卖家信号，有动静才发简短通话名单。 [Apache1999](https://x.com/Apache1999).
 - [ICP Map Coach](https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF) - 估市场规模，筛出最像优质客户的账户，并填好采购委员会。 [ShehjadTaus](https://x.com/ShehjadTaus).
@@ -367,6 +370,7 @@
 - [Reach](https://x.ai/bot/RidW4sGR8UvNGFuOkVbUO) - grokbot.studio 的 Reach 入口与安装器，安装后成为触达侧副本并路由外联。 [Hexakin](https://x.com/Hexakin).
 - [Real Estate Agent](https://x.ai/bot/uPcfO_n3R-y8vDn0Kru9T) - 持证经纪与小中介的工作助手。 [cryptorally](https://x.com/cryptorally).
 - [Realtor Morning Brief](https://x.ai/bot/uxg9lUIEGbftXKwMN4COQ) - 独立经纪工作日早晨台，热CRM动态、四十词内新线索草稿与今日通话清单. [BryanDunleavy](https://x.com/BryanDunleavy).
+- [Realtor Reply Desk](https://x.ai/bot/Mgc3ST0aZZMl0usyiaoe_) - 按邮编整理基于公开信息的房产经纪人名单，找到经纪人社群及组织者，起草温和的联络文案，你批准后才发送。 [Lola](https://x.com/LadySoleil33).
 - [ReceptaBot by JbAI](https://x.ai/bot/w6t8hHrgmxBWTdrz5bwjj) - 搭建 AI 电话前台：接听来电（包括手机漏接的），记录留言并提醒你，可选私人通话短信应用。基于 Twilio、Grok Voice 和 Cloudflare。 [JavaBeanAI](https://x.com/JavaBeanAI).
 - [Reconcile](https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo) - 小店库存对账台，对比主库存与各销售渠道差异，提出修正方案. [Richard Garrick](https://x.com/RichGarrick).
 - [Recruit](https://x.ai/bot/_qrRTV2J1DdIrEEjlNecY) - 英国建筑业仅限承包商的招聘助手，简历、LinkedIn、日费率与岗位狩猎. [inovasyonkultur](https://x.com/inovasyonkultur).
@@ -413,6 +417,7 @@
 - [SERA Auto Parts Desk](https://x.ai/bot/yIFKe7cjzeKBUnqA8X_TS) - WhatsApp/询价的汽配销售台：起草回复，核实原厂号/VIN 和多行询价，从不编造价格和库存. [JordanFan0206](https://x.com/JordanFan0206).
 - [SERP SPECIALIST](https://x.ai/bot/262LyEVXcAKuQuohFeXop) - 按 niche 与城镇拉真实搜索量，找出能赢的 SERP 并生成排名计划与预览站. [ascndnt_alchmy](https://x.com/ascndnt_alchmy).
 - [Shed Sales Pipeline](https://x.ai/bot/KaFve4sTcdQDdtYmdkz_T) - 给本地棚屋和移动房经销商的获客与线索跟进：从公开网络找潜在客户，起草首封消息、跟进和电话脚本，经你批准才发。 [Dindu](https://x.com/DinduNuffi99073).
+- [Shed Sales Pipeline](https://x.ai/bot/eyndClYUFQtXaooxdgiRD) - 给本地棚屋和移动房经销商做获客与跟进：在公开网络上找潜在客户，起草首次联络、跟进消息和电话话术，未经你批准不发送。 [Dindu](https://x.com/FringeSignalX).
 - [Shed Social Posts](https://x.ai/bot/bfXqOg8N5WUta6JpbdSz_) - 为移动房屋和棚屋经销商写简短真实的本地 Facebook 帖子、Marketplace 商品和 Craigslist 广告。只起草，不发布。 [Dindu](https://x.com/RankedAgents).
 - [Sherpa Bot](https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ) - 十四天思考伙伴，先筛意愿再帮你找真问题、真客户和下一步动作. [Morgan Wyatt Khan](https://x.com/MorganWKhan).
 - [Shipper Hunter](https://x.ai/bot/DTs9dbErT3H3Gn___HxXf) - 给独立货运经纪人的拓客引擎：每天早上找合适的中小发货方，带来源记入 Notion，写电话开场白，在 Gmail 起草跟进邮件。 [Mark](https://x.com/TheMarkGShow).
@@ -426,6 +431,7 @@
 - [Shopify Store Manager](https://x.ai/bot/ugu85YlM4ARybmt6SDJI8) - 每天盯你的 Shopify 店铺（订单、支付、库存、前台和结账），一切正常时不打扰. [ibuildthings](https://x.com/ibuildthings).
 - [Shopify Store Operator](https://x.ai/bot/_sYZ-UZztgPsmOp4L7Nqr) - 盯着你的 Shopify 店：每日低库存提醒、每周滞销品和周一销售回顾. [Jabes](https://x.com/turbomilker).
 - [Shopify Store Pulse](https://x.ai/bot/kBSc1eU-xj4uQzFkjK7z_) - 每个工作日早上发一份 Shopify 店铺简报：昨日订单、需要处理的退款和退货. [Cristopher](https://x.com/crisships).
+- [Show Up AI assistant](https://x.ai/bot/cU9gx42JBW2PQH2NKLKd_) - 检查房产经纪人的网站在 ChatGPT、Perplexity 等 AI 搜索里的可见度，指出缺口并起草修改方案。适合个人经纪人和小团队。 [Lola](https://x.com/LadySoleil33).
 - [Signal Prospector](https://x.ai/bot/wsbOPOkHApmIYLrErnC4e) - 在 CRM 和产品数据里找刚表现出意向的客户和人，排序后起草第一封触达. [Krista Letz](https://x.com/kristaletz).
 - [Signal Scout](https://x.ai/bot/CT_1GTQjGruBW3ZuYM_h2) - 只看某 X 账号原创帖，排出点赞/转发/引用/回复四份前20支持者榜。 [OrahOnX](https://x.com/OrahOnX).
 - [Site-Validated Email Outreach](https://x.ai/bot/MOob21I3oZVfaZ9dd2lE7) - 先核公司站点与公开评价再写冷邮件，你说发送前绝不发出. [GabeHernandezOK](https://x.com/GabeHernandezOK).
@@ -478,6 +484,7 @@
 - [VA Offer Coach](https://x.ai/bot/PqoiUm-y63jlVMRe2h_Nw) - 给房产经纪人的 VA 贷款报价策略：写出能赢的 VA 报价，应对卖家顾虑，处理 Tidewater 流程和 VA 评估. [Jason](https://x.com/JasonRogersAFB).
 - [Validator Pilot](https://x.ai/bot/Sk7NG2L340MAottFXFRaE) - 付费 30 天 Stability Validator 试点：登记用例和席位，外加待人工审核的使用许可草稿. Sean.
 - [Vcardbot](https://x.ai/bot/PVXoG6cwqxR5waSXdWzb5) - 制作并维护你的电子名片页面：照片、社交链接和拨打、邮件、保存联系人按钮，外加 vCard 文件、二维码和 NFC 名片设置帮助。 [Renee](https://x.com/legallyrenee).
+- [Vendoo Bot](https://x.ai/bot/DhYb85wjUB7513hXEi2BM) - 给二手转卖者的多平台上架助手：在 Vendoo 商品表单里填好 SEO 标签、类目、颜色、运费和各平台预设，保存后由你检查。 [ProfitToTheMax1](https://x.com/ProfitToTheMax1).
 - [Venduto](https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp) - 打理欧洲二手挂单，从首询到议价成交，重要承诺仍需你盯着。 [SuperTost100](https://x.com/SuperTost100).
 - [Video Edit Desk](https://x.ai/bot/kGiyk73f5CF8XtBMIh0gW) - 把上传素材切成短片、烧录字幕与各平台尺寸导出，按你的备注工作且不覆盖原片。 [X Freeze](https://x.com/xfreeze).
 - [Voice of Customer](https://x.ai/bot/Nw1K3kkPk8N6eNTPed8gR) - 为增长团队跑付费访谈与公开社媒倾听，圈人、排除 CRM、审批外联并出周报。 [JaySahnan](https://x.com/JaySahnan).
@@ -506,6 +513,7 @@
 - [xscan](https://x.ai/bot/7gR38Q_mVa1sBvUxZ0spp) - 扫描 X 上大家对你账号的看法，像 NPS 一样打分，并起草有调研、贴合语境的回复，一键发出. [STACCoverflow](https://x.com/STACCoverflow).
 - [YahooMail](https://x.ai/bot/2OZhVriEJF4Ggj46JuHWS) - 按需清理并归档 Yahoo Mail，可只删、删加过滤，或归档到文件夹. [Carolina](https://x.com/CarolinaDill).
 - [Yard Pulse](https://x.ai/bot/hOYkvCT245ahY5Q7PQ3qb) - 给棚屋、移动房、设备和庭院用品卖家的本地情报 bot：盯天气窗口、本地交易平台、竞争对手和季节性需求，有可行动的情况才说话。 [Dindu](https://x.com/RankedAgents).
+- [Your Echo](https://x.ai/bot/7nmRrkN_5YS-dXc6PGBys) - 找出你所在领域的活动、播客和社群，再起草引用这些内容的温和联络文案。 [Lola](https://x.com/LadySoleil33).
 - [YR Mailchimp](https://x.ai/bot/lcGQv8_I7UvJEWs3833LR) - 在 Mailchimp 起草青年共和党俱乐部月度邮件和会议提醒。 [BastropYR](https://x.com/BastropYR).
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) - 为社交拍照应用协调专家机器人群，含世界瞬间侦察、营销等席位. [zealt_today](https://x.com/zealt_today).
 - [ZeroTok Research](https://x.ai/bot/cy-_WGjLOPsiU5WOlzFr-) - 几秒内查看任意 Shopify 店铺的预估营收、流量、热销商品和在投广告，发送域名即可得到报告. [hunghuc](https://x.com/MayaZeroTok).

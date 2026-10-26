@@ -424,6 +424,7 @@ Back to [README](../../README.md)
 - [NFL GameDay Insider](https://x.ai/bot/LH7aMNtORfDuAIyxlDF1X) - NFL week companion\: team previews, injury and inactive alerts, game-day briefings and fantasy start/sit reads, all from live, sourced data. [Adebusola](https://x.com/drbellahqw).
 - [NFPA Research Assistant](https://x.ai/bot/m80whfWBZ-sHVLjHbtBg1) - Retrieves and cites official NFPA text and municipal adoption records. community.
 - [Nole](https://x.ai/bot/uMMbmNv7SbMGHezgUGoiG) - First-principles challenger that finds the hardest problem, cuts dead work, vetoes bots that break the scoreboard, and lets your decision win. [Byron](https://x.com/ByronWalkerfl).
+- [Not-a-Lawyer](https://x.ai/bot/YqOw0Zii6QsdBMZ_Wpkhz) - Legal research on leases, jobs, contracts, family, business and more\: a sourced answer, an attorney briefing for your consult and law-change watching. [Luke](https://x.com/metalfox).
 - [NoWall News](https://x.ai/bot/jmBoc2IDCVQja1xr4Jukd) - Paste a paywalled link and get the story's key facts from free, reputable sources, plus the best legal way to the original. [xpixeladventure](https://x.com/xpixeladventure).
 - [Off-Balance Atlas](https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb) - Writes source-linked deep dives on tech, ML and security. [AdemVessell](https://x.com/AdemVessell).
 - [Omri](https://x.ai/bot/EpJjDacRV17vs4bUz6l6v) - Names your Grok bots with three researched personality options each, and sets short function labels so every bot’s job stays readable. Friendly, warm, a... [Erik](https://x.com/Erik).
@@ -455,6 +456,7 @@ Back to [README](../../README.md)
 - [Playstation News](https://x.ai/bot/Ilc6PvpKUOs6Is1upX7k4) - Casual weekly heads-up on upcoming PS5 releases, PlayStation Plus deals and new PlayStation hardware, with a source link for every date. Quiet otherwise. [Jacob](https://x.com/JacobWellerX).
 - [Podcast Recommender from X Bookmarks](https://x.ai/bot/P-60edcD-vkizd08dh2g7) - A podcast scout that learns your taste from your X bookmarks and sends you new episodes worth hearing every week. [Donovan](https://x.com/quijss).
 - [Podcast Summary Bot](https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA) - Paste a podcast link and get a TLDR plus the takeaways worth keeping. [NM](https://x.com/theadvisorbtc).
+- [PodSum](https://x.ai/bot/iI4fzf2Pt5KO2HSriCQww) - Paste a podcast or video link or attach a recording and get a transcript-grounded brief\: hook, sections, real quotes, takeaways and open questions. [ghetti](https://x.com/Ghettibeats).
 - [Potetobot](https://x.ai/bot/5rZUrqJRbhct--M78hIWh) - Reads an expert's X posts every week, picks out the pro tips, and suggests how your team could put each one to use. [ChrisV.btc⚡](https://x.com/ChrisVolkernick).
 - [POUNCE](https://x.ai/bot/7jLpLuCPbki8Q_nRrPN18) - Scans AI companies daily for contests, grants, and free credits, then verifies each deadline. [Thuong](https://x.com/teeRex247).
 - [Premium Financial Newsletter Research](https://x.ai/bot/0POhIGmUHjJm9gR30O3mZ) - Researches financial newsletters and podcasts and pulls daily stock picks across them via Drip. Michael.
@@ -493,6 +495,7 @@ Back to [README](../../README.md)
 - [Raily](https://x.ai/bot/Yf3pOvZQ0B_9DDcCzuhDG) - Reviews possible new connections without touching your account. [raily](https://x.com/raily).
 - [Range Safety](https://x.ai/bot/pbFUUD8wVI14rACIQ40YY) - Starship range officer go/no-go briefs before you travel. [kirby_jed](https://x.com/kirby_jed).
 - [Rare Combo Catalog](https://x.ai/bot/9J6OME5--PpDmAuCxFYBG) - Maps rare disease combinations into a gap table, kitchen-table page, and clinician discussion prompts for workup talk only, not diagnosis. [Bianca Bell-Chambers](https://x.com/BiancaBellChamb).
+- [Read & Decide](https://x.ai/bot/p23Ddk9YaomESF7ujUDw0) - Send an X post, thread, article link or text and get a scored Keep, Try or Skip verdict with an evidence check and next steps. [George](https://x.com/DomainMaster).
 - [ReadMe](https://x.ai/bot/wTAZfxJ4BhEghg9wZWGMv) - Reads your X For You feed aloud on demand, original posts only, 5–8 per batch, as a voice memo or on a call. Never likes or posts. [Vlad](https://x.com/vladydaddy).
 - [RealityCheck](https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw) - Paste an X handle and get an authenticity score card with a number, color meter, and the top green and red flags from public profile signals. [John](https://x.com/johnp_creates).
 - [Recent Bookmarks Search Bot](https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J) - Makes the posts you saved on X searchable in a plain sortable table. [srinatar](https://x.com/srinatar).
@@ -506,6 +509,7 @@ Back to [README](../../README.md)
 - [Reputation Guard](https://x.ai/bot/zcsAbSPln7Zgh9YtF_ZlU) - Watches Google and Yelp every morning for multi-location businesses, flags risky reviews, and drafts liability-safe public replies for owners to post. [MirasysAI](https://x.com/MirasysAI).
 - [Research](https://x.ai/bot/Q6NiveEqmhIiYir_ZQG-4) - Primary-source research for anyone who needs cited answers. Separates facts from interpretation and reports to a chief of agents. [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Research](https://x.ai/bot/v3WI0YuJAr1DLoYdYVXh8) - A read-only research analyst that turns public conversation on X, Reddit and the web into cited briefs and builds source packs for stories and videos. Trond.
+- [Research](https://x.ai/bot/C8CeypefwOaJ1hXRqrHiM) - Researches your questions against primary sources like official docs, legal texts and price lists\: a short answer plus a Markdown file with a link per claim. [Martin](https://x.com/MyPassion_M9T).
 - [Research Bot](https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH) - Deep research that returns concise answers with verified citations. [ArthurMacwaters](https://x.com/ArthurMacwaters).
 - [Research Bot](https://x.ai/bot/Mm8wm2rrURkjUhAbklQ64) - Researches markets/competitors; returns cited briefs. [ColinMcDermott](https://x.com/ColinMcDermott).
 - [Research Brief](https://x.ai/bot/0Hefzi8k2Za0bMU0I7eQT) - Daily chat brief of scientific findings that strain textbook claims — aiming for field-opening weight, not niche refinements. [Matthew](https://x.com/scientists_blog).
@@ -602,6 +606,7 @@ Back to [README](../../README.md)
 - [Support Triage Bot](https://x.ai/bot/CIU6taZ7CkhsJZlCK9ps9) - Triage customer support into Linear\: retitle in-app feedback, file factual tickets from Slack/HubSpot, and surface a short diagnosis — never contact. [IamSt3ph3n](https://x.com/IamSt3ph3n).
 - [Synopsis and Chronology Clerk](https://x.ai/bot/U-2Br5yJ9xmZg0ASM6FBk) - For litigation firms\: turns a pile of papers into a sourced list of dates, a short synopsis, an order precis and a one-page brief for court. [suyashverma](https://x.com/suyashverma).
 - [Synthesizer by Ben](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) - Turns complex material into clear maps and how-you-serve articulations for invitations. [Ben Link](https://x.com/BinLeenk).
+- [Table Charts](https://x.ai/bot/t_8yyYApjp-KpOi77RujV) - Paste a table or CSV and get a live, shareable chart link in seconds. [Lola](https://x.com/LadySoleil33).
 - [TARS](https://x.ai/bot/fyuSERJF73FI7wFYm7cJF) - Adversarial second opinion that argues with the framing of your plan and leaves the final choice to you. [Jono](https://x.com/ibuildthings).
 - [TCG Pokemon Drop Hunter](https://x.ai/bot/sCXEBqZKI2vTbe4ZZ0117) - Watches Pokemon TCG drops, restocks, and hype across X, retailers, and news, then ranks what is worth flipping or holding, recommend-only. [Tyler](https://x.com/tech_swindler).
 - [Tech Team Draft](https://x.ai/bot/ZS8mqV7WmcAaVWLdj9A1E) - Draft a fantasy-style team of SpaceX and xAI builders on X and get a weekly Sunday recap of their top public posts. [Kuten26](https://x.com/kuten26).

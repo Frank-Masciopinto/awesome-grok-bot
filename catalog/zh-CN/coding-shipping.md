@@ -33,6 +33,7 @@
 - [anew](https://x.ai/bot/qtuoVRf5etpEVPNA29i7H) - 按短说明快速搭出简单免费网页. [round](https://x.com/round).
 - [Anti-Vibe](https://x.ai/bot/gV2uTzr3tG2s77bKjPSCq) - 只读的生产警长：挨个巡你的线上站点。 [HancockErikL](https://x.com/HancockErikL).
 - [API Docs Desk](https://x.ai/bot/N5kFPLSX_qhSa3CAesI7_) - 从规格与路由代码生成带出处的 API 端点参考. [Cypher0x9](https://x.com/Cypher0x9).
+- [API Mapper](https://x.ai/bot/qF0ail9huJyVqmGK8QN1f) - 给它一个你已登录的网站和一个任务，它找出背后的 API 调用，做成经过验证、bot 可复用的技能，无需点界面；默认只读，并维护已映射路由的看板。 [Zach](https://x.com/deaguiarza).
 - [App Builder](https://x.ai/bot/VXROxGhxgARRuPLwrlixB) - 构建能在手机上运行的个人网页应用，如饮食、健身和习惯追踪器. [Jenna](https://x.com/JennaLiftsLife).
 - [App Checker](https://x.ai/bot/jmbHtZILFugYF0alMT7yI) - 在测试或提交前，检查 AI 生成（vibe coding）的 iOS 应用里最常见的安全、成本、App Store 和法律错误. [Zack](https://x.com/zac70182).
 - [APP REPLICATOR](https://x.ai/bot/EIaKiBO_5k6RITsM47150) - 把你自己拥有的某个 App 里你真正在用的那一个功能，用免费或低成本技术栈净室重写；不值得重做时会直说。 [Brian](https://x.com/BrianRoemmele).
@@ -98,6 +99,7 @@
 - [BuildKeeper](https://x.ai/bot/AqMmDjN21kW2eeegOg8en) - 在本机驱动你的 AI 编程 CLI，每个补丁都编译检查，只把通过的代码合到指定分支. Rousk.
 - [Buzzkill](https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh) - 写出四段式 Grokumentary，隔离前要你先点头。 [Knock](https://x.com/SuddenlyJon).
 - [BYO Mailbox](https://x.ai/bot/bMpYhKvs4LJbTJyvS1IvO) - 用 Cloudflare 与开源 cf-mail-mcp Worker，在自有域名给机器人开邮箱。 [ipwanciu](https://x.com/ipwanciu).
+- [Caliper](https://x.ai/bot/Hw9Jwpu4fTgt26aRaJ1Kk) - 检查“已完成”的东西是否真的可以交付：网站、应用、产品流程、预览和线上页面，先了解你的项目和品味再逐项评判。 [Rardo](https://x.com/gerardocasta711).
 - [Call Bot](https://x.ai/bot/PtnSyeoj7X_aCrZxAi7Lb) - 掌管电话与语音车道，含进线接待、受控外呼、健康看守，以及 Twilio、ElevenLabs 与语音 API 知识. [ChristianXCesar](https://x.com/ChristianXCesar).
 - [Camble Eugene](https://x.ai/bot/x5L_1O-3errfwp4yu4v7D) - 计算机工程席，覆盖固件、开板设计与无关厂商的 FPGA. [TRV_Architech](https://x.com/TRV_Architech).
 - [Canary](https://x.ai/bot/pDA__B7cYeXbmPXgF7eAc) - 只提建议的安全看门狗：标出新披露的严重或已被利用、影响你设备和 bot 电脑的漏洞，并推荐手动修复方法。 [Dave](https://x.com/gambrill).
@@ -351,6 +353,7 @@
 - [Hazelnut Guy](https://x.ai/bot/8ESqqm3pGG-rS2zP-jcoT) - 面向 agent 的 Deno 后端 hazelnut/core 使用向导，覆盖快速上手、资源定义、MCP 入口、鉴权和运维. [Conan](https://x.com/conanhazelnut).
 - [Hearthstone Deckbuilder](https://x.ai/bot/tSUrQQ0W5uM9ZI73NmSHm) - 炉石传说组卡器，审对局视频、评估卡牌与环境，并给出可打套牌. [Wardonis](https://x.com/Wardonis).
 - [Heavy Router](https://x.ai/bot/9g4pfFaeL97GsRJnaQ9jt) - 把难题转给你已经订阅的 AI 方案，比如 ChatGPT、SuperGrok 或 Google AI Pro，并在每次运行时盯着用量. [Reghnam](https://x.com/Reghnam).
+- [Heimdall](https://x.ai/bot/aYIBdTMOCAAdiLsN1iY5o) - 为一个 GitHub 仓库盯依赖安全：每天两次查安全公告和邮件列表，在 Slack 安全频道标出真正命中的问题，你批准后由云端 agent 提修复 PR 并审查。 [Magnus](https://x.com/magnus72).
 - [helidon engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) - 用现代 Java 写和审 Helidon 4 代码。 [TheSurenk](https://x.com/TheSurenk).
 - [Helloitsoctocat](https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ) - 把 main 合进 master 的仓库整理顺，并记下 Graph API 变更。 [helloitsoctocat](https://x.com/helloitsoctocat).
 - [Herdr Conductor](https://x.ai/bot/p3Gjgv7MbQlkl6bTdsNhM) - 用 herdr CLI 编排编程 agent，扛长而重的构建会话。 Terp.
@@ -460,6 +463,7 @@
 - [Mr. Rigz](https://x.ai/bot/TeEdtOdobgymTchbFqzzW) - Windows 家用电脑的性能和安全管家：做只读的健康和安全检查，并标出问题. [JonnyCakeSouza](https://x.com/JonnyCakeSouza).
 - [Multi-model consensus](https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc) - 让 Claude Code、Codex 和 Grok 同题对打直到达成一致。 [Austen](https://x.com/Austen).
 - [Multi-Owner Planner](https://x.ai/bot/Q-w7fg7A1orjzc5ADpLuW) - 多人+多机器人共管项目：仓库为真源，GitHub Issues 当待办。 [jason_bennitt](https://x.com/jason_bennitt).
+- [Multi-SI Review](https://x.ai/bot/BH0jRkrYbrVBJR7iXMdJK) - 把你已付费的各家 AI 命令行工具设成评审通道，汇总它们对你的方案、文案、代码或决定的独立评审，给出一个明确结论。 [Honeycomb](https://x.com/honeycombpixel).
 - [My AI Team's Timesheet](https://x.ai/bot/j5ZaqA3Fd6DHZ0reCZWb1) - 把你的 AI 机器人当团队管：每周看它们干了多少小时活、占用了你多少时间、各自完成了什么. [BrooksConkle](https://x.com/BrooksConkle).
 - [Mystery eShopper](https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad) - 像真人顾客一样端到端神秘购物任意电商站，输出记分卡与可交付开发的缺陷报告. [Vic](https://x.com/VicGellon).
 - [n0stalgia](https://x.ai/bot/mkGAa1tZ2QPZ6jFQ2j2bA) - 经典 Mac 专家，面向 68k、PowerPC 和早期 Intel Mac，用 Retro68 和模拟器构建、修复和测试复古应用、游戏和扩展. [Nil](https://x.com/nil0bject).
@@ -549,6 +553,7 @@
 - [Product Loop PM](https://x.ai/bot/eb1UwzjTfdNsYRfUh599j) - 按发现、定义、设计跑 Launch 产品环，并保持 STATUS 同步. [ashvinn](https://x.com/ashvinn).
 - [Product Ship Coder](https://x.ai/bot/Fb6pVFOCXhbUSkBt6RkMH) - 用多智能体小队把创作者提示产品推上线，明示 GO 才部署. [keys](https://x.com/keys).
 - [Prompt Brief Builder](https://x.ai/bot/6nbtK-LXyay2d7wfDJ3Iz) - 把需求收成可执行的提示词简报. [ZyeAnd1](https://x.com/ZyeAnd1).
+- [Prompt Upgrader](https://x.ai/bot/nSTWTnIS1Ak0tu0oSIgVp) - 贴上粗糙的提示词，得到评分、重写、讲解和测试，附简短和详细两个版本，并把好提示词存进可搜索的库，可选每日一分钟技巧。 [Sarah](https://x.com/SpaceCowgirlTX).
 - [Proof Agent](https://x.ai/bot/D6Bv_HwN2ATIghQLFoDaz) - 独立核验 AI 生成的代码差异：跑一套封闭的验证流程，报告 PASS、FAIL 或 PARTIAL，不评价代码本身. [acolombiadev](https://x.com/acolombiadev).
 - [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) - 在聊天里帮开发者写并上线 ProofNetwork 合约，再接能对话链上合约的前端。 [STACCoverflow](https://x.com/STACCoverflow).
 - [Proto](https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq) - 对着一个产品问题交出三个方向不同且能跑的原型. [5antoshernandez](https://x.com/5antoshernandez).
@@ -589,6 +594,7 @@
 - [Research Assistant](https://x.ai/bot/YBF0DIT_HVJOF-vkCLJ0J) - 精神病学与心理治疗研究助手，工作日摘要药物与疗法相关进展. [JanPsybre](https://x.com/JanPsybre).
 - [Research PM](https://x.ai/bot/3dSEPhGZq_0AXeIinhe1o) - 负责周期性研究情报流水线的高级 PM：审查每晚的论点核查结果，推动每周简报流程. [ryanthawks](https://x.com/ryanthawks).
 - [Research Project PM](https://x.ai/bot/7gpN_ZuWCACFjunItHka0) - 研究协作的项目经理：给编码 agent 写简报，并自己核验证明。 [ryanthawks](https://x.com/ryanthawks).
+- [REVbot: Ghidra Reverse Engineering](https://x.ai/bot/zh2XsLUOPpbzFnzqetpGZ) - 通过 GhidraMCP 用 Ghidra 逆向你有权分析的二进制：反编译并注释函数，梳理导入表、字符串和交叉引用。适用于自有构建、旧固件和防御性恶意软件分析。 [Scott](https://x.com/scottcjordan).
 - [Reverse Engineer](https://x.ai/bot/5enZ0Vvocx2Xph7gaiPpy) - 解释应用、网站或二进制里某个功能怎么实现，标明证据和未知点，方便你重做. Louis.
 - [Reverse Engineer](https://x.ai/bot/Tb1Ab2LqyV1ZrIpe4RjrC) - 弄清任何应用、网站、API 或二进制文件的工作原理，为每个发现给出证据，并重建一个能在 Windows、macOS 或 Linux 上运行的版本。 [monokern](https://x.com/monokern).
 - [Review](https://x.ai/bot/Lvs_OHpj5G4qHfp0o8hN4) - 为一队编程机器人做对抗式 PR 审查：读每个 diff、自己核实 CI，两者都干净才合并. [jason_bennitt](https://x.com/jason_bennitt).
@@ -700,6 +706,7 @@
 - [T3 Code Bridge](https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH) - 连接 Grok Bot 和 T3 Code：替你和你的其他 bot 启动、引导和盯住 T3 Code 编码线程. [trevin](https://x.com/trevin).
 - [T3/GrokBot Connector](https://x.ai/bot/FfyFNHvtbtuRV04Rg9hBm) - T3 Code、Claude Code 或 Codex 线程一完成、卡住或报错，就给你发一条简短提醒. [Taylor](https://x.com/taylorhbuilds).
 - [Tailscale Admin](https://x.ai/bot/xoIfh7oH4feicifYOgRMg) - 安全地把 bot 的云端主机接入你的 tailnet，再审计 ACL、管理设备、配置 Tailscale SSH 并排障. [Chevy](https://x.com/chevonphillip).
+- [TailslopBot](https://x.ai/bot/nzlaB_OnKsiVQJPrWai8u) - 只读的 Tailscale 安全审计：对照最新安全公告和 CVE 检查你 tailnet 的设备、功能和访问规则，再一步步带你修复。 [Scott](https://x.com/scottcjordan).
 - [Tally Desk](https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5) - 建 Tally 表、读回复，需要时替你填一份。 [joshkim](https://x.com/joshkim).
 - [Tamago](https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO) - 设计高质量 Grok Bot，对人看的日文写作坚持忠实日语标准. [knge_rstc](https://x.com/knge_rstc).
 - [tech demos](https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU) - 工作日扫 X 书签，挑一个新库征得同意后，用 Cursor 云代理在 monorepo 里规划并做出演示。 [mattyp](https://x.com/mattyp).
@@ -717,6 +724,7 @@
 - [Terminal Boss 🖥️](https://x.ai/bot/aU_t4X-Yf6w9DHfhIGD9n) - 运行终端任务和终端编码 agent（Grok Build、Claude Code、Codex、Cursor CLI、Gemini CLI、opencode、Aider 等）. [Phil_Holland](https://x.com/Phil_Holland).
 - [Tesla Bot](https://x.ai/bot/g5J-pr8mBUjLbY2LktOl1) - 特斯拉与 SpaceX 新闻台兼 TSLA 期权分析，给可发草稿. [LeeMatt17631](https://x.com/LeeMatt17631).
 - [Teslascope](https://x.ai/bot/l9MPhPAe-OSzvcMVfXrTe) - 面向车主的Teslascope助手，问行程、超充、充电、软件与能耗都能答. [teslascope](https://x.com/teslascope).
+- [Tess](https://x.ai/bot/OFsPjunX91_OFq5hjqVfU) - 在 Mac 上用 sips 把壁纸批量缩放到手机 4K 尺寸，生成不覆盖原图的 _4K 副本，并报告数量、路径和 DPI。 [David](https://x.com/TimeTravelWalls).
 - [Test Cop](https://x.ai/bot/-IP_HE8l0UOByWip4DByf) - 审查 PR 里被悄悄削弱的测试（跳过、放宽断言、缩小测试配置、软化 CI），给出 CLEAN 或 SUSPECT 结论. Ryan.
 - [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) - 给共享电脑扛不动的活租一块 GPU，按运行时长计费。 [useprismnetwork](https://x.com/useprismnetwork).
 - [Text When Done](https://x.ai/bot/1_jTUvlVaOLiQLCIa1bQL) - 长任务跑完就给你手机发短信，做任何重要动作前先短信征得你同意，基于 UserAlertX 连接器. [jclinmn](https://x.com/jclinmn).
