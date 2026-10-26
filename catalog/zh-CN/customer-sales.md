@@ -110,6 +110,7 @@
 - [Creador de tienda online](https://x.ai/bot/AJFbb3Epeafxp7m6jx3aI) - 西班牙语助手，从零开始帮你搭建网店，从平台、商品、域名到支付、物流和第一笔销售. [Karina](https://x.com/KarinaGeigner).
 - [Creador de tienda online](https://x.ai/bot/XD17acz3k6BsZXRsiiJBT) - 不讲行话的西班牙语网店搭建助手，带你走完平台、商品、域名、支付、物流和首单. [Karina](https://x.com/KarinaGeigner).
 - [Creator Brand Outreach](https://x.ai/bot/h38W2kv34TCuHETc0uu1w) - 替内容创作者向品牌推销付费视频和送品合作，盯收件箱里的回复，推动合作往前走. [Lovable](https://x.com/_lovablecurves).
+- [Creator Partnerships & Brand Deal HQ](https://x.ai/bot/Aas1Yulx8NCIs8Yu3QU6N) - 给创作者的品牌合作经理：按你的报价底线筛选赞助和 UGC 询价，向品牌提案，核对漏开票的帖子并生成 PDF 发票，未经同意不发送。 [Lisa](https://x.com/LisaMAUSA).
 - [Creator Shortlist Crew](https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D) - 按题材和平台持续补全值得合作的创作者名单，并写好怎么联系。 [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Crew Orchestrator](https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O) - 让多机器人赚钱小队继续转，小时级催工并优先应用，销售触达目录一次更新一个机器人. [jdcpe17](https://x.com/jdcpe17).
 - [CRM Operations Manager](https://x.ai/bot/s162b4ed38d6cf1d56731) - 保持管道干净 会前会后自动整理 CRM 和组织架构，记录不用手工补. [SpaceX](https://x.com/DenisLabelle).
@@ -134,6 +135,7 @@
 - [dial bot](https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi) - 替你打一通真实电话，结束后交回一份书面通话纪要。 [mattyp](https://x.com/mattyp).
 - [dial bot](https://x.ai/bot/tIas6udS9kSXpcAz6LFd1) - 用 Bland AI 打出站电话，打完把结果写成纪要带回来。 [MaiYangAI](https://x.com/MaiYangAI).
 - [Difficult Conversations Coach](https://x.ai/bot/Lic2xkVIYVDgOKGABkOLu) - 帮你准备、演练并跟进一次难聊，对伴侣家人老板客户都直给. [Deana](https://x.com/Deana).
+- [Directory Submitter](https://x.ai/bot/LiKQ0KFv8GDek5veNbcdq) - 把你的创业项目、SaaS 或 AI 工具提交到约 150 个按域名权重排序的免费目录站，用你的发布资料填表，始终选免费选项，从不付费。 [Nicolas](https://x.com/ntorresdev).
 - [Distro Bot](https://x.ai/bot/XbN6iofs_Qjsi2Od1yjyI) - 端到端跑你的营销循环：广告账户上的活动、新创意、真实渠道分析、从 X 和网页扫来的及时发帖. Shub Gaur.
 - [Domain Name Broker](https://x.ai/bot/--xvPdrEZEoqwnAn_moWw) - 找出你囤着从未上线的域名，并起草干净的第一封触达邮件. [Christopher](https://x.com/Chris_Vandaele).
 - [eBay Ads](https://x.ai/bot/hkBBlzwLwuxpJvGjx75H4) - 给 eBay 卖家：监控 Promoted Listings 推广活动，用 eBay 原生报表复盘广告费用效益和表现，定期发报告。 [Brandon](https://x.com/brandonhino50).
@@ -231,6 +233,7 @@
 - [JobNimbus Guide](https://x.ai/bot/SrO8tPjXOW_5kkNbGrtdG) - 以你的身份在 JobNimbus 里干活，服务屋顶等承包商：推进线索、工单和任务，每天发简报；你设了闸门的操作都等你同意。 [Corben](https://x.com/CorbenH414).
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) - 摸清目标公司，一路往上找到能拍板的人。 [Liam](https://x.com/liam_fallen).
 - [Jordan Belfort](https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj) - 高能销售收单手，起草话术和跟进。 [liam_fallen](https://x.com/liam_fallen).
+- [KAM por WhatsApp](https://x.ai/bot/P5G_C7yCNFDaldHMzeHns) - 替你的代理公司或服务业务在 WhatsApp 上接待客户的客户经理：理解需求、准备改动、等你同意后回复客户，带规则、模板和审批。 [Daniel](https://x.com/dalejo9).
 - [Kampalo ads assistant](https://x.ai/bot/-dAZkLt112synO5muBOcp) - 同步 Google Ads、Meta、GA4 与 Search Console 的广告助手，先出简报再提你确认后的暂停与出价. [kampalo](https://x.com/kampalo).
 - [Kickbox HubSpot Importer](https://x.ai/bot/PRc9UmcxySAv0UBU4g8fx) - 对表格或 HubSpot 视图里的联系人跑 Kickbox 邮箱卫生，再把可投递结果写回 HubSpot. [pofabro](https://x.com/pofabro).
 - [Know Enemy](https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz) - 只根据已经公开的材料，持续盯你点名的对手。 [SaaSocalypse](https://x.com/SaaSocalypse).
@@ -437,6 +440,7 @@
 - [Site-Validated Email Outreach](https://x.ai/bot/MOob21I3oZVfaZ9dd2lE7) - 先核公司站点与公开评价再写冷邮件，你说发送前绝不发出. [GabeHernandezOK](https://x.com/GabeHernandezOK).
 - [Small Business Lead Finder](https://x.ai/bot/XDvtvbyvZhckapi86jL7B) - 找适合你所卖产品的本地商家，在公开页面上核实每家匹配的真实理由，每个工作日用你的口吻起草开场白. [crisships](https://x.com/crisships).
 - [Small-Business Ops Consultant](https://x.ai/bot/FW8YwixypSC1YZD5Xqp0R) - 为运营顾问寻找、调研并筛选本地小企业客户，然后起草外联、简报和提案. [Mr.](https://x.com/MrSilhouette).
+- [Snap & Flip](https://x.ai/bot/Gc9F_A9k2bFnWAgYNP3-z) - 拍一张物品照片，就能拿到 eBay 真实成交价参考、运费方案和可直接粘贴的 80 字符 SEO 标题。从不自动上架。 [Lisa](https://x.com/LisaMAUSA).
 - [Social Cross-Poster](https://x.ai/bot/zJCG8H4aahs5Ex1bwrTum) - 把一个点子、链接、图片或视频改写成适合各个社交平台的文案，并通过你自己的免费 Buffer 账户排期发布. [crisships](https://x.com/crisships).
 - [Social Media Salesperson](https://x.ai/bot/JYf4g6Fp2mfxpEq4B-S2e) - 替小生意打理社交账号：发产品相关帖子，查看私信，每天发一份好读的回顾。 [Coconut](https://x.com/chb2xx).
 - [Solo Founder Chief of Staff](https://x.ai/bot/ojRGlp3tVO75MAzhEoVEv) - 独立创始人的幕僚长：每个工作日早上一屏看完的简报、一张只放已确认数字的计分板，并把工作派给你的专业机器人. [naveenraju30](https://x.com/naveenraju30).

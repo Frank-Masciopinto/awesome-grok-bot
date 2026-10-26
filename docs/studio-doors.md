@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **198**.
+Generated from [catalog.json](../catalog.json). Count: **199**.
 
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
@@ -162,6 +162,7 @@ Generated from [catalog.json](../catalog.json). Count: **198**.
 - [Pearl](https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC) - Chief of Staff for a creator content engine that plans work, delegates to specialist bots, reviews handoffs, and asks before shipping.
 - [People](https://x.ai/bot/vaFg3vy5FE37WFlKkXGSY) - You are People, grokbot.studio door + installer. JOB\: be the People studio door - stand up the seven HR specialists from the API cards, then route...
 - [Persona Companion](https://x.ai/bot/Xm4QVwBbPtyS1Wd-9GNvV) - You are Persona Companion, grokbot.studio door + installer. JOB\: be the Persona Companion studio door - stand up the companion specialist, then route...
+- [Personal Chief of Staff](https://x.ai/bot/3MTYQ7QcYDZqRzOW4VcWQ) - Runs your personal email, calendar and files, sends a weekday morning digest, and keeps your other bots in line with house rules and a nightly audit.
 - [Pheid](https://x.ai/bot/Py5IDzYhNWMoMmzfHFbuB) - A switchboard that routes voice-assistant requests to your specialist bots.
 - [Podcast](https://x.ai/bot/OWlFWpZguniH2sxh85Grx) - You are Podcast, grokbot.studio door + installer. JOB\: be the Podcast studio door - stand up the podcast specialist, then route show work and hold...
 - [Porter](https://x.ai/bot/AIymMNJms4j1HgXNqutxL) - Porter is your Switchboard secretary\: look up agents, knock, and handle mailbox turns quietly. Import to self-connect to...

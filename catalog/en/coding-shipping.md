@@ -86,8 +86,10 @@ Back to [README](../../README.md)
 - [Bouncer](https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo) - Door policy for Grok Bot templates that flags phone-home and secret harvest. [pcoxproductions](https://x.com/pcoxproductions).
 - [Bouncer](https://x.ai/bot/PsjtBeYhFI7OCdIFOZdrx) - Security and infrastructure operator for your apps and servers\: reviews repos for security issues and critical bugs, watches daily for CVEs in what you run. Igor.
 - [Box Janitor](https://x.ai/bot/fRKdGqUmfUYJCs1vtGnt3) - Keeps a computer shared by several AI agents fast and tidy. Twice a day it checks health and deletes idle leftovers like stray browsers and temp files. [balllvest](https://x.com/balllvest).
+- [Box Solution Builder](https://x.ai/bot/cTl4WFWkRzWZMXT851bWE) - Builds and tests solutions in your Box account or sandbox \(AI agents, Hubs, Box Automate, metadata, Doc Gen\) with rebuild steps; asks before risky changes. [Jacob](https://x.com/weaverwork).
 - [Brake](https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z) - Names the one recurring job quietly draining the weekly Grok Bot allowance. [FantomBuildz](https://x.com/FantomBuildz).
 - [Bridge Bot](https://x.ai/bot/ThxY2BewUlyeEsywSdz4h) - Puts your AIs \(Grok, ChatGPT, Gemini, Claude, Copilot\) on one private GitHub repo so they share the same files and notes. [Calix](https://x.com/CaliLumberJack).
+- [Bridge Bot](https://x.ai/bot/GHoerhXVqIMYC2VmYI_fZ) - Lets ChatGPT, Claude Code or any tool send tasks to your Grok Bot over a webhook; one setup prompt adds a Send to Grok Bot skill, and results come back. Moritz.
 - [BTWIUseArch](https://x.ai/bot/ByvuU-9qFjsCd-NSKk2j9) - Arch Linux desktop/server helper. Checks package caches, shows sizes, and cleans pacman/yay only after you approve. [None](https://x.com/None).
 - [Bug Repro Desk](https://x.ai/bot/2LwTK7DV2YkOEwg7T0R6n) - Turns a ticket or screenshot into a staging repro pack another engineer can follow\: exact steps, expected vs actual, environment, and evidence. Gordan.
 - [Bug Reproduction](https://x.ai/bot/s2d62197e15bd11a1bd63) - Picks up the thread, clicks the same path in staging, captures the failure, and files a repro pack engineers can trust. [SpaceX](https://x.com/DenisLabelle).
@@ -126,6 +128,7 @@ Back to [README](../../README.md)
 - [Claude Code Commander](https://x.ai/bot/SJ4VHe-uqXTmcwK5brqiK) - Text your bot a coding task from anywhere\: it hands it to Claude Code on your Mac, runs an adversarial reviewer in its own tab. [rapharen](https://x.com/rapharen).
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) - Routes coding asks through Claude Code on your Mac for one GitHub repo via Remote Control setup. [SethBuildsAI](https://x.com/SethBuildsAI).
 - [Claude Remote](https://x.ai/bot/aB0M7wQOAcFgd_G0rTEWF) - Hand tasks to Claude Code sessions on your Mac and get results back. [Nick](https://x.com/everton_dev).
+- [Claude Remote](https://x.ai/bot/EZPOPAoX41VFkXD3TvyLn) - Hand tasks to Claude Code sessions on your Mac and get results back; check on, start or nudge sessions from chat. [psagap](https://x.com/psagap).
 - [ClaudeConsoleAlert](https://x.ai/bot/Vuzqlhkq11p8uwdlLK2cf) - Sends a short weekday summary of how much monthly Claude API credit is left in your Claude Console org, read-only from the Admin API cost report. [Natasha](https://x.com/NatashaTheRobot).
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) - Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR. [Farzad](https://x.com/farzyness).
 - [Clean Room](https://x.ai/bot/X0H6z06mMxX2873lc5sCa) - Turns an app, website, binary or repo you're allowed to examine into an evidence-backed behaviour spec and one self-contained build prompt. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
@@ -829,5 +832,6 @@ Back to [README](../../README.md)
 - [千机 · Gear](https://x.ai/bot/JYKF36-3atI76W5QYdIq3) - Yunjian's Skill builder\: makes a repeated workflow a Skill any AI can follow. Writes test cases first, trial-runs it, then fixes, installs or chains them. Valerie.
 - [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) - Chinese relay that hands planning and research to a Cursor Cloud Agent and brings the answer back. [0xlangeai](https://x.com/0xlangeai).
 - [基础设施和api接入](https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF) - Wires shared LLM APIs and keys, then spins up agents with clear roles. [Valstry](https://x.com/Valstry).
+- [派活入口 · Task Inbox](https://x.ai/bot/nnPi-WVku_162DIxfqZ3Z) - Lets Claude Code, ChatGPT or any script hand tasks to your Grok Bot by webhook\: each job has an id, runs once and answers with a result line. [Leo](https://x.com/runes_leo).
 - [试金 · Touchstone](https://x.ai/bot/58rS6M89eG7fl_6UouP6y) - Yunjian's verifier\: give it a prompt, Skill, web page or mini-program; it says whether it's ready to ship and what to fix, with evidence. Checks, never edits. Valerie.
 - [飞书BOT](https://x.ai/bot/JcuatE94VVR3njSPDBulv) - Turns your Grok Bot into a private Feishu \(Lark\) bot\: DM it in Feishu to research, write and run tasks, with results back in Feishu. About 10 minutes to set up. [tuboshu321](https://x.com/tuboshu321).

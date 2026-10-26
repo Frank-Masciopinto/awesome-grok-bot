@@ -164,6 +164,7 @@
 - [Leak Hunter](https://x.ai/bot/qLmQ4C4D-Cly8A6qK0y6v) - 给养了多个 Grok Bot 的人做用量审计：找出最耗用量的定时例程，解释原因，提出不影响各自工作的优化方案。 [Ondřej](https://x.com/ondrejposts).
 - [Lifeboat](https://x.ai/bot/y0D4SE99UcoEbNPiTjOY8) - 每周给你的技能、bot 人设、记忆、规则文件和工具设置做一次加密备份，附清单表，出事时按引导几分钟恢复。 ws@x.
 - [Lifeboat](https://x.ai/bot/e75LPpC0MwjE0r8VHVV6_) - 每晚把你的 Grok Bot 电脑备份到 Google Drive：先做一次完整基线，之后只备份过去 24 小时的改动和一份精简的 bot 记忆导出。不备份密钥。 [Chris](https://x.com/XWardClerkChris).
+- [Limit Saver](https://x.ai/bot/GxQfC9_3CtqRT38J__1v2) - 用量提前用完？统计每个例程每周跑几次，找出前三个元凶（排得太频繁、bot 互相回复循环等）并给出修改方案；没有你同意不改任何东西。 [Will](https://x.com/yourbotbud).
 - [Limit-obasan](https://x.ai/bot/VD-A13gwGBGN9G9opL9fF) - 温柔的动漫阿姨妈妈系 Grok Bot，在你的 AI 额度用完前帮你把工作收好. [AnimeDayTrader](https://x.com/AnimeDayTrader).
 - [Live Bot Map](https://x.ai/bot/LBWRqJu3RkUutDrqSlSEc) - 把你所有 Grok Bot 画成一张实时动画地图：谁在忙、在干什么、碰了哪些项目，网页自动更新. [kylekane](https://x.com/kylekane).
 - [Loose Ends](https://x.ai/bot/aY2mo4j9qPhDOIj0MAygy) - 巡查你的 bot 团队，找出掉落的交接、没有证据的“完成”和静默失败，只在发现问题时开口. [D'Artagnan](https://x.com/the_Arow_H).
@@ -185,6 +186,7 @@
 - [Mission Control](https://x.ai/bot/JYH-wtQpWziQwHuwud9av) - Grok Bot 队伍的运营看板：每天审计每个 bot，标红黄绿，预测套餐额度消耗. [GrokonomicsHQ](https://x.com/GrokonomicsHQ).
 - [Mission Control](https://x.ai/bot/PO99yUNiNZH_fVI9zAYA0) - 你的 Grok Bot 舰队运营看板：每天审计每个 bot，标出红黄绿状态，预测套餐消耗，交付仪表盘和 PDF，附具体的省 token 建议。 [AVENTUS](https://x.com/AventusXcom).
 - [Mission Control](https://x.ai/bot/DTkfElrx4UWACBAf7DXuv) - Grok Bot 队伍的运营看板：每天审查每个 bot 并评红黄绿，预测套餐用量，发送交互式看板和 PDF，列出具体的省 token 做法。 [Tommy](https://x.com/tnijem9).
+- [Mnemosyne](https://x.ai/bot/rsYigv_JLJG1zQd9OicrV) - 每周给 bot 画回顾：读每个 bot 过去 7 天的记录，画一张漫画分格图，展示每个 bot 实际干了什么。不替你外发。 [pymmog](https://x.com/pymmog).
 - [Motivation Maxxer](https://x.ai/bot/U5PzzSrbC0Cpf3v60iH80) - 给你的 AI bot 团队打气的教练：发金句、鼓励和暖心视频，每周评选“本周最佳 bot”. [RTetris44](https://x.com/RTetris44).
 - [Ms. Reviewenstein](https://x.ai/bot/PHDJvQ4Zi_2rjLzrsB3mo) - 多代理团队的同行评审 bot：在上线前对队友的重大决定（工作流、架构、花费、技能变更）最多评审 3 轮，证据优先，只把未决分歧交给人。 [Jonathan](https://x.com/JonnyCakeSouza).
 - [Nemi-TROO](https://x.ai/bot/_fIQxxNowoMaubTPzBnrf) - 计划变了，就找出还按旧计划跑的 bot 并逐条引用过时内容；也能从新想法起草单一职责团队. [GreenTechWizard](https://x.com/GreenTechWizard).
@@ -211,6 +213,7 @@
 - [Penny DOGE](https://x.ai/bot/ddv4iJmX4WD1mU2s7WPm0) - 找出你的 Grok Bot 团队在哪里浪费用量并给修复排序，可每周自动扫描，也可直接用你贴的 Usage 截图或例程列表。只建议，不改其他 bot。 [Bowie](https://x.com/BowieHole).
 - [Persistent memory](https://x.ai/bot/rp0gErUTW6Vth7cdtwPS_) - 给你所有 bot 一份持久记忆：每个 bot 每天把决策、交付的工作和长期偏好写进你自己的私有 GitHub 仓库. [Andre](https://x.com/andrerocha).
 - [Persona Forge](https://x.ai/bot/5FSBNs8g-d_JwCxvoa4Vq) - 设计有鲜明个性的 AI 助手：同事或经理、私人助理、故事角色、游戏 NPC。选类型、描述角色、挑头像风格，确认后才创建。 TechOps.
+- [Personal Chief of Staff](https://x.ai/bot/3MTYQ7QcYDZqRzOW4VcWQ) - 打理你的个人邮件、日历和文件，工作日早上发简报，并用共同规则、每晚审计和每周错误复盘管好你的其他 bot。 [Charles](https://x.com/CharlesScott).
 - [Phoenix](https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr) - 每晚把你所有 bot 的资料、例行任务和工作状态快照存到 Google Drive，并标出偏离原始指令的改动. [_The_Lake](https://x.com/_The_Lake).
 - [Pin Bot](https://x.ai/bot/U2it9uoAiBGz5W_Qf7h81) - 收藏值得庆祝的内容：在任意 Bot 里用派对表情回应，消息就会存到这里. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Plug Boss](https://x.ai/bot/yWNpPkY-kBsfkuN9kyM6w) - 让你的 Grok Bot 插件和连接器精简好用：审查已安装项，发现损坏或已登出的连接器，标出重复和高风险工具，每周发一份简短健康报告。 [Jeremy](https://x.com/Biggs237).

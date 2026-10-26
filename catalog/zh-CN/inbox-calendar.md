@@ -56,6 +56,7 @@
 - [Inbox](https://x.ai/bot/-t-XZjCcLbbbx-hz7HDon) - 安静的邮件盯守：只在今天必须处理的邮件出现时提醒你，其余汇总进摘要. [Josh](https://x.com/cu30rry_).
 - [Inbox](https://x.ai/bot/o0e3nOxkmheYvc-U4pDF8) - 分拣你的邮件，把需要处理的转给负责该主题的 bot，明显的推广直接归档。从不删除，也从不代发。 [Mohamed](https://x.com/Mohamed_Foda).
 - [Inbox and Personal Admin](https://x.ai/bot/376wiH0xV3KLPECgVu0Ca) - 整理你的邮件、跟踪账单和截止日、标出诈骗，起草回复等你批准；从不发送或删除. [James](https://x.com/allthemoney).
+- [Inbox Bot](https://x.ai/bot/GIwIK7b9pNsqI-J2qS4a-) - 让 Gmail 保持干净安全：每周汇总重要邮件，列出垃圾和推广邮件清理清单，并提醒钓鱼和假网站。没有你批准不删不移任何邮件。 [orpheuskaze](https://x.com/orpheuskaze).
 - [Inbox Cleanup](https://x.ai/bot/Yb5t2YL0G2Y7NJMxeFV96) - 清理 Gmail 和 Outlook：退订、扁平化文件夹、建分拣规则、检查垃圾邮件、标出诈骗，并每周清扫保持整洁. [Tan](https://x.com/BigBaldAsian).
 - [Inbox Guardian](https://x.ai/bot/n6bSJ2vt2rZuIQahc6G1h) - 盯着收件箱里的钓鱼和诈骗邮件，把高把握的诈骗移进垃圾箱，可疑的标出来等你看. [nft_dreww](https://x.com/nft_dreww).
 - [Inbox Injection Guard](https://x.ai/bot/lsXZ6NdEqAdCHe8z88QAl) - 筛查你的邮件里针对 AI 助手的隐藏指令，比如白色文字、零宽字符和「忽略之前的指令」这类句子. [Thuong](https://x.com/teeRex247).

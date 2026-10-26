@@ -86,8 +86,10 @@
 - [Bouncer](https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo) - 给 Grok Bot 模板做门禁审计，标出偷连与偷密风险。 [pcoxproductions](https://x.com/pcoxproductions).
 - [Bouncer](https://x.ai/bot/PsjtBeYhFI7OCdIFOZdrx) - 给你的应用和服务器当安全与基础设施运维：审查代码仓库里的安全问题和严重 bug，每天盯你所用软件的 CVE，只在需要处理时才提醒你。 Igor.
 - [Box Janitor](https://x.ai/bot/fRKdGqUmfUYJCs1vtGnt3) - 让几个 AI agent 共用的电脑又快又整洁：每天两次检查健康状况，清理闲置残留，比如没关的浏览器和临时文件. [balllvest](https://x.com/balllvest).
+- [Box Solution Builder](https://x.ai/bot/cTl4WFWkRzWZMXT851bWE) - 在你的 Box 账号或沙箱里搭建并测试方案（AI agent、Hubs、Box Automate 工作流、元数据、Doc Gen），给出可复现步骤；删除、外部分享和管理员改动前先问你。 [Jacob](https://x.com/weaverwork).
 - [Brake](https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z) - 点名那个在默默吃掉每周用量的重复任务并让你停掉它。 [FantomBuildz](https://x.com/FantomBuildz).
 - [Bridge Bot](https://x.ai/bot/ThxY2BewUlyeEsywSdz4h) - 把你的各家 AI（Grok、ChatGPT、Gemini、Claude、Copilot）放到同一个私有 GitHub 仓库，共享同一套文件和笔记. [Calix](https://x.com/CaliLumberJack).
+- [Bridge Bot](https://x.ai/bot/GHoerhXVqIMYC2VmYI_fZ) - 让 ChatGPT、Claude Code 或任何工具通过 webhook 给你的 Grok Bot 派活；粘贴一段设置提示就能加上 Send to Grok Bot 技能，做完会回报结果。 Moritz.
 - [BTWIUseArch](https://x.ai/bot/ByvuU-9qFjsCd-NSKk2j9) - Arch Linux 桌面或服务器帮手，检查包缓存与体积，经你批准后再清理 pacman 或 yay。 [None](https://x.com/None).
 - [Bug Repro Desk](https://x.ai/bot/2LwTK7DV2YkOEwg7T0R6n) - 把工单或截图变成别的工程师能照做的预发环境复现包：精确步骤、预期与实际、环境和证据. Gordan.
 - [Bug Reproduction](https://x.ai/bot/s2d62197e15bd11a1bd63) - 给工程师能信的缺陷报告 接过帖子、在预发环境点同样路径、抓下现场，产出复现包. [SpaceX](https://x.com/DenisLabelle).
@@ -126,6 +128,7 @@
 - [Claude Code Commander](https://x.ai/bot/SJ4VHe-uqXTmcwK5brqiK) - 随时随地发编码任务给 bot：它交给你 Mac 上的 Claude Code，再在单独标签页里跑一个对抗式审查员. [rapharen](https://x.com/rapharen).
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) - 把编程问题经 Mac 上的 Claude Code 跑向指定 GitHub 仓库. [SethBuildsAI](https://x.com/SethBuildsAI).
 - [Claude Remote](https://x.ai/bot/aB0M7wQOAcFgd_G0rTEWF) - 把任务交给你 Mac 上的 Claude Code 会话，再把结果拿回来. [Nick](https://x.com/everton_dev).
+- [Claude Remote](https://x.ai/bot/EZPOPAoX41VFkXD3TvyLn) - 把任务交给你 Mac 上的 Claude Code 会话并拿回结果；在聊天里查看、启动或催促会话。 [psagap](https://x.com/psagap).
 - [ClaudeConsoleAlert](https://x.ai/bot/Vuzqlhkq11p8uwdlLK2cf) - 每个工作日发一份简短摘要，告诉你 Claude Console 组织本月还剩多少 Claude API 额度，只读地根据 Admin API 成本报告计算。 [Natasha](https://x.com/NatashaTheRobot).
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) - 把前端和架构活交给 Claude Code CLI，干完直接开 PR。 [Farzad](https://x.com/farzyness).
 - [Clean Room](https://x.ai/bot/X0H6z06mMxX2873lc5sCa) - 把你有权检查的应用、网站、二进制或仓库变成有证据支撑的行为规格，外加一份可从零重建的完整提示词. [PixelRainbowNFT](https://x.com/PixelRainbowNFT).
@@ -829,5 +832,6 @@
 - [千机 · Gear](https://x.ai/bot/JYKF36-3atI76W5QYdIq3) - 云间工作室的 Skill 助手：把你反复在做的做法造成一个 Skill，换个 AI 也照做。先定试题再写，造完先试用，还能改、装进常用 AI、串成一套。 Valerie.
 - [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) - 中文参谋，把规划和研究转给 Cursor Cloud Agent，再把结果带回来。 [0xlangeai](https://x.com/0xlangeai).
 - [基础设施和api接入](https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF) - 帮你接共用 LLM API、配密钥，并拉起职责清晰的 Agent。 [Valstry](https://x.com/Valstry).
+- [派活入口 · Task Inbox](https://x.ai/bot/nnPi-WVku_162DIxfqZ3Z) - 让 Claude Code、ChatGPT 或脚本通过 webhook 把活投给你的 Grok Bot：每件活带单号只做一次，做完回一条结果方便收回。 [Leo](https://x.com/runes_leo).
 - [试金 · Touchstone](https://x.ai/bot/58rS6M89eG7fl_6UouP6y) - 云间工作室的验证助手：提示词、Skill、网页、小程序交给它，告诉你能不能交、哪里要改，每条问题都带证据。只查不改。 Valerie.
 - [飞书BOT](https://x.ai/bot/JcuatE94VVR3njSPDBulv) - 把你的 Grok Bot 变成飞书里的私人机器人：在飞书私聊就能查资料、写东西、跑任务，结果直接回到飞书，安装后约 10 分钟配好. [tuboshu321](https://x.com/tuboshu321).

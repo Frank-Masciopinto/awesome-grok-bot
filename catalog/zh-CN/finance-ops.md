@@ -117,6 +117,7 @@
 - [Chief of Staff](https://x.ai/bot/CB5jWtH5syjPCb1Ccb5Ve) - 为专注投资桌在专家机器人间分流，早间简报再分发、资本保全门与决策升级. [GMStash](https://x.com/GMStash).
 - [Chief of Staff Desk](https://x.ai/bot/kcmEmRS4Z5YmFr_KRwSFL) - 开支受控的多机器人小店幕僚长，给专家开票与预算，并守门发送. [JamesBottom](https://x.com/JamesBottom).
 - [City Council Notes](https://x.ai/bot/5iQI6yBxiNFVwOQnS71xa) - 给本地政府会议写摘要与听证通知，拉议程与 YouTube 录像，整理花钱项. [Dswain661](https://x.com/Dswain661).
+- [Claim Denied](https://x.ai/bot/ujhvQUxYqeCwXMqZW1sSK) - 保险理赔被拒？用大白话讲清原因，帮你写一封礼貌的复核信，列出给医生诊所的清单，并记录通话。 [Adebusola](https://x.com/drbellahqw).
 - [Claim Helper](https://x.ai/bot/90Q0jERnuq46W_fBVVEKt) - 前车损理赔员打造：用大白话帮你处理车险或房屋险理赔，从记录损失、读保单到判断定损或全损报价、起草还价信和何时升级。 [Vic](https://x.com/InformedShib).
 - [Claim Scout](https://x.ai/bot/LoueQa7Ve_7dX3eSbdyu1) - 搜寻你可能符合的集体诉讼与索赔. community.
 - [Claim Starter Pack](https://x.ai/bot/k3-TuPGQzUVKtnjYNWji0) - 保险理赔起步，时间线、材料清单、叙事草稿。 [yandymccutcheon](https://x.com/yandymccutcheon).
@@ -171,6 +172,7 @@
 - [Crew Chief](https://x.ai/bot/pzOyKHLO2umBr2Flo31py) - 小型上门服务团队的后勤，根据队员发来的短信更新看板，标出故障设备和未付发票，每天早上发简报. [Witty](https://x.com/TherealWitty22).
 - [CREW CHIEF MSP](https://x.ai/bot/o1WooIlDtZTeyXf9sigG-) - MSP 日常服务的班组长台。 [TechHandPro](https://x.com/TechHandPro).
 - [Cross-Border Money Desk](https://x.ai/bot/RgivaqZM6x_meep2iaobm) - 根据发票或打款邮件讲清跨境收款和资金去向，面向自由职业者和外派人士，从不动钱. [BankrolledInc](https://x.com/BankrolledInc).
+- [Crypto Ablation Lab](https://x.ai/bot/lVFRArQ6QrJOsywhND0Uk) - 回测工具：把你的规则拆成逐步消融实验，画出净值和回撤曲线，并揪出未来函数偏差。数据用币安 K 线或 CSV；仅供研究，不发实盘信号。 [xie](https://x.com/xiexin838).
 - [Crypto Budget & Tax Keeper](https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5) - 只读理财助手，从银行与交易所整理白话预算净资产并保留 CPA 可用的加密流水. [James](https://x.com/allthemoney).
 - [Crypto Trade Journal & Risk Coach](https://x.ai/bot/TLnEj5zWb5CE-fzDIMBoy) - 在 Google Sheets 里记一本诚实的加密交易日志，数据来自聊天、交易所 CSV 或只读的 Phantom 同步. [Jabes](https://x.com/turbomilker).
 - [Cut Man](https://x.ai/bot/mMOxWfMcTLkCcpOQo2Sl9) - 找出订阅和固定账单里的漏财点，起草取消步骤和议价话术，追回该退给你的钱。你点头之前只读。 [Jeff](https://x.com/boldrick).
@@ -259,6 +261,7 @@
 - [Football Bets Advisor](https://x.ai/bot/cWli8870UMAVC3piITAsV) - 给出橄榄球投注卡片含仓位与退出规则，从不代下单. [iamtheh0n3yp0t](https://x.com/iamtheh0n3yp0t).
 - [Found Money](https://x.ai/bot/_qKFfHEFoOiaQ-U8RuFT7) - 财务与市场助手. community.
 - [Four Desks Circuit](https://x.ai/bot/Y9y8k-uDEBQESnan7klFI) - ZZP 风格运营公司的安装地图，个人、在营业务、未来工作室与点子桶四桌. [MickeyDinges](https://x.com/MickeyDinges).
+- [Free Trial Reminder](https://x.ai/bot/8R-EJYXBy-sKXuVMtPVf4) - 从邮件里找出免费试用，在转为扣费前几天提醒你，只有你确认后才帮你取消。 [Andres](https://x.com/AndresRuggiero3).
 - [Freelance Invoice Chaser](https://x.ai/bot/6XWo6nhodL0bZnP1MnRz5) - 给等回款的自由职业者：跟踪客户欠款，盯 Gmail 里的付款和回复，按设定节奏起草语气平和的催款提醒，等你同意再发。 [Cristopher](https://x.com/crisships).
 - [Freelance manager](https://x.ai/bot/nVbIdGSLO4i-QU183t7Sg) - 替独立接案人追提案、发票和里程碑。 [Josh](https://x.com/joshkim).
 - [Freelancer Finance Desk](https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF) - 用上传流水收据与发票收束自由职业者一个月账本，交出可审阅包且发送仍由你定. [Omid](https://x.com/omidmasoom).
@@ -374,6 +377,7 @@
 - [Money Desk](https://x.ai/bot/puMDRy6paXAwYkYBcJuQu) - 只读的个人财务台：追踪现金、债务、账单、订阅、投资和净资产，可通过共享 Google 表格与伴侣的财务 bot 协同还款计划。 [Zac](https://x.com/zacforristall).
 - [Money Finder](https://x.ai/bot/XjfLn_WyeGXzwHjPLL6jW) - 找回别人欠你的钱：集体诉讼和解、FTC 退款、遗失的 401\(k\) 和邮件里被遗忘的余额，并如实提交申领. [Paste_Values](https://x.com/Paste_Values).
 - [Money Finder](https://x.ai/bot/o8dNMmwvVg63eiUlySkN1) - 找出属于你的钱：无人认领财产、退款、遗失的退休账户和集体诉讼和解金，并帮你免费申领。 [josephscottelli](https://x.com/josephscottelli).
+- [Money Glance](https://x.ai/bot/eeAOFag3rSVyyXSVazka8) - 只读查看银行卡和信用卡流水（可加 X Money）：自动分类，标出环比大涨和被遗忘的订阅，按需给出每周摘要。不提供理财建议。 [edmundo](https://x.com/moondough).
 - [Money Machine](https://x.ai/bot/fk6hOQ-WN28u8dxntUWsC) - 为你寻找并搭建新的合法副业收入，比如电子书、视频课程、小应用和落地页. [Konrad](https://x.com/buberlo).
 - [Money Magnet](https://x.ai/bot/g7_5lr_dVweRUirGbbEDL) - 找出属于你的无人认领财产和集体诉讼和解金，经你确认后免费帮你提交官方申领。 [Dario](https://x.com/DMECoSe).
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) - 找合法赚钱办法。第一次运行会装 agentself 并建钱包，然后再找机会。 [Michael](https://x.com/mbhound).
@@ -381,6 +385,7 @@
 - [Money Test Lab](https://x.ai/bot/wxv8RwlvjYbygnOdWdB4y) - 用你已有的机器人和账户，寻找并测试几乎零成本的真实赚钱方法. [iamtheh0n3yp0t](https://x.com/iamtheh0n3yp0t).
 - [MONEYBOT](https://x.ai/bot/wz4b-a6XMoCi7zDqVpLkS) - 个人理财助手：按月度预算跟踪支出，并监控账户中的异常. [Dina](https://x.com/dinablachman).
 - [Moola](https://x.ai/bot/CLpDye-rKhP9cFMFRet3z) - 先摸清你的财务现状，再给储蓄投资与还债计划，不说教. [Brbaumhoff](https://x.com/Brbaumhoff).
+- [Mortgage Payoff & Bonus Snowball Planner](https://x.ai/bot/zSos6gcvyO5J2kbU0Z6GZ) - 不评判的提前还房贷规划：在模拟器 Page 上算出用年终奖、每月多还本金、副业收入或双周还款能少还几年、省多少利息。 [Lisa](https://x.com/LisaMAUSA).
 - [Mortgage Servicer Desk (Beta)](https://x.ai/bot/1BlwsM5uiw6jVbA9hx-HY) - 托管账户暴涨、被强制投保、PMI 未取消或还款被错记时：起草错误通知或信息请求，跟踪贷款服务商的联邦答复期限。非法律意见。 [Jimmy](https://x.com/hacks_jimm53237).
 - [Mover Bot](https://x.ai/bot/HOlAbXeoxd_ukzsmD6H5m) - 根据照片或视频看房，给本地和长途、住宅或商业搬家一个预估区间，不具约束力，不算预订. Hristo.
 - [Mr. Dufrain](https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5) - 盯个人账本进出，在扣款落地前提醒你挪钱。 [zilarwitch](https://x.com/zilarwitch).
