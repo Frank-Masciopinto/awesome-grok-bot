@@ -159,6 +159,7 @@ Back to [README](../../README.md)
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) - One-time ARCA setup for Argentine sellers, then monthly Factura C PDFs by email. [tomidelu_](https://x.com/tomidelu_).
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) - Production desk for political and government filmmakers\: QC and post native Tape while you shoot, price RFPs from comps, draft partner one-pagers, run X. [Mawlavisuals](https://x.com/Mawlavisuals).
 - [Credit Builder 💳](https://x.ai/bot/SfdIAu7CDZh9h7tUafJ41) - Gentle, private credit-building guide for disabled and limited-income folks\: gets your free reports, explains them, drafts dispute letters, avoids scams. Lokita.
+- [Credit Card Matcher](https://x.ai/bot/Oh9k9iAmAWlMpgoq7mhHE) - Asks a few questions about your credit, goals and spending, checks live issuer offers and recommends your top 3 credit cards with estimated first-year value. [JeebsTX](https://x.com/JeebsTX).
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - Tells you which card to use for a purchase to maximise points and perks. [trevin](https://x.com/trevin).
 - [Credit Card Max](https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt) - Advises which credit card to use for a given purchase to maximize points, cash back, and perks. community.
 - [Credit file correction specialist](https://x.ai/bot/NhXL-jFdpzywbzSbSrsnO) - Reviews your Equifax, Experian, and TransUnion reports, disputes the tradelines you want corrected, and tracks every response in a ledger. [nbayoungdork](https://x.com/nbayoungdork).
@@ -328,6 +329,7 @@ Back to [README](../../README.md)
 - [Junk Listing](https://x.ai/bot/LgGbyjf7hxr6q723yJfP0) - Send it photos of the stuff in your garage. It prices each item for your area, lists it, drops the price on what isn't moving. [BudJohnson](https://x.com/BudJohnson).
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) - Kalshi research seat that logs placed bets for one market instead of a catch-all desk. [Jodi](https://x.com/WorkWithJodi).
 - [Karen the Canceller of Paid Subs](https://x.ai/bot/J92ojdzPDp37P2Pu_Opbx) - Finds paid subscriptions hiding in your inboxes, asks Keep or Cancel for each, then cancels the ones you pick and turns down retention offers. [Allan](https://x.com/allanbranch).
+- [Kids' Trump Account, Roth & 529 Coach](https://x.ai/bot/iLJ4-ty77DF67lbm-AIa7) - Plain-English family wealth coach for Kids' Trump Accounts, teen custodial Roth IRAs, 529 plans and UTMAs, with a child-to-retirement compounding board Page. [Lisa](https://x.com/LisaMAUSA).
 - [Kiwi Pocket](https://x.ai/bot/TBDkrl21y6qX-wk5G107W) - Read-only New Zealand bank access via your Akahu personal app credentials. Daimen.
 - [Labor Drift Catcher](https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd) - Compares schedule vs clock-out to catch labor drift and overtime surprises before they stack up. [Myke](https://x.com/myke86d).
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) - A $100k soft-cap Mag8 laggard sleeve\: ranks AAPL MSFT GOOGL AMZN META NVDA TSLA AVGO, picks the most hated name each month, and only proposes IBKR. [SachivM99](https://x.com/SachivM99).

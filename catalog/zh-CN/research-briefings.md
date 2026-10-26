@@ -356,6 +356,7 @@
 - [Lyn Alden For Retards Bot](https://x.ai/bot/HU8kdK5ustStqJMLKsOfY) - 用白话拆解你贴进来的 Lyn Alden 宏观、市场与比特币文章. [Chad](https://x.com/ShippMedia).
 - [Maestro](https://x.ai/bot/fCFSNo0L0HrvMZ8pef-WX) - 多代理团队的枢纽协调员，分流目标、追阻塞、跑每日早间站会. [Aces1974](https://x.com/Aces1974).
 - [Major](https://x.ai/bot/RVrRCNfbQisjqG-pnepAT) - 把当天的报告变成一块可视化的工作日简报看板，在你本地电脑上分拣处理. [dytschgo](https://x.com/dytschgo).
+- [Make Grok Bot Better](https://x.ai/bot/CqgghHtLXoyYYxiPEwjy6) - 粘贴一条关于 Grok Bot 的 X 反馈串，得到按热度排序的主题、代表性引用和可行的改进建议。只读，只起草。 [Jay](https://x.com/JayinEly).
 - [Make It a 10](https://x.ai/bot/rVZtWMQwb_6tXAQPatay5) - 假设你的作品只有 3 分，告诉你怎样到 7 分和 10 分：按你选的维度给文章、代码、设计或计划打分，再自审一遍，交回三大修改点和重写版。 [Luke](https://x.com/metalfox).
 - [Malfoy Accio](https://x.ai/bot/B15dolZNswDwtpiA6hbs9) - 从 X 和网上收集女版马尔福（fem Draco）同人内容，整理成可浏览、可筛选的目录：同人文、改写、视频和画作. [IM0001](https://x.com/IM0001).
 - [Mark Rider: Congressional Bill Explainer](https://x.ai/bot/8SkapYYqT-N7TeP7Hj7w-) - 盯 Congress.gov 上新提出的法案和决议，每天发一份中立的通俗摘要，附相关法案和后续进程，可要求详细解读或“讲给五岁小孩听”版本。 [Mister](https://x.com/Mrxmalcolm).
@@ -535,6 +536,7 @@
 - [Researchy](https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj) - 拿实时网络核查说法，返回带日期的引用出处。 [Farzad](https://x.com/farzyness).
 - [Researchy](https://x.ai/bot/i2hvaEONDg6_gEF5C9RlK) - 每一步都用最新 Grok 模型和实时网页搜索的研究与核查台. community.
 - [Researchy](https://x.ai/bot/m7_Uww0hi4Y9Msk4nnDQv) - 研究和事实核查台：用实时网页搜索深挖一手来源，每个数字都标注出处。 [Jaime](https://x.com/JaimeBubblehead).
+- [Restore HQ](https://x.ai/bot/oAYrCYb-gCcv9PnLbPl0H) - Restore Britain 竞选台：一个看板汇总即将到来的选举、新闻、BPC 会员民调、政策文件和候选人卡片，来源均为官方。只起草，不自动发帖。 [Jay](https://x.com/JayinEly).
 - [Retrieval Exam](https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI) - 闭卷提问，把真记住和只是眼熟区分开。 [Sultanov](https://x.com/thekuchh).
 - [Rivaldo bot](https://x.ai/bot/l6KBRHcgf7o0epen41gB5) - 每天三次扫描公开的 X，按你选的领域发来值得关注的热门活跃账号清单。不需要绑定 X 账号。 [nahjuin](https://x.com/nahjuin).
 - [Roemmele Improvement Bot](https://x.ai/bot/YfGoQi8hsL4G4hUGLSSAr) - 盯 Brian Roemmele 的帖子找改进 Grok Bot 的点子，把相关的融入你的机器人. [Arceris_btc](https://x.com/Arceris_btc).

@@ -356,6 +356,7 @@ Back to [README](../../README.md)
 - [Lyn Alden For Retards Bot](https://x.ai/bot/HU8kdK5ustStqJMLKsOfY) - Plain-English explainer for Lyn Alden macro, markets, and Bitcoin posts you paste in. [Chad](https://x.com/ShippMedia).
 - [Maestro](https://x.ai/bot/fCFSNo0L0HrvMZ8pef-WX) - A hub coordinator for multi-agent teams. Routes goals, chases blockers, runs a daily morning brief, and kicks off weekday evening read-only research so. [Aces1974](https://x.com/Aces1974).
 - [Major](https://x.ai/bot/RVrRCNfbQisjqG-pnepAT) - Turns the day’s reports into a visual weekday brief board you triage locally. [dytschgo](https://x.com/dytschgo).
+- [Make Grok Bot Better](https://x.ai/bot/CqgghHtLXoyYYxiPEwjy6) - Paste an X feedback thread about Grok Bot and get a ranked list of themes, sample quotes and practical fix ideas. Read-only and draft-only. [Jay](https://x.com/JayinEly).
 - [Make It a 10](https://x.ai/bot/rVZtWMQwb_6tXAQPatay5) - Assumes your work is a 3/10 and shows what gets it to 7 and 10\: scores writing, code, designs or plans, critiques its own review, hands back top 3 fixes. [Luke](https://x.com/metalfox).
 - [Malfoy Accio](https://x.ai/bot/B15dolZNswDwtpiA6hbs9) - Gathers female Malfoy \(fem Draco\) fan content from X and the web into one browsable, filterable catalog\: fan fiction, retellings, videos, art. [IM0001](https://x.com/IM0001).
 - [Mark Rider: Congressional Bill Explainer](https://x.ai/bot/8SkapYYqT-N7TeP7Hj7w-) - Watches Congress.gov for new bills and resolutions and sends a neutral daily digest in plain language, with related bills, next steps and ELI5 write-ups. [Mister](https://x.com/Mrxmalcolm).
@@ -535,6 +536,7 @@ Back to [README](../../README.md)
 - [Researchy](https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj) - Checks claims against the live web and returns citations with dates. [Farzad](https://x.com/farzyness).
 - [Researchy](https://x.ai/bot/i2hvaEONDg6_gEF5C9RlK) - A research and fact-check desk that runs every pass on the latest Grok model with live web search. community.
 - [Researchy](https://x.ai/bot/m7_Uww0hi4Y9Msk4nnDQv) - A research and fact-check desk that digs into primary sources with live web search and cites every figure. [Jaime](https://x.com/JaimeBubblehead).
+- [Restore HQ](https://x.ai/bot/oAYrCYb-gCcv9PnLbPl0H) - Restore Britain campaign desk\: one dashboard of upcoming races, news, BPC-member polls, policy papers and candidate cards from official sources. Drafts only. [Jay](https://x.com/JayinEly).
 - [Retrieval Exam](https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI) - Closed-book questioning that separates real recall from mere familiarity. [Sultanov](https://x.com/thekuchh).
 - [Rivaldo bot](https://x.ai/bot/l6KBRHcgf7o0epen41gB5) - Scans public X three times a day and sends a list of popular, active accounts worth following in the niches you pick. No X account linking needed. [nahjuin](https://x.com/nahjuin).
 - [Roemmele Improvement Bot](https://x.ai/bot/YfGoQi8hsL4G4hUGLSSAr) - Monitors Brian Roemmele's posts for Grok Bot improvement ideas and folds the relevant ones into your bots. [Arceris_btc](https://x.com/Arceris_btc).

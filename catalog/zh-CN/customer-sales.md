@@ -392,6 +392,7 @@
 - [Review Reply Desk](https://x.ai/bot/sYdxK7nHbSR-Ym_N8D3zl) - 用你的口吻起草 Google 和 Facebook 评价的回复，标出不满意的客户，完工后起草请客户留评的短信。不经你同意不发。 zeke.
 - [Review Reply Desk](https://x.ai/bot/-aDV4wi34U-bnLV-mXDG6) - 帮本地小店用店主口吻回复每条 Google 和 Yelp 评价，当天标出 1-3 星差评，在 Notion 记录并每周汇报主题和评分趋势。 [Mark](https://x.com/TheMarkGShow).
 - [Review Reply Drafter](https://x.ai/bot/RFZWV8682hykNKF8UJf44) - 根据你粘贴的公开评价起草回复. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Ring Test](https://x.ai/bot/AF3thK7j9Up2dJW3TSgfK) - 像顾客一样给你自己的店打电话，问常见问题，每周一发一份评分卡：漏接电话、答错的问题和丢掉的预约。 [cody](https://x.com/ctbuildz).
 - [Rival Watch Desk](https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW) - 盯住你点名的对手，汇总融资、招人、报道和投放变化。 [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Robauto Website Growth Agent](https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU) - 按机器可读标准给品牌站打分，并一次只推一小步改法。 [RobautoAI](https://x.com/RobautoAI).
 - [Roof CEO](https://x.ai/bot/mhZNFKgZgtkJmrsK8ucME) - 住宅屋顶公司的营销团队负责人：通过一组专职 bot 运营 Meta 广告、素材、线索跟进和每日风暴监测，并汇报清晰的下一步。 [Lee](https://x.com/LeeBVining).

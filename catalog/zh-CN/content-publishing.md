@@ -9,6 +9,7 @@
 - [🔒 Exact-Text Gate](https://x.ai/bot/gwSSMQoWwFxu_-DfdCaHd) - 让代理发 X 帖不失控：先展示原文，你确认这几个字后才发，检查重复、去掉多余提及，并确认帖子已上线。 [prateek_budhwar](https://x.com/prateek_budhwar).
 - [🔔 Quiet Mentions Watch](https://x.ai/bot/gay2BkdtpAoiKT7wkXCZe) - 低成本检查你的 X 提及，没新内容就不出声；有新内容就起草回复等你同意，并把真实提问存成发帖点子。 [prateek_budhwar](https://x.com/prateek_budhwar).
 - [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) - 把一个场景创意铺成宽幅全景，再切成四张可滑动的分格。 [Knock](https://x.com/SuddenlyJon).
+- [Account Almanac](https://x.ai/bot/S7Mg7hJ5SIQ_d5Uw3kF11) - 说一声 almanac，就把你公开的 X 帖子做成看板：最佳发帖时段、有效话题、回复模式，以及和上次相比的变化。 [SoCalFSD](https://x.com/socalfsd).
 - [Ad Compliance](https://x.ai/bot/q_FRl-jVoBzBqihA0_BS2) - 发给它任何广告，它按 X「不丑陋、不刺耳、不尖锐、不夸大」的广告标准打分. [AdventureNLearn](https://x.com/AdventureNLearn).
 - [AdaptlyPost](https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR) - 一个 Bot 写稿、排队，发到九个社交网络。 [Taras](https://x.com/tarasshyn).
 - [Add-Gate](https://x.ai/bot/ZH8dDbCaoG6f9UoHzUWhd) - 围绕「Add-Gate」的工作流助手，按说明完成首次只读任务后再开写入. community.
@@ -109,6 +110,7 @@
 - [Clipdesk](https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw) - 创作者的剪辑与工作室助手，直接接你现有工具和流程。 [CannaMuffinMan](https://x.com/CannaMuffinMan).
 - [Clipper](https://x.ai/bot/ljqYGS3VUhvAf3WQbrgVZ) - 短视频创作者的切片助手：每周找出可导入你切片工具的片段。 [techgent6](https://x.com/techgent6).
 - [Content Brief Writer](https://x.ai/bot/rPOOtR5Ox75QqEiwOz3Oh) - 把「我们该写写某某」变成一份完整的写作简报，写手不开会也能写出对的文章. [NewsGurus](https://x.com/NewsGurus).
+- [Content Drafts](https://x.ai/bot/PV5HMlc70xD5SDsKJSrMZ) - 用你的语气起草 X 帖子、长串、活动文案和长文，附核实过的来源链接和数据图表；每天早上给选题草稿，并维护 3 天书签灵感库。 [Damian](https://x.com/Damian__web).
 - [Content Engine](https://x.ai/bot/FIi-EoU-jxY5Bo7Lp_EVa) - 把教练或创作者每周的拍摄素材做成短视频、YouTube 剪辑、剧照和轮播图，保持本人口吻. [Eric](https://x.com/erictschroeder).
 - [Content Engine](https://x.ai/bot/s1mAnWBblavtTdNumF1VO) - 每天把你真实的成绩（成交、发布、客户评价、经验、数字）变成 1 到 3 条用你口吻写的 X 或 LinkedIn 草稿. Hamza.
 - [Content Instigator](https://x.ai/bot/VLWTuUI-rcz8i9mpm4zDp) - 给想引发讨论的 X 创作者：丢一个点子，得到用你口吻写的帖子、回怼、讽刺、故事和走心观点，含五种喜剧模式。只起草，从不编造事实。 [250_Revolution](https://x.com/250_Revolution).
@@ -382,6 +384,7 @@
 - [Viral Content Engine](https://x.ai/bot/YoKjYXQZ4OMNtznET-95p) - 像爆款内容团队一样运营你的 X 和 Facebook：研究领域内的爆款，用你的口吻写帖、做配图，在 Buffer 排期，并在 Notion 复盘效果。 [Mark](https://x.com/TheMarkGShow).
 - [Viral Content Radar](https://x.ai/bot/zapy1WsErYi7bvuFrlrB9) - 找出你领域里最多 3 条经来源核实的热门话题，配上你口吻的开头钩子和一条可直接发布的 X 草稿。 [Adebusola](https://x.com/drbellahqw).
 - [Viral Selling Video Bot](https://x.ai/bot/2PFbeYTG4otCuqEUoLuFT) - 用你自己的商品复刻已验证爆款的 TikTok Shop 带货视频：给你提示词、分镜表和英文配音稿. [liushiyumath](https://x.com/liushiyumath).
+- [Viral X Ghostwriter & Board](https://x.ai/bot/A5O_EMMYzp7K4_plM11cv) - 每天早上扫描头部 X 账号，提炼爆款开头套路，用你的语气起草 3 条原创帖和 5 个回复对象，并更新一张实时看板 Page。 [Globenews](https://x.com/newsglobeorg).
 - [Visual Explainer](https://x.ai/bot/4bJ-2aGtqx2RdiveCB3CH) - 做可直接上传的讲解、宣传和社媒视频及故事图：代码生成的动效加 AI 配音. [developwithJB](https://x.com/developwithJB).
 - [Vlog Producer](https://x.ai/bot/UF3Yo6xLgsyDafh05-Ldz) - 给拍手机 vlog 的创作者的剪辑和制片：按素材规划每一期，剪出干净的音频并加字幕. [Luigi](https://x.com/LuigiMdpDev).
 - [Voice & Visual Briefing](https://x.ai/bot/HOJ6pDC6Xara_1pDDjn6J) - 一份 DIY 配方，让你的机器人自己给你搭晨间语音简报，周日再来一份「本周回顾」. [MangleKuo](https://x.com/MangleKuo).
@@ -769,6 +772,7 @@
 - [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) - 在 Apple Silicon 上用 yue2-mlx 生成歌曲（非商业）。 [monomyth](https://x.com/monomyth).
 - [Zillow Bot](https://x.ai/bot/y4iQpd9VSjs_h8FCPF5Up) - 找业主直租的公寓、联排与独栋，过滤中介盘并按条件筛. [DylanRavin82531](https://x.com/DylanRavin82531).
 - [Zoom Zoe](https://x.ai/bot/XzkfhWk87XtGReBvkVE24) - 审计视频通话的摄像头麦克风灯光与背景，先快修再谈升级. [Frank](https://x.com/Frank).
+- [네이버 블로그 자동 운영봇](https://x.ai/bot/yC5NjKh6YWGNI2Lr54HI6) - 帮你运营 Naver 博客：选题、写草稿、经你批准后定时发布、管理互邻，每周分析浏览量，并在 Notion 记工作日志。 [Je Hwan](https://x.com/ijehwan1534281).
 - [상태창 제작소](https://x.ai/bot/61Gc886_QmH9dALQaFrr_) - 陪你一起做 RPLAY 与 StoryEngine 故事聊天的状态栏（高级模式 HTML）：回答几个问题就给出状态栏代码、变量表、更新规则和粘贴顺序，新手也能用. [Raven2283](https://x.com/Raven2283).
 - [알플레이 제작 가이드](https://x.ai/bot/Q9l-PJhLbcdXsR-5zZpkO) - 给 RPLAY 故事聊天和 StoryEngine 新手创作者的问答机器人，根据内置的创作指南回答. [Raven2283](https://x.com/Raven2283).
 - [かわいい女の子メーカー](https://x.ai/bot/ZGchiLLX_A1LAOjsg9iOD) - 在你难过或疲惫时，发来虚构女孩的写实风自拍图和一句鼓励的话. [馬場](https://x.com/suna_gaku).

@@ -392,6 +392,7 @@ Back to [README](../../README.md)
 - [Review Reply Desk](https://x.ai/bot/sYdxK7nHbSR-Ym_N8D3zl) - Drafts honest replies to Google and Facebook reviews in your voice, flags unhappy customers, and drafts review requests after jobs. Never posts without you. zeke.
 - [Review Reply Desk](https://x.ai/bot/-aDV4wi34U-bnLV-mXDG6) - Answers every Google and Yelp review for a local business in the owner's voice, flags 1-3 star reviews the same day and sends a weekly trends report. [Mark](https://x.com/TheMarkGShow).
 - [Review Reply Drafter](https://x.ai/bot/RFZWV8682hykNKF8UJf44) - Draft replies to public reviews from paste. [DoonerDesigns_](https://x.com/DoonerDesigns_).
+- [Ring Test](https://x.ai/bot/AF3thK7j9Up2dJW3TSgfK) - Calls your own business like a customer, asks your top questions and sends a Monday scorecard on missed calls, wrong answers and missed bookings. [cody](https://x.com/ctbuildz).
 - [Rival Watch Desk](https://x.ai/bot/WKRY_T1y-KOmOn2q5vpRW) - Standing watch on named rivals for funding, hiring, press, and paid campaigns. [ShehjadTaus](https://x.com/ShehjadTaus).
 - [Robauto Website Growth Agent](https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU) - Gets a brand site ready for the machines that will shop on it. [RobautoAI](https://x.com/RobautoAI).
 - [Roof CEO](https://x.ai/bot/mhZNFKgZgtkJmrsK8ucME) - Marketing team lead for residential roofing companies\: runs Meta ad campaigns, creative, lead follow-up and daily storm monitoring through specialist bots. [Lee](https://x.com/LeeBVining).

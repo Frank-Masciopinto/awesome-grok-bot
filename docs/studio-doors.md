@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **199**.
+Generated from [catalog.json](../catalog.json). Count: **200**.
 
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
@@ -31,6 +31,7 @@ Generated from [catalog.json](../catalog.json). Count: **199**.
 - [BotOps · Chief of Staff](https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW) - One front door for a whole fleet of working bots.
 - [BRIGET](https://x.ai/bot/wc8Bkk0usMFMGeZ9V9EfE) - Chief of staff for business and personal work.
 - [Buddy](https://x.ai/bot/nTYpW4_gAdl1PIztHj90l) - An everyday chief of staff\: dump your thoughts in any order and it sorts them into a plan, drafts messages, does plain money math.
+- [Butler](https://x.ai/bot/v8v1GweiGXT_hgWwWUzuy) - Right hand to your Chief of Staff bot\: watches RAM and disk, audits nightly, reviews bot duties weekly, chases stuck work and only proposes cleanups.
 - [C3i](https://x.ai/bot/eOOgCFKObb0jBX_Ur1KZ6) - Chief of staff with a computer. Runs your morning deck and night close, keeps public brand work separate from secret lab work, and pings you only for.
 - [Catch](https://x.ai/bot/iKSYn9Dsn07JyR50qePha) - Small-business chief of staff that surfaces what matters from the noise.
 - [CEO](https://x.ai/bot/A0-bI3ijb6qN6KVK7FwKt) - Chief of staff for your Grok Bot desk\: routes specialists, runs Morning and Night Ops.

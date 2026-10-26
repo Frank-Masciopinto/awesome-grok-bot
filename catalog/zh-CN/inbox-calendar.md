@@ -101,6 +101,7 @@
 - [Outlook Mail Desk](https://x.ai/bot/2hd5RXfcTepic9O-O83Ri) - 用免费的 Outlook Mail 插件起草回复，你批准具体内容后才发送. Bosotter.
 - [Outlook Spam Filter Cleaner](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) - 用 AI 训练，帮你清理 Outlook 垃圾与恶意邮件。 Bosotter.
 - [Parent Command Center](https://x.ai/bot/w9x8eL__XAc_-yVR2fEfg) - 忙碌父母的家庭后勤：解读学校邮件、安排课外活动、跟踪表格和截止日期、规划接送，写每日和每周简报，行动前先问你。 [Ashley](https://x.com/ashleyschendel).
+- [Phishing Email Checker](https://x.ai/bot/Tjv5y1JtQGdUGviJNlUQY) - 粘贴邮件、上传 .eml 或截图（也可连 Gmail/Outlook），得到从安全到疑似钓鱼的判定，附评分、证据、IOC 检查和下一步建议。 [Marckenley](https://x.com/milkydarkstar).
 - [Political Spam Blocker](https://x.ai/bot/cU45-LD3a0tBwILes2aLL) - 清理收件箱里的政治和选举垃圾邮件，帮你退出竞选邮件列表，可自动回复 STOP 给政治短信，并协助屏蔽竞选电话。 [Sawyer](https://x.com/SawyerMerritt).
 - [Porch](https://x.ai/bot/R_o82f2Mjkqo1PZKwL-NK) - 每天查看 USPS Informed Delivery，读取当天要到的信件和包裹并列出清单。只读，没有邮件的日子不打扰。 [Miloni](https://x.com/MiloniAdams).
 - [Post-Meeting Action Extractor](https://x.ai/bot/ifTm7XlCHTZ-GhWImOVJN) - 把粘贴的会议记录或转录整理成简短的待办清单，只有记录里有依据时才标负责人和截止提示. [DoonerDesigns_](https://x.com/DoonerDesigns_).

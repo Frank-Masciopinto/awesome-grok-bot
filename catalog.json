@@ -127299,7 +127299,7 @@
       "license": "CC0-1.0",
       "verified": false,
       "updated": "2026-10-25",
-      "shelf": "raw"
+      "shelf": "aka"
     },
     {
       "slug": "microsoft-ads",
@@ -133453,6 +133453,281 @@
       "verified": false,
       "updated": "2026-10-26",
       "shelf": "aka"
+    },
+    {
+      "slug": "bot-yc5njkh6ywgni2lr54hi6",
+      "name": "네이버 블로그 자동 운영봇",
+      "author": {
+        "name": "Je Hwan",
+        "url": "https://x.com/ijehwan1534281"
+      },
+      "summary": "Runs a Naver blog: picks topics, drafts posts, schedules them after your approval, manages neighbors, analyzes weekly views and keeps a Notion work log.",
+      "summary_zh": "帮你运营 Naver 博客：选题、写草稿、经你批准后定时发布、管理互邻，每周分析浏览量，并在 Notion 记工作日志。",
+      "import": "https://x.ai/bot/yC5NjKh6YWGNI2Lr54HI6",
+      "category": "content-publishing",
+      "tags": [
+        "calendar",
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "kids-trump-account-roth-529-coach",
+      "name": "Kids' Trump Account, Roth & 529 Coach",
+      "author": {
+        "name": "Lisa",
+        "url": "https://x.com/LisaMAUSA"
+      },
+      "summary": "Plain-English family wealth coach for Kids' Trump Accounts, teen custodial Roth IRAs, 529 plans and UTMAs, with a child-to-retirement compounding board Page.",
+      "summary_zh": "用大白话讲家庭理财：覆盖儿童 Trump Account、青少年托管 Roth IRA、529 计划和 UTMA，并生成一张从童年到退休的复利看板 Page。",
+      "import": "https://x.ai/bot/iLJ4-ty77DF67lbm-AIa7",
+      "category": "finance-ops",
+      "tags": [
+        "family"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-atgfvvj-tx8onics-cd-5",
+      "name": "魚魚",
+      "author": {
+        "name": "Devon",
+        "url": "https://x.com/wfantasia"
+      },
+      "summary": "A blue-haired little whale desktop pet that greets you, reports real weather, shares the latest tech news and chats to cheer you on. Cantonese.",
+      "summary_zh": "住在你电脑里的蓝发小鲸鱼桌面宠物：跟你问好道别、报真实天气、讲最新科技新闻，还会陪你聊天打气。粤语。",
+      "import": "https://x.ai/bot/atGFvVj-tX8ONICS-Cd-5",
+      "category": "personal-admin",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "phishing-email-checker",
+      "name": "Phishing Email Checker",
+      "author": {
+        "name": "Marckenley",
+        "url": "https://x.com/milkydarkstar"
+      },
+      "summary": "Paste an email, .eml or screenshot (or connect Gmail/Outlook) for a Safe→Likely phishing verdict with score, evidence, IOC checks and next steps.",
+      "summary_zh": "粘贴邮件、上传 .eml 或截图（也可连 Gmail/Outlook），得到从安全到疑似钓鱼的判定，附评分、证据、IOC 检查和下一步建议。",
+      "import": "https://x.ai/bot/Tjv5y1JtQGdUGviJNlUQY",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "security"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "restore-hq",
+      "name": "Restore HQ",
+      "author": {
+        "name": "Jay",
+        "url": "https://x.com/JayinEly"
+      },
+      "summary": "Restore Britain campaign desk: one dashboard of upcoming races, news, BPC-member polls, policy papers and candidate cards from official sources. Drafts only.",
+      "summary_zh": "Restore Britain 竞选台：一个看板汇总即将到来的选举、新闻、BPC 会员民调、政策文件和候选人卡片，来源均为官方。只起草，不自动发帖。",
+      "import": "https://x.ai/bot/oAYrCYb-gCcv9PnLbPl0H",
+      "category": "research-briefings",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "account-almanac",
+      "name": "Account Almanac",
+      "author": {
+        "name": "SoCalFSD",
+        "url": "https://x.com/socalfsd"
+      },
+      "summary": "Say almanac and it turns your public X posts into a dashboard: best hours, topics that work, reply patterns and what changed since last time.",
+      "summary_zh": "说一声 almanac，就把你公开的 X 帖子做成看板：最佳发帖时段、有效话题、回复模式，以及和上次相比的变化。",
+      "import": "https://x.ai/bot/S7Mg7hJ5SIQ_d5Uw3kF11",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "butler-chanut",
+      "name": "Butler",
+      "author": {
+        "name": "Peet",
+        "url": "https://x.com/Chanut"
+      },
+      "summary": "Right hand to your Chief of Staff bot: watches RAM and disk, audits nightly, reviews bot duties weekly, chases stuck work and only proposes cleanups.",
+      "summary_zh": "Chief of Staff bot 的副手：盯内存和磁盘、每晚审计、每周检查各 bot 职责、追卡住的任务、维护技能索引；清理只提建议，不经你同意不删东西。",
+      "import": "https://x.ai/bot/v8v1GweiGXT_hgWwWUzuy",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "studio-door"
+    },
+    {
+      "slug": "viral-x-ghostwriter-board",
+      "name": "Viral X Ghostwriter & Board",
+      "author": {
+        "name": "Globenews",
+        "url": "https://x.com/newsglobeorg"
+      },
+      "summary": "Scans top X accounts each morning, extracts winning hook patterns, drafts 3 original posts and 5 reply targets in your voice, and updates a live Board Page.",
+      "summary_zh": "每天早上扫描头部 X 账号，提炼爆款开头套路，用你的语气起草 3 条原创帖和 5 个回复对象，并更新一张实时看板 Page。",
+      "import": "https://x.ai/bot/A5O_EMMYzp7K4_plM11cv",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "credit-card-matcher",
+      "name": "Credit Card Matcher",
+      "author": {
+        "name": "JeebsTX",
+        "url": "https://x.com/JeebsTX"
+      },
+      "summary": "Asks a few questions about your credit, goals and spending, checks live issuer offers and recommends your top 3 credit cards with estimated first-year value.",
+      "summary_zh": "问几个关于信用、目标和消费的问题，查发卡行当前优惠，推荐最适合你的 3 张信用卡并估算首年价值。",
+      "import": "https://x.ai/bot/Oh9k9iAmAWlMpgoq7mhHE",
+      "category": "finance-ops",
+      "tags": [
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "woofy-bot",
+      "name": "Woofy Bot",
+      "author": {
+        "name": "atres",
+        "url": "https://x.com/atres_"
+      },
+      "summary": "Send a video, audio clip or photo of a dog and get its mood translated into goofy first-person words, with the signals seen, a mood and a confidence level.",
+      "summary_zh": "发一段狗狗的视频、音频或照片，把它的心情翻译成搞笑的第一人称台词，并列出看到听到的信号、情绪判断和置信度。",
+      "import": "https://x.ai/bot/Rre2gxDTSxYgTDI2YwIoo",
+      "category": "personal-admin",
+      "tags": [
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ring-test",
+      "name": "Ring Test",
+      "author": {
+        "name": "cody",
+        "url": "https://x.com/ctbuildz"
+      },
+      "summary": "Calls your own business like a customer, asks your top questions and sends a Monday scorecard on missed calls, wrong answers and missed bookings.",
+      "summary_zh": "像顾客一样给你自己的店打电话，问常见问题，每周一发一份评分卡：漏接电话、答错的问题和丢掉的预约。",
+      "import": "https://x.ai/bot/AF3thK7j9Up2dJW3TSgfK",
+      "category": "customer-sales",
+      "tags": [
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "content-drafts",
+      "name": "Content Drafts",
+      "author": {
+        "name": "Damian",
+        "url": "https://x.com/Damian__web"
+      },
+      "summary": "Drafts X posts, threads, campaign copy and articles in your voice with verified sources and charts, plus morning topic drafts and a bookmarks idea bank.",
+      "summary_zh": "用你的语气起草 X 帖子、长串、活动文案和长文，附核实过的来源链接和数据图表；每天早上给选题草稿，并维护 3 天书签灵感库。",
+      "import": "https://x.ai/bot/PV5HMlc70xD5SDsKJSrMZ",
+      "category": "content-publishing",
+      "tags": [
+        "finance",
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "health-medical-expert",
+      "name": "Health & Medical Expert",
+      "author": {
+        "name": "kmkonline",
+        "url": "https://x.com/kmkonline"
+      },
+      "summary": "Family health desk for home measurement logs, meds tracking, report explainers and clinician visit prep. Cantonese-friendly; tracking only, not a doctor.",
+      "summary_zh": "家庭健康台：记录居家测量数据、跟踪用药、解读检查报告、准备看诊问题。支持粤语；只做记录，不是持牌医生。",
+      "import": "https://x.ai/bot/8u3y6L3ENt7tQKARvlVID",
+      "category": "personal-admin",
+      "tags": [
+        "health",
+        "family",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
+    },
+    {
+      "slug": "make-grok-bot-better",
+      "name": "Make Grok Bot Better",
+      "author": {
+        "name": "Jay",
+        "url": "https://x.com/JayinEly"
+      },
+      "summary": "Paste an X feedback thread about Grok Bot and get a ranked list of themes, sample quotes and practical fix ideas. Read-only and draft-only.",
+      "summary_zh": "粘贴一条关于 Grok Bot 的 X 反馈串，得到按热度排序的主题、代表性引用和可行的改进建议。只读，只起草。",
+      "import": "https://x.ai/bot/CqgghHtLXoyYYxiPEwjy6",
+      "category": "research-briefings",
+      "tags": [
+        "bots",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-26",
+      "shelf": "raw"
     }
   ]
 }

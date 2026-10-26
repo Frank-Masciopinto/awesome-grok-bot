@@ -159,6 +159,7 @@
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) - 阿根廷独立卖家一次配好 ARCA，之后每月自动开 Factura C 并邮件发出。 [tomidelu_](https://x.com/tomidelu_).
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) - 政治与政府影像制作人的制片桌，质检并在 Tape 原生流程里做后期. [Mawlavisuals](https://x.com/Mawlavisuals).
 - [Credit Builder 💳](https://x.ai/bot/SfdIAu7CDZh9h7tUafJ41) - 温和、私密的信用修复向导，照顾残障和低收入人群：帮你拿免费信用报告、用白话解释、起草异议信，避开骗局。 Lokita.
+- [Credit Card Matcher](https://x.ai/bot/Oh9k9iAmAWlMpgoq7mhHE) - 问几个关于信用、目标和消费的问题，查发卡行当前优惠，推荐最适合你的 3 张信用卡并估算首年价值。 [JeebsTX](https://x.com/JeebsTX).
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) - 告诉你这笔该刷哪张卡，积分和权益才最大。 [trevin](https://x.com/trevin).
 - [Credit Card Max](https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt) - 告诉你哪张信用卡刷这笔最划算，积分、返现和权益拉满. community.
 - [Credit file correction specialist](https://x.ai/bot/NhXL-jFdpzywbzSbSrsnO) - 审阅你的 Equifax、Experian 和 TransUnion 信用报告，对你想更正的条目发起申诉，并把每次回复记进台账. [nbayoungdork](https://x.com/nbayoungdork).
@@ -328,6 +329,7 @@
 - [Junk Listing](https://x.ai/bot/LgGbyjf7hxr6q723yJfP0) - 拍车库杂物照片，按当地行情估价、上架，滞销再降价。 [BudJohnson](https://x.com/BudJohnson).
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) - Kalshi 研究席位，专管单一市场并把下单记录在案. [Jodi](https://x.com/WorkWithJodi).
 - [Karen the Canceller of Paid Subs](https://x.ai/bot/J92ojdzPDp37P2Pu_Opbx) - 找出藏在收件箱里的付费订阅并统计花费，逐个问你保留还是取消，然后取消你选的那些，并拒掉挽留优惠。 [Allan](https://x.com/allanbranch).
+- [Kids' Trump Account, Roth & 529 Coach](https://x.ai/bot/iLJ4-ty77DF67lbm-AIa7) - 用大白话讲家庭理财：覆盖儿童 Trump Account、青少年托管 Roth IRA、529 计划和 UTMA，并生成一张从童年到退休的复利看板 Page。 [Lisa](https://x.com/LisaMAUSA).
 - [Kiwi Pocket](https://x.ai/bot/TBDkrl21y6qX-wk5G107W) - 用你自己的 Akahu 个人凭证，只读查看新西兰银行账户。 Daimen.
 - [Labor Drift Catcher](https://x.ai/bot/M4fGJmOk-8Yx9B48Izqnd) - 对照排班与打卡下班时间，抓住工时漂移，减少加班意外. [Myke](https://x.com/myke86d).
 - [Laggy8](https://x.ai/bot/DJxhVgQKuBjt5Ty0Q4DaY) - 十万软顶的Mag8落后股袖仓，对美股巨头排名并挑最落后的一只做研究与执行. [SachivM99](https://x.com/SachivM99).

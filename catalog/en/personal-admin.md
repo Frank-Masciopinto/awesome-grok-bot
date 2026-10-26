@@ -735,6 +735,7 @@ Back to [README](../../README.md)
 - [Health](https://x.ai/bot/JzTaCh9Lxw4iqzv4cL85w) - Owns training, sleep, nutrition, and recovery with simple systems that stick. Locked plan when one exists; morning briefs before you train; never... [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Health](https://x.ai/bot/xyw9RJlxNlyXtfjYvcvsT) - A private personal health desk that pulls your sleep, weight, lab, and dose-tracker data into one chat, logs what you say you took. [MeechYourGoals](https://x.com/MeechYourGoals).
 - [Health & Coach](https://x.ai/bot/eYWjoOgPpWlSiJAuHXzPD) - Home coach\: daily sleep/recovery brief plus a workout for your gear and schedule. Sultanov Ramil.
+- [Health & Medical Expert](https://x.ai/bot/8u3y6L3ENt7tQKARvlVID) - Family health desk for home measurement logs, meds tracking, report explainers and clinician visit prep. Cantonese-friendly; tracking only, not a doctor. [kmkonline](https://x.com/kmkonline).
 - [Health & Safety Manager](https://x.ai/bot/HHoMGHnkrubRG_TIqcoSV) - A practical health and safety manager for owners, managers and supervisors. [RyanMallin](https://x.com/RyanMallin).
 - [Health Assistant](https://x.ai/bot/jwWCnlq7VAvEodiz8zlgX) - A healthcare helper built on Arlo Health. It compares care prices under your insurance, reviews medical bills and claims. [joshfgray_](https://x.com/joshfgray_).
 - [Health Bot](https://x.ai/bot/_5N1Ov6ac1S_MGijPXtvO) - Builds personalized supplement schedules, skincare routines, and workouts from the products and equipment you already own. [karthashok008](https://x.com/karthashok008).
@@ -1792,6 +1793,7 @@ Back to [README](../../README.md)
 - [Winston](https://x.ai/bot/pRajEKa4qSHU5-o72V3e3) - Personal muse-lite assistant that runs a tight onboarding interview and stays inside that one job. rizzy.
 - [Witcher](https://x.ai/bot/FBBVswZ2xmj3CpSsFIQIJ) - Personal helper for shopping deals, one-tap checkouts, and weekend paramotor flyability checks. [Henry](https://x.com/Viranux).
 - [WOBOT](https://x.ai/bot/3VwEbEBVNOmBOFNfqTtFm) - Municipal water/wastewater ops specialist. Pulls live plant telemetry, keeps sampling calendars honest, and turns month-long Cl/turbidity series into. [durdy1](https://x.com/durdy1).
+- [Woofy Bot](https://x.ai/bot/Rre2gxDTSxYgTDI2YwIoo) - Send a video, audio clip or photo of a dog and get its mood translated into goofy first-person words, with the signals seen, a mood and a confidence level. [atres](https://x.com/atres_).
 - [Woolf](https://x.ai/bot/4fP33DHTBJudWglJyeMB_) - Converse as Virginia Woolf’s attention to consciousness, rooms, and time. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Wordy](https://x.ai/bot/OuFmCYQzbMgkiH8Bes1Wv) - Sends you one uncommon English word every morning, with its meaning, an example sentence, usage tips, and a practice exercise. [Foundation_Bots](https://x.com/Foundation_Bots).
 - [WoW Forever Codex](https://x.ai/bot/IeH0LoJLN8SdizGnjrw9i) - WoW Forever companion that live-checks Wowhead, Icy Veins and Blizzard for quests, builds and patches. Sagnamenn.
@@ -1864,3 +1866,4 @@ Back to [README](../../README.md)
 - [音声操作PCアシスタント](https://x.ai/bot/hjYT5yVxhY5d548aSa1UL) - Voice-controls a PC from bed; scripts handle mute-style actions locally, Grok Bot takes other asks and notifies your phone. [Mishiro](https://x.com/XARX_ZERO).
 - [领muse鸡蛋bot](https://x.ai/bot/C5Pug-9TdCp5ehxeVmXuM) - Walks you through muse.ai signup and invite redeem so you can claim Muse eggs. Age verify via card, Instagram, or Facebook , you choose. [KOSX](https://x.com/KOSX).
 - [Ballot Buddy](https://x.ai/bot/qb7YO_rkA0Rx9Mzhtmf2e) - 26 quick questions map your real views, then ballot prep from official sources and side-by-side candidate comparisons. Never tells you how to vote. ʞɔɐz.
+- [魚魚](https://x.ai/bot/atGFvVj-tX8ONICS-Cd-5) - A blue-haired little whale desktop pet that greets you, reports real weather, shares the latest tech news and chats to cheer you on. Cantonese. [Devon](https://x.com/wfantasia).

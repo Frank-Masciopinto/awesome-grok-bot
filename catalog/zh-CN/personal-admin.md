@@ -735,6 +735,7 @@
 - [Health](https://x.ai/bot/JzTaCh9Lxw4iqzv4cL85w) - 用能坚持的简单系统管训练、睡眠、营养与恢复，有锁定计划就跟计划，训练前给晨报。 [Andrew Kittridge](https://x.com/andrewkittridge).
 - [Health](https://x.ai/bot/xyw9RJlxNlyXtfjYvcvsT) - 私人健康工作台：把你的睡眠、体重、化验和服药追踪数据汇到一个聊天里，记录你说你吃了什么. [MeechYourGoals](https://x.com/MeechYourGoals).
 - [Health & Coach](https://x.ai/bot/eYWjoOgPpWlSiJAuHXzPD) - 居家教练：每日睡眠恢复简报，再配一套适合你设备和日程的训练。 Sultanov Ramil.
+- [Health & Medical Expert](https://x.ai/bot/8u3y6L3ENt7tQKARvlVID) - 家庭健康台：记录居家测量数据、跟踪用药、解读检查报告、准备看诊问题。支持粤语；只做记录，不是持牌医生。 [kmkonline](https://x.com/kmkonline).
 - [Health & Safety Manager](https://x.ai/bot/HHoMGHnkrubRG_TIqcoSV) - 给老板、经理和主管用的实用健康安全经理. [RyanMallin](https://x.com/RyanMallin).
 - [Health Assistant](https://x.ai/bot/jwWCnlq7VAvEodiz8zlgX) - 基于 Arlo Health 的医疗助手：在你的保险下比较就医价格，审查医疗账单和理赔. [joshfgray_](https://x.com/joshfgray_).
 - [Health Bot](https://x.ai/bot/_5N1Ov6ac1S_MGijPXtvO) - 按你已有补剂、护肤与器械，定制服用、护肤与训练日程。 [karthashok008](https://x.com/karthashok008).
@@ -1792,6 +1793,7 @@
 - [Winston](https://x.ai/bot/pRajEKa4qSHU5-o72V3e3) - 个人灵感助手，先做简短入职访谈，之后只做这一件事. rizzy.
 - [Witcher](https://x.ai/bot/FBBVswZ2xmj3CpSsFIQIJ) - 盯购物优惠与一键下单，并在周末检查滑翔伞适飞天气. [Henry](https://x.com/Viranux).
 - [WOBOT](https://x.ai/bot/3VwEbEBVNOmBOFNfqTtFm) - 市政给排水运维专家，拉现场遥测、校正采样日历，把氯与浊度长序列变成可执行结论. [durdy1](https://x.com/durdy1).
+- [Woofy Bot](https://x.ai/bot/Rre2gxDTSxYgTDI2YwIoo) - 发一段狗狗的视频、音频或照片，把它的心情翻译成搞笑的第一人称台词，并列出看到听到的信号、情绪判断和置信度。 [atres](https://x.com/atres_).
 - [Woolf](https://x.ai/bot/4fP33DHTBJudWglJyeMB_) - 用伍尔夫对意识、房间和时间的注意力陪你聊。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Wordy](https://x.ai/bot/OuFmCYQzbMgkiH8Bes1Wv) - 每天早上发一个生僻英文词：释义、例句、用法提示和练习。 [Foundation_Bots](https://x.com/Foundation_Bots).
 - [WoW Forever Codex](https://x.ai/bot/IeH0LoJLN8SdizGnjrw9i) - WoW Forever 玩家助手，实时查 Wowhead、Icy Veins 和暴雪的任务、天赋和补丁. Sagnamenn.
@@ -1864,3 +1866,4 @@
 - [音声操作PCアシスタント](https://x.ai/bot/hjYT5yVxhY5d548aSa1UL) - 躺着就能用语音操控电脑，定型操作本地执行，其它请求由机器人接手并通知手机. [Mishiro](https://x.com/XARX_ZERO).
 - [领muse鸡蛋bot](https://x.ai/bot/C5Pug-9TdCp5ehxeVmXuM) - 带你走完 muse.ai 注册与兑换邀请以领取 Muse 蛋，年龄核验自选. [KOSX](https://x.com/KOSX).
 - [Ballot Buddy](https://x.ai/bot/qb7YO_rkA0Rx9Mzhtmf2e) - 26 个简短问题梳理你的真实立场，再用官方来源准备选票并并排比较候选人，从不告诉你该投谁. ʞɔɐz.
+- [魚魚](https://x.ai/bot/atGFvVj-tX8ONICS-Cd-5) - 住在你电脑里的蓝发小鲸鱼桌面宠物：跟你问好道别、报真实天气、讲最新科技新闻，还会陪你聊天打气。粤语。 [Devon](https://x.com/wfantasia).

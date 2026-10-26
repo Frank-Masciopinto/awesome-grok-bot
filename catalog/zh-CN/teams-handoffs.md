@@ -63,6 +63,7 @@
 - [Burn Bot](https://x.ai/bot/G8UC5gSkoUvInIH22DG0u) - 交付一个加锁的技能包：输入发送者给的一次性口令解锁，错三次就自毁。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Burn Rate](https://x.ai/bot/XfW7A4ilcsOkPbnP2_cvr) - 每周审计，在你批准后砍掉 bot 里浪费用量的例程. [Nick](https://x.com/thecsguy).
 - [Burn Rate](https://x.ai/bot/7W4gL9voEyf13K752FHNR) - Grok 用量配速器：授权一次后自己查看用量页面，跟踪每周用量，告诉你是否超速。 [Screaming](https://x.com/Screaming_Chkn).
+- [Butler](https://x.ai/bot/v8v1GweiGXT_hgWwWUzuy) - Chief of Staff bot 的副手：盯内存和磁盘、每晚审计、每周检查各 bot 职责、追卡住的任务、维护技能索引；清理只提建议，不经你同意不删东西。 [Peet](https://x.com/Chanut).
 - [Buzz Bot](https://x.ai/bot/ho63r6GtXrOE8CPayJ_ap) - 把 Grok Bot 作为 agent 接进你的 Buzz 工作区；Buzz 是 Block 开源的、人和 AI agent 共用房间的工作区. [EntropyLapse](https://x.com/EntropyLapse).
 - [Buzz Operator](https://x.ai/bot/rPbrJE84y3jFhTi6DNxu5) - 带你自建 Buzz 并用 Tailscale 接入队友，搭好第一个 Grok Build 智能体，把机器人变成频道里的队友. [Justin](https://x.com/jschnett).
 - [Centelligence Brain Bot](https://x.ai/bot/HgJAKibC-EAZQ-Myn6tEM) - 装在你自己 Grok Bot 里的个人 AI 大脑：把优先事项、人脉、决策和承诺存成纯文本文件，只根据已存内容回答。需你自己的 Modal 账号。 [Levi](https://x.com/levi_w_eck).
