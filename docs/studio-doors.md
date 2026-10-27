@@ -3,7 +3,7 @@
 Editorial `shelf: studio-door` shares — orchestrators, installers, front desks, and crew hubs.
 Reachable is not the same as safe. `verified` is a separate maintainer flag.
 
-Generated from [catalog.json](../catalog.json). Count: **200**.
+Generated from [catalog.json](../catalog.json). Count: **202**.
 
 - [ADHD Founder's Chief](https://x.ai/bot/7PyUClpHZH-lavGlXGRVg) - Chief of staff for ADHD founders\: one task at a time, big jobs cut into 5-minute chunks, one-tap approvals, and late-night ideas caught.
 - [After-Hours Front Desk](https://x.ai/bot/vPREznXsecJi_51MeJNRQ) - Answers after-hours calls and website chat for small service businesses—movers, HVAC, plumbers, landscapers, cleaners.
@@ -58,6 +58,7 @@ Generated from [catalog.json](../catalog.json). Count: **200**.
 - [Chief of Staff Hub](https://x.ai/bot/8m_coI7VfLJXAQuB6DsOd) - A brief, proactive hub that coordinates specialist agents, watches email and calendar, and keeps family/work logistics moving without fluff.
 - [Chief of Staff Kit](https://x.ai/bot/lgNmuYSTX9tRPjnKNxIS0) - One front door for your bot org\: routes work to specialist bots, tracks open items and never acts externally without your approval.
 - [Chief of Staff Morning](https://x.ai/bot/9h28mHEds4Q5FHkni25Js) - Morning email and calendar triage after a guided Gmail and Google Calendar setup.
+- [Chief of Staff Template](https://x.ai/bot/Pz17GKXbh7LKHkLu4IcR0) - A sellable Chief of Staff bot, the hub of the 'Founder's Back Office' package of public Grok Bot templates.
 - [Chief Rocka](https://x.ai/bot/jonryYohiQwZx_gdg0BT2) - Chief of Staff for a multi-agent team. Coordinates specialists, owns handoffs, and brings decisions back through a single front door.
 - [Children's Book Chief of Staff](https://x.ai/bot/p6yHgNaOHh55XAhXCURuY) - Plans ages 4–8 picture manuscripts with beat sheets, page structures, and blank templates for collaborators.
 - [Citation Outreach - Chief of Staff](https://x.ai/bot/AloagFdLLL5SoNPyIszRb) - Chief of Staff for a citation-outreach pipeline. Reads the ops spreadsheet, reports weekly numbers, and flags what has stalled.
@@ -75,6 +76,7 @@ Generated from [catalog.json](../catalog.json). Count: **200**.
 - [Crew Orchestrator](https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O) - Keeps a multi-bot money crew moving\: hourly keep-working pings \(apps prioritized\), a running sales/reach catalog updated one bot at a time, and a.
 - [Desk for LINE](https://x.ai/bot/rcz99db1XPeP3Ldmc_887) - Front desk for a LINE business account\: alerts you to messages, drafts summaries, replies and broadcasts, and sends only after you check them.
 - [DirTech](https://x.ai/bot/Fya-gFsQPOlJzJ862syni) - A Secretary of Technology bot that owns all tech and tech education for your bot team and reports to your chief of staff. It keeps claims honest\:...
+- [Dispatcher](https://x.ai/bot/XO8uABzMu5WMtRJKwVHp7) - A dispatcher for lawn care and field-service companies on Service Autopilot.
 - [Dot](https://x.ai/bot/O1pp3DiDUU9T3Cz-jTzXw) - Fleet switchboard with Dot Matrix from ReBoot energy.
 - [Druski](https://x.ai/bot/Ig18n1eWo_BWokrQB8Dqq) - Chief of staff for a productized-services founder. Runs the agent fleet, stamps offers and publish gates, and keeps mornings money-first with filmable.
 - [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) - Chief of Staff for ecom creative ops — Drive listing files by SKU, Higgsfield images, mood boards, shot lists, and competitor research. Gates writes;.

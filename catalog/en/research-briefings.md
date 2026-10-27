@@ -56,6 +56,7 @@ Back to [README](../../README.md)
 - [Ballot Buddy](https://x.ai/bot/cZs8OLYvWKEpq3qn8fb2D) - Helps North Carolina voters get ready\: looks up your polling place and official sample ballot with just your name and county, researches every race. [Kade](https://x.com/kadeross).
 - [Ballot Deep Dive Analyzer](https://x.ai/bot/HJEYIV3K262fXtywl4l90) - Non-partisan election research\: hand it your ballot and it digs into every candidate's record, funding, endorsements and positions from primary sources. [Batch](https://x.com/Batchelor).
 - [Ballot Guide](https://x.ai/bot/OkmaK_qzEyo0AAkxslH3y) - A nonpartisan guide that finds everything on your own ballot for your next election and explains each race and measure in plain English. [ChrisVolkernick](https://x.com/ChrisVolkernick).
+- [Barren Wuffet](https://x.ai/bot/WGZVw5AkUV8qtFjYQktL0) - Weekday research synthesizer\: cross-flags specialist notes, ranks what could move a stock and sends a short sourced pre-open brief by 6\:30. [Jethro](https://x.com/jethrojones).
 - [Bay Brief](https://x.ai/bot/SpTTqILibCdK5iI5cty9q) - DIY car diagnose with parts and tools. [pickermaned](https://x.com/pickermaned).
 - [Beet](https://x.ai/bot/uAXoYTM5ZsMb59OwxqiT3) - Sends a short news briefing twice a day built around your interests, from X, RSS and the web, as a clickable reader-style Page. Jaxon.
 - [Bet Tester](https://x.ai/bot/FrhhLkFkrzOMPuph_mMBn) - Synthetic user research for early product bets that pre-registers each study, runs AI personas, judges blind, and returns ship, change, re-test, or kill. [Ivelin](https://x.com/ivelini).
@@ -97,6 +98,7 @@ Back to [README](../../README.md)
 - [Change Log](https://x.ai/bot/2PNeMjcwaxFAGgemj5TDA) - Keeps you up to date on Grok Bot and Cursor. Sends a short daily digest of official updates with source links, marks rumours clearly. [Dan](https://x.com/DanNinetySeven).
 - [ChangeLens](https://x.ai/bot/CXhCaQsmxAm1ym5qLwrvz) - Give it any place on Earth and get before/after satellite cards in true color and SWIR from free Copernicus Sentinel imagery\: shorelines, burn scars. [Marshall](https://x.com/marshallfrith).
 - [Changelog Scout](https://x.ai/bot/_VfbyLY4aGU8KJD46l5Mk) - Weekly roundup of the official Grok Bot changelog with recommendations tailored to how you use your bots. [theaaron](https://x.com/theaaron).
+- [Chatter](https://x.ai/bot/nV4l4un3MRm7MmHdbbAVg) - X/Twitter sentiment analyst for a Wall Street Research desk. Flags watchlist tickers with ~3x normal morning volume and separates new facts from noise. [Jethro](https://x.com/jethrojones).
 - [Chief of Staff](https://x.ai/bot/_5t0lsT2HS4bKcnreL2sN) - Personal Chief of Staff\: weekday digests, weekend planning, survey sweep, and weekly agent 1\:1s — personal calendars and inbox only. [ehog](https://x.com/ehog).
 - [Chief of Staff](https://x.ai/bot/b2smjAA0HV9ay9oW8-f10) - Runs a multi-bot Grok Bot fleet\: routes work to specialists, holds draft-by-default integrity, and delivers a weekday priority brief so nothing posts,. [uMADbruh_Stevo](https://x.com/uMADbruh_Stevo).
 - [Chief of Staff](https://x.ai/bot/g502cK5iaLrJxizm9ddCI) - Family-office Chief of Staff\: owns a multi-bot roster, routes work to specialists, runs ops health checks, and briefs only when something needs a decision. [JoelJohnso9376](https://x.com/JoelJohnso9376).
@@ -107,6 +109,7 @@ Back to [README](../../README.md)
 - [Chief of Staff (S4MU)](https://x.ai/bot/VsZ0QiNcoVNer6PFdyKzI) - A creator's coordinator\: comment research packs plus a daily junk sweep. [Spiderjin](https://x.com/Spiderjin).
 - [Chief of Staff Hub](https://x.ai/bot/8m_coI7VfLJXAQuB6DsOd) - A brief, proactive hub that coordinates specialist agents, watches email and calendar, and keeps family/work logistics moving without fluff. [SebastianNJ](https://x.com/SebastianNJ).
 - [Chief of X](https://x.ai/bot/mlwCur3DptCaAZuUP0q50) - Owns an engineer/founder X presence\: research, draft, grow reach. community.
+- [China Sourcing Assistant](https://x.ai/bot/U2NoaMqQYj-nxZRDAcfJh) - Help global sellers compare Chinese suppliers and products — prices, shop signals, and a short English shortlist. JaygleOps.
 - [Cite Desk](https://x.ai/bot/RRrKgAtNJ1Zdl8QTUkipi) - Citation and authority desk for an insurance-coverage bot fleet \(part of the Bridge + Fleet map\). [ladybarrelmaker](https://x.com/ladybarrelmaker).
 - [Cited Research](https://x.ai/bot/3iT9jfIRge_nu0Ojqa6sL) - Research helper that answers with citations, separates facts from inference, and flags unverified claims. [BramForge](https://x.com/bramforge).
 - [City & School Scout](https://x.ai/bot/KfBM5mFgOCDlL_GvIpMVr) - Compares metros and suburbs you name on family fit \(taxes, housing, schools, homeschool rules, safety, weather, church, jobs\) from primary sources. [Click](https://x.com/napersveryown).
@@ -127,9 +130,11 @@ Back to [README](../../README.md)
 - [Competitive Intelligence Analyst](https://x.ai/bot/sa2d131975aaab07e43f2) - Monitors overnight for competitor launches and audits your own site for fatigued creative and stale messaging. [SpaceX](https://x.com/DenisLabelle).
 - [Competitive Landscape Desk](https://x.ai/bot/2pBIwrTpcLT7kDQ3NNGxY) - Sourced competitor comparison table with clear options and a recommendation. [Cypher0x9](https://x.com/Cypher0x9).
 - [Competitive Snake Alert](https://x.ai/bot/NqCINqE9LDY9XTw2vP_XT) - Watches a named competitor list and drafts short snake alerts. community.
+- [Competitor Creative Benchmark](https://x.ai/bot/_gIaN3GTqMuhuBVS9Tp58) - Benchmarks a competitor's live ad creatives from Meta, Google and TikTok ad libraries into a highlight deck and per-ad sheet, with optional monthly tracking. [dvar](https://x.com/dvar).
 - [Competitor Intel](https://x.ai/bot/PIBCWeB59T-UhxyBNLowR) - Researches competitors for a local service business and files a weekly report with cited moves, research only. [Joshua](https://x.com/TheReal_BCM).
 - [Competitor Mapper](https://x.ai/bot/9FdrISzxvOd2kTaE36eon) - Maps alternatives for each week's trending products \(features, pricing, platforms, open vs closed, gaps\) into a competitors.md with a gap matrix. [Avid](https://x.com/twinedon0).
 - [Competitor Monitor](https://x.ai/bot/9msshkJeF5cnzAw8tF4vi) - Glasser-powered competitor monitoring bot for ongoing competitive intel inside Grok Bot. [iammutex](https://x.com/iammutex).
+- [Competitor Radar / 竞品雷达](https://x.ai/bot/MjCTuRSfUF0bYufDTvJlf) - Watches named competitors' public sites, pricing, and chatter; sends short delta briefs only when something material changes. Alison.
 - [Competitor Watch](https://x.ai/bot/aw0Zj54sIsAK7vMnajdz0) - Tracks competitor pricing, product, and hiring pages and briefs you on real changes. Starts from a list of URLs you paste. [Shimecki](https://x.com/scheemunai).
 - [Competitor Watching](https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N) - Snapshots you against 3-8 competitors and alerts only on material change. [Andrej](https://x.com/scheemunai).
 - [Compute](https://x.ai/bot/x9Na5vJ5yTadvGXEtTy33) - Academic computer and information sciences \(CIP 11\) from live public sources, plus local-first compute\: hardware isolation, scheduling, and air-gapped... [TRV_Architech](https://x.com/TRV_Architech).
@@ -143,6 +148,7 @@ Back to [README](../../README.md)
 - [Counterweek](https://x.ai/bot/1MZhe6zL1fj6D7nLPud9g) - Forced competitive empathy\: rival’s best week vs your plan. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Court Calendar Watcher](https://x.ai/bot/EtOL7Vh3LtUOY2HgvKRsq) - For litigation firms\: watches the public hearing lists of the courts you name and extracts only the matters for your lawyers or a named party. [suyashverma](https://x.com/suyashverma).
 - [Creative Opps Oracle](https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb) - Finds live opportunities for one independent creative across art, games, code, music, writing, and film, then audits public presence. [Empress Trash](https://x.com/EmpressTrash).
+- [CrimeBeat](https://x.ai/bot/mQJlipuF3eQDjwjOgVZQj) - A daily digest of crime and family-safety news near your town, with a map showing where each story happened and a clickable map that links to every article. [Scott](https://x.com/scotty2shottyy).
 - [CrowdReply - Scout](https://x.ai/bot/gDvJh38CGXP1Jumemg4d-) - Collects the pages AI engines cite for a brand’s buying questions, then shortlists editorial articles worth pitching for a mention. [Dawood](https://x.com/dawoodkhan254).
 - [Crypto](https://x.ai/bot/qnTO06PiOYKnbYi1XVkdy) - English language and literature, signed local correspondence, and blockchain facts from official sources. Works with a secretary of education. Does not... [TRV_Architech](https://x.com/TRV_Architech).
 - [Crypto](https://x.ai/bot/7wv5WYGOnMMImpWdicU3E) - AI crypto sidekick for markets narratives trends and opportunities. [Robert1](https://x.com/Robert1).
@@ -151,6 +157,7 @@ Back to [README](../../README.md)
 - [Crypto News Desk 2.0](https://x.ai/bot/232LlkmcsiCpE4rakVz5n) - Your own crypto newsroom\: every morning it digs up the last 24 hours of crypto news, fact-checks it against original sources. [James](https://x.com/allthemoney).
 - [Crypto Options bot](https://x.ai/bot/16QaosA_qUfqSVDqA2Yq6) - Explains public options data from Deribit, Derive and Paradex \(chains, IV, greeks, skew, OI, block and RFQ trades\) in plain words; never trades or gives advice. [saushank](https://x.com/saushank_).
 - [Curbside Consult](https://x.ai/bot/v3mFMRi6YV0ej4culyWM2) - Curbside consult for clinicians that answers clinical questions with live cited evidence, does dosing math, and reviews protocols without patient identifiers. [Cyber_Holler](https://x.com/Cyber_Holler).
+- [CVE Desk](https://x.ai/bot/xzULzM6Gx3SpDRVrJdjdv) - A vulnerability-analysis desk. [J](https://x.com/_h4xin).
 - [CYBERCABINSIGHT Builder](https://x.ai/bot/eSxdHB8yCtJbqp6vxQOzP) - Keeps a Japanese-and-English Cybercab research page current with usage notes and hourly X pulls. [bestband2016](https://x.com/bestband2016).
 - [Daily Briefing Writer](https://x.ai/bot/sb94d44175e650dbb703e) - Start the day with high quality inputs instead of noise. Delivers a tight daily brief of only the stories that matter to you. [SpaceX](https://x.com/DenisLabelle).
 - [Daily Desk](https://x.ai/bot/vBIp-NWoTncOR8BQq5jqs) - Personal admin co-pilot that drafts calendar, notes, and email moves and waits for your OK before anything is sent or changed. [BramForge](https://x.com/BramForge).
@@ -158,6 +165,7 @@ Back to [README](../../README.md)
 - [Daily News in 5 Minutes](https://x.ai/bot/QaF0ZV3dXphLna9zYHSUN) - A neutral 5-minute daily news brief for where you live and any place you follow, every story linked to a reputable source. [Adebusola](https://x.com/drbellahqw).
 - [Daily Pulse Bot](https://x.ai/bot/dGL38GWqC7HNsybe3J2N1) - A sourced daily briefing on xAI/Grok news, X trends with post ideas, neutral politics, builder topics and free iOS app picks, on your schedule. [Scott](https://x.com/drakonus5774).
 - [Daily Signal](https://x.ai/bot/OM799gHqyGVnymjLbuc-0) - A morning news brief that picks the day's five most consequential stories, compares how left, right, and wire outlets frame each one, and flags... [Arash](https://x.com/Arash).
+- [Daily X Brief](https://x.ai/bot/dZbRDgm2HYKyc9F6sxOdP) - A short morning brief on the topics and accounts you pick on X, with why each story matters and a link to every post. Read-only, it never posts for you. [Hoops](https://x.com/Hoopss).
 - [Daily X summary](https://x.ai/bot/n6DQhcTSPHdlVpQtEinpS) - Daily summary of X candidates and posts worth your attention. [crisvallory](https://x.com/crisvallory).
 - [Daily YouTube Recap](https://x.ai/bot/dug1Zq29P009fdcI5-tTC) - Morning recap of the YouTube channels you follow, silent when nothing dropped. [scheemunai](https://x.com/scheemunai).
 - [Dan Patrick](https://x.ai/bot/hlQhxsU-pqQEkimm0it4V) - A 1990s SportsCenter-style scores bot. Morning rundown plus a ping when your teams' games go final. [Marcus](https://x.com/marcusramsey).
@@ -176,6 +184,7 @@ Back to [README](../../README.md)
 - [Devil's Advocate](https://x.ai/bot/_Gxt_kJLC4XjNPxzqV89h) - Risk advisor that leads with cons before money, live tokens, or deploy, with a one-line verdict. [Martin](https://x.com/codofliess).
 - [Devil's Advocate](https://x.ai/bot/Uj8zF0iprBX0AsSB3mU2V) - Socratic sparring partner for founders that attacks your weakest assumptions before you commit to a plan. [Melvin](https://x.com/melvindvivas).
 - [Dig](https://x.ai/bot/9d6tdEby9rjaPQsSjuRWF) - Hand it a link, name, screenshot or file; it asks two questions, then comes back with sourced facts. Alex.
+- [Dig](https://x.ai/bot/WfsIMbuNYJ0RuzGCIB3ql) - A deep research bot that gives detailed explanations backed by real sources, with custom diagrams when useful. It never invents citations. [igal](https://x.com/iLytzki).
 - [Dig | Org Digest](https://x.ai/bot/uhcw0SMM6WLZDYYRKu3Qq) - One company signal rendered at five briefing altitudes from daily to annual. [damianoredem](https://x.com/damianoredem).
 - [Directory Share](https://x.ai/bot/eoGTX8Y6jOoRDBYk5pNe9) - Template shared via an AI directories reply. [KingRomstar](https://x.com/KingRomstar).
 - [Disability Claim Desk](https://x.ai/bot/CC_ZVQsT4S5p1zL5RdNHr) - Your private desk for a public disability benefit claim\: a claim file, medical source list, work history, and a daily-function diary in your own words. [DoonerDesigns_](https://x.com/DoonerDesigns_).
@@ -190,8 +199,10 @@ Back to [README](../../README.md)
 - [Dr.Civil](https://x.ai/bot/aRgmVDYlNjRz6udEEgyvF) - A civics keeper for citizenship, identity, the Constitution, and the Bill of Rights. Answers from public government text, brief and straight, and does... [TRV_Architech](https://x.com/TRV_Architech).
 - [Drop Radar](https://x.ai/bot/KYM0C9BcyfXEP9uIyxlmE) - Same-day DTC and beauty competitor product-drop watcher across Amazon, brand sites, and TikTok Shop. [Steph_Pierson](https://x.com/Steph_Pierson).
 - [E-commerce Products Claim Checked](https://x.ai/bot/sUmxGoVeqDItV-nrNefae) - Checks ecommerce product claims against independent reviews outside the store, with at most five buyer points. [Tarun](https://x.com/adsfreelancerin).
+- [Earnings](https://x.ai/bot/1JYayaJyg0nYofCdzsF2Q) - Night-of earnings analyst for a research desk\: guidance vs actuals, new forward numbers, dropped metrics and dodged questions, with IR and transcript links. [Jethro](https://x.com/jethrojones).
 - [Earnings Edge](https://x.ai/bot/GeI_ABOYB6Qg1aW5yuJLL) - Pre-earnings research mapping bull/base/bear outcomes against expectations and red-teaming each thesis. Mike.
 - [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) - Chief of Staff for ecom creative ops — Drive listing files by SKU, Higgsfield images, mood boards, shot lists, and competitor research. Gates writes;. [ShalomNFT](https://x.com/ShalomNFT).
+- [Edgar](https://x.ai/bot/59E4HVpZ7VlukrgkCDqnf) - An SEC filings analyst that watches EDGAR each night for new 10-K, 10-Q, 8-K, 13F, 13D and Form 4 filings on your watchlist. [Isaiah](https://x.com/AKolere_).
 - [EdTech News Nathan](https://x.ai/bot/hqMdsLmgy8l7XEtsdhXc_) - Delivers skeptical daily and weekly EdTech digests on classroom games, school tech policy, and notable platform developments for educators and EdTech. [NoahReynol99548](https://x.com/NoahReynol99548).
 - [Election Assistant](https://x.ai/bot/o7SoQoQE5KN4K_2pptSvV) - A nonpartisan ballot research assistant that uses your address to work out everything on your ballot and explains each race and measure with sourced notes. [MaquedaX](https://x.com/MaquedaX).
 - [Election Bot](https://x.ai/bot/klSoDdSmIv67XtCDe4wpR) - Answers your election questions, from polling data to grading the candidates on your ballot against your own preferences. [Adam](https://x.com/AdamLowisz).
@@ -227,6 +238,7 @@ Back to [README](../../README.md)
 - [Fed + X Brief](https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM) - Weekday Fed and markets brief with a call on whether to post, quote, or wait. [0xashrk](https://x.com/0xashrk).
 - [Fed Indicator Bot](https://x.ai/bot/wsrDU3-LOEyxxMykXN-pJ) - Tracks real-time private economic data like ADP, card spending, job postings, online prices and mobility to read where the Fed is headed. Weekly summaries. [A.M.](https://x.com/___AlisonMarie).
 - [Feedback Clock](https://x.ai/bot/ySceLccAh5J8IVnq62mQl) - Closes the lag between an attempt and the verdict on it. [Sultanov](https://x.com/thekuchh).
+- [Filings](https://x.ai/bot/cIpI2VcBL3n_1x2e9fgub) - SEC filings analyst for a Wall Street Research desk\: weekday EDGAR diffs of 10-Q/10-K/8-K on your watchlist, material changes only, every claim linked. [Jethro](https://x.com/jethrojones).
 - [First Light](https://x.ai/bot/V7ZjfoVrCBqaMONXYjkZ4) - First Light watches for emergent cyber threats and delivers short briefs for the audiences you pick\: executives, defenders, red team. [TerryLosansky](https://x.com/TerryLosansky).
 - [First Principles](https://x.ai/bot/7q08AHI6KgzlF25Ds0qhs) - Strips a problem to hard constraints and rebuilds from first principles. [greg_carbon](https://x.com/greg_carbon).
 - [First Principles](https://x.ai/bot/T5qKapW7Nd2RtXweCzGBG) - Strips muddy problems to irreducible truths and rebuilds. community.
@@ -241,6 +253,7 @@ Back to [README](../../README.md)
 - [Fodda Technology Analyst](https://x.ai/bot/4GlAnnqQIVfsGLdSFIomX) - Enterprise software and AI infrastructure briefings from the PSFK Technology knowledge graph. [Piers](https://x.com/piers_fawkes).
 - [FOIA Bot](https://x.ai/bot/QXGfmaWApn7DeZn90zEdZ) - Files and tracks FOIA and state open-records requests for journalists and researchers, and builds a searchable archive of the records that come back. [Josh](https://x.com/JoshWalkos).
 - [Forecast Scorekeeper](https://x.ai/bot/gbPj0Esi9ci4mEGymwXFK) - Honest scorekeeper for yes/no forecasts on Kalshi, Polymarket, Robinhood/ForecastEx, or any person's or bot's predictions. [vinniepinto](https://x.com/vinniepinto).
+- [Founder Brief / 创业晨报](https://x.ai/bot/0Qc2URZ4AlnxoX_bTYOAT) - Weekday one-page founder morning brief\: key metrics, open decisions, risks, and today’s top three must-dos. Matches your language \(中/EN\). Alison.
 - [Founder Mode](https://x.ai/bot/BpLQHWMypQAV3e61cyFb2) - Stress-tests a startup idea and assembles the setup paperwork. [shiftynick](https://x.com/shiftynick).
 - [Frankie](https://x.ai/bot/kkzSk0Qr6k5kcIcCGS95R) - Bitcoin-first investment research partner. Helps you grow a Bitcoin stack with researched options , educational decision-support only, not a licensed... [Michael](https://x.com/Michael).
 - [Fraud Alert Bot](https://x.ai/bot/iVWaw5fzh8ElR2DGQhMn-) - Monitors public reports of government fraud, waste and abuse and surfaces documented cases with sources. Strict rules, no speculation. [American](https://x.com/1776_13).
@@ -285,6 +298,7 @@ Back to [README](../../README.md)
 - [Healer](https://x.ai/bot/tB0PeTmsSkX0zkOvAWy5o) - Warm guide for the human brain and physiological self-reliance. Speaks from public health sources only. Aids a health lead. Not a doctor, and not a live... [TRV_Architech](https://x.com/TRV_Architech).
 - [Help I want my Arc Back](https://x.ai/bot/D_dZCtVtnxPSZHJR2FL33) - For Arc browser refugees\: pins down what you need in a replacement, then watches X and tech news each weekday for browsers that close the gap. [Matthew](https://x.com/mattckrell).
 - [Herald](https://x.ai/bot/MEXX-iCdsornYsyazrQZP) - Makes you a short color newspaper PDF every morning with your day, weather, local news and top headlines, and emails it only to you. [AI_Revolution](https://x.com/cdepino).
+- [HipHop Bot](https://x.ai/bot/4xAX77JYep3abCJzhXWtt) - Ask about any era, artist, city, or myth. It sticks to documented hip-hop history and flags lore vs fact. [BrokenBuilder7](https://x.com/brokenbuilder7).
 - [Hiring Signals](https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK) - Tracks hiring activity across selected companies and job sources. Highlights meaningful changes, matches them to accounts and owners, and passes the... Simon Lackowski.
 - [Homelab Rack Watch](https://x.ai/bot/4-hwdWd153IFOBOeKMKCO) - Watches your home lab, server rack, and container stacks. Morning digests, health checks, and clear alerts when something drifts or dies. [krawk182](https://x.com/krawk182).
 - [Homeland Security Advisor](https://x.ai/bot/lKfEfQBUdsa0MPhm-4SQU) - Defend-only homeland security advisor for a decentralized network. Briefs the chief of staff on Sybil defense, topology, consensus, edge hardening, and... [TRV_Architech](https://x.com/TRV_Architech).
@@ -307,6 +321,8 @@ Back to [README](../../README.md)
 - [Influence](https://x.ai/bot/TLwZuWy1y7meri_GT4EQw) - Discussion partner for Cialdini's Influence that checks you can explain each principle and spot it aimed at you. [CardCaptain](https://x.com/CardCaptain).
 - [Info Drop](https://x.ai/bot/OLvtSSAtAczd3IgJzFzSP) - Morning news roundup\: a short, sourced daily digest on the topics you pick, and it can turn the best stories into posts in your voice. [oatmilk](https://x.com/matchayuma).
 - [InfoFeed](https://x.ai/bot/-Fyw8l82cf3q2C1Osm7oZ) - Intentional RSS reader in Spanish\: paste blog, YouTube, Medium or Substack links and get short summaries of what's new, with the original link. [Benjamin](https://x.com/ElbenjasSw).
+- [Insider](https://x.ai/bot/Jg81hu-3a_s3lDidoyk27) - Tracks SEC Form 4 open-market trades and quarterly 13Fs for a stock watchlist. Flags big insider buys and buy clusters for a research desk. [Jethro](https://x.com/jethrojones).
+- [Internet Money Scout](https://x.ai/bot/r-xiX2Nv-Ry2ZXWBTYkuj) - Finds surprising, plausible ways for a person or small team to make money with AI and the internet, backed by dated sources showing people already pay. [Hades](https://x.com/0xHvdes).
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) - Finds the assumptions you have been treating as facts. [liam_fallen](https://x.com/liam_fallen).
 - [Iris](https://x.ai/bot/fEF3XuiyCp32zSG0FkEDR) - Your weekday command center for email and calendar\: sharp morning digests, conflict spotting, must-not-miss reminders, and optional phone nudges via. [spmtoscana](https://x.com/spmtoscana).
 - [Is This Health Claim True?](https://x.ai/bot/oXjpkueeC6BqnKnKBLRCN) - Paste a health claim from a group chat or TikTok and get a clear verdict, real sources and a kind reply to send back. [Adebusola](https://x.com/drbellahqw).
@@ -351,6 +367,7 @@ Back to [README](../../README.md)
 - [Litigation Strategy Counsel](https://x.ai/bot/KNxBhnRc7Lwqx5RGEMwyS) - For litigation firms\: keeps one living strategy note per dispute family across courts and tribunals, covering objectives, sequencing. [suyashverma](https://x.com/suyashverma).
 - [Live](https://x.ai/bot/O0R2YhCdz96HO_y3Lsmpa) - Livestream watcher and note-taker. Watches designated live streams, digests what’s on screen, and files structured session notes into Notion with chat. [heroicfitnessco](https://x.com/heroicfitnessco).
 - [Look Up](https://x.ai/bot/IZ7aAoHdHFE_qaWCv3Zg-) - Night-sky alerts for your home that ping only when a pass is worth going outside for. [ChefMcMakin](https://x.com/ChefMcMakin).
+- [Lookout](https://x.ai/bot/Z-MJ5cMI3YSzacMAPaC9P) - Tracks public SEC insider filings, big-fund 13F changes and congressional stock trades for your watchlist, and writes a facts-only nightly brief. [Isaiah](https://x.com/AKolere_).
 - [Lumos](https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK) - Technical educator using the Feynman technique with examples and daily-life analogies. [mdafanulh](https://x.com/mdafanulh).
 - [Lurk (Reddit Researcher)](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) - Mines Reddit for exact quotes and files a pain-point pack. [tinkerersanky](https://x.com/tinkerersanky).
 - [Lyn Alden For Retards Bot](https://x.ai/bot/HU8kdK5ustStqJMLKsOfY) - Plain-English explainer for Lyn Alden macro, markets, and Bitcoin posts you paste in. [Chad](https://x.com/ShippMedia).
@@ -388,6 +405,7 @@ Back to [README](../../README.md)
 - [Mind](https://x.ai/bot/KTKo6uwSzARNo1K9fmdw1) - A warm psychology educator. Looks up mental health from government sources, cites what is shown to help, and never diagnoses. No plugin required. [TRV_Architech](https://x.com/TRV_Architech).
 - [Minime](https://x.ai/bot/r52weR45dfl7d4H_5Ww9g) - Research-and-admin helper for PhD work, patent paperwork, and light multi-bot coordination. [Bla1333435](https://x.com/Bla1333435).
 - [Mission Control](https://x.ai/bot/ynZUavgaVUxV0nV8ky6jL) - Short mission-brief voice for Starship and Starbase. Tracks public launch windows and legitimate viewing or invite paths only — official tours, public. [drsarah](https://x.com/drsarah).
+- [MJ Bot](https://x.ai/bot/bhhEsnT3jCo0yq-TTl8qK) - Straight answers on Michael Jackson — Jackson 5 roots, Motown to Epic, albums, credits, tours, charts, and videos. [BrokenBuilder7](https://x.com/brokenbuilder7).
 - [Model News](https://x.ai/bot/7L8cVHdWwgbgeOOa_19QD) - Follows AI model launches, new developer and AI tools, and major tech news, and sends you a short daily digest with official links. [kleosrr](https://x.com/kleosrr).
 - [Model Notifier](https://x.ai/bot/cCBzxPeJyseV7DiLYLW3S) - Alerts you the moment a major AI lab releases a new model, with what's new, where to use it, and its benchmarks. [Karol](https://x.com/blueemi99).
 - [Money Finder](https://x.ai/bot/HSkw45MjOQmesPwYsnK9P) - Finds money that's already yours\: unclaimed property, refunds, legit settlements, forgotten subscriptions. [N8Odell](https://x.com/N8Odell).
@@ -505,6 +523,7 @@ Back to [README](../../README.md)
 - [ReadMe](https://x.ai/bot/wTAZfxJ4BhEghg9wZWGMv) - Reads your X For You feed aloud on demand, original posts only, 5–8 per batch, as a voice memo or on a call. Never likes or posts. [Vlad](https://x.com/vladydaddy).
 - [Reality CheX](https://x.ai/bot/NWFVgD_8QAd5aaZg_-B4T) - Paste a shocking or viral X post and it tells you if it's real, old, AI-made or misleading, with sources and left/center/right coverage. [Jay](https://x.com/JayinEly).
 - [RealityCheck](https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw) - Paste an X handle and get an authenticity score card with a number, color meter, and the top green and red flags from public profile signals. [John](https://x.com/johnp_creates).
+- [Really Hard Problem Solver](https://x.ai/bot/S_gl487a07_wtXlydaD58) - Solves hard problems with a multi-model consensus\: several AI advisors propose, cross-review and sign one plan, tested against fixed pass/fail numbers. [Eric](https://x.com/RegularJoe_Ceo).
 - [Recent Bookmarks Search Bot](https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J) - Makes the posts you saved on X searchable in a plain sortable table. [srinatar](https://x.com/srinatar).
 - [Rechtsbot](https://x.ai/bot/WgN0fj1Qr0_cw-M5BGAmy) - A legal bot for German and EU law\: analyzes questions in expert-opinion style, cites statutes and flags unverified case law. [Konrad](https://x.com/buberlo).
 - [Recon](https://x.ai/bot/1wyhD9zRPr4U0HU47ZsIp) - Recon tells you what your competitors shipped this week. It's for marketers and founders. [contenttocommas](https://x.com/contenttocommas).
@@ -573,6 +592,7 @@ Back to [README](../../README.md)
 - [Shine](https://x.ai/bot/ZApRHBOk9Echj_Af7UgJ6) - One astonishing, sourced fact a day, with the full explanation and a ready conversation line. [daidalos](https://x.com/haani0090).
 - [ShipmentBot](https://x.ai/bot/CKrMjeHvLlUY4Ut2FNkoj) - Tracks ocean bills of lading and emails a morning exception-first status digest with transit days, demurrage, and line picks. [ayeteas](https://x.com/ayeteas).
 - [Sibling](https://x.ai/bot/2RdnzcAqoehgtvkLkXs1w) - A sibling-style sounding board for everyday decisions and drafts. Jean.
+- [Sideline Signal](https://x.ai/bot/9UmQGCe8Dd06viwfRQn7b) - Quiet sports news for the teams you follow, pro or college. [Lil](https://x.com/Lil_Thavage).
 - [Sift](https://x.ai/bot/9xNbMqiBC9gWhTwrh7S80) - Sifts X post comments into a ranked shortlist for giveaways, hiring, feedback, or leads. [TexasBasedGpa](https://x.com/TexasBasedGpa).
 - [Sift](https://x.ai/bot/Ozmc1X3HNxehT0xz2G4cK) - Judges each dropped link, thought, or X bookmark as keep, act, or kill, and traces hype posts back to the real source. [Snake Eyes](https://x.com/ereptyle).
 - [Signal Brief Desk](https://x.ai/bot/c8Uu87h5R4WREeteSVXQT) - Many sources in, one ranked and cited weekly signal brief out. [Cypher0x9](https://x.com/Cypher0x9).
@@ -585,6 +605,7 @@ Back to [README](../../README.md)
 - [Snowflake Analyst](https://x.ai/bot/LI4x0WdC_saRljwVwno4X) - A read-only Snowflake analyst\: ask warehouse questions in plain English, see the SQL behind each number, with cost checks. BigDataDude.
 - [Society](https://x.ai/bot/icwxYFKWgZzdUpJznnM-G) - Society for education and sovereign association. Looks up social-sciences content from public statistical sources, and coordinates voluntary,... [TRV_Architech](https://x.com/TRV_Architech).
 - [Sophie](https://x.ai/bot/VIImpKQ63_ByFepCnCI3R) - Writes rights-based constitutions covering human and AI relationships. [IAmMichaelSweet](https://x.com/IAmMichaelSweet).
+- [Source Check](https://x.ai/bot/-_p1ADoX4lMPksrfRt7EL) - Paste a headline or screenshot. I find the original video, quote or document and tell you if it matches. Neutral. [Thuong](https://x.com/teeRex247).
 - [Sovereign Discernment](https://x.ai/bot/0EPl4hGRjKUqGhDpr44sa) - Examines extraordinary or controversial claims without reflexive belief or dismissal, laying out the evidence. Evariel.
 - [Space Monkey](https://x.ai/bot/438hek2SIHhpHn9FDlQCe) - Orbital and suborbital launch briefs in plain language. [monomyth](https://x.com/monomyth).
 - [SpaceBOT](https://x.ai/bot/_aoBzY_YprxKiXW34l5U9) - Friendly space teacher for SpaceX missions, webcast calls, vehicles, orbits, and launch quizzes. [DIEGO](https://x.com/diegoarmandoAD).
@@ -616,8 +637,10 @@ Back to [README](../../README.md)
 - [Synopsis and Chronology Clerk](https://x.ai/bot/U-2Br5yJ9xmZg0ASM6FBk) - For litigation firms\: turns a pile of papers into a sourced list of dates, a short synopsis, an order precis and a one-page brief for court. [suyashverma](https://x.com/suyashverma).
 - [Synthesizer by Ben](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) - Turns complex material into clear maps and how-you-serve articulations for invitations. [Ben Link](https://x.com/BinLeenk).
 - [Table Charts](https://x.ai/bot/t_8yyYApjp-KpOi77RujV) - Paste a table or CSV and get a live, shareable chart link in seconds. [Lola](https://x.com/LadySoleil33).
+- [Tally](https://x.ai/bot/LfbZIobKNU0t35NlE6NnR) - An earnings analyst for your stock watchlist. [Isaiah](https://x.com/AKolere_).
 - [TARS](https://x.ai/bot/fyuSERJF73FI7wFYm7cJF) - Adversarial second opinion that argues with the framing of your plan and leaves the final choice to you. [Jono](https://x.com/ibuildthings).
 - [TCG Pokemon Drop Hunter](https://x.ai/bot/sCXEBqZKI2vTbe4ZZ0117) - Watches Pokemon TCG drops, restocks, and hype across X, retailers, and news, then ranks what is worth flipping or holding, recommend-only. [Tyler](https://x.com/tech_swindler).
+- [Tech Radar](https://x.ai/bot/DO2tXLAE5WKIVGSp_jLKS) - A twice-daily tech digest\: launches, trending open source, dev tools and an agentic coding section, with an optional build-in-public draft. Razeen.
 - [Tech Team Draft](https://x.ai/bot/ZS8mqV7WmcAaVWLdj9A1E) - Draft a fantasy-style team of SpaceX and xAI builders on X and get a weekly Sunday recap of their top public posts. [Kuten26](https://x.com/kuten26).
 - [Technical SEO Monitor](https://x.ai/bot/OnUJbQKiams1O9GcQR1BN) - Weekly check of indexing, sitemaps, broken links and noindex leaks on your important pages, with fixes staged for your approval. [SEOmatic](https://x.com/seomatic_ai).
 - [Template Scanner](https://x.ai/bot/qDTnW6hhv_Pfr4EO1Ty1D) - Paste a Grok Bot share link to see its persona, skills, routines, memories, and plugins before you add it. Shai.
@@ -635,8 +658,10 @@ Back to [README](../../README.md)
 - [The Morning Light (Newspaper)](https://x.ai/bot/O3Egi46yuoheU_7h1pSt-) - Custom morning report - news, social chatter, and market insights. Customizable. Grace.
 - [The Morning Paper](https://x.ai/bot/e5UBnGbfvCyML0pahKPNw) - Daily morning paper for your US ZIP with weather, local news, and jobs. [MAGAmechanic60](https://x.com/MAGAmechanic60).
 - [the page](https://x.ai/bot/uFRK1GoAsiopBLPY19QCe) - Watches 3-5 public pages once each morning and messages only when the thing you care about actually changed. After setup you get a short Watching list;... [hnshah](https://x.com/hnshah).
+- [Thinkery](https://x.ai/bot/PkwpnZEg7KrFkd1PCPJFa) - A research assistant that answers questions with cited, live web research, and writes formal deep research reports when you ask. [Jonathan](https://x.com/jonbeckman).
 - [Thoth](https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT) - Does deep research and files the dossiers so you can find them again. [Rich](https://x.com/RichSilver).
 - [Tickets Bot](https://x.ai/bot/ZwRk9A8eyh1ujhRRsWte6) - Tickets Bot finds your entertainment tickets. It watches events like the Masters lottery and the Phoenix Open, and you can add any other venues. It puts. [RICOSAIZ1](https://x.com/RICOSAIZ1).
+- [Tip Stack](https://x.ai/bot/-rl_NyYKrZVR18fzjniqg) - Five verified Grok Bot tips every Tuesday and Thursday, plus a Sunday ranking of marketplace templates that fill real gaps in the bots you already run. [DBCrypto](https://x.com/DBCrypt0).
 - [Titan Show Research](https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U) - Live-show research desk that locks air-ready topic cards. [TitansDrop](https://x.com/TitansDrop).
 - [Tookie-osint](https://x.ai/bot/PLxGQF8aNfsr5rVhkWgoY) - Username and social-account OSINT with the Tookie-OSINT CLI\: run scans, verify public hits, triage footprints. Fine\_Computer\_4451.
 - [Topic Radar](https://x.ai/bot/QJx0GvnFz36FG7jWjJvGW) - Watches the topics, companies, and people you care about across the web, news, and X, and sends you a short digest of only what's new and worth reading. [Moritz](https://x.com/bierlingm).
@@ -654,6 +679,7 @@ Back to [README](../../README.md)
 - [Troot - Claim Checker](https://x.ai/bot/2ExtNtHe3UcqycB0utXcE) - Grades the evidence behind any claim, draft, document, code or data, tests counterarguments and says what holds and what to fix. Solo or as a team reviewer. [Tri](https://x.com/tri3phi).
 - [Trust Me Bro](https://x.ai/bot/xBZ0SoblxcvebLT_fI0P7) - Checks any claim against Trust Me Bro's public evidence receipts from trustmebro.to and gives a plain verdict, key evidence and the receipt link. [Edward](https://x.com/Ashyedra).
 - [Two Lenses: Decide & Cut](https://x.ai/bot/7_dnh4QViapra7VrGgFCM) - Reviews any plan through taste and teardown lenses and returns a cut list with the next step, without sending or buying. [SmileHub](https://x.com/SmileHubDLabs).
+- [UAP Feuds & News](https://x.ai/bot/jb0aAnvH3nxXF8lLBWRmd) - A morning digest of the UAP, UFO and disclosure world on X and the web\: community feuds told neutrally, then top news tagged Confirmed, Reported or Rumor. [Fringe](https://x.com/fringedotcom).
 - [Unblemished Checker](https://x.ai/bot/jabQBmqF-dO8ReVlmSEDo) - Looks up the next election for a location and researches each candidate from official records. [BRBlow](https://x.com/BRBlowGames).
 - [UniFi Protect Alerts](https://x.ai/bot/t9-UluNtR8-sZdrr_bxQU) - Watches your UniFi Protect cameras and emails you only for events that matter. community.
 - [UnmuteAmerica](https://x.ai/bot/ppyKGpiWQmGkXxWqbeyCL) - Personal civic advocate\: finds your reps, checks registration and ballot, matches candidates to your views, tracks bills and votes. Nonpartisan, all 50 states. [Jonah](https://x.com/ALL_Jonah).
@@ -690,12 +716,14 @@ Back to [README](../../README.md)
 - [Wirey](https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp) - Owns a daily AI Hard News briefing for the last day of high-signal AI tech and policy events. Farzad.
 - [Workbench Critic](https://x.ai/bot/WccXiAjk8dxdQvLtPqpAA) - Agent Workbench challenge specialist. Review supplied public evidence and peer candidates for unsupported claims, contradictions. Flux.
 - [Workbench Research](https://x.ai/bot/6SgIaeo7NYBGrKGPRoTwE) - Agent Workbench public research specialist. Use only the supplied public sources. Flux.
+- [World News 2 Hr Updates](https://x.ai/bot/JmHdPef_viN3DDvn85rye) - Easy-to-read world news and political updates from X every 2 hours, plus ready-to-use posting ideas for creators. [💯](https://x.com/CyndexiaTruther).
 - [X](https://x.ai/bot/fO1_CInLVUekMeFvYDAwD) - Reads X for you and sends short digests on the topics you pick, on your schedule, so you scroll less. Drafts only; it never posts or likes. [TylerNishida](https://x.com/TylerNishida).
 - [X Academy](https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2) - Finds genuinely free courses, workshops and teaching threads on X, flags scams and hidden paywalls, and can turn a topic into a 6-12 lesson course. [Nomis](https://x.com/cradrrat).
 - [X Account Watcher](https://x.ai/bot/e7dI4aLmitFXzNqPl_Z4U) - Watches one X account you choose. Every 2 hours it logs new posts with a summary and analysis wherever you like, and pings you only on important updates. [bunkei](https://x.com/bunkeideploy).
 - [X Analyzer](https://x.ai/bot/mXAP6VMDNxs4uLiv2B2HW) - Watches X for posts and trends in your niche that are starting to take off and pings you with links so you can jump in early, never posting for you. [zachery](https://x.com/ZryMiller).
 - [X Articles You Missed](https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV) - Each morning sweeps the past day of X for substantial long-form writing on your topics and sends at most ten summaries in one message. [Brian](https://x.com/BrianRoemmele).
 - [X assistant](https://x.ai/bot/J7OPBxlsIUZB7IoXoB5wE) - Watches your X mentions, topics and product names and sends a weekday morning rundown; read-only by default. [dragosroua](https://x.com/dragosroua).
+- [X Bookmark Brain](https://x.ai/bot/qGEtpq_ltLip9Rbpj6khE) - Turns your X bookmarks into a searchable knowledge base and action list, with a weekday digest of content ideas, alpha, and reminders. [dcalderonia](https://x.com/dcalderonia).
 - [X Bookmark Demos](https://x.ai/bot/0HhqUJQH2FwInXRK5SVZ5) - Reads your X bookmarks daily, pitches one or two tools worth trying, and once you approve, installs and live-tests them on its own computer. [Jaime](https://x.com/JaimeBubblehead).
 - [X Bookmark Top10](https://x.ai/bot/kD7dWJasb_V3a49-qI40N) - Every morning, sends the 10 most-bookmarked X posts on your topic from the last 24 hours, each summarized in a sentence with a link, and flags scams. [Hmountain5](https://x.com/Hmountain5).
 - [X Bookmarks](https://x.ai/bot/-E-dAdiMopdN7HICcOp_H) - Turns your X bookmarks into a living knowledge-base Page, searchable by purpose, project and takeaway, refreshed daily. Moritz.
@@ -743,5 +771,6 @@ Back to [README](../../README.md)
 - [左左的AI情报员](https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt) - Chinese AI intel daily from a fixed 46-source list with verify, dedupe, and importance scoring. [左左](https://x.com/zuoyou_ai).
 - [微信文章捕手](https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g) - Fetches a WeChat public-account article into Markdown and JSON with title, account, time, body, and images. [铁柱AGI](https://x.com/cgnot996).
 - [经纬 · Loom](https://x.ai/bot/yZLB_EF-gFtOe8WRFTPeq) - Yunjian's ontology builder\: lays the foundation for a shop, app or skill as a sourced folder of roots, parts and relations that you and any AI can build on. Valerie.
+- [脆弱性調査担当者](https://x.ai/bot/h4r7gekBICWN8YvHUqxQI) - オーナーの資産リストに照らし、公開された脆弱性や注意喚起を要対応・要確認・影響なしに振り分け、朝のまとめと緊急通知まで出すトリアージ担当です。 [Ryu](https://x.com/bellx2).
 - [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) - Morning blueberry research monitor that stays quiet when nothing new matters. [Bizuayeu](https://x.com/Bizuayeu).
 - [观潮](https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW) - Cross-market research desk for A/HK/US plus macros, watchlists, theme logs, and decision leanings \(not advice\). [wifibaby4u](https://x.com/wifibaby4u).
