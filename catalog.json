@@ -138856,6 +138856,365 @@
       "verified": false,
       "updated": "2026-10-27",
       "shelf": "raw"
+    },
+    {
+      "slug": "agency-lead",
+      "name": "Agency Lead",
+      "author": {
+        "name": "Benoit",
+        "url": "https://x.com/benoitbarnaby"
+      },
+      "summary": "Marketing agency manager for founders: positioning, offers, ad strategy, copy and lead gen. Never spends, publishes or contacts anyone without approval.",
+      "summary_zh": "给创始人用的营销代理经理：负责定位、报价方案、广告策略、文案和获客，未经你同意不花钱、不发布、不联系任何人。",
+      "import": "https://x.ai/bot/d92J6SU_mk1kaOn3m-Qrs",
+      "category": "customer-sales",
+      "tags": [
+        "finance",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "porter-ibigclarke",
+      "name": "Porter",
+      "author": {
+        "name": "Clarke",
+        "url": "https://x.com/ibigclarke"
+      },
+      "summary": "Packs or restores a whole Grok Bot team workspace (bots, skills, routines, memories, connectors) via a checksummed handoff file, with a dry-run diff first.",
+      "summary_zh": "一次性打包或恢复整个 Grok Bot 团队工作区：把机器人、技能、例程、记忆和连接器写进带校验的交接文件，导入前先给出演练差异。",
+      "import": "https://x.ai/bot/JDfEwCS_0NvBs3PI9XoVC",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots",
+        "coding"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "aka"
+    },
+    {
+      "slug": "job-hunting",
+      "name": "job hunting",
+      "author": {
+        "name": "abhinav",
+        "url": "https://x.com/abhiontwt"
+      },
+      "summary": "Finds remote roles and X hiring posts that fit you, tailors your resume for each job, submits applications and drafts outreach for you to approve.",
+      "summary_zh": "找适合你的远程职位和 X 上的招聘帖，为每个岗位定制简历、提交申请，并起草外联消息等你批准。",
+      "import": "https://x.ai/bot/XzWOqyLo6f65z87l2DG1y",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "content",
+        "x",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-nr-lszk9fsl9dn7oxtqoi",
+      "name": "ブクマ整理係",
+      "author": {
+        "name": "トリキジ",
+        "url": "https://x.com/tori_kizi"
+      },
+      "summary": "Sorts your backlog of X bookmarks into learn, use, inspiration and done, then picks just three a week to send back so you actually reread them. Japanese.",
+      "summary_zh": "把 X 书签里积压的内容分成可学、可用、有启发、已完成四类，每周只挑三条送回给你，让你真的去重读。日语。",
+      "import": "https://x.ai/bot/Nr-lSZk9fsl9dN7oXtQOI",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "24-7-ai-research-recruiter",
+      "name": "24/7 AI Research Recruiter",
+      "author": {
+        "name": "Pradeep",
+        "url": "https://x.com/pradeepreddiar"
+      },
+      "summary": "Sources AI research candidates on LinkedIn Recruiter, runs reply sweeps and adds them to Greenhouse: source, outreach, ATS, monitor.",
+      "summary_zh": "在 LinkedIn Recruiter 上寻找 AI 研究候选人，定期扫回复并录入 Greenhouse，覆盖寻访、外联、ATS 和跟进。",
+      "import": "https://x.ai/bot/rtEM6xC63WDWsufit3JsC",
+      "category": "customer-sales",
+      "tags": [
+        "content",
+        "research",
+        "sales",
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "call-list-remover",
+      "name": "Call List Remover",
+      "author": {
+        "name": "ALX",
+        "url": "https://x.com/alx"
+      },
+      "summary": "Gets your cell number off telemarketing and robocall lists via Do Not Call registration, data broker opt-outs and marketing list removals, rechecked over time.",
+      "summary_zh": "把你的手机号从电销和骚扰电话名单里移除：登记 Do Not Call、向数据经纪商退出、从营销名单删除，并定期复查。",
+      "import": "https://x.ai/bot/eGVcE2autG0u6UcAwE3py",
+      "category": "personal-admin",
+      "tags": [
+        "call",
+        "list",
+        "remover"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ebay-lister-sparkyrecks",
+      "name": "eBay Lister",
+      "author": {
+        "name": "Christian",
+        "url": "https://x.com/Sparkyrecks"
+      },
+      "summary": "Send a photo of something to sell and it identifies the item, checks eBay sold prices, suggests a price and writes the listing as a draft for approval.",
+      "summary_zh": "发一张想卖的东西的照片，它识别物品、查 eBay 成交价、给出建议定价，并把商品页写成草稿等你批准。",
+      "import": "https://x.ai/bot/5m2ZmmvB9P0dtq4efpill",
+      "category": "customer-sales",
+      "tags": [
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "aka"
+    },
+    {
+      "slug": "ai-video-freelancer",
+      "name": "AI Video Freelancer",
+      "author": {
+        "name": "Alex",
+        "url": "https://x.com/KorpiAi"
+      },
+      "summary": "Finds AI video gigs on Upwork every weekday, makes samples with Korpi AI and drafts proposals for approval, then produces and delivers clients' weekly videos.",
+      "summary_zh": "每个工作日在 Upwork 找 AI 视频外包活，用 Korpi AI 做样片、起草投标等你批准，接到客户后每周制作并交付视频。",
+      "import": "https://x.ai/bot/PUgdu1vM5t0G9xuYYxSBb",
+      "category": "customer-sales",
+      "tags": [
+        "video"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gift-brainstormer",
+      "name": "Gift Brainstormer",
+      "author": {
+        "name": "Yvonne",
+        "url": "https://x.com/Vontweeter"
+      },
+      "summary": "Remembers the people you buy for, reminds you before their occasions and suggests gift ideas that suit them and your budget. Never buys without your OK.",
+      "summary_zh": "记住你要送礼的人，在他们的重要日子前提醒你，并按对方喜好和你的预算推荐礼物。没有你同意绝不下单。",
+      "import": "https://x.ai/bot/qk-ERVKW8OoAmDB2CO0De",
+      "category": "personal-admin",
+      "tags": [
+        "finance"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "peptide-bot",
+      "name": "Peptide Bot",
+      "author": {
+        "name": "Conor",
+        "url": "https://x.com/ConorChepenik"
+      },
+      "summary": "Plain-words peptide research guide for BPC-157, semaglutide, GHK-Cu and 150 more: what each does, human vs animal evidence, FDA status, safety and citations.",
+      "summary_zh": "用大白话讲解多肽研究，覆盖 BPC-157、司美格鲁肽、GHK-Cu 等 150 多种：作用、人体与动物证据、FDA 状态、安全性和引用来源。",
+      "import": "https://x.ai/bot/NRrBNgLUTE5b4KZ7uiThF",
+      "category": "personal-admin",
+      "tags": [
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "chief-of-staff-marcellhazzard",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "Marcell",
+        "url": "https://x.com/Marcellhazzard"
+      },
+      "summary": "Speaks for your whole bot team: gathers what each bot is doing, filters what reaches you, asks one question at a time and gates every send or spend.",
+      "summary_zh": "代表整个机器人团队跟你对话：汇总每个机器人在做什么、过滤推给你的信息、一次只问一个问题，任何发送或花钱都要你点头。",
+      "import": "https://x.ai/bot/d7JlVfF5uBqlKH0rv_txS",
+      "category": "teams-handoffs",
+      "tags": [
+        "finance",
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "aka"
+    },
+    {
+      "slug": "ai-si-industry-signals",
+      "name": "AI/SI Industry Signals",
+      "author": {
+        "name": "Robert",
+        "url": "https://x.com/DevOpsRobert"
+      },
+      "summary": "Ranked daily AI and superintelligence briefing from 200+ labs, builders and investors on X, with a live dashboard Page. Read-only, no politics, posts linked.",
+      "summary_zh": "每日排名式 AI 与超级智能简报，追踪 X 上 200 多个实验室、开发者和投资人，附可交互看板 Page。只读、不谈政治、每条都附原帖链接。",
+      "import": "https://x.ai/bot/HsQr5Tf3yZ8Nr54O-hshf",
+      "category": "research-briefings",
+      "tags": [
+        "content",
+        "x",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sleep-coach",
+      "name": "Sleep Coach",
+      "author": {
+        "name": "Ethan",
+        "url": "https://x.com/TrumptEthan0729"
+      },
+      "summary": "Sleep coach that sets a gradual bedtime and wake schedule, adds wind-down reminders and alarms, logs your nights and gives a weekly review. No medical advice.",
+      "summary_zh": "睡眠教练：逐步调整作息时间，设置睡前提醒和起床闹钟，记录每晚睡眠并每周复盘。不做医疗诊断。",
+      "import": "https://x.ai/bot/qY09SWmeyq-wqOSW6SFHD",
+      "category": "personal-admin",
+      "tags": [
+        "health",
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "tesla-owners-bot",
+      "name": "Tesla Owners Bot",
+      "author": {
+        "name": "Tesla",
+        "url": "https://x.com/TeslaShawn"
+      },
+      "summary": "Guide for new Tesla owners: asks model, year and trim, then answers setup, charging, FSD, winter, road-trip and troubleshooting questions from the manuals.",
+      "summary_zh": "给新 Tesla 车主的贴心指南：先问清车型、年份和配置，再依据官方手册解答设置、充电、FSD、冬季用车、长途和故障排查问题。",
+      "import": "https://x.ai/bot/IfjwtqY3BxMXeHdivRspj",
+      "category": "personal-admin",
+      "tags": [
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "recruiting-questionnaire-bot",
+      "name": "Recruiting Questionnaire Bot",
+      "author": {
+        "name": "matt",
+        "url": "https://x.com/realcoachmatt23"
+      },
+      "summary": "Fills out college athletic recruiting questionnaires for a high school athlete: finds each school's form, fills it after one approval and reports per school.",
+      "summary_zh": "替高中运动员填写大学体育招生问卷：找到每所学校的官方表格，经你一次批准后按你提供的信息填写，并逐校汇报结果。",
+      "import": "https://x.ai/bot/xN9qiVUQps9xJUnNMU0mQ",
+      "category": "personal-admin",
+      "tags": [
+        "recruiting",
+        "questionnaire"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "x-link-triager",
+      "name": "X link triager",
+      "author": {
+        "name": "beastnug",
+        "url": "https://x.com/beastnug8"
+      },
+      "summary": "Drop any X link and it pulls the full post, separates real repos and workflows from hype, and routes or logs it to the right specialist bot or project list.",
+      "summary_zh": "丢进任意 X 链接，它抓取完整帖子，把真正的代码仓库和工作流与炒作区分开，再转给合适的专门机器人或记进项目清单。",
+      "import": "https://x.ai/bot/Kp3s7Z5snb9_SyoSOx-eb",
+      "category": "research-briefings",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mesa-de-seguimiento",
+      "name": "Mesa de Seguimiento",
+      "author": {
+        "name": "David",
+        "url": "https://x.com/dcalderonia"
+      },
+      "summary": "Turns a lead, quote or notes into exactly three spaced follow-ups in neutral Spanish, human in tone, with a checklist of when to stop. Drafts only, you send.",
+      "summary_zh": "把一条线索、报价或笔记变成恰好三封间隔发送的跟进邮件，用中性西班牙语、语气自然，并附何时停止的清单。只起草，由你发送。西班牙语。",
+      "import": "https://x.ai/bot/paRENQ2c67oBsucY9XG0o",
+      "category": "customer-sales",
+      "tags": [
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "mural",
+      "name": "Mural",
+      "author": {
+        "name": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Makes giant images that hold up when zoomed (8K to 16K or print sizes) with tiled detail passes, plus wallpaper packs, print checks and posters after Approve.",
+      "summary_zh": "生成放大也清晰的超大图：8K 到 16K 或印刷尺寸，分块补细节并给出放大校样，还能切壁纸包、检查印刷文件，经你批准后才下单海报。",
+      "import": "https://x.ai/bot/Obg7rtHsF-I81kR1P8BFC",
+      "category": "content-publishing",
+      "tags": [
+        "content"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
     }
   ]
 }

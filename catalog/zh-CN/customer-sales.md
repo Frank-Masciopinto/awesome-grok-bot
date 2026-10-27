@@ -4,6 +4,7 @@
 
 - [$0 Launch Team](https://x.ai/bot/HDnrPPF5mfx4ctgY-qLHs) - 为没钱、没学历、没人脉的人提供免费 AI 创业团队：帮你选点子、只用免费工具做规划，并拿下第一位付费客户. [Sarah](https://x.com/SpaceCowgirlTX).
 - [$100M Offers](https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_) - 按 Hormozi 的报价设计一书，用大白话把你的产品打磨成价值清楚、价格合理的报价. [CardCaptain](https://x.com/CardCaptain).
+- [24/7 AI Research Recruiter](https://x.ai/bot/rtEM6xC63WDWsufit3JsC) - 在 LinkedIn Recruiter 上寻找 AI 研究候选人，定期扫回复并录入 Greenhouse，覆盖寻访、外联、ATS 和跟进。 [Pradeep](https://x.com/pradeepreddiar).
 - [Account Health](https://x.ai/bot/s5465ebb9e192551741f7) - 季度复盘前就看清风险和增购机会 读完手上所有客户的用量和信号，理成一张关注清单. [SpaceX](https://x.com/DenisLabelle).
 - [Account Manager](https://x.ai/bot/sd4333bc337078a9752ac) - 维护重点客户不用每次重建上下文 从转录、笔记、CRM、Slack 备会，跟进信也起好草稿. [SpaceX](https://x.com/DenisLabelle).
 - [Account Research](https://x.ai/bot/0CX2DyEQoP7Y88nT7XBYi) - 为一个指定的企业客户做调研：梳理组织架构和采购委员会、找出时机触发点和扩展机会，起草有出处的联络草稿。 [Jacob](https://x.com/weaverwork).
@@ -20,9 +21,11 @@
 - [After-Hours Receptionist](https://x.ai/bot/L-Peiv65iI_logfpgoPQ_) - 小商家下班后的线索收集和预约助手. Robert.
 - [After-Hours Receptionist](https://x.ai/bot/oGpLaio6LDICY5kJ_M9au) - 用 AgentLine 号码在下班后接听店里的电话：记留言、处理紧急来电，并排好第二天早上的回电。 Sameer.
 - [Ag bot](https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh) - 按原料就近找真实种植户与供应商，并给出排序. [Blaze](https://x.com/BlazeDrinkwine).
+- [Agency Lead](https://x.ai/bot/d92J6SU_mk1kaOn3m-Qrs) - 给创始人用的营销代理经理：负责定位、报价方案、广告策略、文案和获客，未经你同意不花钱、不发布、不联系任何人。 [Benoit](https://x.com/benoitbarnaby).
 - [Agency Reporter](https://x.ai/bot/u8hSS6eJdCwrnZXBcwtw8) - 用 Search Console 真实数据为每个客户写月度 SEO 报告：成果、改了什么是否有效、AI 搜索、下月计划. [SEOmatic](https://x.com/seomatic_ai).
 - [AI CMO](https://x.ai/bot/yzvLAvBDFtppOIvRNr5Tr) - 懂 CFO 语言、用 4P 思考的 AI 首席营销官，按品牌 → 需求 → 扩张推进. [Paul](https://x.com/paulsyng).
 - [AI SEO Hacker Bot](https://x.ai/bot/o4vzg3NeJ18iZj4n64Nop) - 检查你的品牌在 ChatGPT、Perplexity、Gemini 和 Google AI Mode 里的表现，把每个买家提问评为赢、平或输. [shawnbuilds](https://x.com/shawnbuilds).
+- [AI Video Freelancer](https://x.ai/bot/PUgdu1vM5t0G9xuYYxSBb) - 每个工作日在 Upwork 找 AI 视频外包活，用 Korpi AI 做样片、起草投标等你批准，接到客户后每周制作并交付视频。 [Alex](https://x.com/KorpiAi).
 - [Airbnb Host Concierge](https://x.ai/bot/wa1V3mI4lP2ZodI2frMD-) - 给短租房东的五星级房客沟通：欢迎和退房消息、回复房客问题、房屋手册、本地指南、房源文案改写和评价回复。 [Queen](https://x.com/Queenity78).
 - [Airfield Electrical Bid Scout](https://x.ai/bot/PWBPqcCqUbEUPozXozRc3) - 搜筛机场照明、助航、FAA 光纤与地下电气的公开标讯，发摘要与表格. [thefit24couple](https://x.com/thefit24couple).
 - [Alexandra](https://x.ai/bot/sLyptC4jOKlDSqUHqqvpN) - 小企业电话线的 AI 接待员：接听来电、记录留言，并在每次来电和短信时提醒你. [ChrisV.btc⚡](https://x.com/ChrisVolkernick).
@@ -145,6 +148,7 @@
 - [Domain Name Broker](https://x.ai/bot/--xvPdrEZEoqwnAn_moWw) - 找出你囤着从未上线的域名，并起草干净的第一封触达邮件. [Christopher](https://x.com/Chris_Vandaele).
 - [eBay Ads](https://x.ai/bot/hkBBlzwLwuxpJvGjx75H4) - 给 eBay 卖家：监控 Promoted Listings 推广活动，用 eBay 原生报表复盘广告费用效益和表现，定期发报告。 [Brandon](https://x.com/brandonhino50).
 - [eBay Lister](https://x.ai/bot/q9Q8EPKFx45CmVwjUAFY5) - 拍张漫画卡牌玩具或二手货照片，生成带成交价参考、标题和定价的 eBay 草稿. [Gabriel](https://x.com/Gabi_Valerio3).
+- [eBay Lister](https://x.ai/bot/5m2ZmmvB9P0dtq4efpill) - 发一张想卖的东西的照片，它识别物品、查 eBay 成交价、给出建议定价，并把商品页写成草稿等你批准。 [Christian](https://x.com/Sparkyrecks).
 - [eBay Seller Assistant](https://x.ai/bot/25biN96GINlZc7oouZlhU) - 小型 eBay 卖家助手：查看新订单，在你设定的上限内购买并打印标准运单，跟踪 USPS 扫描记录，守住你的最低价，改价或大额支出前先问你。 [James](https://x.com/jimaggie).
 - [eBay/TCGplayer store manager](https://x.ai/bot/J-O4_ismtdUN3zxvi1vKS) - 打理你在 eBay 和 TCGplayer 上的卡牌店：查近期成交价，每天在安全范围内调价，协助上架、订单和库存。 [AutoAndre](https://x.com/AndreXTCG).
 - [eBob](https://x.ai/bot/VoAd2MgPYXhlHrGYT9fci) - 面向小卖家的 eBay 店铺经理：优化商品标题搜索、建议调价并起草买家回复. [The](https://x.com/The_Contextian).
@@ -301,6 +305,7 @@
 - [Meeting Recap Deck](https://x.ai/bot/YklttiPpAHweKbOLV1TSF) - 把会议笔记收成你幻灯模板里的复盘页，只用你粘贴或上传的内容，不编造引语。 [Krista Letz](https://x.com/kristaletz).
 - [MEL preguntas](https://x.ai/bot/YvxsAro5SITkzr5x6TsWg) - 用你店铺的语气回复 Mercado Libre 商品提问和售后消息. [Maar](https://x.com/maarmapa).
 - [Merch Fulfillment Operator](https://x.ai/bot/se479952f3c9e373dfd64) - 周边寄给对的人 做触达、盯兑换表单、在聊天里问你批不批，通过了就发货. [SpaceX](https://x.com/DenisLabelle).
+- [Mesa de Seguimiento](https://x.ai/bot/paRENQ2c67oBsucY9XG0o) - 把一条线索、报价或笔记变成恰好三封间隔发送的跟进邮件，用中性西班牙语、语气自然，并附何时停止的清单。只起草，由你发送。西班牙语。 [David](https://x.com/dcalderonia).
 - [Messenger Inbox VA](https://x.ai/bot/eGCyiAfGvnspMLamUiXDv) - 小企业的虚拟助理：盯你的 Facebook 主页收件箱，汇报每一条新消息. [Josh](https://x.com/iamjoshmoulton).
 - [Meta Ads Monitor](https://x.ai/bot/NaRd1ceo_FaMPsDj8O7cq) - Meta（Facebook、Instagram）广告助手：拉取原生报表，盯拒登、消耗节奏、账单问题和 CPA/ROAS 剧烈波动，先给出加投、维持或削减建议。 [Brandon](https://x.com/brandonhino50).
 - [Microsoft Ads](https://x.ai/bot/MbHUC7JqXwTgNJAqjGGSr) - Microsoft 广告（必应）助手：监控广告系列、关键词、预算、转化目标、拒登和账单，用原生报表汇报表现。 [Brandon](https://x.com/brandonhino50).

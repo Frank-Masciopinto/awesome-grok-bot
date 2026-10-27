@@ -200,6 +200,7 @@
 - [CalBot](https://x.ai/bot/ukPdB_Nh6TNldMJNjF7L9) - 友好的热量和宏量营养素记录器：打字或发照片说你吃了什么，它估算热量、蛋白质、碳水和脂肪，记进每日日志. [slopulus](https://x.com/slopulus).
 - [Calibre](https://x.ai/bot/uaKyhDX_T3FY56jf6n4VL) - 在对话里用 Calibre 工具链互转电子书格式. [doitian](https://x.com/doitian).
 - [Call A Restaurant Reservation](https://x.ai/bot/TIMrxLJHbEEpdr25yYgvL) - 用你选的声音替你给餐厅打电话订位，回来给你带转写记录作证明，还能把预订加进日历. Brian.
+- [Call List Remover](https://x.ai/bot/eGVcE2autG0u6UcAwE3py) - 把你的手机号从电销和骚扰电话名单里移除：登记 Do Not Call、向数据经纪商退出、从营销名单删除，并定期复查。 [ALX](https://x.com/alx).
 - [Call Shield](https://x.ai/bot/leKqVRHk7QbaX3VVcUbEv) - 减少打到你手机上的骚扰电话并持续压住：登记拒接来电、运营商和手机拦截、起草 FTC 投诉. [JORGE](https://x.com/cryptorally).
 - [Calm](https://x.ai/bot/GCPjAyQjB_WUHL4uFJ6Hf) - 温暖稳定的陪伴者，帮你缓解想太多、焦虑和低落。提供支持但不是治疗师，备有本地危机热线。 [Mok](https://x.com/mokshaowei).
 - [Calorie Police](https://x.ai/bot/yAQwdu1ppzNP98grV_uy_) - 不说教的友好卡路里教练，帮想减脂或吃得更健康的人管住每天的热量. [Uzair](https://x.com/uzairayed).
@@ -694,6 +695,7 @@
 - [GetSued](https://x.ai/bot/NgcEs4fCGiedjVLJp8x0l) - 追踪 TCPA/DNC 骚扰电话违规，推动和解收款而不是先打官司. [FoxxAndCo](https://x.com/FoxxAndCo).
 - [Ghost](https://x.ai/bot/852IE_26SAlD0C02ZUoDR) - 用免费退出流程把你的住址、电话和邮箱从人员搜索和数据经纪网站上删掉，记录日志，并定期复查是否又出现。 [Dave](https://x.com/gambrill).
 - [Gift Bot](https://x.ai/bot/ZMwukO1eaUg62QTiMf2sp) - 私人礼物助手：记住生日和节日，为你要送礼的人保存点子，发现真正的优惠时通知你. [sarah](https://x.com/drsarah).
+- [Gift Brainstormer](https://x.ai/bot/qk-ERVKW8OoAmDB2CO0De) - 记住你要送礼的人，在他们的重要日子前提醒你，并按对方喜好和你的预算推荐礼物。没有你同意绝不下单。 [Yvonne](https://x.com/Vontweeter).
 - [Gift Desk](https://x.ai/bot/ceKtSN9DkDpCHUxAJEAFL) - 记住每个生日和纪念日，推荐三份预算内的礼物，你确认总价后才下单寄送。 [Thuong](https://x.com/teeRex247).
 - [Gift Finder](https://x.ai/bot/4lZO4FyyTC0GtX2_k9ESv) - 帮你以合理价格抢到今年热门难买的节日礼物：按年龄和兴趣推荐玩具，盯补货和真实降价，值得买时才提醒。 [Dirty](https://x.com/DirtyTesLa).
 - [Gift Helper](https://x.ai/bot/gG2uY9f4dGjXid_51kZrj) - 记住生日和纪念日，提前在预算内推荐礼物并链接到你所在国家能买到的真实商品，不经你同意不购买不发送。 community.
@@ -929,6 +931,7 @@
 - [Job Hunter](https://x.ai/bot/yNTz_oheOAvohS-m1OeM7) - 求职助理：查找并核实新职位，起草定制的联系邮件并追踪申请进度。未经同意不投递、不发消息。 [Sai](https://x.com/sai_ramana_1999).
 - [Job Hunter](https://x.ai/bot/cccm6sJrQwt4KKiFstHmE) - 每个工作日找新职位并替你投递，给每位招聘经理发一条简短 LinkedIn 消息，再给你一份汇总。为 SDR/BDR 求职设计，其他岗位也能用。 [Phlegon](https://x.com/PhlegonJoseph).
 - [Job Hunter](https://x.ai/bot/da1fMNwUhwxwYOuJXJKs0) - 找真正适合你的在招职位，诚实打分，实事求是地定制简历，并跟踪每份申请。每次投递都由你批准。 [Brad](https://x.com/gralzy).
+- [job hunting](https://x.ai/bot/XzWOqyLo6f65z87l2DG1y) - 找适合你的远程职位和 X 上的招聘帖，为每个岗位定制简历、提交申请，并起草外联消息等你批准。 [abhinav](https://x.com/abhiontwt).
 - [Job interview hunter](https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u) - 按工作日节奏起草针对性申请和内推说明。 [Josh](https://x.com/joshkim).
 - [Job Loss Reset](https://x.ai/bot/rdAGLfHpnVrcBBi4T-0G9) - 为刚失业的人提供冷静帮助：申请失业金、审查遣散费、医疗保险、资金梳理和稳步求职计划. [Jeremy](https://x.com/Biggs237).
 - [Job Requirements Scout](https://x.ai/bot/KLXWBRzfzyiqfEYc1TwNy) - 发来简历并连接求职用的 Indeed 账号：每个工作日扫描附近你所在领域的职位，不投递，持续整理这些职位的要求。 [nahjuin](https://x.com/nahjuin).
@@ -1303,6 +1306,7 @@
 - [People Log](https://x.ai/bot/ao7Mbz9AnEp7rI4KvokUK) - 社交记忆机器人，记住朋友、同事与邻居的名字与细节，提醒你别说错话. [TeslaCybernut](https://x.com/TeslaCybernut).
 - [Pep](https://x.ai/bot/3OBkFpa32HssSRWc_0zfD) - 记录你的肽类方案：配制换算、剂量日志、药瓶库存和注射日提醒。只计算和记录你已决定的内容，从不开处方或代购。 [Dave](https://x.com/gambrill).
 - [PepeTrack](https://x.ai/bot/nooY_fiizqHxS9TB4z74g) - 肽与 GLP-1 学习用的阅读、计量与笔记日志. [TyeInBloom](https://x.com/TyeInBloom).
+- [Peptide Bot](https://x.ai/bot/NRrBNgLUTE5b4KZ7uiThF) - 用大白话讲解多肽研究，覆盖 BPC-157、司美格鲁肽、GHK-Cu 等 150 多种：作用、人体与动物证据、FDA 状态、安全性和引用来源。 [Conor](https://x.com/ConorChepenik).
 - [Period cycles Tracker](https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc) - 记经期但不误算假开始，并预测下一周期和提前提醒。 [_lovablecurves](https://x.com/_lovablecurves).
 - [Personal Assistant](https://x.ai/bot/OWj_0o4Ik2FffupfloOwe) - 把卡住的生活杂事收成一件立刻能做的事。 [gabe_onchain](https://x.com/gabe_onchain).
 - [Personal Assistant](https://x.ai/bot/X4vnqnPvBooeuNtRiWJNT) - 温和务实的生活助理：管习惯、日程、开销、睡眠、求职和每周计划。要发给别人的内容一律先起草给你看。 [Autodiag](https://x.com/bigRD73).
@@ -1444,6 +1448,7 @@
 - [Recruiter Email Finder](https://x.ai/bot/lbf-biMZO02RdXeOBks_-) - 找出目标公司真正负责招人的人，并给出可发的邮箱。 [fwhittington_24](https://x.com/fwhittington_24).
 - [Recruiting Coordinator](https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq) - 排面试环、给面试官准备材料并催卡住的环节，可从日历或名单，不擅自给候选人发信。 [Tommy Hansen](https://x.com/TommyHansenTA).
 - [Recruiting Helper](https://x.ai/bot/PLVl8vd5OAQr45bk-kvuo) - 求职助手：寻找职位、经你批准更新申请跟踪表，并定制你的简历. [Dina](https://x.com/dinablachman).
+- [Recruiting Questionnaire Bot](https://x.ai/bot/xN9qiVUQps9xJUnNMU0mQ) - 替高中运动员填写大学体育招生问卷：找到每所学校的官方表格，经你一次批准后按你提供的信息填写，并逐校汇报结果。 [matt](https://x.com/realcoachmatt23).
 - [Red Flag](https://x.ai/bot/-QAXkSxb1PqXFHdCsxhy0) - 检查计划、代码和 AI 回答里站不住的说法和可能出错的地方，给证据并建议测试或修复. Seth.
 - [Redact](https://x.ai/bot/Abz5txK3unOkm5ZxCGGX-) - 替你向数据经纪商提交删除申请，省掉按月订阅的清洗服务。 [PyRo1121](https://x.com/PyRo1121).
 - [Redact](https://x.ai/bot/lTECTKtNLwK_xZhTaq_d_) - 帮你从人员搜索和数据经纪网站删除个人信息，先确认授权再自动退出，被拦的网站汇总一份，工作日复查. [Tag](https://x.com/tag111111111).
@@ -1592,6 +1597,7 @@
 - [Skysay Caller](https://x.ai/bot/_UO6crmwQ8v1CHurN4rDQ) - 用 Skysay 给 Grok 一部电话：通过 AI 语音 agent 打电话、接电话、发短信，不用自己搭电话系统. [Artur](https://x.com/skyzer4ever).
 - [Skywatcher Buzz](https://x.ai/bot/Y5p-9MeT7dEayoyxX_s2q) - 告诉你家乡上空有什么值得出门看：空间站过境、极光机会、流星雨、日月食、行星、月相和可见火箭发射，并配上云量预报。 [James](https://x.com/jimaggie).
 - [Slack Channel Digest](https://x.ai/bot/P6fBsn6z8rZ1jk_gCUGD2) - 早间 Slack 摘要，标出等你的私信、提及与决策，然后才展开细节. [Nikhil](https://x.com/Nikhil_Kadapala).
+- [Sleep Coach](https://x.ai/bot/qY09SWmeyq-wqOSW6SFHD) - 睡眠教练：逐步调整作息时间，设置睡前提醒和起床闹钟，记录每晚睡眠并每周复盘。不做医疗诊断。 [Ethan](https://x.com/TrumptEthan0729).
 - [Sleeper](https://x.ai/bot/ftz0IMrN8ov16cVvYGhhn) - Sleeper Fantasy 助手：每周用数据给出首发、自由球员、交易和裁人建议，含王朝联赛价值，有稳妥和冒险两个选项。 Hernan.
 - [Smart Price-Drop & Deal Sniper](https://x.ai/bot/rZ3cnvN16DQRyO75TtABy) - 每天跟踪各大零售商的商品和机票价格，比较单价和优惠券，发现买后降价可退差价的机会，并维护一个实时优惠 Page。 [Globenews](https://x.com/newsglobeorg).
 - [Smart Shopper](https://x.ai/bot/zafLolp-y0aoEwGpZd_qv) - 适用任何商店的降价狙击手和礼物参谋：每天盯含运费和税的价格，按送达日期找真正合适的礼物，没有你的同意绝不下单。 [JP](https://x.com/Jprz1321).
@@ -1733,6 +1739,7 @@
 - [Tesla Inventory Finder](https://x.ai/bot/aMBKNgOmKSo-F2tq75X2N) - 查找你邮编附近的全新和官方认证二手 Tesla Model 3、Model Y 和 Cybertruck 库存，按 Tesla 官方筛选步骤走，返回带价格的直达链接。 [JeebsTX](https://x.com/JeebsTX).
 - [Tesla Lock Chime Bot](https://x.ai/bot/2n7fmymnCDe9kfwZrDTcb) - 给特斯拉换上你喜欢的锁车提示音：说个音效名或发一段你有版权的音频，试听后拿到能放进 U 盘的锁车音. [Matty_O_D](https://x.com/Matty_O_D).
 - [Tesla Maintenance Reminder](https://x.ai/bot/pKfa-wIy5YSH1GOt0PN9A) - 跟踪特斯拉易损件，到保养节点再提醒. [jbaladjay_](https://x.com/jbaladjay_).
+- [Tesla Owners Bot](https://x.ai/bot/IfjwtqY3BxMXeHdivRspj) - 给新 Tesla 车主的贴心指南：先问清车型、年份和配置，再依据官方手册解答设置、充电、FSD、冬季用车、长途和故障排查问题。 [Tesla](https://x.com/TeslaShawn).
 - [Tesla Ownership Assistant](https://x.ai/bot/qLvwv-PZIQzUF0xrCj7tj) - 特斯拉车主周报，覆盖车辆状态、充电与保养提醒. [TeslaNewb](https://x.com/TeslaNewb).
 - [Tesla Ready](https://x.ai/bot/L5Sczwabgsf59rZ6RTChF) - 按日历与实时路况在出门前预热或预冷你的特斯拉座舱. [WaitWhat](https://x.com/WaitWhat).
 - [Tesla Ready](https://x.ai/bot/SUQn0WMY2zEL9cwEmd2jv) - 免费特斯拉座舱预热：按日历与路况或随点随开，手机一次性设置，用特斯拉免费接口。 Lincoln.

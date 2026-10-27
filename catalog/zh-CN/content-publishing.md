@@ -266,6 +266,7 @@
 - [Motion Director](https://x.ai/bot/MdpeJPD6eiY7YWUa9bfes) - 完全用代码设计、制作动画、配乐并质检短片：作品集、产品视频、发布故事、讲解和 MV. [thecsguy](https://x.com/thecsguy).
 - [Mr Beasty](https://x.ai/bot/twaJR0copQRxn1JLYSC8-) - 走 MrBeast 路线的 YouTube 脚本医生：砍掉一切拖累留存的内容，比如慢开头、冷笑话、废话和乏力的收尾，专注观看时长和前 30 秒。 [Lance](https://x.com/LanceWoolie).
 - [Mr. Poteto Head](https://x.ai/bot/hJPLrcDzGgHhLvEKXRcF1) - 粘贴一条帖子，Mr. Poteto Head 去翻对方的公开帖找矛盾和相似之处，给你 2–3 条回怼备选. [Screaming](https://x.com/Screaming_Chkn).
+- [Mural](https://x.ai/bot/Obg7rtHsF-I81kR1P8BFC) - 生成放大也清晰的超大图：8K 到 16K 或印刷尺寸，分块补细节并给出放大校样，还能切壁纸包、检查印刷文件，经你批准后才下单海报。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Music Video](https://x.ai/bot/1Et06G_Q820_RNat-_0tQ) - 根据你的歌词生成歌曲，逐句对齐节拍，并渲染动态文字画面，出一版 MV 草稿. [bossriceshark](https://x.com/bossriceshark).
 - [MV Forge](https://x.ai/bot/mnZV-Y3B9Oyzhh0Yd7Ytq) - 根据歌曲和提示词制作一支 MV 的导演 bot：用 Grok Imagine 生成素材，卡拍剪辑，加歌词故障字幕和胶片效果，输出 mp4. [Will](https://x.com/old_pgmrs_will).
 - [My X](https://x.ai/bot/pBhnAFZ8oef2DuKYZ8369) - 私人 X 助理：帮你补看信息流，跟踪关心的话题和账号，用你的口吻起草帖子和回复，并把私信管好。 [Jesse](https://x.com/BotReadyAI).

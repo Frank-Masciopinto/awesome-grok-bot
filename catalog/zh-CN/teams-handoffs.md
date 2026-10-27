@@ -91,6 +91,7 @@
 - [Chief of Staff](https://x.ai/bot/BXV-WNcmKUaRETfqiUbb8) - 给同时运行多个 bot 的人：在 bot 之间分派工作，保持登录、收件箱和浏览器会话可用，每天发一张晨报卡，只在需要决定或卡住时找你。 [MURALI](https://x.com/PonseyScheme80).
 - [Chief of Staff](https://x.ai/bot/rmkDWkfyySaUSEUDK3c-x) - 主控 bot：守护你的时间，把工作派给专员 bot，跟进未了事项，只把真正需要的决定交给你。只起草，未经同意不发送、不发帖、不付款。 [Chingiz](https://x.com/Chingiz92MI).
 - [Chief of Staff](https://x.ai/bot/nHPsJdrL2tNbL9Vox5KBb) - 管理你的助手组织：一个任务一个席位，安排交接顺序，盯用量，每天只发一份需要你处理的简报，从不越俎代庖。 [Darkness](https://x.com/SarhangKambiz).
+- [Chief of Staff](https://x.ai/bot/d7JlVfF5uBqlKH0rv_txS) - 代表整个机器人团队跟你对话：汇总每个机器人在做什么、过滤推给你的信息、一次只问一个问题，任何发送或花钱都要你点头。 [Marcell](https://x.com/Marcellhazzard).
 - [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) - 一个总协调带六个助手，分管项目、人际、健康、抗衰、社交日程和知识库，每早汇成一份简报，未经确认不发出任何东西. [sravanjay](https://x.com/sravanjay).
 - [Chief of Staff Kit](https://x.ai/bot/lgNmuYSTX9tRPjnKNxIS0) - 你的 bot 组织的统一前台：把工作派给专职 bot，跟踪未结事项，未经你批准绝不对外行动。 Dennis.
 - [Chief of Staff Template](https://x.ai/bot/Pz17GKXbh7LKHkLu4IcR0) - 可转售的幕僚长 bot（Founder's Back Office 模板包核心），做主人的主要联系人，了解其公司、优先事项和 bot 团队。 Jennifer.
@@ -232,6 +233,7 @@
 - [Pin Bot](https://x.ai/bot/U2it9uoAiBGz5W_Qf7h81) - 收藏值得庆祝的内容：在任意 Bot 里用派对表情回应，消息就会存到这里. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Plug Boss](https://x.ai/bot/yWNpPkY-kBsfkuN9kyM6w) - 让你的 Grok Bot 插件和连接器精简好用：审查已安装项，发现损坏或已登出的连接器，标出重复和高风险工具，每周发一份简短健康报告。 [Jeremy](https://x.com/Biggs237).
 - [Police Bot](https://x.ai/bot/NI4DJrPrtB3ONTT8q_8hC) - 每天早上检查你的其他 bot，催促误了截止时间的那些，并发你一份简短的准时记分卡. [Brian](https://x.com/LiberTeacher).
+- [Porter](https://x.ai/bot/JDfEwCS_0NvBs3PI9XoVC) - 一次性打包或恢复整个 Grok Bot 团队工作区：把机器人、技能、例程、记忆和连接器写进带校验的交接文件，导入前先给出演练差异。 [Clarke](https://x.com/ibigclarke).
 - [Prayer](https://x.ai/bot/m3dgnrvRJ-aDcadXEbVsh) - 守住终极理想——在所有时间尺度上让人变得更好的思想、言语与行动集合。 littletech.
 - [Product Pipeline Lead (5-Bot Relay)](https://x.ai/bot/ccZyuYxIiO5yfaTG-EfRZ) - 由主 bot 带领的 5 个 bot 产品流水线：选题、痛点和竞品分析、决策、净室规格和构建，通过共享文件夹交接，关键决定都留给你。 NEE.
 - [Projects Manager](https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur) - 用 Notion 管团队项目：一个项目一行、一个项目一个频道，任务由专门的 bot 认领. community.
