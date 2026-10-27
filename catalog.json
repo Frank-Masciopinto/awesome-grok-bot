@@ -139215,6 +139215,320 @@
       "verified": false,
       "updated": "2026-10-27",
       "shelf": "raw"
+    },
+    {
+      "slug": "scrollstopper-social-media-manager",
+      "name": "Scrollstopper · Social Media Manager",
+      "author": {
+        "name": "Daniel",
+        "url": "https://x.com/_DanielWilson"
+      },
+      "summary": "Social media manager for one or more brands: learns each voice, writes native posts, schedules, replies to comments, weekly report. Draft-only by default.",
+      "summary_zh": "为一个或多个品牌管理社交媒体：学习各品牌语气，写适配平台的帖子，排期、跨平台发布、回复评论，每周发效果报告。默认只出草稿。",
+      "import": "https://x.ai/bot/MMCVsJ0cyBuZD-4tD7dKw",
+      "category": "content-publishing",
+      "tags": [
+        "calendar",
+        "content",
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "bot-emmuvhswrgf5ff37jtalc",
+      "name": "英語スピーキング練習コーチ",
+      "author": {
+        "name": "Haruki",
+        "url": "https://x.com/har1101mony"
+      },
+      "summary": "Voice coach that builds a daily habit of speaking English aloud a few minutes a day, starting from very simple sentences (instant composition). Japanese.",
+      "summary_zh": "用“瞬间英作文”思路的语音练习教练，每天几分钟开口说英语，从非常简单的句子练起，适合不敢开口的人。日语。",
+      "import": "https://x.ai/bot/eMmUvHswRGf5ff37JTAlC",
+      "category": "personal-admin",
+      "tags": [
+        "assistant"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "game-day-tv-schedule-maker",
+      "name": "Game-Day TV Schedule Maker",
+      "author": {
+        "name": "Campdirtybird",
+        "url": "https://x.com/Campdirtybird"
+      },
+      "summary": "Makes printable one-page game-day TV guides with every game, kickoff time, network and channel number for your city and TV provider. For bars and watch parties.",
+      "summary_zh": "按你所在城市和电视服务商，生成可打印的单页比赛日电视指南：每场比赛、开球时间、电视网和频道号，适合酒吧、餐厅和观赛派对。",
+      "import": "https://x.ai/bot/g3TI10sXrsAuLSVIXN34j",
+      "category": "customer-sales",
+      "tags": [
+        "calendar"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "the-gaffer",
+      "name": "The Gaffer",
+      "author": {
+        "name": "Sai",
+        "url": "https://x.com/sai_grsh"
+      },
+      "summary": "Fantasy Premier League assistant: transfer, captain and bench calls, deadline-day briefs, injury and price alerts, FPL X scouting, mini-league tracking.",
+      "summary_zh": "梦幻英超助理经理：给出转会、队长和替补建议，发截止日简报，提醒你球员的伤病和身价变化，追踪 FPL 相关 X 账号和小联赛排名。",
+      "import": "https://x.ai/bot/s_nRtHcwThf1KCQ2Y122R",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "x",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "open-enrollment",
+      "name": "Open Enrollment",
+      "author": {
+        "name": "GroksRules",
+        "url": "https://x.com/GroksRules"
+      },
+      "summary": "Helps decide whether to switch health plans at open enrollment, reading your plan documents and modeling total yearly cost with and without major care.",
+      "summary_zh": "帮你在开放投保期决定是否更换医保计划：读你的保单文件，按有无手术、治疗等大额医疗分别估算全年总花费。",
+      "import": "https://x.ai/bot/RilkaH5YhNYhl1tcslvXr",
+      "category": "finance-ops",
+      "tags": [
+        "health"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "sub-killer",
+      "name": "Sub Killer",
+      "author": {
+        "name": "GroksRules",
+        "url": "https://x.com/GroksRules"
+      },
+      "summary": "Finds the subscriptions you pay for in Gmail, helps cancel the unwanted ones and clears promo clutter without touching bills or official mail.",
+      "summary_zh": "从 Gmail 里找出你在付费的订阅，帮你取消不想要的，并清理促销邮件，不碰账单和正式邮件。",
+      "import": "https://x.ai/bot/t0j3bcp2AFpIuKxhmg-EN",
+      "category": "inbox-calendar",
+      "tags": [
+        "email"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "movie-bot",
+      "name": "Movie Bot",
+      "author": {
+        "name": "Kenneth",
+        "url": "https://x.com/ke_dk"
+      },
+      "summary": "Finds new movies and TV on streaming, learns your tastes and sends scored shortlists with IMDb links and media buzz.",
+      "summary_zh": "发现流媒体上的新电影和剧集，学习你的口味，发送带评分的候选清单，附 IMDb 链接和媒体热度。",
+      "import": "https://x.ai/bot/OIw2vdgv60F5tGrYx7N6y",
+      "category": "personal-admin",
+      "tags": [
+        "learning"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "routine-scorecard",
+      "name": "Routine Scorecard",
+      "author": {
+        "name": "SoCalFSD",
+        "url": "https://x.com/socalfsd"
+      },
+      "summary": "Weekly audit of all your bots' routines: flags zombie routines and keeps one dashboard of what to keep, kill or review. Never deletes anything.",
+      "summary_zh": "每周审计你所有机器人的例程，标出“僵尸”例程，并维护一张保留、停用、待复查的总看板，从不删除任何东西。",
+      "import": "https://x.ai/bot/jDugMyFxwLW5rOQK2IvPM",
+      "category": "teams-handoffs",
+      "tags": [
+        "bots"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "idea-lab-brainstorm-logger",
+      "name": "Idea Lab & Brainstorm Logger",
+      "author": {
+        "name": "beastnug",
+        "url": "https://x.com/beastnug8"
+      },
+      "summary": "Captures business, content and product ideas from your day, podcasts or X links into a numbered log, stress-tests them and designs a cheap 7-day validation.",
+      "summary_zh": "把你日常、播客或 X 链接里冒出的商业、内容和产品点子记进编号日志，压力测试并关联旧点子，动手前先设计一个低成本的 7 天验证。",
+      "import": "https://x.ai/bot/Uebi7w0hZRhAk0rCORNBM",
+      "category": "research-briefings",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "gift-genie",
+      "name": "Gift Genie",
+      "author": {
+        "name": "Alexander",
+        "url": "https://x.com/IrlCarbon"
+      },
+      "summary": "Runs your gift giving end to end: remembers birthdays and anniversaries, suggests ideas with live prices three weeks out, and buys only with your yes.",
+      "summary_zh": "全程打理送礼：记住每个生日和纪念日，提前三周给出带实时价格的新点子，只有你点头才下单。",
+      "import": "https://x.ai/bot/Q-PWXlPBgoB2BBg5pVRma",
+      "category": "personal-admin",
+      "tags": [
+        "shopping"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "ai-mae616",
+      "name": "AIイラストにゃんこ",
+      "author": {
+        "name": "Sakina",
+        "url": "https://x.com/mae616_"
+      },
+      "summary": "Cat-girl assistant that builds Midjourney / Niji Journey prompts from composition, color and face readability, in English with a Japanese translation.",
+      "summary_zh": "猫娘助手，从构图、色块和面部可读性出发组织 Midjourney／Niji Journey 插画提示词，输出英文提示词并附日文翻译。",
+      "import": "https://x.ai/bot/kDR5AzLGtKjgckBpmdEHm",
+      "category": "content-publishing",
+      "tags": [
+        "assistant"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "paper-trail",
+      "name": "Paper Trail",
+      "author": {
+        "name": "heartofgold42_",
+        "url": "https://x.com/heartofgold42_"
+      },
+      "summary": "Daily tip sheet and live fraud and scams alert feed of verified, document-backed stories for U.S. reporters, editors, newsrooms and watchdogs.",
+      "summary_zh": "给美国记者、编辑、新闻编辑部和监督机构的每日线索单和实时欺诈诈骗警报，只收经过核实、有文件支撑的报道线索。",
+      "import": "https://x.ai/bot/c-P_P16EPAU6_4VEObL-Z",
+      "category": "research-briefings",
+      "tags": [
+        "security",
+        "research"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "shortcuts-for-iphone-and-mac",
+      "name": "Shortcuts for iPhone and Mac",
+      "author": {
+        "name": "Hemant",
+        "url": "https://x.com/hemantagaarwal"
+      },
+      "summary": "Builds ready-to-import Apple Shortcuts for iPhone and Mac, signed files plus a step-by-step recipe, and can package sellable shortcuts with a sales kit.",
+      "summary_zh": "为 iPhone 和 Mac 生成可直接导入的苹果快捷指令：签名文件加分步说明，还能把快捷指令打包成可售卖的产品并附销售素材。",
+      "import": "https://x.ai/bot/r1p6kfK48FXdGPbSfuqg1",
+      "category": "coding-shipping",
+      "tags": [
+        "meals"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "master-max",
+      "name": "Master Max",
+      "author": {
+        "name": "jessie",
+        "url": "https://x.com/ozone2016"
+      },
+      "summary": "SEO and AI-visibility bot that gets a business found on Google and recommended by AI assistants like Grok and ChatGPT. For web agencies and small businesses.",
+      "summary_zh": "SEO 与 AI 可见度机器人，让企业在 Google 上被搜到、被 Grok 和 ChatGPT 等 AI 助手推荐，适合网站代理商和小企业。",
+      "import": "https://x.ai/bot/jHk8GG6HRbGN6pxfrfrMf",
+      "category": "customer-sales",
+      "tags": [
+        "master",
+        "max"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
+    },
+    {
+      "slug": "lead-catcher-thekuchh",
+      "name": "Lead Catcher",
+      "author": {
+        "name": "Sultanov",
+        "url": "https://x.com/thekuchh"
+      },
+      "summary": "Scans replies under your X posts every evening and catches buying signals nobody followed up on, with ready-to-send reply drafts. For creators and freelancers.",
+      "summary_zh": "每晚扫描你 X 帖子下的回复，找出没人跟进的购买信号，并附上可直接发送的回复草稿，适合在 X 上卖东西的创作者和自由职业者。",
+      "import": "https://x.ai/bot/xHHHbKIm3hfWMFmg8_Sy0",
+      "category": "customer-sales",
+      "tags": [
+        "video",
+        "content",
+        "x",
+        "sales"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "aka"
+    },
+    {
+      "slug": "cybertruck-expert",
+      "name": "Cybertruck Expert",
+      "author": {
+        "name": "Inkwell",
+        "url": "https://x.com/cybrgalaxy"
+      },
+      "summary": "Helper for owning a Tesla Cybertruck: tips, settings, tires, charging, and a weekly roundup of software updates, recalls and owner tips.",
+      "summary_zh": "特斯拉 Cybertruck 车主助手：用车技巧、设置、轮胎、充电，每周汇总软件更新、召回和车主经验。",
+      "import": "https://x.ai/bot/SXSKuD8b7JfpSIKyvbfdM",
+      "category": "personal-admin",
+      "tags": [
+        "home"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-10-27",
+      "shelf": "raw"
     }
   ]
 }

@@ -383,6 +383,7 @@
 - [Curious Kids Science Desk](https://x.ai/bot/UD5hm1-w70PMPjr-e83r0) - 按孩子水平回答为什么，并附一个安全的家庭小实验. [Cypher0x9](https://x.com/Cypher0x9).
 - [Curriculum Researcher](https://x.ai/bot/nDaANSe7a9uFU0gMGVJ-h) - 为你想学的任何内容找免费公开课程（高中到大学），整理成带阅读材料、图片和视频的课程计划。可搭配 Teacher Agent。 [Mark](https://x.com/mag_minnesota).
 - [Cyber Stud](https://x.ai/bot/vEl_iMl8eLa6pOYAeey--) - 个人网络安全教练：分 6 个周末课程一步步带你加固账号、手机、WiFi、电脑、信用和家人，防黑客、身份盗用和 AI 诈骗。 [Grease](https://x.com/LowTimePrefrenz).
+- [Cybertruck Expert](https://x.ai/bot/SXSKuD8b7JfpSIKyvbfdM) - 特斯拉 Cybertruck 车主助手：用车技巧、设置、轮胎、充电，每周汇总软件更新、召回和车主经验。 [Inkwell](https://x.com/cybrgalaxy).
 - [Cybertruck Grok Saved Conversations](https://x.ai/bot/Ipok84Tggdhsk2E8sGdrA) - 保存你在赛博卡车或车载Grok里的对话笔记，之后还能接着问. [RICOSAIZ1](https://x.com/RICOSAIZ1).
 - [d2fl template](https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC) - 来自 d2fl 的可导入分享模板。 [d2fl](https://x.com/d2fl).
 - [Dad Joke Daily](https://x.ai/bot/0wdUJytrrRr2lUZJy_8_-) - 每天在你定的时间发一个新的、适合孩子的冷笑话，不重复，过了截止时间就不发. [j3pup](https://x.com/j3pup).
@@ -698,6 +699,7 @@
 - [Gift Brainstormer](https://x.ai/bot/qk-ERVKW8OoAmDB2CO0De) - 记住你要送礼的人，在他们的重要日子前提醒你，并按对方喜好和你的预算推荐礼物。没有你同意绝不下单。 [Yvonne](https://x.com/Vontweeter).
 - [Gift Desk](https://x.ai/bot/ceKtSN9DkDpCHUxAJEAFL) - 记住每个生日和纪念日，推荐三份预算内的礼物，你确认总价后才下单寄送。 [Thuong](https://x.com/teeRex247).
 - [Gift Finder](https://x.ai/bot/4lZO4FyyTC0GtX2_k9ESv) - 帮你以合理价格抢到今年热门难买的节日礼物：按年龄和兴趣推荐玩具，盯补货和真实降价，值得买时才提醒。 [Dirty](https://x.com/DirtyTesLa).
+- [Gift Genie](https://x.ai/bot/Q-PWXlPBgoB2BBg5pVRma) - 全程打理送礼：记住每个生日和纪念日，提前三周给出带实时价格的新点子，只有你点头才下单。 [Alexander](https://x.com/IrlCarbon).
 - [Gift Helper](https://x.ai/bot/gG2uY9f4dGjXid_51kZrj) - 记住生日和纪念日，提前在预算内推荐礼物并链接到你所在国家能买到的真实商品，不经你同意不购买不发送。 community.
 - [Gift Motive Autopsy](https://x.ai/bot/2jqb0GUjTJElfc529kClB) - 先判定礼物动机，再给出含反礼物的短名单。 [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Gig Hunter](https://x.ai/bot/4mkqDjPpEJGZbflfNseTs) - 搜寻符合你技能、报酬和时间的真实付费零活，剔除骗局，给你一份新鲜的候选清单。 lilsketch.
@@ -1161,6 +1163,7 @@
 - [Motivation Bot](https://x.ai/bot/KNoXvnLnkKME1TqhqJx8t) - 每日激励，帮你保持专注. [johnboyle](https://x.com/johnboyle).
 - [MotoGP Fantasy](https://x.ai/bot/J4X7TMhobhA9u_DW-nCl_) - MotoGP Fantasy 助手：每站大奖赛用数据帮你组队，给稳妥和冒险选择，并跟踪成绩。 Hernan.
 - [Move Desk (Beta)](https://x.ai/bot/zfhRrk6qOjgBNtbkHaisC) - 请搬家公司时：查 FMCSA 记录核验搬家公司，读懂报价单，告诉你交付时对方最多能收多少，按联邦期限起草损坏索赔。非法律意见。 [Jimmy](https://x.com/hacks_jimm53237).
+- [Movie Bot](https://x.ai/bot/OIw2vdgv60F5tGrYx7N6y) - 发现流媒体上的新电影和剧集，学习你的口味，发送带评分的候选清单，附 IMDb 链接和媒体热度。 [Kenneth](https://x.com/ke_dk).
 - [Movie Magic](https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK) - 电影推荐、持续更新的待看清单，以及带可复用图表的每周北美票房汇总. [king_rob_lo](https://x.com/king_rob_lo).
 - [Movie Night](https://x.ai/bot/CVJIFYf5bf1t722Z36uHK) - 个人观影助手：点几下就摸清你的口味，帮你挑今晚看什么。 [dougdstecklein](https://x.com/dougdstecklein).
 - [Movie Rating](https://x.ai/bot/Wxl4X9Ipcgb_wbVLYT1pC) - 以家庭为先的观影指南：设定孩子年龄、喜好和内容过滤，然后输入任何电影，得到含适龄判断和可跳过时间点的简短评价。 [Komil](https://x.com/Limok_igit).
@@ -1756,6 +1759,7 @@
 - [The Boss](https://x.ai/bot/o5jVbO-FDSnWU1fIZW7xv) - 接下你的目标，拆成任务，分给合适专家，并回收结果. [The_Tan_Man_Uk](https://x.com/The_Tan_Man_Uk).
 - [The Business Skills Operator](https://x.ai/bot/ExLvhzslUcpImIXZoLY9G) - 只当老板不开车：为靠分包商和 AI agent 运营的服务型生意制定本地化的启动计划。 Urban.
 - [The Fool](https://x.ai/bot/MDcAPLzRIgI0dqTwWV40O) - 宫廷弄臣，按固定节奏讲冷笑话并轻损 hustle。 [EvSlatts](https://x.com/EvSlatts).
+- [The Gaffer](https://x.ai/bot/s_nRtHcwThf1KCQ2Y122R) - 梦幻英超助理经理：给出转会、队长和替补建议，发截止日简报，提醒你球员的伤病和身价变化，追踪 FPL 相关 X 账号和小联赛排名。 [Sai](https://x.com/sai_grsh).
 - [The Hundred Fantasy](https://x.ai/bot/g1hrGiRsfYrt2vrNvdLWH) - The Hundred Fantasy 板球助手：帮你组队、比较队长人选、规划转会，给稳妥和冒险两个方案。 Hernan.
 - [The Interviewer](https://x.ai/bot/slpciJwWffCdi6T1mR0ON) - 模拟面试官，根据职位和简历先做功课，再来一场逼真的面试，最后直说录不录用并教你怎么改. [suddenlyjon](https://x.com/SuddenlyJon).
 - [the j*bfinder](https://x.ai/bot/eSCwViGduTgMD6PiOo7jm) - 管求职与实习搜索，根据招聘邮件维护 Notion 申请表，并催临近截止与待办。 [danieldxu_](https://x.com/danieldxu_).
@@ -1995,6 +1999,7 @@
 - [神叨叨 MythTeller](https://x.ai/bot/Ek9omUpu5Rgg19dFiIGzC) - 给学中文的人用英文讲中国神话，每篇结尾留一句可照读的短中文. [卫平](https://x.com/weipingzhong).
 - [精神メンタル・アドバイザー](https://x.ai/bot/ZCm7Z2hxDPeGPmMIpjCId) - 把旧日记拆成事实、印象与未核实，并给出一两步可选项. [shin_chan_ai](https://x.com/shin_chan_ai).
 - [脳内会議 議長](https://x.ai/bot/32C4L8cgsewTNo-uWcT7E) - 人际关系的烦恼交给脑内角色会议：几个独立的 Bot 用关西腔在房间里讨论帮你理清，最后由你来决定. [yuu1111main](https://x.com/yuu1111main).
+- [英語スピーキング練習コーチ](https://x.ai/bot/eMmUvHswRGf5ff37JTAlC) - 用“瞬间英作文”思路的语音练习教练，每天几分钟开口说英语，从非常简单的句子练起，适合不敢开口的人。日语。 [Haruki](https://x.com/har1101mony).
 - [记忆清理](https://x.ai/bot/LzbEuYYioxCKhdpdIc7d8) - 按主题复盘并收敛 Agent 记忆，先展示唯一规则与待删旧版，等你批准再删. [Oviya](https://x.com/lubo0923).
 - [音声操作PCアシスタント](https://x.ai/bot/hjYT5yVxhY5d548aSa1UL) - 躺着就能用语音操控电脑，定型操作本地执行，其它请求由机器人接手并通知手机. [Mishiro](https://x.com/XARX_ZERO).
 - [领muse鸡蛋bot](https://x.ai/bot/C5Pug-9TdCp5ehxeVmXuM) - 带你走完 muse.ai 注册与兑换邀请以领取 Muse 蛋，年龄核验自选. [KOSX](https://x.com/KOSX).

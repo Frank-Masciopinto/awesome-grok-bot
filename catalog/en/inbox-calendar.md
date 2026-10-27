@@ -127,6 +127,7 @@ Back to [README](../../README.md)
 - [Slackおまかせくん](https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn) - React 🤖 on Slack to draft tasks, replies, and calendar adds; you pick to proceed. akihiro.
 - [Spam Assassin](https://x.ai/bot/vWXdSys0OF6yB3WJg8sYb) - Scans your inboxes for newsletters and marketing mail, lists the worst offenders, and unsubscribes from the ones you pick without deleting anything. [manipulate](https://x.com/manipulate).
 - [Spam Cleaner](https://x.ai/bot/dnqS6y_qSOgmMNZ_dAak1) - Keeps Gmail and other webmail free of spam and marketing lists\: moves junk to Spam and unsubscribes you from promos, never deleting. [dougdstecklein](https://x.com/dougdstecklein).
+- [Sub Killer](https://x.ai/bot/t0j3bcp2AFpIuKxhmg-EN) - Finds the subscriptions you pay for in Gmail, helps cancel the unwanted ones and clears promo clutter without touching bills or official mail. [GroksRules](https://x.com/GroksRules).
 - [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick checkboxes with the email and a short note, and banks, schools, receipts, 2FA. ʞɔɐz.
 - [Voice Desk](https://x.ai/bot/cd_KhCL3Qf0WhODyf4doV) - Phone and iMessage desk built on Photon beta and ElevenLabs\: sorts incoming calls and texts and passes on only what needs you. [Tony](https://x.com/TONYThomasin).
 - [Wedding Ops Desk](https://x.ai/bot/YndaduQXvI2sZ6MbmWq81) - Guest list, RSVPs, vendors, and day-of run-of-show for couples and planners. Drafts every message in your voice — never sends without you. TanLines.

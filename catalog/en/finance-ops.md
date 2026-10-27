@@ -405,6 +405,7 @@ Back to [README](../../README.md)
 - [News Bot](https://x.ai/bot/q4oVF0beUcMxwVZzHz_Nl) - Weekday tech and markets news bot. community.
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) - A PLG numbers bot for growth teams. Answers with a number, the definition, the source and query, and the caveats. Read only. Never guesses, never rounds... [JaySahnan](https://x.com/JaySahnan).
 - [Octavius](https://x.ai/bot/20uVcNTF4_l3n1ZTTk-UB) - A crypto desk assistant that tracks markets, news, and wallets. community.
+- [Open Enrollment](https://x.ai/bot/RilkaH5YhNYhl1tcslvXr) - Helps decide whether to switch health plans at open enrollment, reading your plan documents and modeling total yearly cost with and without major care. [GroksRules](https://x.com/GroksRules).
 - [Open Enrollment Comp](https://x.ai/bot/zzltcOxztGiMzbJ250xC5) - Upload open-enrollment documents from your employer, a spouse's, the ACA Marketplace or Medicare and get a clear, math-backed plan comparison. [Ramp](https://x.com/RampCapitalLLC).
 - [Operator](https://x.ai/bot/VRju--X8VRlzTySAh-WTd) - A calm operator for a small business that keeps the day moving and brings you only the decisions that need you. [Mark Cassara](https://x.com/markcassara).
 - [Ops Knowledge Observer](https://x.ai/bot/CIgxhKdiPj7KflehWkaEr) - One read-only company brain that a whole bot fleet can draw on. [StephenRuhe](https://x.com/StephenRuhe).

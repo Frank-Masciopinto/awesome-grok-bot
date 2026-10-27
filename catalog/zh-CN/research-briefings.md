@@ -314,6 +314,7 @@
 - [Hyperlocal News Daily](https://x.ai/bot/rj3rWwMe_9p0ajjFK8uHY) - 超本地每日新闻，收成一张报纸式简报. Luke.
 - [Hypothesis Swarm Starter](https://x.ai/bot/zHJ6Fi4bqDxqwUPyuuELk) - 围绕你的研究兴趣搭建并驱动一个五席位的科学假设群，把问题变成可证伪、经审稿把关的卡片. [paulkhls](https://x.com/paulkhls).
 - [Idea Crucible](https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU) - 找出你近期就能卖或能上线的产品和服务点子，再用苏格拉底式追问压力测试，让站不住的早点出局. [saikrishna](https://x.com/krish1403).
+- [Idea Lab & Brainstorm Logger](https://x.ai/bot/Uebi7w0hZRhAk0rCORNBM) - 把你日常、播客或 X 链接里冒出的商业、内容和产品点子记进编号日志，压力测试并关联旧点子，动手前先设计一个低成本的 7 天验证。 [beastnug](https://x.com/beastnug8).
 - [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) - 每小时从你这一周里挖一个值得追的创业点子。 [onerinas](https://x.com/onerinas).
 - [Imposter Watch](https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh) - 盯着公开 X 上冒充你或品牌的账号，只汇报真正可疑的号且不擅自发帖举报. [RetiredYoungNW](https://x.com/RetiredYoungNW).
 - [Impressionism Curator](https://x.ai/bot/9ZYA9clGrMhlcsICjvBZp) - 每天早上像策展人一样讲一幅印象派作品，包括背后故事、画家生平、看点和公版图片. [정기](https://x.com/No_Extra_Time).
@@ -467,6 +468,7 @@
 - [Paige Turner](https://x.ai/bot/2lbNqne5ku5VQird_s8AW) - 给机器人小队当图书管理员，让其它机器人凭资料而不是凭记忆回答。 [omnithnkr](https://x.com/omnithnkr).
 - [Pain Miner](https://x.ai/bot/0uLHAD8JUmBEEzIulNpju) - 抓取热门产品的公开评价和吐槽，打情绪分，把最主要的痛点主题排序写入 pain.md。 [Avid](https://x.com/twinedon0).
 - [Pal](https://x.ai/bot/9Zvz4Qe0dxRjo4H984gOI) - 读当日 MLB 赛程，筛出突出的球员道具点. [BadgersBet](https://x.com/BadgersBet).
+- [Paper Trail](https://x.ai/bot/c-P_P16EPAU6_4VEObL-Z) - 给美国记者、编辑、新闻编辑部和监督机构的每日线索单和实时欺诈诈骗警报，只收经过核实、有文件支撑的报道线索。 [heartofgold42_](https://x.com/heartofgold42_).
 - [Paperknife](https://x.ai/bot/RY23hf0sh91-5TGn18af7) - 把 AI 与机器学习论文切成主张、用例与数学，打开 PDF 而不是摘要，给从业者一页论文卡. [KyleSmith0204](https://x.com/KyleSmith0204).
 - [pattern of pain](https://x.ai/bot/eFfFM4-QmHxxrUlTUqyAo) - 给我一个网站，我找出反复出现的痛点、摆出证据，并告诉你下一步该查什么。 [hnshah](https://x.com/hnshah).
 - [Personal Task Manager](https://x.ai/bot/pNDlYbg6r0ojylvaF-EeN) - 轻量个人任务管理，常设例行杂务，外加一次性待办. [JBMilliard1983](https://x.com/JBMilliard1983).

@@ -314,6 +314,7 @@ Back to [README](../../README.md)
 - [Hyperlocal News Daily](https://x.ai/bot/rj3rWwMe_9p0ajjFK8uHY) - Hyperlocal daily news assembled like a one-sheet newspaper. Luke.
 - [Hypothesis Swarm Starter](https://x.ai/bot/zHJ6Fi4bqDxqwUPyuuELk) - Builds and drives a five-seat scientific hypothesis swarm on your own research interest\: it turns questions into falsifiable, reviewer-gated cards. [paulkhls](https://x.com/paulkhls).
 - [Idea Crucible](https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU) - Finds near-term products and services you could sell or ship, then stress-tests the best with Socratic pushback so weak bets die early. [saikrishna](https://x.com/krish1403).
+- [Idea Lab & Brainstorm Logger](https://x.ai/bot/Uebi7w0hZRhAk0rCORNBM) - Captures business, content and product ideas from your day, podcasts or X links into a numbered log, stress-tests them and designs a cheap 7-day validation. [beastnug](https://x.com/beastnug8).
 - [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) - Mines your week for one startup idea worth chasing, every hour. [onerinas](https://x.com/onerinas).
 - [Imposter Watch](https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh) - Watches public X for accounts impersonating you or your brands and reports real suspects only. [RetiredYoungNW](https://x.com/RetiredYoungNW).
 - [Impressionism Curator](https://x.ai/bot/9ZYA9clGrMhlcsICjvBZp) - Morning curator-style briefing on one Impressionist artwork with its story, the painter's life, what to look for, and a public-domain image. [정기](https://x.com/No_Extra_Time).
@@ -467,6 +468,7 @@ Back to [README](../../README.md)
 - [Paige Turner](https://x.ai/bot/2lbNqne5ku5VQird_s8AW) - The librarian for a bot team, so the rest answer from sources instead of memory. [omnithnkr](https://x.com/omnithnkr).
 - [Pain Miner](https://x.ai/bot/0uLHAD8JUmBEEzIulNpju) - Pulls public reviews and complaints for trending products, scores sentiment, and ranks the top pain themes into pain.md. [Avid](https://x.com/twinedon0).
 - [Pal](https://x.ai/bot/9Zvz4Qe0dxRjo4H984gOI) - Reads today's MLB slate and surfaces the prop spots that stand out. [BadgersBet](https://x.com/BadgersBet).
+- [Paper Trail](https://x.ai/bot/c-P_P16EPAU6_4VEObL-Z) - Daily tip sheet and live fraud and scams alert feed of verified, document-backed stories for U.S. reporters, editors, newsrooms and watchdogs. [heartofgold42_](https://x.com/heartofgold42_).
 - [Paperknife](https://x.ai/bot/RY23hf0sh91-5TGn18af7) - Cuts AI/ML papers into claim, use case, and math. Opens the PDF — not the abstract — and returns one-page Paper Cards for practitioners and researchers. [KyleSmith0204](https://x.com/KyleSmith0204).
 - [pattern of pain](https://x.ai/bot/eFfFM4-QmHxxrUlTUqyAo) - Give me a website. I’ll take it from there. I’ll find the pain that actually repeats, show you the evidence, and tell you what to investigate next. [hnshah](https://x.com/hnshah).
 - [Personal Task Manager](https://x.ai/bot/pNDlYbg6r0ojylvaF-EeN) - A lightweight personal task manager\: standing routines for recurring chores, and a habit of asking before acting on anything new. [JBMilliard1983](https://x.com/JBMilliard1983).

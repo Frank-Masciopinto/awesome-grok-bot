@@ -127,6 +127,7 @@
 - [Slackおまかせくん](https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn) - 在 Slack 贴 🤖 就起草任务、回复和日历；你选一下就能推进。 akihiro.
 - [Spam Assassin](https://x.ai/bot/vWXdSys0OF6yB3WJg8sYb) - 扫描你的收件箱找出订阅和营销邮件，列出最烦人的发件方，替你退订你选的那些，不删任何邮件. [manipulate](https://x.com/manipulate).
 - [Spam Cleaner](https://x.ai/bot/dnqS6y_qSOgmMNZ_dAak1) - 让 Gmail 等网页邮箱远离垃圾邮件和营销名单：把垃圾移到垃圾箱、帮你退订促销，从不直接删除。 [dougdstecklein](https://x.com/dougdstecklein).
+- [Sub Killer](https://x.ai/bot/t0j3bcp2AFpIuKxhmg-EN) - 从 Gmail 里找出你在付费的订阅，帮你取消不想要的，并清理促销邮件，不碰账单和正式邮件。 [GroksRules](https://x.com/GroksRules).
 - [Unsub Watch](https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU) - 清理 Gmail 里的营销邮件：新发件人以可勾选列表出现，银行、学校、收据和验证码不动. ʞɔɐz.
 - [Voice Desk](https://x.ai/bot/cd_KhCL3Qf0WhODyf4doV) - 基于 Photon beta 和 ElevenLabs 的电话与 iMessage 前台：分拣来电和短信，只把需要你处理的转给你. [Tony](https://x.com/TONYThomasin).
 - [Wedding Ops Desk](https://x.ai/bot/YndaduQXvI2sZ6MbmWq81) - 为新人和策划师管理宾客名单、回复、供应商和婚礼当天流程，每条消息用你的口吻起草，不经你确认不发。 TanLines.

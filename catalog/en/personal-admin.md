@@ -383,6 +383,7 @@ Back to [README](../../README.md)
 - [Curious Kids Science Desk](https://x.ai/bot/UD5hm1-w70PMPjr-e83r0) - Answers kids why-questions at their level with one safe at-home experiment. [Cypher0x9](https://x.com/Cypher0x9).
 - [Curriculum Researcher](https://x.ai/bot/nDaANSe7a9uFU0gMGVJ-h) - Finds free, open courses for anything you want to learn, high school through college, and turns them into a course plan with readings and videos. [Mark](https://x.com/mag_minnesota).
 - [Cyber Stud](https://x.ai/bot/vEl_iMl8eLa6pOYAeey--) - A personal cybersecurity coach that walks you through 6 weekend sessions to lock down your accounts, phone, WiFi, computers, credit and family against scams. [Grease](https://x.com/LowTimePrefrenz).
+- [Cybertruck Expert](https://x.ai/bot/SXSKuD8b7JfpSIKyvbfdM) - Helper for owning a Tesla Cybertruck\: tips, settings, tires, charging, and a weekly roundup of software updates, recalls and owner tips. [Inkwell](https://x.com/cybrgalaxy).
 - [Cybertruck Grok Saved Conversations](https://x.ai/bot/Ipok84Tggdhsk2E8sGdrA) - Keeps notes from your conversations with Grok in your Cybertruck \(or any car with Grok\) and gives you a short recap you can read back to pick up where. [RICOSAIZ1](https://x.com/RICOSAIZ1).
 - [d2fl template](https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC) - Shared Grok Bot template from d2fl. [d2fl](https://x.com/d2fl).
 - [Dad Joke Daily](https://x.ai/bot/0wdUJytrrRr2lUZJy_8_-) - Sends one fresh, kid-safe dad joke every day at the time you pick, never repeats one, and never posts after your cutoff time. [j3pup](https://x.com/j3pup).
@@ -698,6 +699,7 @@ Back to [README](../../README.md)
 - [Gift Brainstormer](https://x.ai/bot/qk-ERVKW8OoAmDB2CO0De) - Remembers the people you buy for, reminds you before their occasions and suggests gift ideas that suit them and your budget. Never buys without your OK. [Yvonne](https://x.com/Vontweeter).
 - [Gift Desk](https://x.ai/bot/ceKtSN9DkDpCHUxAJEAFL) - Remembers every birthday and anniversary, suggests three gifts in budget, and buys and ships only after you OK the total. [Thuong](https://x.com/teeRex247).
 - [Gift Finder](https://x.ai/bot/4lZO4FyyTC0GtX2_k9ESv) - Helps land this year's hot, hard-to-get holiday gifts at a fair price\: suggests toys by age, watches restocks and real price drops, pings only when worth it. [Dirty](https://x.com/DirtyTesLa).
+- [Gift Genie](https://x.ai/bot/Q-PWXlPBgoB2BBg5pVRma) - Runs your gift giving end to end\: remembers birthdays and anniversaries, suggests ideas with live prices three weeks out, and buys only with your yes. [Alexander](https://x.com/IrlCarbon).
 - [Gift Helper](https://x.ai/bot/gG2uY9f4dGjXid_51kZrj) - Remembers birthdays and special dates and suggests gifts in good time, within your budget, linking to real products sold in your country. community.
 - [Gift Motive Autopsy](https://x.ai/bot/2jqb0GUjTJElfc529kClB) - Statuses gift motive then shortlists with anti-gifts. [yandymccutcheon](https://x.com/yandymccutcheon).
 - [Gig Hunter](https://x.ai/bot/4mkqDjPpEJGZbflfNseTs) - Hunts real, paid gigs that fit your skills, pay and schedule, weeds out the scams and sends you a fresh shortlist. lilsketch.
@@ -1161,6 +1163,7 @@ Back to [README](../../README.md)
 - [Motivation Bot](https://x.ai/bot/KNoXvnLnkKME1TqhqJx8t) - Daily motivation to stay focused. [johnboyle](https://x.com/johnboyle).
 - [MotoGP Fantasy](https://x.ai/bot/J4X7TMhobhA9u_DW-nCl_) - Your MotoGP Fantasy companion. It builds your team for each Grand Prix with data-backed safe and risky picks, and tracks how you do. Hernan.
 - [Move Desk (Beta)](https://x.ai/bot/zfhRrk6qOjgBNtbkHaisC) - For a move with a moving company\: checks movers in FMCSA records, reads your estimate, shows the most they can demand at delivery, drafts damage claims. [Jimmy](https://x.com/hacks_jimm53237).
+- [Movie Bot](https://x.ai/bot/OIw2vdgv60F5tGrYx7N6y) - Finds new movies and TV on streaming, learns your tastes and sends scored shortlists with IMDb links and media buzz. [Kenneth](https://x.com/ke_dk).
 - [Movie Magic](https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK) - Film picks, a running watchlist, and a weekly domestic box-office roundup with charts you can reuse. [king_rob_lo](https://x.com/king_rob_lo).
 - [Movie Night](https://x.ai/bot/CVJIFYf5bf1t722Z36uHK) - Personal movie-night assistant\: learns your taste from a few quick taps and suggests what to watch. [dougdstecklein](https://x.com/dougdstecklein).
 - [Movie Rating](https://x.ai/bot/Wxl4X9Ipcgb_wbVLYT1pC) - Family-first movie guide\: set your kids' ages, likes and content filters, then type any movie for a compact review with age fit and skip timestamps. [Komil](https://x.com/Limok_igit).
@@ -1756,6 +1759,7 @@ Back to [README](../../README.md)
 - [The Boss](https://x.ai/bot/o5jVbO-FDSnWU1fIZW7xv) - Takes your goal, breaks it into tasks, delegates each to the right specialist, and assembles the final result. It doesn’t do the deep work itself — it. [The_Tan_Man_Uk](https://x.com/The_Tan_Man_Uk).
 - [The Business Skills Operator](https://x.ai/bot/ExLvhzslUcpImIXZoLY9G) - Own the business. Skip the truck. Builds a localized launch plan for a service business run on subcontractors and AI agents. Urban.
 - [The Fool](https://x.ai/bot/MDcAPLzRIgI0dqTwWV40O) - Court jester that short-jokes and lightly roasts the hustle on a fixed cadence. [EvSlatts](https://x.com/EvSlatts).
+- [The Gaffer](https://x.ai/bot/s_nRtHcwThf1KCQ2Y122R) - Fantasy Premier League assistant\: transfer, captain and bench calls, deadline-day briefs, injury and price alerts, FPL X scouting, mini-league tracking. [Sai](https://x.com/sai_grsh).
 - [The Hundred Fantasy](https://x.ai/bot/g1hrGiRsfYrt2vrNvdLWH) - Your companion for The Hundred Fantasy cricket game. It builds your squad, compares captains and plans transfers, with a safe and a risky option. Hernan.
 - [The Interviewer](https://x.ai/bot/slpciJwWffCdi6T1mR0ON) - Mock interviewer that researches the role from your job post and resume, runs a realistic interview, then gives a blunt hire or no-hire and coaching. [suddenlyjon](https://x.com/SuddenlyJon).
 - [the j*bfinder](https://x.ai/bot/eSCwViGduTgMD6PiOo7jm) - Handles a career and internship search. Keeps a Notion application tracker current from recruiting email, and nudges about upcoming deadlines and things... [danieldxu_](https://x.com/danieldxu_).
@@ -1995,6 +1999,7 @@ Back to [README](../../README.md)
 - [神叨叨 MythTeller](https://x.ai/bot/Ek9omUpu5Rgg19dFiIGzC) - Tells classic Chinese myths in English for Mandarin learners, each ending with one short Chinese line to say out loud. [卫平](https://x.com/weipingzhong).
 - [精神メンタル・アドバイザー](https://x.ai/bot/ZCm7Z2hxDPeGPmMIpjCId) - Sorts old journal notes into fact, impression and unverified, then proposes next steps. [shin_chan_ai](https://x.com/shin_chan_ai).
 - [脳内会議 議長](https://x.ai/bot/32C4L8cgsewTNo-uWcT7E) - Talks through relationship worries in a "brain meeting"\: your inner characters, each a separate bot, debate it in Kansai dialect, and you make the call. [yuu1111main](https://x.com/yuu1111main).
+- [英語スピーキング練習コーチ](https://x.ai/bot/eMmUvHswRGf5ff37JTAlC) - Voice coach that builds a daily habit of speaking English aloud a few minutes a day, starting from very simple sentences \(instant composition\). Japanese. [Haruki](https://x.com/har1101mony).
 - [记忆清理](https://x.ai/bot/LzbEuYYioxCKhdpdIc7d8) - Reviews agent memory by topic, shows the keep rule and old copies, then deletes only after you approve. [Oviya](https://x.com/lubo0923).
 - [音声操作PCアシスタント](https://x.ai/bot/hjYT5yVxhY5d548aSa1UL) - Voice-controls a PC from bed; scripts handle mute-style actions locally, Grok Bot takes other asks and notifies your phone. [Mishiro](https://x.com/XARX_ZERO).
 - [领muse鸡蛋bot](https://x.ai/bot/C5Pug-9TdCp5ehxeVmXuM) - Walks you through muse.ai signup and invite redeem so you can claim Muse eggs. Age verify via card, Instagram, or Facebook , you choose. [KOSX](https://x.com/KOSX).

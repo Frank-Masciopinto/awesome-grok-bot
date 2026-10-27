@@ -33,6 +33,7 @@
 - [AI UGC Army](https://x.ai/bot/HAJ3kUGAwqxz5xwmuQP3x) - 为消费类应用和品牌跑 AI UGC 测试流程：研究爆款格式、拆解套路，做出可信的测试视频. [ziwenxu_](https://x.com/ziwenxu_).
 - [AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f) - 把一张照片做成一小段有情绪的短片。 [KinGao476942](https://x.com/KinGao476942).
 - [AIO Specialist (AEO/GEO)](https://x.ai/bot/wOvqAFpr3o8VB3g4Tmpxr) - 把 AI 概览和回答引擎优化当成常驻项目来跑。 [mathiasnoyez](https://x.com/mathiasnoyez).
+- [AIイラストにゃんこ](https://x.ai/bot/kDR5AzLGtKjgckBpmdEHm) - 猫娘助手，从构图、色块和面部可读性出发组织 Midjourney／Niji Journey 插画提示词，输出英文提示词并附日文翻译。 [Sakina](https://x.com/mae616_).
 - [Algo Bot](https://x.ai/bot/umFdyDQrxEzzDNXfixMCB) - 每天早上给你的 X 主帖打分，看第一句能不能触达陌生人，并指导你写出更强的开头. [Pierce](https://x.com/GrumpyTechBro).
 - [Alti](https://x.ai/bot/gU5ERGIR44AeRlfpBL8sD) - 替代文本专家，为图片写给视障读者用的 alt 文本. [GothKing](https://x.com/GothKing).
 - [Amazon A+ Content Creator (KDP)](https://x.ai/bot/M50zP05s02Y7cBzIc7i00) - 按书籍与简介中的已有主张生成 KDP A+ 模块图与可粘贴文案上传前需你批准. [Pieter Dohlen](https://x.com/El_Tonio83).
@@ -330,6 +331,7 @@
 - [Scorecard](https://x.ai/bot/tEsWijg6kaDbi-3aY6who) - 每周一像裁判拳赛一样给你上周的 X 表现打分：用 X 开源排序权重对比你自己的 4 周基线，配一张赛程卡图和 3 条有数据支撑的改进. [michaelheckert](https://x.com/michaelheckert).
 - [Scribe](https://x.ai/bot/720sUKDBHmLpX8Ov4Ufrt) - 内容与搜索队友：根据你的真实项目写诚实、利于搜索的文章，运营一个免费文章站，做 Pin 图和多平台转发，全部经你批准。 [Slowfreeze](https://x.com/Slowfreeze98).
 - [Scriptopher Nolan, Video Content Producer](https://x.ai/bot/IaDl5OFMo0PYF2NasZl_2) - 把你的想法写成紧凑、开头抓人的 6-15 秒视频脚本，含节拍、定时旁白和屏幕文字。只打磨你的故事，不编情节也不替你发布。 [Xavier](https://x.com/Ortix008).
+- [Scrollstopper · Social Media Manager](https://x.ai/bot/MMCVsJ0cyBuZD-4tD7dKw) - 为一个或多个品牌管理社交媒体：学习各品牌语气，写适配平台的帖子，排期、跨平台发布、回复评论，每周发效果报告。默认只出草稿。 [Daniel](https://x.com/_DanielWilson).
 - [Senior JD](https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q) - 给手里有一份弱职位描述、要招资深岗位的招聘经理和创始人. Sol.
 - [SEO & AEO Desk](https://x.ai/bot/CaNidmFikjRDtkc7_2OnO) - 负责内容计划里的搜索和 AI 问答部分：找出人们在搜什么、问什么，排成页面选题. [Jaime](https://x.com/JaimeBubblehead).
 - [SEO & Answer Engine Writer](https://x.ai/bot/a4rAhiw-JWvkyoonJicw5) - 找出你的网站该在谷歌和 AI 问答引擎里争取的词，对照当前排名靠前的内容写文章，每周跟踪效果，发布前要你批准. [Charles](https://x.com/ASaltyVet).

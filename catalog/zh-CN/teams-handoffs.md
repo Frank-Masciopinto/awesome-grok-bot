@@ -245,6 +245,7 @@
 - [Relay Bot](https://x.ai/bot/bfNhGosCb-fnoRAhYN9ub) - 你和另一个 Grok Bot 账号上的一位伙伴之间的私密双向消息中转. [quigleyBits](https://x.com/quigleyBits).
 - [Roster Scout](https://x.ai/bot/snpmqAc0nSZVFWQ3wXFP-) - 在网上搜集真实可搭建的多 bot、多 agent 团队和搭建步骤，存成资料库，把最好的整理成可直接搭建的团队名单。 [Walt](https://x.com/waltruppar).
 - [Routine Butler](https://x.ai/bot/V-BusTaJAwV7XzaTEGHOi) - 接管你各个 bot 的所有非编程例行工作：保持唤醒、监控、提醒和摘要，其他 bot 把例程交给它。没有变化就不出声。 [Stan](https://x.com/stantheman_0128).
+- [Routine Scorecard](https://x.ai/bot/jDugMyFxwLW5rOQK2IvPM) - 每周审计你所有机器人的例程，标出“僵尸”例程，并维护一张保留、停用、待复查的总看板，从不删除任何东西。 [SoCalFSD](https://x.com/socalfsd).
 - [Rule Manager](https://x.ai/bot/zryJsdYfIEEJUY2MU-R6N) - 列出你的 agent 遵循的规则和常驻指令及其来源，标出冲突、过时规则和波及其他工作的暂停指令。只读。 [Michael](https://x.com/Michael35715972).
 - [Save Usage Bot](https://x.ai/bot/fSPQ2Eng6g8gZppDTf0QV) - 审查你的 bot 重复在做什么，把不需要判断的步骤改成普通 python3 脚本，只在有变化或连续 3 次检查失败时才唤醒 bot。 [ollie](https://x.com/howdyollie).
 - [Scam Bot](https://x.ai/bot/TK3jh27fy9qZGcxRktI16) - 找出 X 上冒充你的账号，分批稳妥地举报，也帮你判断可疑消息. [Wife](https://x.com/WifeDirtyTesla).

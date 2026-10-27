@@ -184,6 +184,7 @@
 - [Fraud Bot](https://x.ai/bot/1nMkAQNLEZ6NVoBuejQc5) - 给货运经纪和承运商用：追查非法买卖或出租 MC/USDOT 运营资质的人，记录证据，准备 FTC、FMCSA、IC3 和平台举报材料供你批准。 [John](https://x.com/John__Ferguson).
 - [Fulcrum](https://x.ai/bot/ojxNuPSu-r1ldCZ5opulH) - 只做草稿，筛选并排序适合自然互动的 X 回复和引用机会. [Code Solutions](https://x.com/CodeSolutionsIL).
 - [Fuse](https://x.ai/bot/XWKWlHRpljLXaBg7jyLXw) - 付费广告 API 和广告管理后台会话的熔断器：对其他 bot 的操作给出放行、暂停或拒绝，节制过猛的 bot，避免广告账号因像机器人而被封。 [Miguel](https://x.com/liam_fallen).
+- [Game-Day TV Schedule Maker](https://x.ai/bot/g3TI10sXrsAuLSVIXN34j) - 按你所在城市和电视服务商，生成可打印的单页比赛日电视指南：每场比赛、开球时间、电视网和频道号，适合酒吧、餐厅和观赛派对。 [Campdirtybird](https://x.com/Campdirtybird).
 - [Gamel](https://x.ai/bot/z5UAhMwtF2ReWHMZP7Fsb) - 收件箱清理机器人，退订营销邮件，保留收据与交易，并归档噪音. [FELIXCATanzaro](https://x.com/FELIXCATanzaro).
 - [Garden Retail Research Specialist](https://x.ai/bot/Y8YOrZBsPE8U-jyTI7Qtk) - 每周一给服务园艺中心零售商的批发商做品类动向、上架计划与供应商线索情报. [dltelford](https://x.com/dltelford).
 - [GBP](https://x.ai/bot/pH1LtCibU8lxnWi9LAv5v) - 维护 Google 商家资料，让本地搜索展示更准确. [AirbossHVAC](https://x.com/AirbossHVAC).
@@ -257,6 +258,7 @@
 - [Launch Hunter](https://x.ai/bot/BGHqqBLu6XexSEV73gLQD) - 给独立开发者和小团队的发布策略师：调研真实的分发渠道，核对各渠道规则，诚实排序，并写好发布文案。 Vedant.
 - [Lawn Care Scheduler](https://x.ai/bot/6JpBQfLvjjhZ3IGoMLZJb) - 草坪养护生意助手：整理客户名单，让割草路线按时进行，帮你准备投标和报价。 [josephscottelli](https://x.com/josephscottelli).
 - [Lead Catcher](https://x.ai/bot/5FNoKWQkY0voJsATKXfdx) - 每个工作日汇总 Quo 里需要人工回复的潜在客户对话，通过 Slack 或邮件发送，附一键打开的 Quo 链接. [darynakulya](https://x.com/darynakulya).
+- [Lead Catcher](https://x.ai/bot/xHHHbKIm3hfWMFmg8_Sy0) - 每晚扫描你 X 帖子下的回复，找出没人跟进的购买信号，并附上可直接发送的回复草稿，适合在 X 上卖东西的创作者和自由职业者。 [Sultanov](https://x.com/thekuchh).
 - [Lead Pin Bot](https://x.ai/bot/hIvkU3qZysooaC0aU3jz5) - 把服务区或物业论点变成可审阅的地块受众，并导出可邮寄 CSV. [Brett](https://x.com/Brett).
 - [Lead Pipeline Desk](https://x.ai/bot/oPDkINUfpUXhJDdsfRZht) - 给入站线索打分、合并重复、指定负责人并标卡住项，可从 CRM 导出或表格，不代发。 [Miguel Cruz](https://x.com/cruzmiguel000).
 - [Lead Scout](https://x.ai/bot/j3Qule6BFplSpVqgLpVnV) - 找出附近站点搜索优化不足的小企业线索. [itsryanlenk](https://x.com/itsryanlenk).
@@ -301,6 +303,7 @@
 - [Marketplace Bot](https://x.ai/bot/9ptyasfHm8ehbIDsLizs-) - 给二手货定价写文案，并同步发到三个售卖应用。 [mentalmodality](https://x.com/mentalmodality).
 - [Marketplace seller desk](https://x.ai/bot/4B2bBEXQ-c4c3JT8eMvyh) - 电商卖家台，管刊登、消息与履约。 [dode](https://x.com/dode).
 - [Mary (Realtor Assistant)](https://x.ai/bot/eQ4tLI6SMBanz6rovfhyV) - 美国房产经纪的温暖务实助手，盯执照续期、起草文案并整理看房日程. [2Slick](https://x.com/2Slick).
+- [Master Max](https://x.ai/bot/jHk8GG6HRbGN6pxfrfrMf) - SEO 与 AI 可见度机器人，让企业在 Google 上被搜到、被 Grok 和 ChatGPT 等 AI 助手推荐，适合网站代理商和小企业。 [jessie](https://x.com/ozone2016).
 - [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) - AI 视频与工作室走向市场机器人，生成并迭代短视频、审计社交、起草广告. [sheridap](https://x.com/sheridap).
 - [Meeting Recap Deck](https://x.ai/bot/YklttiPpAHweKbOLV1TSF) - 把会议笔记收成你幻灯模板里的复盘页，只用你粘贴或上传的内容，不编造引语。 [Krista Letz](https://x.com/kristaletz).
 - [MEL preguntas](https://x.ai/bot/YvxsAro5SITkzr5x6TsWg) - 用你店铺的语气回复 Mercado Libre 商品提问和售后消息. [Maar](https://x.com/maarmapa).

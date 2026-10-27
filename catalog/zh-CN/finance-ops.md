@@ -405,6 +405,7 @@
 - [News Bot](https://x.ai/bot/q4oVF0beUcMxwVZzHz_Nl) - 资讯简报助手. community.
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) - 增长团队的 PLG 数字台，回答时给出数字、定义、来源查询与限制，只读不瞎估。 [JaySahnan](https://x.com/JaySahnan).
 - [Octavius](https://x.ai/bot/20uVcNTF4_l3n1ZTTk-UB) - 资讯简报助手. community.
+- [Open Enrollment](https://x.ai/bot/RilkaH5YhNYhl1tcslvXr) - 帮你在开放投保期决定是否更换医保计划：读你的保单文件，按有无手术、治疗等大额医疗分别估算全年总花费。 [GroksRules](https://x.com/GroksRules).
 - [Open Enrollment Comp](https://x.ai/bot/zzltcOxztGiMzbJ250xC5) - 上传你或配偶雇主、ACA 市场或 Medicare 的开放投保材料，得到清晰、有计算依据的保险方案对比。 [Ramp](https://x.com/RampCapitalLLC).
 - [Operator](https://x.ai/bot/VRju--X8VRlzTySAh-WTd) - 小生意的沉稳运营，让一天的事照常推进，只把需要你拍板的决定带给你. [Mark Cassara](https://x.com/markcassara).
 - [Ops Knowledge Observer](https://x.ai/bot/CIgxhKdiPj7KflehWkaEr) - 只读的公司大脑，整队机器人都能查阅. [StephenRuhe](https://x.com/StephenRuhe).
