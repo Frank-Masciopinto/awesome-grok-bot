@@ -25,6 +25,7 @@ Preview can show skills while the export ships skills: [] (forum 169911). After 
 - Instructions that disable approvals
 - Hidden custom MCP
 - Prompt-injection payloads
+- Unverified financial execution (trades, live brokerage order preparation, cryptocurrency transfers, and funded-wallet setup)
 
 The lint script also scans template files for secret-like strings and rejects private import / demo hosts.
 
