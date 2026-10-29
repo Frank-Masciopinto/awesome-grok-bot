@@ -49,7 +49,8 @@ Do not submit unpublished bots. `import` must be a live share link. Do not inven
 - No secrets, tokens, or private hosts (localhost, 10.x, 192.168.) in catalog or template files.
 - Never put API keys in SETUP. Importers reconnect their own plugins. `secrets_needed` is names only.
 - See SECURITY.md for what we reject.
-- Do not submit unverified money or trade bots.
+- Do not submit unverified bots that execute or route financial trades, provide actionable trading signals, or place real-money bets. Read-only factual research, budgeting, journaling and paper-only simulations remain eligible; their claims are still unverified. Approval-gated or paper-first modes that also support live trading require review.
+- Reviewed exclusions are recorded by original share URL in `scripts/excluded-imports.json`; changing a name or slug does not make them eligible again. Reinstatement requires a maintainer to document an import and safe first task, review live-execution boundaries, and explicitly update that exclusion record. The list is a regression guard, not an automatic detector or safety certificate.
 
 ## verified
 

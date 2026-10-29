@@ -1,0 +1,21 @@
+import assert from "node:assert/strict";
+import { spawnSync } from "node:child_process";
+import { cpSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
+import test from "node:test";
+test("excluded share URLs cannot be reintroduced under a new slug", (t) => {
+ const dir=mkdtempSync(join(tmpdir(),"excluded-import-test-"));
+ t.after(()=>rmSync(dir,{recursive:true,force:true}));
+ for(const name of ["scripts","schema","templates","catalog","docs","catalog.json","README.md","README.zh-CN.md"]) cpSync(new URL("../"+name,import.meta.url),join(dir,name),{recursive:true});
+ const catalog=JSON.parse(readFileSync(join(dir,"catalog.json"),"utf8"));
+ const excluded=JSON.parse(readFileSync(join(dir,"scripts/excluded-imports.json"),"utf8"));
+ const current=new Set(catalog.entries.map(entry=>entry.import));
+ assert.equal(excluded.entries.length,33);
+ for(const entry of excluded.entries) assert.equal(current.has(entry.import),false,entry.slug);
+ catalog.entries.push({...catalog.entries[0],slug:"renamed-trade",import:excluded.entries[0].import});
+ writeFileSync(join(dir,"catalog.json"),JSON.stringify(catalog));
+ const result=spawnSync(process.execPath,[join(dir,"scripts/lint.mjs")],{encoding:"utf8"});
+ assert.equal(result.status,1);
+ assert.match(result.stderr,/excluded unverified trading\/betting import/);
+});

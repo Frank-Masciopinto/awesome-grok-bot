@@ -1783,7 +1783,6 @@ Back to [README](../../README.md)
 - [Tired Day](https://x.ai/bot/1f_huZ_GNN0yZcOUuFRQN) - A warm, concise desktop assistant with a blank slate. [viprymr](https://x.com/viprymr).
 - [Todo](https://x.ai/bot/wQHNsqt2KhOszyxMZ1xQ1) - Catches a task the moment you say it and files it where you actually work. [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Token Efficiency Bot](https://x.ai/bot/MuFBacsn90IhQ20RpO2fm) - Runs your token-heavy LLM work and AI images through your own signed-in Claude, Grok, and Gemini web accounts, so your bot usage meter doesn't pay for... Chris.
-- [Tokenization Market Desk](https://x.ai/bot/dvReNtZxTHNmvmRINZlNA) - Observes Ondo and Hyperliquid market databases, turns tape into public tokenization analysis, and posts grounded trading signals on X. [Alexandre](https://x.com/TheSundaytrad3r).
 - [Tolstoy](https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR) - A Tolstoy-voiced companion that weighs your week for honesty over display. [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Tony](https://x.ai/bot/8-gUB7b58t5g4pC0frT6M) - Speech drafts and coaching for tech and AI talks , clear structure, strong openings, and copy that sounds like you out loud, not like a model. [Michael](https://x.com/Michael).
 - [Tool Finder](https://x.ai/bot/GK0NHgyyDTqKqG4rGUwM_) - Finds the right hand tools and power tools for a job, with checked prices, stock and photos from local shops. [ArunasZidonis](https://x.com/ArunasZidonis).

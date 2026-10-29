@@ -1783,7 +1783,6 @@
 - [Tired Day](https://x.ai/bot/1f_huZ_GNN0yZcOUuFRQN) - 温和简洁的桌面助手，从一张白纸开始学你需要什么、喜欢怎么工作. [viprymr](https://x.com/viprymr).
 - [Todo](https://x.ai/bot/wQHNsqt2KhOszyxMZ1xQ1) - 你一开口就接住任务，并塞进你真正干活的地方。 [scottxmetcalf](https://x.com/scottxmetcalf).
 - [Token Efficiency Bot](https://x.ai/bot/MuFBacsn90IhQ20RpO2fm) - 把费 token 的大模型活和 AI 出图改走你已登录的 Claude/Grok/Gemini 网页，少烧机器人额度。 Chris.
-- [Tokenization Market Desk](https://x.ai/bot/dvReNtZxTHNmvmRINZlNA) - 观察 Ondo 与 Hyperliquid 市场库，把盘面收成公开的代币化分析笔记. [Alexandre](https://x.com/TheSundaytrad3r).
 - [Tolstoy](https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR) - 用托尔斯泰的口气陪你过一周，看哪些日子是真需要，哪些只是装样子。 [SuddenlyJon](https://x.com/SuddenlyJon).
 - [Tony](https://x.ai/bot/8-gUB7b58t5g4pC0frT6M) - 科技与 AI 演讲稿与辅导，结构清楚、开场有力，听起来像你本人. [Michael](https://x.com/Michael).
 - [Tool Finder](https://x.ai/bot/GK0NHgyyDTqKqG4rGUwM_) - 为一项活儿找合适的手动和电动工具，附本地商店核实过的价格、库存和照片. [ArunasZidonis](https://x.com/ArunasZidonis).

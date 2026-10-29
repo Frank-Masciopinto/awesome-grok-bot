@@ -61,7 +61,6 @@ Back to [README](../../README.md)
 - [Bay Brief](https://x.ai/bot/SpTTqILibCdK5iI5cty9q) - DIY car diagnose with parts and tools. [pickermaned](https://x.com/pickermaned).
 - [Beet](https://x.ai/bot/uAXoYTM5ZsMb59OwxqiT3) - Sends a short news briefing twice a day built around your interests, from X, RSS and the web, as a clickable reader-style Page. Jaxon.
 - [Bet Tester](https://x.ai/bot/FrhhLkFkrzOMPuph_mMBn) - Synthetic user research for early product bets that pre-registers each study, runs AI personas, judges blind, and returns ship, change, re-test, or kill. [Ivelin](https://x.com/ivelini).
-- [Betting Desk](https://x.ai/bot/mtGRHIWa1c9SOeRGrTB8_) - A disciplined sports-betting analyst for MLB, NFL, NBA, and college football. [_SpecialTeamsU](https://x.com/_SpecialTeamsU).
 - [Bill](https://x.ai/bot/GR0rqS06gn6Kr_WnMw5Fn) - Secretary of education. Coordinates teaching specialists so instruction stays current, factual, and unbiased. Owns no classroom. [TRV_Architech](https://x.com/TRV_Architech).
 - [bookmark bot](https://x.ai/bot/gDNWuJ0uuyTZ94tDXr9-Z) - Finally use your X bookmarks\: it reads, tags and summarizes what you save, lets you search them by meaning, and sends a weekly digest of the best. Sierra.
 - [Bookmark Bot](https://x.ai/bot/7U_uHDAKGtHqoGsKMyREA) - Organizes your X bookmarks into an inbox-style Page with folders, search and a preview pane. Read-only on X; never posts, follows or DMs. [Jay](https://x.com/JayinEly).
@@ -385,7 +384,6 @@ Back to [README](../../README.md)
 - [Market Researcher](https://x.ai/bot/xzkXiUbdYfPd7g30OhLGf) - Monitors your competitors' public websites, ads, marketing, pricing, and positioning on a standing cadence. [Josh Kim](https://x.com/joshkim).
 - [Markets Brief Scout](https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T) - Weekday market cards with sources, plus draft posts you approve. [GainGlintGaz](https://x.com/GainGlintGaz).
 - [Markets Digest](https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY) - Weekday morning and evening markets digests in plain language with sourced stories. [Mark](https://x.com/marksoze).
-- [Markets Weekday Brief](https://x.ai/bot/s495_rZYq6LpYVTuurgkr) - Weekday pulse on watched prediction markets - clean card each morning, green YES buy ideas you place yourself. Odds from public Polymarket/Kalshi APIs;. [SpacedBraden](https://x.com/SpacedBraden).
 - [MARS CONTROL](https://x.ai/bot/H0BOD-ZBe2p_7BESvqbo_) - SpaceX-style mission control\: three missions track official announcements, catch failures and draft X posts from verified findings every 6 hours. Approval first. [gip](https://x.com/gippp69).
 - [Mason](https://x.ai/bot/P4UiFNUcfH-751NuybyV1) - Intake desk \(The Incorporator\). Drop a link, post, product, paper, repo, clip, or tool — it opens the original, separates marketing from function. AdamDesigns.
 - [Mat | Analytics](https://x.ai/bot/2afkvAl8IGd9IgDxZIxp_) - Ask questions of your org schema and get reports and charts with no writes. [damianoredem](https://x.com/damianoredem).
@@ -444,7 +442,6 @@ Back to [README](../../README.md)
 - [Newsie](https://x.ai/bot/q631iJtHVwxloj8ZBoJyV) - Daily morning news briefing for U.S., local city, and Tesla/SpaceX. [apostlejohn](https://x.com/apostlejohn).
 - [Newsletter Reading Queue](https://x.ai/bot/GF1rQBwR1S29YxNRIvZyU) - Weekday rank of newsletter and digest mail into read / skim / skip with one-line takeaways. [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Newspaper](https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj) - Each morning researches one corner of the world into a single printable broadsheet. [Carbonthecoder](https://x.com/Carbonthecoder).
-- [NFL Dual-Rail Prop Desk](https://x.ai/bot/cO_Eyf-3dMnc6eNiB4vMq) - Quantitative NFL player-prop analyst for Robinhood and Kalshi rails. [investingjungle](https://x.com/investingjungle).
 - [NFL GameDay Insider](https://x.ai/bot/LH7aMNtORfDuAIyxlDF1X) - NFL week companion\: team previews, injury and inactive alerts, game-day briefings and fantasy start/sit reads, all from live, sourced data. [Adebusola](https://x.com/drbellahqw).
 - [NFPA Research Assistant](https://x.ai/bot/m80whfWBZ-sHVLjHbtBg1) - Retrieves and cites official NFPA text and municipal adoption records. community.
 - [Nole](https://x.ai/bot/uMMbmNv7SbMGHezgUGoiG) - First-principles challenger that finds the hardest problem, cuts dead work, vetoes bots that break the scoreboard, and lets your decision win. [Byron](https://x.com/ByronWalkerfl).

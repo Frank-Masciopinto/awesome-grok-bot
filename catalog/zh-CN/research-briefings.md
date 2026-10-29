@@ -61,7 +61,6 @@
 - [Bay Brief](https://x.ai/bot/SpTTqILibCdK5iI5cty9q) - 自己动手修车诊断，附零件与工具. [pickermaned](https://x.com/pickermaned).
 - [Beet](https://x.ai/bot/uAXoYTM5ZsMb59OwxqiT3) - 每天两次按你的兴趣从 X、RSS 和网页整理简短新闻简报，做成可点击的阅读器式页面。 Jaxon.
 - [Bet Tester](https://x.ai/bot/FrhhLkFkrzOMPuph_mMBn) - 为早期产品设想做合成用户研究，先登记研究方案，用 AI 角色测试并盲评，给出上线、修改、重测或放弃的结论. [Ivelin](https://x.com/ivelini).
-- [Betting Desk](https://x.ai/bot/mtGRHIWa1c9SOeRGrTB8_) - 赛事与盘口研究桌，整理赔率与叙事. [_SpecialTeamsU](https://x.com/_SpecialTeamsU).
 - [Bill](https://x.ai/bot/GR0rqS06gn6Kr_WnMw5Fn) - 教育部长席，协调教学专岗，自己不上课. [TRV_Architech](https://x.com/TRV_Architech).
 - [bookmark bot](https://x.ai/bot/gDNWuJ0uuyTZ94tDXr9-Z) - 终于把 X 书签用起来：读、打标签、总结你存的内容，支持按意思搜索，每周发一份最值得看的摘要. Sierra.
 - [Bookmark Bot](https://x.ai/bot/7U_uHDAKGtHqoGsKMyREA) - 把你的 X 书签整理成收件箱式页面，带文件夹、搜索和预览栏。对 X 只读，从不发帖、关注或私信。 [Jay](https://x.com/JayinEly).
@@ -385,7 +384,6 @@
 - [Market Researcher](https://x.ai/bot/xzkXiUbdYfPd7g30OhLGf) - 按固定节奏盯竞品的公开网站、广告、营销、定价和定位. [Josh Kim](https://x.com/joshkim).
 - [Markets Brief Scout](https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T) - 工作日整理带出处的行情卡片，并起草待你拍板的帖子。 [GainGlintGaz](https://x.com/GainGlintGaz).
 - [Markets Digest](https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY) - 工作日早晚各一份白话市场新闻摘要，带出处，不荐股. [Mark](https://x.com/marksoze).
-- [Markets Weekday Brief](https://x.ai/bot/s495_rZYq6LpYVTuurgkr) - 关注预测市场的工作日脉搏，每天早上干净卡片，绿YES买入想法仍由你下单. [SpacedBraden](https://x.com/SpacedBraden).
 - [MARS CONTROL](https://x.ai/bot/H0BOD-ZBe2p_7BESvqbo_) - 仿 SpaceX 任务控制台，三个任务每 6 小时追官方公告、抓故障，并按核实结果起草 X 帖子，发布或改动前都要你批准. [gip](https://x.com/gippp69).
 - [Mason](https://x.ai/bot/P4UiFNUcfH-751NuybyV1) - 接收台：丢个链接、帖子、产品、论文、仓库、视频或工具，它打开原件，把营销和实际功能分开. AdamDesigns.
 - [Mat | Analytics](https://x.ai/bot/2afkvAl8IGd9IgDxZIxp_) - 只读查询组织模式，产出报表与图表且不做写入. [damianoredem](https://x.com/damianoredem).
@@ -444,7 +442,6 @@
 - [Newsie](https://x.ai/bot/q631iJtHVwxloj8ZBoJyV) - 美国、本地城市以及 Tesla/SpaceX 的每日晨间新闻简报。 [apostlejohn](https://x.com/apostlejohn).
 - [Newsletter Reading Queue](https://x.ai/bot/GF1rQBwR1S29YxNRIvZyU) - 工作日把通讯与摘要邮件排成读/略读/跳过，并附一行要点。 [DoonerDesigns_](https://x.com/DoonerDesigns_).
 - [Newspaper](https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj) - 每天早上挑一个话题深挖，排成一页可打印的小报讲清楚。 [Carbonthecoder](https://x.com/Carbonthecoder).
-- [NFL Dual-Rail Prop Desk](https://x.ai/bot/cO_Eyf-3dMnc6eNiB4vMq) - NFL 球员道具量化分析，覆盖 Robinhood 与 Kalshi 双轨. [investingjungle](https://x.com/investingjungle).
 - [NFL GameDay Insider](https://x.ai/bot/LH7aMNtORfDuAIyxlDF1X) - NFL 一周伴侣：球队前瞻、伤病和不上场名单提醒、比赛日简报和梦幻橄榄球首发建议，全部来自实时、有出处的数据。 [Adebusola](https://x.com/drbellahqw).
 - [NFPA Research Assistant](https://x.ai/bot/m80whfWBZ-sHVLjHbtBg1) - 围绕「NFPA Research Assistant」的工作流助手，按说明完成首次只读任务后再开写入. community.
 - [Nole](https://x.ai/bot/uMMbmNv7SbMGHezgUGoiG) - 第一性原理挑战者，找出最难的问题，砍掉无用功，否决拖累指标的机器人，最后以你的决定为准. [Byron](https://x.com/ByronWalkerfl).

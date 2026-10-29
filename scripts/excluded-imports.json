@@ -1,0 +1,171 @@
+{
+  "reviewed": "2026-10-29",
+  "policy": "Unverified live trading, order-routing, actionable trade-signal or real-money betting shares are excluded pending documented maintainer review. This records listing eligibility, not an assertion of malicious behavior.",
+  "entries": [
+    {
+      "slug": "betting-desk",
+      "import": "https://x.ai/bot/mtGRHIWa1c9SOeRGrTB8_",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "clawd",
+      "import": "https://x.ai/bot/KZEcx_uMDR-zJIXLlYw5I",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "coin",
+      "import": "https://x.ai/bot/QOQRcpreItQijaazrJ7wp",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "coin-bot-kr",
+      "import": "https://x.ai/bot/ucu-nI-yeCdPeDp4cpL4X",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "cybercab-fund-desk",
+      "import": "https://x.ai/bot/4AYUWc2XcQ64qluMXPV8l",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "dentrade",
+      "import": "https://x.ai/bot/XayB4rqAREYwJcPmKwtSP",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "fomo-live-bot",
+      "import": "https://x.ai/bot/4fmde5VhCGJGeCiqn96D3",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "futu-broker-trading",
+      "import": "https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "grokinhood",
+      "import": "https://x.ai/bot/0dutdroToJ4yVB7xHHGCJ",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "investor-bot",
+      "import": "https://x.ai/bot/UWNGpcghM9H79JCb4of5Q",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "kalshi",
+      "import": "https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "let-s-get-rich-grokbot",
+      "import": "https://x.ai/bot/vzno777FpCyMe0-ja5u28",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "markets-weekday-brief",
+      "import": "https://x.ai/bot/s495_rZYq6LpYVTuurgkr",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "nfl-dual-rail-prop-desk",
+      "import": "https://x.ai/bot/cO_Eyf-3dMnc6eNiB4vMq",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "polly",
+      "import": "https://x.ai/bot/MvgLJbHeHFjc7J9D419_J",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "polymarket-scans",
+      "import": "https://x.ai/bot/x_TnIafQbUyz5XbDGMz20",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "robinhood-trading-autonomous",
+      "import": "https://x.ai/bot/Tbe0NY4XAKYvpTGo7NI2m",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "robinhood-trading-bot",
+      "import": "https://x.ai/bot/WTd-yU3XMIYsnOyshabfl",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "smooth-brains-bot",
+      "import": "https://x.ai/bot/FwtiQchlHexgCdlDo5WkL",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "tokenization-market-desk",
+      "import": "https://x.ai/bot/dvReNtZxTHNmvmRINZlNA",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "trading",
+      "import": "https://x.ai/bot/XW2DibYh5BRunhH_f373u",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "trading-nick",
+      "import": "https://x.ai/bot/l82Fnugc2EEblUuMwyeaV",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "tray",
+      "import": "https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "wire",
+      "import": "https://x.ai/bot/y73FMiyQPFY_IdrbckyFj",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "x402-bot",
+      "import": "https://x.ai/bot/_ICGTFLfhc98B8xzTLGzg",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "xrpl-range-trader",
+      "import": "https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "hypergrok-desk-lead",
+      "import": "https://x.ai/bot/PReCwAHq8Vgeex50r883H",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "robinhood-trader",
+      "import": "https://x.ai/bot/xPH7Wtomq5RqzPaCc_H6f",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "agentic-trader-starter",
+      "import": "https://x.ai/bot/S7VvyfKxW0pP19XIZpQBo",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "options-desk-chief",
+      "import": "https://x.ai/bot/v-wtDQ7dpFXNzd1P9Hz9a",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "trading-news-bot",
+      "import": "https://x.ai/bot/77b0h9PaDKOkq89jccutR",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "ai-trading-bot",
+      "import": "https://x.ai/bot/PnQBOQp7vE80pPSyXruQA",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    },
+    {
+      "slug": "dip-desk",
+      "import": "https://x.ai/bot/znMhELyX6iLWbmiIsZqtM",
+      "reason": "Unverified trading or betting workflow described by the catalog entry."
+    }
+  ]
+}

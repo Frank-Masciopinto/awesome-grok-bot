@@ -142,11 +142,13 @@ try {
   slugsOnDisk = [];
 }
 
+const excludedImports = new Set(readJson(join(root, "scripts", "excluded-imports.json")).entries.map((entry) => entry.import));
 const catalogSlugs = new Set();
 const catalogImports = new Set();
 for (const entry of catalog.entries) {
   const label = `catalog.json:${entry.slug || "?"}`;
   checkEntry(entry, label);
+  if (excludedImports.has(entry.import)) fail(`${label}: excluded unverified trading/betting import; maintainer review is required`);
   if (catalogSlugs.has(entry.slug)) fail(`catalog.json: duplicate slug ${entry.slug}`);
   catalogSlugs.add(entry.slug);
   if (catalogImports.has(entry.import)) fail(`catalog.json: duplicate import ${entry.import}`);
