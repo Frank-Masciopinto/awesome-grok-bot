@@ -17,7 +17,7 @@ function fixture(t) {
   const dir = mkdtempSync(join(tmpdir(), "summary-markdown-test-"));
   t.after(() => rmSync(dir, { recursive: true, force: true }));
   for (const name of ["scripts", "schema", "templates", "docs", "catalog"]) cpSync(join(root, name), join(dir, name), { recursive: true });
-  for (const name of ["catalog.json", "README.md", "README.zh-CN.md"]) copyFileSync(join(root, name), join(dir, name));
+  for (const name of ["catalog.json", "catalog-exclusions.json", "README.md", "README.zh-CN.md"]) copyFileSync(join(root, name), join(dir, name));
   const catalog = JSON.parse(readFileSync(join(dir, "catalog.json"), "utf8"));
   const entry = catalog.entries.find((item) => item.slug === "mission-control");
   return {
@@ -108,5 +108,21 @@ test("lint rejects stale or missing studio-door summaries in either README", (t)
       assert.equal(result.status, 1, `${name}: ${missing ? "missing" : "stale"} summary was accepted`);
       assert.ok(result.stderr.includes(`${name}: missing or stale studio-door summary:`), result.stderr);
     }
+  }
+});
+
+
+test("lint holds excluded financial shares even after renaming or self-claimed verification", (t) => {
+  for (const verified of [false, true]) {
+    const f = fixture(t);
+    const exclusions = JSON.parse(readFileSync(join(f.dir, "catalog-exclusions.json"), "utf8"));
+    f.entry.slug = "renamed-financial-helper";
+    f.entry.name = "Friendly helper";
+    f.entry.import = exclusions.entries[0].import;
+    f.entry.verified = verified;
+    writeFileSync(join(f.dir, "catalog.json"), JSON.stringify(f.catalog));
+    const result = f.run("lint.mjs");
+    assert.equal(result.status, 1, "excluded share bypassed the hold");
+    assert.match(result.stderr, /financial-execution share is excluded pending documented maintainer verification/);
   }
 });

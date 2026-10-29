@@ -49,7 +49,8 @@ Do not submit unpublished bots. `import` must be a live share link. Do not inven
 - No secrets, tokens, or private hosts (localhost, 10.x, 192.168.) in catalog or template files.
 - Never put API keys in SETUP. Importers reconnect their own plugins. `secrets_needed` is names only.
 - See SECURITY.md for what we reject.
-- Do not submit unverified money or trade bots.
+- Do not submit unverified bots that place financial trades, prepare live brokerage orders, move cryptocurrency, or set up funded wallets. Budgeting, read-only research, and paper-only simulations are allowed.
+- `catalog-exclusions.json` records shares held out of the catalog after review. Lint rejects their import URLs even if the bot is renamed or a submitter sets `verified: true`. Restoration requires a maintainer to document verification and remove the exclusion. This URL check does not replace review of new shares.
 
 ## verified
 

@@ -88,6 +88,7 @@ function walkFiles(dir, acc = []) {
 
 function checkEntry(entry, label) {
   validateSchema(entry, entrySchema, label);
+  if (excludedImports.has(entry.import)) fail(`${label}: financial-execution share is excluded pending documented maintainer verification`);
   for (const urlField of ["import", "demo", "source", "related"]) {
     const value = entry[urlField] || "";
     if (value && PRIVATE_HOST.test(value)) fail(`${label}: ${urlField} is a private host`);
@@ -125,6 +126,8 @@ function expectedReadmeLine(entry, readmeName) {
     : "";
   return `- ${markdownLink(entry.name, entry.import)} - ${punctuate(escapeMarkdownSummary(summary))} ${author}.${notes}`;
 }
+
+const excludedImports = new Set(readJson(join(root, "catalog-exclusions.json")).entries.map((entry) => entry.import));
 
 const catalogPath = join(root, "catalog.json");
 const catalogText = readFileSync(catalogPath, "utf8");
